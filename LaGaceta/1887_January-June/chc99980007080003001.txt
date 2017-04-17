@@ -1,0 +1,720 @@
+﻿332
+333
+334
+335
+336
+337
+338
+339
+340
+341
+342
+343
+344
+345
+346
+347
+348
+349
+3i)0
+351
+352
+353
+354
+355
+356
+357
+353
+359
+3C0
+361
+362
+363
+304
+365
+366
+367
+368
+369
+370
+371
+372
+373
+374
+375
+376
+377
+378
+379
+380
+381
+382
+383
+384
+385
+386
+387
+388
+389
+390
+391
+392
+393
+394
+395
+396
+397
+398
+499
+400
+401
+402
+403
+404
+405
+406
+407
+408
+409
+410
+411
+412
+413
+414
+415
+416
+417
+418
+419
+420
+431
+422
+423
+424
+425
+426
+427
+428
+429
+430
+431
+432
+433
+434
+435
+436
+437
+438
+439
+440
+411
+442
+443
+444
+445
+446
+447
+448
+449
+450
+451
+452
+4.53
+454
+455
+456
+457
+458
+459
+460
+461
+462
+403
+464
+465
+466
+467
+468
+469
+470
+471
+472
+473
+474
+475
+476
+477
+478
+479
+480
+481
+482
+483
+484
+485
+486
+487
+488
+489
+490
+491
+492
+493
+494
+495
+496
+497
+498	„ „ Joaquín Boiges.
+499	„ „ Lorenzo Carbonell.
+500	„ „ Ramón Ledón.
+501	„	„ José Manuel Ca9USO.
+502	„ Marqués de Prado Ameno.
+503	„ Dr; D. Pedro Estéban G. Larrinaga, 6 Agos-
+to 1880.
+504	„ Ldo. D. Nicolás de la Cova.
+505	„ D. Ramón Zubizarreta.
+506	„ „ Vicente M^ Julbe.
+507	„ „ Cristóbal Mádan y Mádan.
+508	„ Ldo. D. Manuel N. Hernández.
+509	., D. Juan Orús.
+510	„	„	Lino Martínez.
+511	,, „ Francisco Palacio?.
+512	Excmo. Sr. D. Ricardo Morales.
+513	Conde de las Almenas.
+514	Sr. D. Francisco Abarzuza.
+515	„	„	Francisco Lastre?.
+516	,. Marqués de Peña Piata.
+517	„ I). Autpuio González López.
+518	„ „ Ricardo Quintiliano García.
+519	„	„ Nicolás de Cárdenas Herrera.
+520	„ „ Emilio Lezcano.
+521	Excmo. Sr. Marqués de Almeiras.
+522	Sr. D, Arcadio Ssqueira.
+523	„ „ Juan Ealo.
+524	„ Ldo. D. Pedro Armentero? y Ovando.
+525	„ „ „ Ricardo Armenteros y Ovando.
+526	„ D. Rafael Montoro.
+527	„ „ Gustavo Aragón.
+528	„ Conde de Casa Barreto.
+529	„ Ldo. D. Joaquín Zuazo.
+530 ,, „	,, José Frías.
+531 „ „	„ Benigno Delmonte.
+532	„ D. Ignacio Flascencia.
+533	„ Dr. I). Gabriel Casuso.
+534	„	,,	,, Gabriel María García.
+535	„ Ldo, D. Eduardo Eaharte y Alonso.
+536	„ D. Vicente Benito Valdés.
+537	„ „ Federico Cardona.
+538	,, „ Plácido Castroverde.
+539	„ Ldo. D. Ramón de Ayala y Zayas.
+540	D. J uan José Ariosa,
+541	„ „ José Estéban González Larrinaga.
+542	„ „ Manuel Fresueda.
+513 „ „ Eduardo Carreras.-
+544	„ Ldo. D. José Luis Meireles.
+545	„ D. Miguel Mdño Sánta María.
+546	„ „ Faancisco Arozarena.
+517 Excmo. Sr. Conde de Casa Moté.
+548	Sr. D. José P. Mazorra.
+549	„ „ Pedro González Larrinaga.
+550	„ „ Francisco Duquesne.
+551	„ „ Andrés Cobreiro.
+552	„ „ Jacinto Sigarroa.
+553	„ „ José M, Otero.
+554	„ „ Darío González del Valle.
+555	„ „ Ricardo Lancís.
+556	„ „ Felipe Mal pica.
+557	„	„	Carlos Párraga.
+558	„ „ Francisco P. Odero.
+559	„ „ Agustín Pascual.
+560	„ „ Luis M. Tró y Moxó.
+561	„ „ Nicolás Díaz Pérez.
+562	,, „ José M . Hoyos.
+563	„ „ Manuel E. Zarzuela.
+564	„ „ Emeterio Zorrilla.
+565	„ „ Manuel Marzán	—------
+566	„ „ Domingo Sola,
+567. -o—Tr^mquíu Jiuerój.
+568	„	„	Francisco Noroüa.
+5C9 „ „ Luciano Ruíz.
+570	„ „ José García Barbón.
+571	„ ;, Eurique José Varona.
+Í2 Excmo. Sr. Conde de Galarza.
+573	Sr. D. Manuel Rodríguez Embil.
+574	„ „ Gaspar Bambea.
+575	„ „ Rafael Fernández Cabrera.
+576	„ „Federico Carreras.
+577	„ Dr. I). Luis Estévez Romero.
+578	„ D. Luis Mazón,
+579	,. Ldo. D. Antonio E. Flores.
+580	„ „	„ Juan O’Farrill y Motitalvo.
+581	,, Dr. D. Antonio María Tagie.
+582	limo. Sr. D Francisco de P. Portuondo.
+583	Sr. Ldo. D. Pedro Ravell.
+5S4 „ Di. D. José María Panzano,
+585	„ D. Andéréi Rico Mata.
+586	„ ,, Joaquín Ferratges Mesas.
+587	Excmo. ó limo. Sr. Obispo D. Ramón de Piérola.
+588	„ D. Eduardo León Llerenas (Madrid.)
+589	„ Vicente Romero (Barcelona)
+590	„ „ Salvador Badia [Barcelona.]
+591	„	„ Gonzalo Peralta Boroto (Barcelona.)
+592	Excmo. Sr. D Tomás de Reina [Matanzas.]
+593	Sr. Dr. D. Ramón Gálvez [Jaén.]
+594	„ Ldo. D, Eloy Espejo (Jaén.)
+595	„ D. Francisco Díaz Piedra.
+596	„ „ Pedro Becali.
+597	„ „ Juan Arizabalaga.
+598	„ Manuel Larios.
+599	,, Pbro. Dr. D. Teófilo Martínez Escobar.
+600	„ Ldo. D. Ramón Carbonell.
+601	Sr. D. Ramón Barinnga.
+602	„	,, Manuel L. Izquierdo.
+603	,. Ldo. D. Tomás de la Hoya.
+604	„	D.	Bernardino Güeu.
+605	„ „ Adolfo Sáez y Yanes.
+606	,,	„	José Rafecas.
+607	Excmo. Sr. D. Antonio Rodríguez Cepeda [Va-
+lencia.]
+608	„	„	„ Salvador Gavila, Valencia.
+609	„	„	l( Mariano Sancho Chía.	Gran Canaria.
+610	Sr. Di Juan Padilla, Palmas, Gran Canaria.
+611	„ „ Autonio Domínguez, Santa Cruz de Tene-
+rife.
+612	„ „ Ildefonso Maffiote, Santa Cruz de Tene-
+rife.
+613	„ Luis Díaz Cruz, Badajoz.
+614	„	,(Isidoro Osorio. Badajoz.
+615	„	„ Francisco Barreta, Almería.
+616	„ „ Ramón Valdés, Almería.
+617	„ ., José Oiiol Combilles, Lérida.
+«18	„	„ José Murillo Rouse, Lérida.
+619	„ ,. Manuel Vázquez López, Huelva.
+620	„ „ Francisco Hernández Quintero, Huelya.
+621	limo. Sr. D. Salvador Purga, Santiago Galicia.
+622	Sr. D José Vázquez, Santiago Galicia.
+623	Sr. D. Ricardo Nargaues, 31 de Agosto.
+621 „ „ Julio Zúniga.
+625	„ „ Jorge Vilar.
+626	„ „ José M. Espinosa.
+627	„ „ José P. Sirgado.
+628	„ „ Juan Valdés Pagés.
+629	„ „ Jorge Dionisio Suárez Cruz.
+630	„ „ Manuel J. Morales.
+631	„ „ Wenceslao Sotolongo.
+612	„	„	Francisco L. Valle. •
+633	„ ,. José María Triana.
+634	„	„	Pablo Hernández.
+635	„ ;, Francisco Márquez.
+636	„ „ Eligió Natqlio YiHayicencio.
+637	„ „Juan Oartano.
+63.S	„	,,	José Fernández Pellón.
+639	„ „ Miguel Matamoros.
+640	„ „ Manuel R. Angulo.
+641	„	Manuel S. Jhopaou,
+642	„ ,. Lqis ^lúu Oisnero.
+613	„ Ldo. p. Francisco Quesada, 27 Enero 1882.
+644	„ Dr. D. Rafael Fernández de Castro.
+645	„	„ „ Emiliano Núfiez de Villaviceucio.
+646	Excmo. Sr. Conde de Fernandina.
+647	Sr. D. Andrés Valdés Chacón.
+648	.,	„ Carlos Granado.
+649	„ „ Fermín Mendiola.
+650	„ „ Enrique Vignier.
+651	„ Ldo. D. Anastasio Orozco.
+652	Excmo. Sr. D. Martín Sánchez Chávez.
+653	Sr. D. José García Tejada.
+654	„ Ldo. D. Alonso Caballero.
+655	„ „	„ Isidro Fernández de los Ríos.
+656	„ ,.	„ Belisario Garcerán.
+657	„ „	„ José Segundo Navia.
+658	Excmo. Sr. Conde de Villanueva.
+659	Sr. D. Sebastián S. Benítez y Galán.
+660	„	„ Felipe Carbonell.
+661	,,	„ Carlos Cairo.
+662	„	„ Jo.-é S. Garcerán.
+663	„ Dr. D. Antonio Jover.
+664	„ D. José Delgado Carabot.
+665, „ Pbro. Dr. D. Anacleto Redondo.
+666 „ Ldo. P; Cristóbal La Guardia.
+..................■ T ■	....
+667 „ D. Joaquíu La Guardia.
+|668 „ Ldo. D. Joaquín Freixas Pascual.
+669	„ D. Francisco Piá.
+¡670 „ Dr. D. Antonio G. Curque]o,
+¡671	„ D. Emilio Iglesias.
+672	„	„	Juan B. Aliñé.
+673	„ Ldo. D. Adolfo Gallet Duplessis.
+674	D. 18 ico!ás Ruíz Espadero.
+675	,.	„	Pablo Tapia.
+676	„ „ Luis R. Muñoz.
+677	„ „ Eduardo de Cárdenas.
+678	„ „ Manuel M. Castellano».
+679	„ ,, Isidoro Jiménez Royo.
+680	,. „-José Monta Ivo Longa.
+681	„	;, José Mortal vo de L óu.
+682	„ Dr. D. Antonio López Bota.
+6H3 „ Pbro. Dr. D. Justo Balbás.
+6S4 „ Dr. D. Miguel Núñ- z Rossié.
+685	„ Ldo. D. Hilario Cuneros.
+686	„ Dr. D. José Novo.
+687	„ D. Miguel Valdés Chacón.
+688	„	,,	Narciso Gelats.
+689	11 11 Manuel L. Cárdenas.
+690	„	„	Carlos Theye.
+691	Exroo. Sr. D. Juan F. Riaño.
+692	Sr. Dr. 1). Francisco F. Castro.
+693	Sr. Dr. D. Pedro A. Auber.
+694	„ D. Bernardo Portuondo.
+695	„ Dr. D. RafaeJ Maria de Labra.
+696	Sr. Marqués de la Real Proclamación.
+697	Sr. Marqués de la Real Campiña.
+698	Sr. D. Nicomedes P. Adán.
+699	„ „ Manuel Arroyo Gómez,
+700	„	,,	Juan B. Jiménez.
+701	„ Dr. D. Raimundo Castro, 7 Diciembre 1883
+702	„ „ „ Pedro L. Cámara.
+703	„ „ „ José L. Yarini.
+704	„	„	„ Francisco Mari]],
+705	„ ., „ Emilio Marill.
+706	limo, Sr. D. Francisco de P. Arazoza.
+707	Sr. Dr. D. José Clairac.
+708	„ „ „ {Claudio Delgado.
+709	„	‘	„ Francisco San ledro.
+710	Si. Ldo. D. Fermín Caibetón.
+711	Sr. Ldo, D. Nicolás Lluy.
+712	Sr. Ldo. D. Miguel Angulo.
+713	Sr. Ldo. D. Nicolás Carrera Madrazo.
+714	Sr. D. Manuel Olivera.
+715	,, „ Enrique Gonsó.
+716	„ „ Estanislao Bartumeu.
+717	„	„ Ignacio Garrido.
+718	Excmo. Sr. Marqués deSandoval, 28 Diciembre
+1883.
+719	Sr. Ldo. D. Ignacio Gutiérrez.
+720	„ D. Vidal Sotolongo.
+721	„ Ldo. D. Antonio Giberga.
+722	„ „	„ Alberto Ortíz.
+723	„ „	,, Rafael Morales Sotolongo.
+724	„ Dr. D. Miguel Franca Mazorra.
+725	,, D. José Soto Navarro.
+726	„ „ Francisco Galán.
+727	„ „ Luis Felipe Torres.
+728	„ „ Joaquín La Guardia.
+729	„ Federico Solar.
+730	Excmo. Sr. Marqués de Casa Montalvo, 18 de
+"t■ m ■»■ ■"||m	———	r
+73.1 Excmo. ó limo. Sr. D. Dionisio de las Hieras,
+732	Sr. D. Antonio López Cortázar.
+733	» Dr. D Francisco Barloco.
+734	» Ldo. D. Alberto W. Madau.
+735	» »	» Jo3é A. Ibarra.
+736	« Dr. D. Joaquín Laudo.
+737	» Ldo. D. Ricardo Gastón.
+738	limo. Sr. D. Fabio Roda.
+739	Excmo. Sr. D Nioolás del Pazo.
+740	Sr. D. Aureliano Ruíz.
+741	limo. Sr. D. Antonio T, Ajan.
+742	»	»	» Francisco VillarreaL
+743	Sr. D. Benito Ventue.
+744	Excmo. Sr. Coude de Nu ral les.
+745	»	» Conde de las Infantas.
+746	Sr. D. Antonio Rosales.
+747	Excmo. Sr. D. Pérez Pulgar.
+748	Sr. D. Luis Arozarena, 20 Febrero 1885.
+749	» » José B. Sotolongo.
+750	» » Jo «ó I. Sotolongo.
+751	» » José M. Arrarte.
+752	» Ldo. D. José G. Page?.
+753	»	»	» Leopoldo Cancio.
+754	» D. Bonifacio Andrade.
+755	»	» Cornelio C. Coppinirer
+756	» Ldo. D. Carlos Z tldo, 20 Abril 1885,
+757	»	>1	» Teodoro Zaldo,
+758	» D. Guillermo Zaldo.
+759	»	» Adrián Laffite, 5 Setiembre 1885.
+760	» Dr. D. Carlos de la Torre.
+761	» Lio. D. Gabriel Camp.
+762	»	»	» Pedro Méndez.
+763	» I). José Vega Flores.
+764	a » Carlos G. Valdés.
+765	» Dr. D. Manuel Cortada, 11 Diciembre.
+1885.
+766	»	i) » Francisco Rivero.
+767	#	» » Juan F. O’Farrill.
+768	»	» » Antonio Echevarría.
+769	>1 Lio. D. Claudio G, Mendoza.
+770	»	>>	» José Ramírez Arellano.
+771	»	» » D. Francisco, Girai.
+772	»	» Jacinto Baldasano.
+773	»	» Manuel Pruna Santa Cruz.
+774	»	» Germán González.
+775	»	» Ramón Espinosa.
+776	» Dr. D. Francisco S. Vildósola, 20 de Mayo
+de 1886.
+777	»	»	» Fermín V. Domínguez.
+778	«	» » Gonzalo Aróstegui.
+779	>> Lio. D. Marcial Calvet.
+780	» D. Pablo Desvernini y Galdós.
+781	» » José Sedano Agraiuonte.
+782	»	Leopoldo Sola.
+783	»	»	J uan Allende Osma.
+784	»	»	Francisco Alvarez Muro.
+785	»	»	Manuel Urbizu.
+786	»	»	Andrés Rodríguez Piedra.
+787	»	Dr. D. Vicente R. Luzuriaga.
+788	»	D. Manuel Ocejo Pastor.
+789 » » Manuel Ruauo Pérez.
+790	» Ldo. D. Santiago Barroeta,
+791	» D. Pedro Córdova Leake, 20 Novien tbre de
+1886.
+792	» Lio. D. Manuel G. de la Maza.
+793	»	»	» José Girali Madrazo.
+794	« D. Gustavo de los Reyes.
+795 » » Benito Celorio.
+796	» Lio. D. José Rodríguez Aoosta.
+797	» Dr. D. Nicaaio Sil veri o.
+798	» Lio. D, Luis Alvarez. 4 Diciembre JL88(I.
+799	» D. Hipólito Vergel.
+800	a Lio, D. Enrique Rodríguez y F. de Velasco.
+Don Francisco Jimeno y Tovar, Teniente Ayudante del Regimiento tiradores del Príncipe tercero de Caballería y Fiscal del mismo.
+Habiéndose ausentado de esta Villa el soldado del primer Escuadrón del expresado Regimiento Andrés García Llanet, á quien estoy sumariando por deserción, en uso de las facultades que me conceden las Reales Ordenanzas, por el presente segundo edicto, cito, llamo y emplazo al referido individuo para que se presente en esta Fiscalía, sita en la Guardia de prevención del Cuartel «España», en el término de veinte días; teniendo entendido que de no verificarlo, se le seguirá la causa y juzgará eu rebeldía.
+San Antonio de los Baños 24 de Diciembre 1886.—Francisco Jimeno Tovar.
+1021
+riat
+dies
+cedi
+por
+edil
+Cus
+pre
+desi
+car;
+ñal
+de
+Depósito de Embarque y Desembarque.
+No habiendo merecido la aprobación del Excmo. Señor General Subinspector del Arma, la subasta de tres mil pares de zapatos borceguíes que realizó este Depósito ea 27 de Diciembre próximo pasado para las atenciones del mismo, y debiendo procederse á nueva licitación según orden de dicha Superior Autoiidad, se anuncia por este medio para que las personas que deseen tomar parte eu ella presenten sus proposiciones antes de las ocho de la mañana del día 29 del corriente mes, en la Oficina del expresado Depósito, sita en la Fortaleza de la Cabana, en la que se hallará de de manifiesto el pliego de condiciones; bien entendido que para tomar parte eu dii ha licitación será condición precisa depositar previamente el 5 p§ del importe total que se calcula á los repetidos tres mil pares de zapato?, y que el particular ó sociedad á cuyo favor resulte adjudicada la subasta, habrá de satisfacer el medio por ciento por derechos de Real Hacienda y el importe ¿e todos los anuncias que origine la misma.
+Habana l.c de Enero de 1887. El Capitán Comisionado, Juan Carreras.
+De
+de
+est
+na
+R<
+al
+no
+de
+Cotizaciones de
+la Bolsa de 31 de 1886.
+fle Diciembre
+ORO DEL CUÑO ESPAÑOL.
+Abrió á 230i p.0 y cierra de 230 á p. 2 á las 2 de la tarde.
+2301
+PONDOS PUBLICOS.
+Renta 3 p.§ interés amortización anual... Idem id. y 2 idv.¿¿.... Idem de anualidades..
+1 do
+Billetes hipotécarios..
+Idem del Tesoro de Pto. P.ico......................
+Idem del Ayuntamiento..............................
+ACCIONES.
+de la Isla... ex 11 i 12 p.g P. oro.
+II á 10 D .oro.
+D. oro.
+-disco Es[
+''lili 11 I llllml ijjjl.
+Banco y Compaííra d© Almacenes de Regla del Comercio.
+Compañía de Alruacones de Depósitos de Santa pata’
+Banco Agrícola.............
+Caja de Ahorros, Descuentos y
+Depóitos de la Habana....
+Créditos territorial Hipotecario de la. Isla de Cuba....
+JUmpreía de Fomento y Navegación del Sur.............
+Primera Compañía de vapores
+de la Bahía...........................
+Compañía de Almacenes de
+Hacendados.......... .................
+Compañía de Almacenes de
+Depósitos de la Habana..............
+Compañía Españolade Alumbrado de Gas............... 62 á 61 p.^
+Compañía Cubana de alumbrado de Gas............................
+Compañía Española de alnLabrado de Gas de Matanzas................
+Nueva Compañía de Gas de la
+Habana................... ............
+Idem de caminos de hierro de
+la Habana............... 62 á 61 p.^
+Idem de Matánzas á Sabanilla ....................
+Idem de Cárdenas y Jácaro..	19£ á 20 p.§ P. oro.
+Idem de Cienfuegos y Villa-
+clara..........................................
+Ldem de Sagua la Grande«.........................
+Idem de Caibarién á Sancti
+Spíritus ......................................
+Idem del Oeste...................................
+Idem de la Bahía de la Habana á Matánzas.....................................
+Idom Urbano................ 22¿ á 21¿ p.g D. oro.
+Idem del Cobre...................................
+Idem de Cuba......................................
+Refinería de Cárdenas...... ex-dividendo
+D. oro.
+Ingenio “Central Redención.’* .
+OBLIGACIONES.
+Del Crédito territorial Hipotecario de la Isla de Cuba....
+Cédulas Hipotecarias al 6.p g interés anual ..............7.
+Idem do los Almacenos de Santa Catalina con el 6 p.§ de interés anual................
+TIPOS ác las últimas ventas.
+641 o. 4SI „
+64	„
+621
+291
+34
+2 P.
+VENTA DE VALORES.
+10 acciones del ferrocarril Urbano, á 22¿ p.g D. oro C.
+Cotizaciones del Colegio de Corredores.
+CAMBIOS.
+España
+19 i
+54
+6
+44
+Inglaterra.................. '	I?1	&
+Francia......................{	»!	Ì
+Alemania..................... 31 &
+Estados-Unidos ..í............|	^	¡i
+( « r-§J¿
+Descuento	meroantil.........1	de 3	4
+I Ilotes.
+41 4 61 p.5 P. oro español según plaza, fecha y cantidad.
+P-
+P-l
+P-
+P-
+P-
+P-S
+p.
+p.
+p.
+p.
+p.
+p.
+3 meses 6 meses.
+oro
+oro
+oro
+oro
+uro
+oro
+y
+oro
+60
+60
+3
+60
+60
+3
+S
+y
+d[T.
+d(v.
+div.
+ll[V.
+d[V.
+d|v.
+P-S
+bi-
+G
+ni 1)] jo ig es es to eo ele á : lu ele Ai te in
+U
+de
+MERCADO NACIONAL.
+AZUCARES, y Rillieux, ba-'
+Nominal.
+Blanco trenes de Derosne
+jo á regular...........
+Idom id. id. id. bueno á superior........
+Idem id. id. id. floreto.................
+Cogucho inferior á regular número 8 á 9
+(T. H.).................................
+Idom bueno á superior número 10 á 11..... C
+Quebrado inferior á regular número 12 á ‘
+14.....................................
+Idem bueno número 15 á 16 ídem...........
+Idem superior número 17 á 18.............
+Idem florete número 19 á 20..............
+CENTRIFUGAS DE GUARAPO.
+Habaua,
+Cowley.
+49 de Euero de 1887.— Dr. Rafael
+TERCERA SECCION.
+Comandancia general déla provincia de la Habana y Gobierno Militar de la Plaza.
+Doa Francisco Gimeno y Tovar, Teniente Ayudante del Regimiento Tirador ¿a del Pn’ncipe tercero de Caballería y Juez Fisoal del mismo.
+Habiéndose ausentado el d'a nueve del actual del Cuartel de Caballería de esta Villa, el so ldado del primer Escuadrón del expresado Regimie. ato Francisco \ allarín Avila, á qi>ñen instruyo sumaria por el delito de deserción, en «Lo de las facultades que me conceden las Reales Orde nanzas, por el presente se puado edicto, cito, llamo y emplazo al referido individ »o, para que se presento en esta Fiscalía, sita en la Ge »urdia de prevención ¿el Cuartel «España», en el téri ai»o de veinte días Endeudo entendido que de no verifit »río se le se-gUEá la causa y se le juzgará en rebeldí: t»
+San Antonio de los Baños veinte y (cuatro i&c ¡Di* ciembre de mil ochocientos ochenta y se ¿a.—Francisco Gimeno y Tovar.
+1 1020
+Polarización 94 í 96.—Sacos 4 9[16 á 4 J3[16 reales sr» s.gúo número.
+Boooyes 4 3lló i 4 7ll8 reales oro arroba.
+D,
+te
+til
+se
+de
+(10
+ta
+oc
+de
+D
+SH
+Pl
+D
+T ^
+de
+i|(
+bl
+ci
+ca
+dt
+D
+n
+to
+K(
+8C
+11
+t
+I
+(
+t
+(
+1
+(
+<
+AZUCAR DE MIEL. AZUCAR MASCABADO. CONCENTRADO.
+Nominal.
+Nominal.
+Sin operaciones.
+SEÑORES CORREDORES DE SEMANA.
+DE CAMBIOS.
+D.Celestino Blanch y Botey.
+DE FRUTOS.
+D. Francisco Marill y Bou.
+D, Joaquín Toscano y Bloin.
+Habana 31 le Diciembre de 18S6.—E4 Síndico, I i, Núñez.
+CUARTA SECCX ON.
+OFICINAS DEL INTERIOR.
+i
+¡<
+t
+]
+(
+(
+(
+]
+(
+j
+<
+1
+i
+í
+Comandancia General de la Provini ria de Santiago de Cuba.
+Dod Miguel Guillén Guerra, Tenie; jte Fiscal del se^ guado batallón del Regimiento Infantería de España núm. 4.	,	,,
+Habiéndose ausentado de esta plaza el Eatm ¿y i de la segunda Compañía de dicho batallón y Reg'* [miento, Narciso Clemente Ver-f, á efuiea v^toy suma-
+<
+1
