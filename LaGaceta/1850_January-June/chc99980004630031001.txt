@@ -1,0 +1,289 @@
+﻿VELOCIDAD DEL FLUIDO ELECTRICO.
+£1 primero que hizo pasar una descarga eléctrica n0r uu conductor, ha podido notar un extraño feuó-¡-íeoo, y es la increíble velocidad cou que el sacudimiento se propaga por todas l*g puntas del circuito.— Recomiendo Ls dos armaduras de la botella de Leyde i,ur medio de un alambre, las dos chispas que apare-
+en imbas extremidades pareciendo partir al misma tiempo, sea cual fuere la longitud del alambre, enluces no se podia reconocer ningún intervalo de tiem-oD apreciadlo eutre el momento en que el eflubio eléctrico entraba por un extremo, y el momento en que se ^capaba por el otro. De aquí el experimento que tanto ha divertido á nuestros padres y que sirve aun de recreo eu los cursos de física. Cien personas cojidas p0r las mauos forman una cadena cuyas dos extremidades se reúnen por medio de las dos armaduras de ja botella de Loyde;al mismo tiempo se estremecen todos los miembros de esta cadena anudada sin que pueda decirse cual ha sido el primero afectado.
+Lo que oo hacia allí en un cuarto y ou un círculo de algunos metros, se ejecuta hoy de un modo coutí-Buo en la superficie do I03 continentes por alambres de ci^n taguas do largo; y el experimento que divertía tanto á los aficionados, será bien pronto p-,ra ios habientes de nuestro planeta un medio regular de comunicación suprimiendo ..la distancia.
+Suprimiendo la distancia, hemos dicho; la palabra no es exacta; disminuyendo es como debs decirse, pues ] a electricidad, del mismo modo que el sonido. L iuz, cotno toda acción mee uica. tarda cierto tiempo eu comunicarse ó los puntos que la trasmiten, par muy próximos que se hallen. Ei sonido recorro eu el aire tres cientos y algunos metros por segundo; la luz salva se-tenti y dos millones de léguas ea el mismo tiempo ¿Y cuántas leguas anda la electricidad porseguuudo? ¿Qué fompo emplea, por ejemplo, eu recorrer la longitud del alambre telegráfico tendido entre París y Lille? ¿Camba esta velocidad de un modo sensible con la uatura-Irza del alambre conductor, con su sección, cou la extractara de la fuente de donde emaua? Tan-s oran las cuestiones que físicos hábiles so habían propuesta dife-rsutes voces siu poder conseguir resultados positivos, y que M. Fi/.eau, ei jóven y sébio físico acaba de resolver definitivamente con el auxilio de un método en que no so 3abe qué admirar mas: el rigor ó la seuci-ilfaZ-
+He aquí una pila voltSica; reunid las dos extremidades, sus dos polos, como se dice, por medio de un lumbre conductor, inmediatamente se manifiesta la * 'Ctricidad cumulada en la pila, entra en e' alambrepor ujh extremidad y sale por la otra. La cuestión consiste en saber que tiempo ha empleado la corriente eléctrica en andar este circulo.	•
+Supongamos que dos personas que tengan un es-tremo del alambre toquen a! mismo tiempo e! polo correspondiente, le suelteu al momento mismo, y reproduzcan indefinidamente eso movimiento alternativo y simultáneo.—En el momento eu que son tocados ios poíos se lanza por el alambre una onda eléctrica; salida de un extremo, entrará eu ia pila, por ei otro-—Volverá ft entrar con la condición do que en ei momento de su llegad - al .térmiuo del viage, se halle en contacto con un polo ¡a otra extremidad del alambre. Pero si durante el tiempo que h, empleado ou recorrer la longitud del circuito hau retirado ya las manos ios dos operantes, la onda se detiene como el agua en un tubo que so cerrase cou llave, quedaudo auulada la corriente eléctrica.
+Existo pues una relación exacta entre el tiempo quo emplea la electricidad ea recorrer el alambre y el tiempo que transcurro entra dos gestos sucesivos de los dos operantes. Si estos van con bastaute lentitud para que la electridad que entra a cada contacto por un extremo del al.mitro salga por el otro, so tendrá una corriente discontinua, uu i serie de conmociones eléctricas que se harán s-nsibles en todos los puntos del alambre. Si por el contrario, los operantes van con bastante rapidez, cada onda eléctrica entrada eu el momeuto de un contacto se presentará para salir eu el momento de una interrupción, y el hilo quedará inerte como si de ninguna manera hubiese reunido ¡os dos polos. Que se aceiereu mas aun los movimientos do los operantes, y la corriente cntra-daduraute un priinercontacto circulará ilurantelainter-rupcionsiguieute, para irá parará la pila durante el segundo contacto y el alambre se conmoverá como en el primer caso por medio de las acciones sucesivas de la corriente discontinua. Aumentándose aun la rapidez de los gestos, la corriente quedara suspendida de nuevo, para ponerse otra vez en movimiento cuando la ouda partida duraute un. contacto pueda llegar al otro extremo del alambre después de dos interrupciones y asi consecutivamente.
+Pero sin quesea necesario ilevar tan lejos las cosas, ¿qué iutérvalo so uecesita pouer entre dos gestos suscesivos, eutre un contacto y una interrupción, p,ra que el alambro, activo al principio, so vuelva inerte? Justameuíe el mismo tiempo que emplea U electricidad en pasar de uno al otro extremo del alambre. Pero la electricidad, se sabe anticipadamente, se corre muchos railloues de leguas por segundo; supongamos que no recorra mas que 500,001) y que se opere con uu alambre de 100 leguas, esta velocidad no sería apreciable eu nuestra experiencia, sino en el momeuto eu que dos suscesivos gestos de los operantes se hallaran separados por uu intervalo igual á las cinco cernísimas partea de uu seguudo-
+Estos gestos son los que se trata de ejecutar, y io que es mas aun, midiendo exactamente la velocidad pon 36 suceden. He aqui el aparato que con este objeto ha inventado M. Fizeau construido con admirable talonto por ¡VI. Froment.
+Una pequeña rueda de madera con veinte rayas de platino transversales on la yanta es animada de un movimiento de rotación medida uxactamonte. En la yanta asi dividida on listas alternativas de madera y metal, descansan colocadas como tangentes dos lengüetas fijas una de las cuales constituye un extremo del dambre coudnctor, y la otra un polo de la pila. Otras dos louguet s enteramente semejantes y que deserape-Ban el mismo pape! supuesto del otro polo y del segundo extremo dal alambre descansan igualmente en uu puuto de la yauti. En un, posición de lt ruédalas cuatro lengüetas se apoyan, dos ¿ dos, en una misma lista de meta!; las dos extremidades del alambre tocan pues sus polos, y el circuito queda establecido. Haced girar la rueda de uu ángulo muy pequeño, de modo que do un cuarto de vuelta; las dos lengüetas no se apoyan ya en la lista metálica, sino sobre la madera de la yanta; el al mbre no toca ios polos, y ol circuito queda interrumpido. Mas por un segundo movimiento ungular igu 1 al primero pasará bajo la lengüeta una nueva lista metálica; ho aquí el circuito restablecido y usi consecutivamente. Giruudo esta rueda con velocidades variables bastaute grandes V siempre exactamente medidas, hará las veces de las dos operantes que hablamos empleado al principio. Si la-rueda da uua vuelta por segundo, transcurrirá juntamente ia v¡gésima parte de un segundo entre dos contactos sucesivos; si na diez vueltas por segundo, esto iutérvalo so reducirá á uua 203a parte de segundo y á 2100a si la rueda diere cieu vuelt is y asi suscesivametite. Sera por tanto muy fácil medir exactamente esos gestos tan fáciles de producir.
+Falta saber por modio de que señal se conocerá que •1 alambre tiene, abandona y recobra su actividad; ua-damas sencillo. Una aguja de brújula convenientemente instalada, un galvanómetro, como ie llaman, se halla colocada eu el paso del alambre; cuándo la corriente descontinua pasa por dicho alambre, cada uua de sus únpulsiouea imprime á la aguja uua desviación y la eiiutione eu uua dirección inclinada relativamente a la de la corriente. Cuando el alambre se que-d > inerte, la aguja libre de la influencia de ia corriente, recobra su posición ordinaria • Estas dos circunstancias se reproducen alternativamente á medida que 83 dá á la rueda, mayores velocidades. ¿Es preciso añ iden que la aguja pasa de uua posición i otra por toda3 las instancias intermedias? Si, Pues ésta es una de las mas curiosas circunstancias de
+bello experimento. Concebid uua velocidad in-lermedia; eutóucee sucede que la corriente entrada P°r un extremo, saie en parte por el otro ¡.bamlouau-do su cola como uu ratón cogido por la trampa.
+Otras muchas cosas h bina que decir. Preciso so-rií* indicar la ii'troduceion de otro circuito rnuy corto colocado eu las mismis condiciones que el primero y ®n el cual se establece del mismo modo uua corriente descoutiuua, cuya intensidad se compara á la intensidad “el segundo. Seria menester indicar también en que mfiere el experimento real practicado por M. Fizeau y que todos los físicos querrán repetir, del experimento facticio que hemos descrito inducidas por la Necesidad de la exposición. Pero para hacer todo eso a 08 falta tiempo, espacio y el auxilio tan necesario
+¡de un texto que se preste á los comentarlos. Preciso ¡es pues que uos detengamos, por hoy álo menos, des-¡ pues de haber anunciado los importantes resultados I obtenidos por M. Fizeau.
+Dichos experimentos han sido practicados con loe alambres de los telégrafos eléctricos de Paris ít Rúan y de Paris á Ainiens. Los dos alambres de cada uuit de dichas líneas puede reunirse en Paris y eu Araiens para formar asi un circuito de un centenar de leguas cuyos dos extremos van á parar á la misma sala del ministerio del Interior. Como uua parte de esos alambres es d: cobre y las demas de hierro, esta feliz circunstancia ha permitido medirla velocidad de la etec-jtricidad eu diferentes comlu-torcs.
+En uu alambre cuyo diámetro es de 4 milímetros, se propaga la electricidad, según M. Fizeau, cou una velocidad de 101,710 kilómetros por segundo, ó do j 100,000 kilómetros.
+‘ Las dos electrici dades se propagan con la misma • velocidad." Estaos !u expresión dei autor á la cual teudbiainos algo quo contestar.
+El número y elementos de que Is pila está formada. y por consiguiente la tensión de 1;¡ cleclricidid y lainteusidnd de la cruente, no tienen influjo cu la velocidad do propagaciou.
+Eu Conductores de diferente naturaleza, las velocidades no son proporcionales á las conductibilidades ; eléctricas.
+La velociiHid de propagación parece no variar cou la sección de los conductores.
+Nada tenemos que decir acerca de semejantes resultados, sino que si tlegau á comprobarse como es muy probable que suced ,. todo lo que se ha hecho, dicho y escrito hasta aqui sobre la cuestión, servirá para ser colocado eu el gabinete.
+[Trad.]
+j	---—--¡rrrr-nrjm
+V > \ & V. \
+”■■■ "
+SSSm-Srn
+ár. î). Francisco de la O Garete, presidente de la empresa. Matanzas, Junio 5 de 1850.—Por ;-_te de la Junta directiva.— José Francisco de Lamaríriz, «ecn •.?3
+al que lo dude tenga la bondad de pasar á dicho establecimiento, donde se convencerá de la verdad del anuncio, pudiendo apro*
+iPáisaa jí'üMüJñ.
+CORREO í)S ULTRAMAR, calle da Agniar
+«t i- a =- i . ?riódico se hallan de venta
+Afiela Ro^ÜaMhriííc fenecientes al ramo es presado, á un precio sumamente equità-1 Tir marw*Ama v Conciono l*vo‘ pues va hemos mencionado ser á costo de factura, loica, "¿„valia..-, csouñXc Late almacén tiene ocho meses de establecido, por lo que
+núm. 41.—En la Agencia de este periódico se hallan de venta 1 °* °u®econvenc-	.	. f
+los obras siguientes: Zorrilla, Calderón de la Barca, Quevedo,: v<*h'’.r,e de *» »1*"™»» Ocasión de surtirse de los efectos per-
+.	, tr	-rt	. _ —	__7 - .	fertéoionton „1	,v,/v
+Lope de Vega, Espronceda, Martínez Zayas y Sotoma.vor; Teatro español, .w.«i.uW.v0 j ~_
+1 *>8 españoles, Historiadores españoles, Novelistas españole?, i	, , , ■ -----,- -- .	- . i* . „ „ \.•
+Silvio Pellico.	^	v 9 excusamos recomendar la buena clase de efectos y demás cuan-
+Obras cu francés ricamente encuademadus v también ilus- jda,,ea-LIBROS E IMPRESOS.	| tradas.—Historia de Francia por Anqu<
+Plano topográfico de la jurisdicción de la j LasIstVell^	fótuloquedice REALIZACION, el que puede servir de guia.
+Habana, según la nueva división terrimvrtl »probada por la jun* ¡ do—Historia tic la República de Venecia—Rolando el furioso_ , !Í?J.*V.TfkJl!rC ü8 e,eSt(í?	un- l,crrno^*c 1'J
+ia do autoridades superiores de e.ctn Isla* por U. Mariano Car-¡ Werther—Misterios de Paris—Los Cuarenta y cinco Misterios	* ........... ^
+les.—Esta interesante obra compuesta fie tres hojas topográfi- de la Rusia—Obras completas de Gavarni—Las Mugeres de la cas y otra de explicación, comprende no solo los nombres do las j Biblia—Los Marinos ilustres—Un invierno en París—-Un vera-4íiües do intra y extramuros de la Habana, sino también lósele no en Badén—í.a España pintoresca—Monte-Cristo—Los tres
+Mosqueteros—Veinte años despues-x-Vida de los animales—
+Los conventos—La Grecia antigua y moderna—Las Bolina tic la Opera &c. &c.
+Obras de ciencias.—Couvier, historia natural—TVOihigny, su obra grande, 10 volúmenes y atlas*
+Besehereliy, diccionario nacional, y Varia:* obras
+cía, cirujia, medicina, quimica, botánico, &c.	ir, ------, — v. ’. i 2 \Ti v *	» v .* j f
+La eoleccieu completa del Charivari desde el año 1833: 54 Mftncos ? (,e colores. En la calzada del Arsenal, frente del nua-g lúmenes encuadernados, á precios sumamente módica. 19	Paredón tercera cuadra num. 32, al ledo <ie la pila nueva,
+LICENCIAS PARA ESCLAVOS.- Con	buiiu .«»«enr.eniaveato»..
+Iglesia de SA!fTA Clara.
+i fieles V9CÍU09 de esta t iudad, !n proéeeioü <!e! Santísimo Corpus Crhisti que ha do verinenree hoy domingo en ia iglesia üe S ntu Clara, según dijimos ayer.
+MorrsERRATE.—Hoy estará abierto para los fieles ¡este bello templo do extramuros, el cual so ha engabanado do ia manera mus suntuosa cou motivo de ce-iabrarse la gran fiesta • iigiosa consagrada al Salva* ídor dei mundo, de que lauto hemos hablado con jus-itos motivos. El con .' '3 de dicha fiesta es extenso, ¡así como extraordiuar o el uhmero de fieles que la esperan con entusiasmo.
+Nuestra Sf.uora de los Desamparados.—En el ; altar privilegiado de esta Santísima Señora, erigido jen la parroquia del MonserratCt se celebra hoy do-j raiugo, por aer el segundo del corriente mes, la mi. sa que costean ios amantíaimes devotos de ia misma
+FiE'TA religiosa.—En la iglesia del monasterio •de Santa Clara, tendrá efecto indefectiblemente el
+;din 13 del corriente, la función religiosa consagrada ;al gran poder de Dios, que costean varios vecinos delbar.io. El eertnou está á cargo **del religioso capuchino fray Estéban Andoaiu, tan apreciado como ¡conocido por sus relevantes dotes oratorias.
+Octava del Samo. Corpus Cristi.—Se ha verificado eu la S uta Iglesia Cateilr«! la procesión de j la octava del Santísimo Corpus Crhisti, la cual ro-¡corrió la plaza de dicha iglesia.
+i San Antonio.—Hoy domingo por la noche tiene ¡lugar eu el Salón del Recreo délas ninfas de esta risueña villa, uu magnífico bailo de temporada, se-gun nos informa una persona á quien debemos en-tero crédito.
+Sociedad del Fii.ar.—Esta Sociedad ofrece en la noche de hoy domingo & sus numerosos socios, un.» bonita reunión familiar, la que terminará con las danzas de costumbre.
+Guanabacoa.—La función dramática, compuesta ríe la hermosa comedia de Bretón intitulada: ,»Un tercero en discordia” que se ensaya eu la actualidad por los recomendables aficionados de la unciente sociedad de Isabel II de la villa de Guanabacoa, se representará infaliblemente el dia 33 dei corriente, se-guu nos iuforma uno de los individuos de dicha Sociedad.
+Un novio para la Niíía.—Se nos dice que la
+la? de CJasa-Blanca, Regla, Jesús del Monte, Horcon y Cerro, y las poblaciones de Ruentcs-Gmudes, Cliiemnclos, Marianao, Arroyo-Naranjo y Calvario; y adornas todos lo® v.useríosy objetos notables de su demarcación. Contienejtodo litios, estancias, «juintas y denm« predios rurales, susyius de comunicación pudiendo saber á punto lijo la diniancia que loa separa de la ca pital y pueblos limítrofes, por medio de una tabla de distancias grabada eu la tercera parte. Se omiten anuncie i pomposos, por !u circunstancia de que siendo la primera obl a de c?.ta naturaleza que vé la luz. pública, ella mi?nm «e recomendará si el público se disna examinarla. Se halla de venta á cinco pesos la colección en ios puntos siguientes: ¡*.r.prent;i del Gobierno, en c[ Laberinto, F1 urna de oro, esquina de St«f, Domingo, Marco dora-dojSolanés y üarbonell, librería ife Soler, Sauz, Minerva y Charlain, Cruz Verde y plaza de Tacón, La primera parte se halla estampada en pañuelos de seda de cinco cuartas y de venta en las tieritlas La Barra, La Granaría, 1*1 Zapato, sedería ele Áfestre v baratillo de Porto, á 17 rs.
+BIBLIOTECA MILITAR PORTATIL, o sea
+Colección de las mejores obras antiguas y modernas, nacionales y extranjeras, pertenecientes ai arte.de la guerra: pubiieadapor una sociedad de militares, bajóla dirección del brigadier D. Leoncio de Rubín, teniente coronel que ha sido del cuerpo de lú. M., y dedicada ai Exento. Sr. Duque de Valencia, capitán j general «le los ejércitos nacionales y presidente del Consejo de Ministros *
+PROSPECTO.—Nada sin valor, nada sin honra, nada sin ilustración en un ejército: nada sin valor, por sor condición (leí guerrero arrostrar todas las penalidades, todas las privaciones,
+I todos los peligros, lu muerte misma en defensa de la patria, dei ór- j *	i den, de ia propiedad, de la familia, de las instituciones todas que -
+~	; sjfven de cimiento á la sociedad; nada sin honra, porque en los e-
+T? -»/.rx». a < jércitos Sun los pueblos sus iujlere^ea mas sagrados, en ellos libran xvá.-..0» (Jamos a 10a su ^ienestur, en ellos cifran la salvaguardia de su decoro, de su dignidad, de su preponderancia, del horfer nacional; nada sin ilustración, porque all«-en ei fragor de las batallas, en ese sangriento juicio fi. que apelan )»s naciones, hay una cosa superior ¿loa medios nmteriaies'decombate, hay una cosa que convierte en decisión ia duua, en valor la cobardía, eu aiTanques de entusiasmo el valor: e;i ia fuerza mor::!, ia acertada dirección de las ihaniobniH, es íu idea de superioridad sobre el adversario, es la confianza en el triunfo, sostenida por el saber y ja pericia. Hú aquí, pues, reasumido en tres palabras el espíritu de las instituciones militares; el valor que ejecuta; la ilustración qué dirige; ia honra que garantiza.
+La honra, decimos, es la garantía del valor y de la ciencia; pueden estas dos últimas cualidades sucumbir á ia fatalidad; aqueliu nunca debe ¡»arderse sino con la muerte. Salvaría siempre, es deber del militar, v hoy la honra no se salva con ser valiente tan solo, sino siendo valiente é ilustrado. No tiene honor ei cobarde, ni honor tiene el inepto; no es militar aquel quo nuda mas se bate: os menester también saber batirse; y ei afrenta es huir ante ei peligro, mengua es también ceder por ignorancia, desmintiendo la cultora y el grado de ilustración del pueblo CU' yosintereses protege una fuerza armada.
+Ante ios ejércitos instruidos y disciplinados, huyeron siem-erre las fuerzas bárbaras, por numerosas que fueran. Id á ios campos de M acedo nia y á las llanuras del A sin; interrogad les Alpes, el Rin, la F!andes; preguutad á San Quintín, á Pavía, á Austerlitz: evocad ios recuerdos de Alejandro, Aníbal, César. Juan de Austria, Cárlos V, Federico, Napoleón. ¿Qué os dicen estos nombres, qué os revelan aquellos, sitios'? El triunfo dei saber, la victoria del arte, la supremacía de ia pericia, ora cotilo lii ja dei estudio; ora como consecuencia de la observación. A lo1
+! iradas.—Histeria de Francia ñor AnquetVÍ, continuada':«.'r Ver- ■ Y ParH 1?® no	equivocación los que deseen «Uri-
+r T *'	*	^ • i «o r «c, -n 00	! girse al repetido establecimiento, se ha puesto en la puerta un
+-Las Lonicsioues r«>tU|«> que dice REALIZACION, el que puede servir de guia.
+NOTA:—Entre los efectos existentes h*y un hermoso reloj ! ríe órgano con 21 tocatas y 8 dias de cuerda, propio para una ca-¡sa de recreo ó pura ana linca.	29
+Por ausentarse su dueño se vende la muy
+¡acreditada chocolatería de la India, calzaría Rea! del Monte número 271.	19
+Ajuares de bautizar.—Se venden de biou-
+la Je superiores á regulares, de punto ríe ilusión y de file!: bir-dc firma- íretfts Sonría y velos; birretes de colores de blonda y de hilo * para adornar canastillas; sombreros, gorra?, capotas, zapatos
+fin do evitar tmbabajo y omisiones á ios dueños ue esclavos á jornal, se han impreso licencias en blanco coa la filiación revenida en la ordenanza de policía vigente, ias cuales puedan llenar Io3 inteestuioa con mucha facilidad. Véndense á tres pesetas el ciento en ei despacho de esta imprenta.
+Método curativo y memoria histórico-
+medi a del cólera, por el Ldo. R. Pedro Vázquez.—Lus personas quo quieran hacerse de este interesante cuaderno, que tanta aceptación ha obtenido, pueden pasar al despacho de la PRENSA, calle de la Amargura esquina á la de Cuba, uúm. 11, donde se halla de venta á 4 rs. sencillos; como asimismo en caca del enennrnríoen Matanzas.	•	25
+Magnifica plano fie la Habana con los nú-
+So veuüe por no poderla as'stir m 5 e~:o
+la fábrica de carbón animal, con todos sus enseres v almacenes correspondientes, ó bien las maderas y ladrillos de que se_ compone, establecida en San Antonio Chiquito, estancia que th: Isa de Baeza, jume liata «1 rio de Almendares, por su ajusto: c^ilo del Sol nú i». 55 darán razón.
+So vendo todo el mueblase fie uaa eaaa,
+junto ó separado, á un ínfimo precio para su pronta realización, y son los siguientes: sillas,-ilíones, cuadros,	<• ates, me-
+sas y esquineros cou sus piedras de mármol, espejo?, tocador, floreros, reloxde sobre-mesa, camas, &c., todo moderno y eu I muy buen estado; come también un curruage de poco uso y ex celéntea maderas, eí caballo con sus arreos ¿e j
+- .	..	,	«	»	,	------- — , un negro excelente calesero, muy racional y hu
+nales y presidente de! Lousejo «e | meros ríe las casas, un pianito de las cerancías hasta Puentes- excelente lavandera, plahichadora y entiende
+Grandes, y vistas de¡sus monumentos y sitios notables; á 9 rs. otra buena costurera y
+fies, ejemplar y 11$ ia docena, y ú 20 rs. ejemplar en pañuelo? ¡.Q á ll-años. todos sanos y sin tachas, por su ajuste
+___T	V TkT7 r'X TLI K t’ V lOCÍl	_ _____ ---	•	’--- - -	*	J
+de lo mejor; c* una negra
+i ríe cocme; ito como ríe
+vertir en escuela loa campos de batallo, estudiar la estrategia d¿ su enemigo, apoderarse por la observación »ie su secreto, y vencer á Gustavo á su vez con Ja adquirid*', arma de la instrucción? ¿No habéis visto en este mismo siglo huir ios soldados ríe ia escuela de Federico unte inferiores fuerzas devisónos, mandados
+Cor una inteligencia superior? Recordad también acuellas pala-ras de Aníbal: Mas temo á Fabio sin armas que a Minuete armado-, y escuchad ios consejos de loe grandes capitanes que prefieren la cao acidad átod«.
+Todos en la milicia necesitan saber algo mas que sus morcarías obligaciones de ordenanza; á todos puede llegar un dia euque el simple mando de un puesto avanzado, un reconocimiento con mas ó menos acierto dirigido, decida del éxito' de una operación general; k todos ademas brinda la gloria, á todos aguarda el porvenir si dispuestos están para no desmerecer ríe os adelantos que puedan caberles. Por estar penetrados de esto mismo, porque sabemos que el ejército español, heredero de inolvidables glorias, émulo de heroicos ejemplos, ganoso ríe honra y de prez, pide instrucción y no halla medios, busca libros y le faltan, hemos querido llenar este vacío de un modo que nos granjee las simpatías, la aprobación y el apoyo de nuestros compañeros, para llevar á cabo un pensamiento, que honrará ni ejército y acallará las calumnias de esirauge»ua naciones, que un oía doblaron las rodillas ante nosotros.
+Tan convencidos estamos de que somos intérpretes Seles ds
+paradero, iiabiendo ejemplares en papel y en pañuelos ¿o sería, que contienen ademas una noticia muy eact« de las distancias, hora ue llegada y de salida de los tre-xns y precios ds pasage, que loa hace indispensables á loa via-geros por ia Isla, y ademas contiene un curioso mapa de CUBA ANTIGUA, y otros útilísimos datos que seria prolijo enumerar*, siendo lo nms notable que su precio sea solamente de DOS PL-j obtenido el correspondiente permiso de la Inspeeci
+SETAS ejemplar en pnpelrqmuu, medio peso en papel nuis do- *-------------T~1-	1-------
+ble ó fino fuertísimo y propio para viages, una peseta mas los iluminados y 17 rs. ftes. e:i prnublos de seda: naciéndose una rebaja por docena.—NOTA: El plano c]ue contendrá, las noticias de los rerro-carriles se publicará á principios del entrante Mayo.—Hállase de venta en la» librerías de Charlain (calle dc¡
+Obispo) y de la Minerva (calió de la -uiralla); en las papelerías de Mestré; en la plaza del Vapor; en ia imprenta del Gobierno, > en las confiterías Donrinicay Meridiana.	24
+ha recibido, 4 4$ 2 rs. una. Adema-:- hay uu surtí:;-., de chupas y paletees de tela-real, á 22 rs. por realizarlos. Galle de Compítela entre iasdel Sol y de la Muralla, contiguo al agm. Gi, i-te al sangrador Reves Santieatéban.	*
+Jarabe pectoral balsamice.—H hj ’o
+lo el correspondiente permiso de la Inspección ríe Eludios de e?ta láia, i-iévia la eporiuna calificación, para ex; er olicaiuento, pongo en conocimiento del público dia se halla abierta su venta e:i rri oficina de f?r-
+herruo.sa cornenia de este nombre se representara eu ¡os ¿i^eos je la milicia española, que hemos sentado la base e-la noche del 24 del actual, en la Sociedad del Hor- ’ con, apareciendo en ella por primera vez una graciosa aficionada y un caballero bastante couocido por su talento en nuestros teatros y sociedades rio recreo.
+La función terminará con uu gran baile que durará toda la noche.
+San Antonio üe Padua.—Las fiestas consagradas anualmente á este mil groso Santo en ¡a iglesia de San Agustín, tendrán efecto eu los días 12 y j 13 del corriente, con salves las vísperas. 131 sermón de la primera fiesta estara á cargo del P. Fr. Lázaro Goüv-atez, y el de la segunda al del Pbro. Sr. Torres.
+Iglesia dio la Salud.—Se ha celebrado ayer sábado en esta parroquia una fiesta consagrada al Santísimo corazón de Jesús, costeada por uua devota: el sermón estuvo á cargo del bien conocido orador Pbro. D. Jacinto Rivas. La concurrencia fué regular.
+Escritura.—Sabemos que el apreciable jóven don Antonio María Arizala, autor del „Pendolista Habanero” dedicado al Excmo. Sr. conde de la Fer-uandina, se ocupa de una obra caligráfica de primer órden que va dedicar á una persona amante de ¡a buena escritura. Recomendamos á los directores de colegios y á los padres de familia al jóven Arizala, quien se dedica á la enseñanza de toda clase de letras v desea algunos alumnos mas de los que tiene en su casa calle do la Estrella uúm. 123,
+Habana 9 da Junio,
+VENTAS DE FINCAS.
+£e vende una oasa en la calis da Lus n.
+35, con zaguán, 3uia, comedor, cuatro cuarto? espaciosos, cocina con otros do3 cuartitos interiores , caballeriza para tre? bestias, un espacioso patio con su pozo y algibe muy abundante, trea despensas y dos hermosos cuartos altéis muy frescos, toda ella de cantería y azoica y con inmejorables maderas, y hecha i todo costo, pues se fabricó pura vivirla su dueño y produce cuatro onzas mensuales; otra casa en ia calle de Paula esquina á la de las Damas,con enia, comedor, tres cuartos, cocina y pozo abundante, toda ella de cantería, azotea y muy sólida, proluce 30$ mensuales; y la cuarta parte de la casa calle dé San Ignacio esquina h i> de Chacón, que reditúa tres onzas mensuales, y cuya parte se dará por poco irías de la mitad de su tasación. *En la calle del Empedrado esquina 6 la de Compostola darán razón v tratarán de su ajusté.	4
+Be veada ia casa uituaúa eu la calle de
+Gervasio núm. 5;:¿» entre las de la Concordia y Virtudes: en ia misma tratarán de su ajuste.	3
+Se veadou las muy bonitas y cómodas ca-
+^aa números de lu calle del Sol y 77 de Paula: en la de San Ignacio núm. '32.	4
+Afecciones astronómicas—Sale el sol k las 5 h. 15 de la mañana: .?e pone á las G h. 45’ ríe la tarde.
+Parada.—Los cuerpos de la guarnición.
+Geí-'e de dia-E! teniente coronel U. Simón Anillo.
+Escribano.—D. Eugenio Ponton.
+Real casa l>e beneficencia.—Diputado en el presente mes—El Sr. don Ramón Montalvo y Calvo.
+Casa de maternidad.—Diputado eu el presente mea—£1 ár. Presbítero D. Francisco Ruiz.
+Diputadas de ídem.—Las Sras. Da. Catarina Zequeira de Arangoy Da. Lui-a Fon de O-farrill.
+Medico.—El l)r. D. José de la Luz Hernández.
+Facultativos desemana.—En la Habana.—Dr. D. Cárlos L. Bernnl y Ldo. don J03Ó Chamarclo.	t ,
+En Guadalupe y Peüalver—Lríos. !). José Antonio Cairo y Hernández y don Pablo José Fernandez.
+En' Jesús maria y Chaves.—Ldos. D. Tomas Mateo Go-vantes y don Sebastian Ricoy.
+En Colon y san laZako.—Ldos. D. Joaquín de ia Rúa y donjpsé Domingo Valerio.
+Abasto.—Diputados en el presente mes.—Mercado do Cris tina.—El Excmo. Sr. Conde de O-Reilly—En el del Sto' Cris to.—Ei Sr. D, Joaquín do Pefialver y Sánchez.—En el de Ta-con.—El Sr. D. Juan Francisco de Araago —-En el ríe Colon.— El Sr. D. Bonifacio de la Cuesta.—En ambos rastros—Si ár. D. Joaquín Fernandez de Veiazco.
+Inspector de Actas.—El ár. D. José Manuel Espelius.
+Basura.—Esta noche recogen los carros las de las calles ríe E. á O.
+REAL SOCIEDAD ECONOMICA.
+Inspección de la escuela de dibujo lineal de artesanos^
+Ei dia 10 del corriente continúa sus tareas este establecimiento en las horas señaladas por estatuto; lo que se hace saber |á loa alumnos para su asiateencia. Habana y Jumo8 de 1850.— ¡ El inspector, Francisco Camilo Cuyas.
+SOCIEDAD DEL PILAR.
+___
+En la noche de mañana domingo ss ejecutará la función | dramática que por justas causas dejo de hacerse el domingo an-¡ terior; lu que concluirá con las danzas de costumbre. Lo que i por este medio se avisa ú ios áres. 3ocios. Habana y Junio 8 de r50.—Ei secretario.______________________________*
+Lioitaoion,— Las personas que quieran
+hacer proposiciones para construir 1000 porta-bayonetas de a:»te para el regimiento de Nápolcs: asi como los que quieran encargarse de lavar los sombreros de jipijapa del mismo cuerp», ae servirán concurrir al pabellón del ár. corone!, en la Cabaña, donde se reunirá la junta económica ít lúa 7\ de la mañana del már-tes 11 del corriente; adviniéndose que también se rematarán varios efectos nuevos y viejoa en e! mismo acto.
+COMPAÑIA DE ALMACENES DE DEPOSITO.
+iconóuiicu de nuestro proyecto en la multiplicidad ríe esfuerzo por parte de todo -, eu la adquisición de un considerable número de abonados, sin loa cuales imposible nos fuera sostener la empresa, al precio excesivamente módico que fijamos á los tomos, precio á que no ha descendido hasta ei dia publicación alguna española. Difúndanse ios conocimiento* militares, tengan todos facilidad de instruirse por la economía de la suscricion, y satisfechos quedaremos, no dudando que eu la lista de nuestros favorecedores figurarán los nombres de cuantos tengan en algo su amor propio y por consiguiente su educación militar.
+Ocho reales será el precio de cada tomo de 300 á 500 páginas, impreso en la letra y forma de este propectoy de la muestra que acompaña, con todas las láminas, mapas y planos que le correspondan. Nada se cobrará anticipado; el abono se pagará al tiempo de recitar cada tomo.
+Las obras que daremos serán eucojidas después de consultar á los militares españoles inas distinguidos, y empezando núes-salir de la esfera militar, sirvan ríe recreo y de educación histó rica, contribuyendo á crear esus aspiraciones honrosas á la gloria que tantos nombres han ilustrado. Ninguna de las publicadas hasta ei dia en España formará parte ue nuestra colección.
+Al fin de cada obra daremos la lista de los señores que con su suscricion hayan cooperado áeste pensamiento, y en ellain-cluiremos también loa ríe aquellos oficiales que deseen que deseosos de aprender, pero precisados á reducir.sus gastos, hiciesen suscriciones colectivas por grupos dedos, tres o cuatro, medio que les facilitará casi sin desembolso la lectura y ia instrucción.
+No daremos esta sola prueba del verdadero móvil de nuestra empresa; bástanos que la podamos sostener, y en este concepto, repartiremos gratis al fin década obra de importancia, un tratado especial sobre cualquiera de las tres armas, uotro cualquier trabajo ríe literatura militar.
+Empezará nuestra Biblioteca con !h publicación del CURSO COMPLETO DEL ARTE Y DE LA HISTORIA MILITAR, escrito para los alumnos de la escuela militar francesa de Suint Cyr, por J. Rocau&ucourt; obra especialmente recomendaría en Francia parala instrucción déla oficialidad
+Cada uno de lo» tomos da la obra francesa cuesta nueve francos, en decir, mas del cuádruple de lo que valdrá ia nuestra.
+Cada tomo se espenderá á los no suscritoree á 16 rs. y & este mismo precio costarán lu3 suscriciones de Ultramar v estrangero
+NUEVOS PLANOS.—Estando concluidos
+Ío8trabajo8 topográficos del pluno ríe la villa de Guanabacoa, y marcados en él todos los objetos notables que contiene en lu vasto perímetro, tales como plazas, edificios, baños manantiales, fuentes, origen délos urroyos (¡ue atraviesan várias de sus calles, particularmente los que forman el conocido de Fray Alonso. los pozos mas notables por sus virtudes medicinales, como son el del Majabo, de las Papas, do los Corrales, de! Succino,
+&c. y construido en una escala ríe 200 varaa por pulgada, capaz de demarcar perfectamente las calles, coa sus respectivos nombres; la división de sus barrios, y ademas todos les sitios y estancias diseminadas al rededor ríe la población, desríe la loma ríe Regla hasta la segunda alcantarilla ríe la calzaría de Baeu-ranao, ó sea hasta la fuente de la Jala de O. á E., y de S. á N. desde el Potosí hasta ia estancia de D. Juan de la Cruz con toda ia linea del ferro-carril; animado por la suscriciou que generosamente me han presentado los miembros del M. I. Ayuntamiento de la citada villa y de varios amigos de la misino y ríe esta^ capital, procederé desde luego á litografiarlo, á fin de que el público se utilice de este enorme trabajo para conocer las calles y la situación de sus diversos y benéficos baños en ia presente temporada, pues este costoso trabajo deberá ver la luz pública para fines dei próximo Mayo.
+Publicado el de lu villa, seguirá desde luego el ríe su jurisdicción, según la nueva división territorial, con la demarcación interior de sus partidos últimamente asignada, y subdivisión de estos en cuartones. Este plano topográfico levantado á rumbo y distancie toda la línea jurisdiccional, y por demarcaciones situados gran parte ríe sus predios rurales y objetos notables construido con la escala de dos pulgadas por legua cubana, comprende desde ia playa de Chivo al surgidero de Jaruco, quince leguas plamis ríe superficie. Kn los cuatro ángulos deí papel, ira el plano de los pueblos de Uuanabo, Dolores ó Bacur&nao, j 1 impondrán? **
+Peñalvery Cogí mar en mayor escala, y todos loa objetos topo-]	y-----—
+gráficos y notables que tenga el dishito. Sin embargo del costo
+Se veude, ó cambia por oasas en estaciu-
+dad ó sus barrios extramuros, un potrero situado en el partido del Bata bañó, coa un sitio anexo, compuesto de 23 caballerías y l sol ires, parte montuosos, lindando con el pueblo, c inmediato al paradero dei camino de hierro, cercado de piedra y piña,de ratón, excelente para crianzas de ganado mayor y menor, igualmente para toaa clase de labranzos, tiene algunos conucos cercados, árboles frutales, cafetos paridore», mas de 35,060 palmas reales, cuatro lagunas y dos pozos fértiles, &c. También re alquila una casé eu la calle de la Muralla, con cuatro cuartos y tres puertas á la calle propia pura un establecimiento. También se desea comprar una pareja de mitins volántevas, sanas y r-inre-sabio?: d*» todo informarán eu la call3 de la Reina n. 2G.	4
+Ss vende con mucha eqtüdai« una están-
+cía situada en ei Husillo, partido de Puentes-Grandes, compur*: -ta de 4 cnbaiierias mono» cordeles de tierra de buena calidad-dará razou en la escribanía mayor de Real Hacienda, el cncai-g&río del protocolo, ríe siete a ríos de la tarde.	5
+Se veude au¿ oa&s. uúm. 73 ds la culis de
+la Picota, con sala, comedor, tres cuartos, cocina > denms menesteres, por su ajuste: calle cié fc>. Miguel uúm. 158 impondrán.
+Se vendo una casa de tabla y teja ea la
+calle ríe la Horqueta, segunda cuadra entrando por la calzad;« Real, núm. 52, con sala, comedor, tres espaciosos cuartos, cocina muy capaz, buen pozo de agua potable, con mucha arboleda, propia para temporada por ser muy fresca; tiene 7£ varas de frente y 40 de fondo, ademas un martillo de 7 varas ríe frente y 14 río fondo, por su ajuste; en la misma impondrán._*
+VKNTA DE ESCLAVOS.
+este precioso medie que de.-rí.
+raacia, situaría en la calle del 8cí esquina á la del Inquisidor. De mas está recomendar ql jarabe pectoral balsámico uui Dr. Fors, catedrático de farmacia csperimental del colegio de S. Victoriano de Barcelona, el cual lia producido inau r.erables cura ciones en aquella capital, que se han repetido en esta ciudad on los casos que lo han usado algunos acreditados facultativos. ¡8ir-be este jarabe para combatir con feiiz éxito latos y las irritacio-ea spulmonales, siempre que no se hallen en el último periodo; pero aun en este caso produce un alivio que no se consigue con otro medicamento. En una palabra, con el uso ríe este excelente remedio han recobrado su salud muchas perdonas atacadas de tisis, priuc¡p:«nte§ que tenían enteramente perdida la esperanza de lograr hu curación. Véndese con el método de usarlo al precio ríe 12 rs. ftes. la botella, la que llevará raí firma entera.— Libo rio Fors.	*
+NOTA.—£1 autor ce este delicado medicamento no respon de de la eficacia de sus virtudes no siendo de dichaoficina, que es la única que tiene el privilegio ¿a anunciarlo; por cuyo motivo todas las botellas llevan la firma yaespresaría manuscrita.
+Preparación y uso dei calificado espeoi-
+tico de! Dr. i). Juan Matías Cabezas, pura laciirncic-: j-ia bubas y úlceras gomosas. El cual se encontrará Fif ; pr-L ie venta únicamente en ía botica del Dr. D. Fryncireo de P *. c í. ez, calle de Mercaderes frente á lu casa ¿s íaJExcma. Si~. Ce* cea do Caea-Montaivo.
+Muebles de relance--u.»a d; ; .... i-
+Has de caoba, cuatro sillones, un sofá, todo de moda y s; ;;c-uo, dos escaparates de caoba, uu canastillero, uu est-.nte * . a ¡ibrua, tres cómodas, una ídem con estante, der- escape r: t s M cedro, un aparador de caobo, dos meses redovni-.j c.o:i r. ; dos tocadores de seporu, una mes», dos rinconeras, i:l eri z o, dos flareroá, un qttlnqné colgante, uno ídem de r t, foo: . Radios, un tinagero, un videl, dus.pianos, una c»nu.t cr.ctro cet. es, una cuna, una cainita, un.semicupio, un famoso o . :cjt ¡luyes, dos reloge3 de mesa, dos bombas, uu par ríe g;i . ¿ c ab.^jo, un sillón de resortes, dos caauqueros, dos peichau, &iua = 2 re-gilla, Ídem de madera, mecedores de regí!!?, f' !:.a, u*. lavamanos, mesas de todas c.laaes, ilcsi u«*. -l	. í
+sofaes, cainapés y una infinidad de otros inúti les qu-r re espen (Jerán á precios de quemazón, cabe de Cuba núm. 32, cerca de lu Merced.	,	5
+Una negra criolla, joven, excelente oostu-
+rerade hombre y muger, bordadora y fileteudora y buena criada de mano, sana y sin tachas, pero sin acción á redibitoria, en 639$ libres para el vendedor: calle ríei inquisidor núm. 68.	2
+Se vende una negra joven, sana y sía ta-
+chas, buena lavandera y planchadora y cocinera de un ordinario, parida de poco mas ce dos meses, con buena y abundante le che: calle.de Aguiar núm. 103.	4
+Se vende una negrita criolla, sana y sin
+tachas, de edad de 12 á 14 años, con principio de lavado y cocina, propia pura entretener niños y para ei aspo de min casa, por haberlo ejercitado: calle de Cuba uúm. 129 impondrán. ^ 4
+Se vende un negro calesero, coartado en
+325$ y los derechos: calle del Consulado núm. 47.	4
+"Se vende na negro joven, sano y sin ta-
+chas, muy humilde, buen cocinero y ágil para todo servicio: darán razón en la calzada ¿le Galeano núm. 120, esquina ul ferrocarril.	4
+Se vende un negro criollo, como do 18 á
+20 años, sano y sin tachas, buen cocinero y propio para el servicio de mano por su inteligencia y eficacia, y una negra también criolla, de 16 á 13 años, sana y sin tachas, con buenos principios de cocina y ágil para cuanto quieran aplicarla: impondrán en la caite de la ¿ricota núm. 77.	4
+Por ausentarse su dueño se vende en 32
+onzas libres do gastos, una mulata jóven, de color claro, ríe buena presencia y mejor carácter, sana y sin tachas; es regular costurera, buena de batea y plancha, acostumbrada á cuidai niños, ul servicio ríe mauo y á todos los oficios ríe una casa. Se ofrece áprueba adviniendo que está embarazada de siete á oche meses. Caite de la Lealtad esquina á la del Desengaño,». 77.
+En la calle de loa Basamparados núm. 25
+se vende un negro muy robusto, de .edad ríe 24 añoa, sano v sin tachas, regular cocinero y jornalero, en 500$ libres para el vendedor, ó se cambia p&r una negra jóven, que sea de nación, general lavandera, planchadora y cocinera, sana y sin tachas.
+Se vendo una negra jóven. parida de un
+mes, cou lu cria; es regular costure» e:-:cme-ite criada ríe mano,
+muy fiel, sana y sin tachas: en la plaza ce rf. Francisco púm. < i, D. Diego Uenitez dará razón.	- 4
+Se vende ua aogro criollo, ds 2?. años,
+ríe buena presencia, buen cocinero y excelente ealc.- ero de pareja, suno'v sin tachas, muy ágil para servir y de muy buenas cualidades: en la calle de la A mistad núm. 79 darán razón. 4
+Se vaneo una aogra criolla, esceleuío la-
+var.dera y planchadora, regular cocinera y servicial á la mano, muy humilde y que nunca ha salido á la calle, sana y sin luchas* con su cria de once meses, ó sin ella: calle de la Lamparilla nú-
+—m m--------------------	4
+Viéndolos dueños de la legítima as rz^
+de ¡3. P. Townsend, la protección que tes ha db pan:-adoel ilus* trudo público río e. tu capital, han establecido un depósito central para esta Isla,en la botica y droguería do S. Juan, calle de S. Ignacio núm. 14.
+Cada frasco de la legítima zarza de S. P- Townsend se ven le á 13 rs., cuyo precio le ha sido concedido por la Inspección de Estudios.
+S^^Cuda frasco llevará el siguiente membrete, firmado por los dueños y por el agente:
+“Hemos nombrado nuestro único agente para la Isla de Cuba, con facultades para nombrar sub-agentes en las poblaciones mas importantes de la Isla, al Ldo. £>. Juan José Márquez, y el único depósito central, de nuestra zarza está en la botica y droguería de San Juan, calle de S. Ignacio núm. 14.
+Nostrand & Bacz, sucesores ríelDr. S. P. Townsend.” íTEn dicho establecimiento st siguen comprando hilas en todas cantidades.	11
+ESTRELLA OUBAlVñ.
+Fábrica da velas estearinas, juaonea y grasajs con Real privilegio essksivo.
+Los dueños de este ostublecindento, cuyos y * doctos h. n tenido tan generalmente aceptación de parte del público, u..>q -ciándose ademas, por m superior calidad y	buenu* »- >-
+cunstancias, una MEDALLA DE ORO en la cnuorictou púiuics, tienen ei honor de hacer presente ú sis nunere . - .>> ... . ■ re -es, que la fábrica ha vuelto a emprender sus i,.. b.-jo^, y ...	,
+tanto te venta pormavor de las muy c onocidáa VET/AS ESTEARINAS de la E^ riiELLA CUBANA, lo¿ uptricres JAbO. NES y las GRASAS INODORAS se hallará abierta al público-desde el lunes 15 del corriente, en la calle del Fteipedrado núm-?2, casa de los Sres. Blanco y C. °V y para las vernal por me. uor en loa puntos si guien tes:—En intramuros: c alie del Obispo núm. 5, tabaquería que está frente á la Plaza de Armas; plaza debelen, cafetería de te Micaelita; calle de O-E-h’dy, botica frente á Samo Domingo; calle del Inquisidor, ckucoLteria la Favorita; calle ríe la Amargura, chocolatería ríe Sun Agustín; cp.lie de San Ignacio, entre las de Luz y cerrada de SantivCinra; calle de Cuba, cafetería de la Merced.—En esir-murca: callé ríe San Miguel número 57; plaza de Colon casilla nú»nu;o 1; calle ríe la Amistad número 65, cafetería y azucare,da :oé -cñore9. Fernandez y hermano; en ei Cerro, bot icattel bulva-(ter; en Jesue del Monte frente el paradero de íq.s diligencias. Bien conocemos que estos depósito* para el pormenor son insuficientes á satisfacer las necesidades uei público y por eso miamo aumentaremos su número, situándolos en los puntos mas conocidos, basta poner los productos de la ful rica ESTRELLA CUBANA al alcance de las personas mas rctiradasde la ciudad y sus barrios extramuros. Inútil es hablar ríe la calidad de tea VELA i: , JABONEA y GRASAS ríe la ESTRELLA CUBANA pues, ei público, cuyo juicio «9 irrecusable y definitivo lo? co-uocc y los Lene juzgados; lo que sí únicamente se puede decir y asegurar el que los que actualmente se elaboran y eu lo ace-'ivo se elaborarán, linda tendrán que envidiar á ion mus afama-ríos que vienen del c-xtrangero.
+Precios de los productos de la fabrica „Estrella Cubana. VELAS ESTEARINAS de á 4,5 y 6eu libre , largas ó cortas, de superior calidad, paquete
+de una libra.......................... C3 rs. scs.
+Idem idem de 4 8 ó 10 en libra........... 4 rs. Ídem
+LAS VELAS ESTEARINAS e*íán reconocidas por tener mayor duración que las de ESPERMA, son tan brillantes á la apariencia y mucho mas secas al tacto; no manchan la ropa aunque ie caigan gotas den elidas.
+exorbitante de esta interesante obra, he procurado arreglar el! precio de suscricion al alcance ríe toda3 las fortunas, sin que el'
+ÜE CARRUAGES.
+suscritor tenga que anticipar dinero alguno sino en el acto de! £3 V8ild0 riR ^Tlicí ¿H d8 DU6H USvj C!l3¿ v ri-recjbir el respectivo eiemphna Para couociinieuto del público v : do ríe nuevo y forrado decentemente, en precio equitativo: cuiie satisfacción de los señores contribuyentes se publicará en la [ dei Sul-núin. 20impondrán. ^	^	3
+Gaceta de e&ta ciudad la lista de los suscritos, y continuará la! SO VOsldÓ UU (JilltviU d9 ©3C8lGIltG3 lURdS* de los que vayan inscribiéndose.	j ras. acabado de vestir v pintar de nuevo, por su ajuste, como tam-
+be suscribe en todos los puntos donde se halla de venta el! bien una imposición de 700$ por ia mitad de su valor, y la que plano de ia jurisdicción de la Habana, y en casa del autor, paseo -<j halla impuesta en ua sitio <te labor de d»3 caballerías de lier-lioncaii numero 26; en Guanabacoa en la del Ldo. I). José Pe- rra en la Ceiba del Agua; v un negro inavor de edad, propio rez Corona. Precio de suscricion 12 rs. el ejemplar, ó sean 2$ los ii para cuidar un tren y se ha ejercitado siempre er» el oficio de dos números.^	i aguador: de todo darán razou en ia calle de 3. Rutee! n. 84.
+continua la lista de señores suscritores á los pianos topográfi-; ■ — ~	-===---	==*=•
+eos de la villa de Guanabacoa, y ai-de su.jurisdicción.
+Ejem-\	DE ALHAJAS, MUEBLES, fie..
+JABON económico Abriendo expresamehte para
+el 1 abado, caja de á 50 libras.......... § 4
+t»— :..u~n lflva mucho mas pronto que el de Caatíllau' y abunda’jte y muv blanca, no deja oior ulgi lúe n-.i lo tiene, y ei poco que te queda en ei pi
+2 rs. h.
+su uno
+queda en ei prin-
+Este jubón Ir. espuma es mu;
+á ia ¡( pa, poroue no io tiene, y el po ___^_________
+cipio agriríabie. En los depósitos se venderá también* por arrobas, median y cuartas. Siempre á razón de 7$ 4 ra. q!. GRASA INODORA sin coior y sin sabor primera calidad, arroba.......................... $ 5
+ídem ídem segunda............................. 4
+Idem idem tercera............................. 3
+En vista ríe estos precios, el ilustrado puede ver que el mes ardiente deseo de I03 nica E3TR.ELLA CUBANA es proeeguir »?
+piares.
+Pbro. Ldo. D. Francisco Rute................
+Sr. I), Joaquín Salu y Rumon............................. 1
+tir. D. Domingo Ruiz y Alentado.......................... 1
+*• f l (2• « It«-*1 I?.. 1 .í _
+| ’jK:clor., jp’ief (¡u3 d j recio •*« rs.
+SAHZ iP AHíULL A LEGITIMA del Dr. B, | quíA. macho SosS«'
+JACOBO TOWNSEND (el viejo.)—Se avisa á ios señores fiir-1 y ores.
+macéutivos que quieran.surtir eua boticas, que la encontrarán1 Cieemo-» de &uo«:ro deber anunciar f
+o habanero
+* I e Já-■ uio su pro-
+do por uua ú te.i - enta 3
+tir,
+Ldo.
+¡ Pbro. D. Antonio Severo Ibarrola.....................
+I Sr. marqués de lu Real Proclamación....................
+Sa avisa á los individuos que tenían negros en alquiler y á j ^r* conde de Romero...................................
+. i). Gabriel Vatees-7	........................ 1	¡ por u.ayorÿ menor en la calzada del Monte, botica de D. Joa-
+lo. D. José Perez. Carona..... ..^... .. . .'.'.. '.'.'. .'..'... '.	1	' quit, F. de Aenlic, titulada Kl. Atìt'ILA 1<E ORO, y por inn-
+quinas, contratadas cor:
+los mas que quieran ponerlos en este establecimiento, qué ha-j Ldo. D._Fernando de Peralta.
+hiendo cesado completamente el motivo por ei cual fueron remi-¡ Br. D. francisco Camilo Cuy ás...	.....
+tiríos á sus amos, se admiten de nuevo desde esta fecha. Se solí Ldo^D. José Atórales Lemus..........................
+citan igualmente trabajadores blancos á sueldo. Regla 21 de ¿Mayo de 1850—J. Mendive.	^	13
+COMPAÑIA
+DEL FERRO-CARRIL DE MATANZAS Y SABANILLA.
+1
+1 1 1 1 1
+l). Francisco de Villafranca................................. 1
+1
+1
+2
+¡ recibiremos nuevas má f
+.	_ ,	. ..,„.1 da casa ríe .Derosne y Cail, te. que nos ponte
+| vor en la calle ríe O-Reilíy núm. 37, establecimiento de J. BAN-! satisfacer todas las necesidades del p; is, á ¡ 6ES Y CQjViP.	| alones.
+¡ ^^ADVERTENCIA.—Ix>s frascos de zarzaparrilla del Hr. j i Jacobo Townsend (el viejo) que no lleven en '
+ub ico que pronto
+D. José María Lebredo..........
+D. Manuel Higinio Ramirez.....
+Ü. Estéban de Sotolongo...................
+Se cita á los accionistas para junta general ordinaria mingo 23 del que cursa á las cinco de ia tarde, en la morada
+, K ...	„	Interesante á loa señeras ñaoeudafio«.
+Jacobo 1 ownsend (el viejo) que n? lleven en su rótulo la nota Esquifaccioseo ie coleta blanca superior de I. - 5 rei,c tle que “fl nmeo agenic pnra las istnt ríe Cuba y Puerto-Kico	-2* 7
+er dnn.tofé Bañas, flalxina," seiúu considerados cou.o uim fa¡-,	’’	”	*
+sifi acioK.	____________IL . Camisas”da bayetón granóes y «eperiores. U . '.o-
+hliAiiiSátlCii AL uOSTu B& FACTURA, Chaqueloncs „	,, J. ^
+«le lo e efectos existentes en el establecimiento de loza, cristales Trazadas de lana «sargadas muy dobles de :» vi y mi ebles de GAMBA Y LUNAR, situado en ia calle de ¡a Mu-! 4 Q J? rs.—Cachuchas de lana muy dobles a i. c.
+Nota.— El Sr. Regidor de Guanabacoa L). Francisco Fuerte mlla num. 51, última cuadra liácio la puerta de Tierra y pasada I-íF*Ademas un surtido get.eiui de cuai.t > r< ;.a	.....
+y Mora, á mas de los cinco ejemplares que toma corno ¡ndiriduo (acerrada del Cristo, frente & la sombrerería titulada el Castillo, tarsepara señoras y cabañeros k pre< ,os barat ¡a el do-; del’,1. I. Ayuntamiento, ha entregado generosamente Sil pesos Aseguramos ai público que esta realización es verdade, a y	Calle de ía Cuna esquina 4 la plaza v'u;a, t¡e:.o
+irada delI para atender al viático de la operación material.	[no con el objeto de atraer concurrencia, por lo que suplicamos! UA PRINCESA.
+arter
+,3 y
+ida.
+tienda de ropa.
+e
+i
