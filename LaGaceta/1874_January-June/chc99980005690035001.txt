@@ -1,0 +1,625 @@
+﻿220
+221
+222
+223
+224
+225
+226
+227
+228
+229
+230
+231
+232
+233
+234
+235
+236
+237
+238
+239
+240
+241
+242
+243
+244
+245
+246
+247
+248
+249 '250
+251
+252
+253
+254
+255
+256
+257
+258
+259
+260
+261
+262
+263
+264
+265
+266
+267
+268
+269
+270
+271
+272
+273
+274
+275
+276
+277
+278
+279
+280 281 282
+283
+284
+285
+286
+287
+288
+289
+290
+291
+292
+293
+294
+295
+296
+297
+298
+299
+300
+301
+302
+303
+304
+305
+306
+307
+308
+309
+310
+311
+312
+313
+314
+315
+316
+317
+318
+319
+320
+321
+322
+323
+324
+325
+326
+327
+328
+329
+330
+331
+332
+333
+334
+335
+336
+337
+338
+339
+340
+341
+342
+343
+344
+345
+346
+347
+348
+349
+350
+351
+352
+353
+354
+355
+356
+357
+358
+359
+360
+361
+362
+363
+364
+365
+366
+367
+368
+369
+370
+371
+372
+373
+374
+375
+„ Carlos Luling Truffi, Cuba 76. a Ramon Fernandez Caldorin, Villegas 54,
+» Miguel Franchi Alfaro Alamo, Cerro E. Presidio.
+* Federico Alvarez Mufiíz, Estancia Sama, Ma-rianao.
+a José Garcia Montes, O Reilly 34. a Manuel Ramos Ruiz, Dragones 22. a Manuel L. Linares, O-Railly 34.
+» Juan Peñalver Peñalver, Cerro 791.
+,1 Felipe Sejada Diaz, Monte 330.
+« José Guerrero Panadero, O-Reilly 74.
+» Guillermo Alun Montoro, Inquisidor 28. a Ramon Rivira Alegre, San Nicolás 11. a Antonio Rotin Hernandez, Galiano 16. a Manuel Calvo Carril, Ciénaga, Toato 3.
+» Martin Aldama Baio, O-Reilly 81.
+» Francisco Echegollen Sotolongo, Jesus del Monte 565.
+il Emilio Dives y Donnas, Soledad 6.
+« Salvador Aguiar Calcines, Santa Rosa 14.
+» Andrés Vazquez Pernas, Real 42.
+» Antonio Riphanopoli, San Rafael 141.
+» Eduardo Perez Alderete Morales, Amargura 69.
+» Enrique Portela de la Fuente, Cerro 570. a Juliau Urrutia Banco, Lagañas 19.
+» Juan Fernandez Vaüés, Gervasio 97.
+» Fernando Mesa Dominguez, O-Reilly 36.
+» Andrés Fernandez Moral, Galiano 84.
+» Eduardo Prado Camacho, Campanario 32.
+» Pedro Peroz Ortega, Central y Obrapia.
+» José JeRus Alvarez Febles, Arroyo Naranjo, Real 52.
+» Narciso Fernandez Cabrera, Calvario. a José Aguirre Canga, Factoría 48.
+» Antonio Gomez de Molina Mason, Salud 76. a Sebastian Fernandez Velazco Montalvo, Tejadillo 11.
+» j uan Medir Castaüor, Obrapia 15.
+» José Nicolás Arroz, San Rafael 137. a Francisco Perez Deiques, Riela 17.
+» Ramon Gándara Madrazo, Obispo 83.
+» José Montalvo Cobarrubia, Galiano 24.
+» José Benito Abran Rodriguez, San Luis Gonzaga 121.
+» Roberto Fernandez Morell, Galiano 84.
+D Manuel Monteverde Sedano, San Luís Gonzaga 28.
+n Luis Felipo Diago Zayas, Cerro 609.
+» Antonio Fernandez Fernandez, Hornos 1. a Benito Aranguren Alfonso, Campanario 33. a Miguel Armena Armenteros, San José 37. a Pablo Bazza Valdó», Villegas 20. a Juan Martinez Alfonso, Bolascoain 10. a Luis Estévez Romero, Compostela 103.
+» Lino Guzman Hernandez, Estancia Palmar 15.
+» Ignacio Milian Cordero, Calvario.
+» Alejandro Billastrá Ajá, Pocito 49. a Santiago Pujol Díaz, Obrapia 68. a Francisco Ros Frau, Virtudes.
+» Marcelino Guerra alvarez, Calvario.
+» Félix Delgado Acosta, Marianao, Caiman. » Rafael Valdós Montero, Anton Roclo 60.
+» José Puncar Peña, Ancha del Norte 291. a José Cardellú Hernandez, M. Real 42.
+« Fernando Céspedes Arteaga, S. Nicolas 63. » Rosendo Cuervo Urias, Sta. Clara 41.
+» Ramon Fornandez Rodríguez, San Pedro,
+» Nicolás Couto Amereiro, Salud 129. a Calixto Heran Baamonde, Amistad 130J.
+» Andrés Rios Perez, Prado 73. a Manuel Cuervo Urias, Sta. Clara 41.
+» José A. Cortina Sotolongo, Cerro 819. a José María Gonzalez Rojo, J. del Monte 489. » Manuel Acosta Artigo, Bernaza 7 y 9.
+» Angel Rodriguez Viera, S. Rafael. a Juan Tadillas Perez, Romay 39. a Francisco Palanco Rivero, Cerro 446. a Sebastian Masía 'Pelletica, Riela 13. a Manuel Lavin de la Vega, Arroyo Apolo 9.
+» Ricardo Gutierrez Sarmiento, Manrique 135. » Francisco Torres Bosques, J. del Monto 437. » Manuel Gonzalez Chacon, Municipio 29. a José Ramón Petit Fernandez, J. del Monte 481.
+» Buenaventura García Sosa, Municipio 31.
+» Pedro Gonzalez Mendez, Vapor 11.
+» Benito Lloverás, Obispo 1.
+» Modesto Negroredius Prats, Belascoain 24.
+» Ramón Armas Saenz, Marianao, Real, a Juan García, Aguila 222.
+» Domingo Mendoza Angel, Concordia 100.
+» José Nier Valdés, hiela 25.
+» Pedro Rabel Elisando, J. del Monto 290. a Joaquin Canosa Medenes, Monte 65. a Manuel Dopico Fernandez, Revillagi^odo
+a Francisco Luz Duarte, Zaragoza 30. a Félix Frigola Playa, Villegas 75. a Manuel Ilevia Romay, Cerro 564. a Ramjn Alonso Trimiño, Luyanó.
+» Salvador Fei'rer Comas, Bernaza 25.
+» Francisco M. Portillo Lamar. O-Reilly 34. a Nicolás Ramirez Rodriguez, S. Pedro, Puentes Grandes. a Enrique Diago Zayas, Cerro 546.
+» Antonio Campos Sanchez, Cuarteles 1. a Francisco Alvarez Gonzalez, Calvario, a Jacinto Alfonso Diaz, idem.
+» Domingo Suarez Iglesias, San Miguel 173.
+» Joaquin Valle Barceló, Marianao, Sto. Domingo 4.
+a Bernardo García Rodriguez, S. Miguel 175. a Luis A. Salazar Lucen illa, Amargura 49. h Manuel García Boada, Baratillo 3. a Cristóbal Leon Toymil, San José lij.
+« Fernando Rodriguez Parra, Tejadillo 32. a Juan Monendez Fernandez, A. del Norte 273. » Tomás Plasencia Lisaso, Aguiar 29.
+» Bernardo Fuentes García. Luyanó 26.
+» Manuel Casal Fernandez, Estancia la Cam-
+pana.
+» Francisco Portillo Mecias, Compostela 103.
+» Mariano Andreu Silven, Salud 64. a José Crespo Soto, Sta. Ursula Marianao 5. a José Fernandez Oviedo, Virtudes, il Juan Fernandez Albertinez, Oquendo.
+» Francisco Riera Roses, Larnpai illa 68.
+» Andrés López Alberich, Monte 2.
+» Pablo Sotolongo Daunij, Perseverancia 24.
+» José Galarraga Villon, Cerro 518. il José Suaznabar, Cerro 528. a Francisco García Monendez, Omoa 39. a José Miguel Fernandez Morrei, Galiano 84. a José Vega Flores, Castillo A. 13. a José Torres Bosques, Jesus del Monte 437.
+« Narciso Mestre Petit, O-Reilly 19.
+» José Castillo Sárate, Arroyo Naranjo, Real 36.
+» Ricardo Diago Ayestaran, Cerro 546. a José R. Bernal Bernal, Obrapia 42.
+» Onofre Morejon Hernandez, Salud 73.
+« Salvador Nieto Nuevo, Estevez 34.
+» Félix Schea Coicuora, Monasterio 2. a José Aguayo Tomassé, Aguiar 79. u Ramon Dominguez Suarez, Estrella 29.
+» Guadalupe Lopez Hernandez, Ucillo 10.
+» José Anzorena Diaz, Playa de Marianao.
+» Alberto Castro Bermudez, J. del Monte, Qui-
+roga 2.
+» José Guerra Quintana, Estancia Consulado.
+» Ramon Isidro Carboaell Ruiz, Cuba 131.
+« Francisco Nuilez Guerra, Galvano.
+» Juan Dardet Moreno, Cerro 619.
+» Antonio Pulchot Hernandez, Estevez 50. a Pedro Rodriguez Cacailaa, Estancia Ceiba del Agua.
+» Cárlos Perre Liborio, Tejadillo 20.
+» Narciso^Valdés Valdés, Marqués Gonzalez 7. » Matilde^oey Hernandez, Cerro 518.
+» Ramon Recio Morales Sotolongo, Cuba 91. » Hector Delber Dolber, Industria 140. a Juan Sotolongo Cacas, Stos. Suarez.
+» Feliciano Marrero Sanchez, Dolores 13.
+» Joaquin Diago Zayas, Cerro 609.
+» Eduardo Cárdenas Rodriguez, Calvario.
+» Luis Lama Lama, Cerro 729. a Antonio Sanchez Fana, Neptuno sin nùmero, a Federico Andreu Sirvont, Salud 51. a Rafael Alomauy Alemany, Oficios 116.
+» Juliau Gassió Valdés, Aguiar 68.
+376	» Càndido Perez Fernando^, S. Miguel 68.
+377	» José Manuel Roye3 Huerrero, Marqués de la
+Torre 35.
+37S » Felipe Serpa Guerra, J. del Monte 441.
+379	» Joaquin Perez Perez, Canteras 66.
+380	» José de J. Alvarez Rombau, Manrique 13.
+381	» Severiano Zaucadri Salcedo, Carmelo 13.
+382	» Cornelio Coppiuger Lama, Cerro 496.
+383	» Juan Arevaio Gonzalez, Suarez 49.
+384	» Ignacio Felipe Alfonso, Estancia Guerta
+Príncipe.
+385	» José Sotolongo Sotolongo, Escobar 32.
+386	» Francisco Guzman Alvarez, Calvario.
+387	» Antonio Rodriguez Parra, Tejadillo 32.
+388	» Manuel J. Morales Xenes, Cuba 4.
+389	» Benito Gil Delgado, San Jacinto A 5.
+390	» Ramon Corrai Cepeiv, Marianao, Real 41.
+391	» Cárlos Benitez Lamar, Blanco 35.
+392	» Francisco Elmira Martinez, Estevez 80.
+393	» Juan Bautista Citjat Godines, Sitios 4.
+394	» Pedro Perez Miró, Marianao, Real 160.
+395	» Felipe Castillo Raccon, Monte 435.
+396	« Antonio Espina Suarez, Calvario
+397	» Abolardo Montejo Bose, (ierro 552.
+398	» Adolfo Laudata Fernandez Cordova, Neptu-
+no 150.
+399	» Celestino Tomento Ceballos, Marianao, Q.
+Buena Vista.
+400	» Cerrando Ortiz Sanis, Santa Lucia 2.
+401	» Francisco Garcia Garcia, Ciudadelala Guar-
+dia 8.
+402	» Francisco Gonzalez Leon, Luyanó.
+403	» Secundino Bermudez Meireles, San Cristó-
+bal 14.
+404	» Ignacio Castro Azopardo, Puerta (¡errada 1.
+405	» Francisco Colina Padrón, A.. Naranjo estan-
+cia Gota de Agua.
+406	» Miguel Bentro Jaime, Cádiz 1.
+407	» Santiago Alvarez Flores, Galiano 24,
+408	» Esteban Palacio Vega, Lamparilla 43,
+409	» José Bermudez do Castro, Suspiro 12.
+410	» Ignacio Montalvo Covarrubia, Neptuno 57.
+411	» Andres Perez Rodriguez, Escobar 118.
+412	» Manuel Vega Rodriguez, Calvario.
+413	» Miguel Francisco Viondi, Obispo 27.
+414	» Miguel Alvarez Alvarez. Calvario.
+415	» Manuel Abelian Diaz, Palatino estancia Prá.
+416	» Ramon Villageliú Iroía, Prado 64, accesoti A
+417	» Estanislao Sais Ortiz, Marianao, Campa 6.
+418	» Agustín Trevejos Valdes, S. Nicolás 76.
+419	» Ignacio Yurre Valdes, S. Nicolás 71.
+420	» Ramón Piñales Barrero, Belascoain 46.
+421	» Benito Temes do los Reyes, Inquisidor 18.
+422	» José Vivó Fuentes, Empedrado 11.
+423	» Félix López Cuerbo, Soledad sin número.
+424	» Manuel Fernandez del Real, Lucena 4.
+425	« Ventura Girai Lleusa, O Reilly 15.
+426	» Ricardo García Raylleres, Compostela 88.
+427	» Santiago Armada, Jesus del Monte 291.
+428	» José Sampierre Hernández, Calvario.
+429	» José Moreno Carray, Arroyo Naranjo, Real
+51.
+430	» José Coll y Coll, Aguila 325.
+431	» Joaquin Freire de Andrade Bruckaoh, Santo
+Tomás 3.
+432	» Alonso Portillo Martin, Alejandro Ramírez 4.
+433	a José Sautiso Quintana, Cuba 64.
+434	» Ramón Moya Ayala, Cerro 420.
+435	ii Abelardo Ledesma Dulzaino, Prado 29.
+436	» José Orta Cantana, Luyanó.
+437	» Aureliano li vas Sallando, Príncipe 19.
+438	» Santiago Alvarez Aróztogui, Habana 142.
+439	» Agustín Valdes Berraza, Estevez 37.
+440	» Sotoro Osufla Bustio, Obispo 80..
+441	» Francisco Carreras Saget, Dragones 1.
+412 » José Herrera Adroba, Rodriguez 2.
+443	» Benito Godoy Pred, Monsémite 71.
+444	» Francisco Yurre Valdes, San Nicolás 71.
+445	» Manuel Nancho Otero, Cuba 60.
+446	» Cárlos Diaz Nuílez, Suspiro 16.
+447	» José Valdés Bueno, Suarez 33.
+448	« Manuel Cayon Quijano, Ancha del Norte 301.
+449	» Federico Alvarez Padró, Accesoria Campa-
+nario 55.
+450	» (¡arlos Scull Colon, Consulado 126.
+451	» Abelardo Gases Trujillo, Compostela 66.
+452	» Juan Corvo Toledo, Calvario.
+453	a Aurelio Paulo García, Marianao, Real 127.
+454	» Vicente Sanchez Guerra, Zaragoza 7.
+455	« fosó Blanco Barrero, San Nicolás 1.
+456	» Marcelino Cumbran, Pueutes Grandes, Real
+29.
+457	» Luis Padura TrimiHo, Calvario.
+458	a Antonio Araujo Oliva, Perseverancia 8.
+459	« Tranquilino Guzman Padrón, Estancia Pal-
+mar 15.
+460	» Benito Perez Piüon, Suspiro 16.
+461	» Francisco Cabrices Ordines, Cuba 63.
+462	a Leon Checa Morales, Obrapia 99.
+463	» Juan Pan Agua Rufino, San Joaquin 18.
+464	» Lorenzo Lemns Valdes, Marianao, Santa
+Micaela.
+465	» Pablo Diaz Hernandez, Calvario.
+466	» Pedro Carreiro Barreiro, Marianao, Real 42.
+467	» Andrés Campos Fernandez, Zanja esquinaá
+Arsenal.
+468	» Estanislao Yurro Valdés, San Nicolás 71.
+469	ii Luis Azoy Lopez, Águila 79.
+470	» Manuel Campos Martinez, Obrapia 65.
+471	» Venancio Varela Lopez, Santa Clara 41.
+472	» Juan Miguel Herrera Orue, San Pedro 6. •
+473	» José B. Diaz Mañero, San José 10.
+474	» Abelino Llórente, Arango sin número.
+475	» José Francisco Oastell Ñortell, Calvario.
+476	» José Lorenzo Fernandez, Estrella 52.
+477	» Juan Lopez Castro, Revillagigedo 51.
+478	» Francisco Javier Estevez Estevez, Marianao,
+Estancia Sorafina.
+479	» José Antonio Gúerra García, Marianao, San-
+ta Ursula.
+480	» Pedro Lemus Rodriguez, Marianao, Gomera.
+481	» José Corrales Diaz, Belascoain 40.
+482	» Cárlos Galuzzo Morejon, Espada 8.
+483	» Andrés Torres Roselló, San Miguel 92.
+484	» Joaquin Ariza Rodriguez, Neptuno 120.
+485	a José Villamar Landiau, Santa Ursula, Ma»
+rianao.
+480 » Rafael Rúa Díaz, Cerro 474.
+487	» Antonio Comoglio Valdes, Aguacate 26.
+488	» Fernando Pineda Pardos, Calvario.
+489	» Eladio Garcia 1 íreta, Riela 17.
+490	» José Oantorat Coll, Aguila 325.
+491	» Domingo Garda, Estancia Ceiba dol Agua
+492	» Antonio Ponce Galan, Lagúnas 2 C.
+493	a Ramon Samoano del Cuoto, Soledad sin número.
+José Miguel íncháustegui, Obispo 27.	*
+Manuel G. Fornari del Corral, Aguiar 57. Bernardo Tuero Tuero, Vieja, Marianao. Rafael Torres Bosque, J. del Monto 437. Antonio Battle Leon, San Salvador 25.
+Cárlos Junco Pujadas, Jesus del Monto 240. Prudencio Hernandez Diaz, Calvaria.
+Bonito Menendcz Fernandez, Ancha del Norte 287.
+502 » Cándido Bolívar Bertematti, Plaza Cerro.
+José Coch Juga, San Ignacio 82.
+Miguel Marrero Navarro, Luyanó.
+José Pereda Menendez, Monte 147.
+Andrés Martínez, Calvario.
+Francisco Ortega Gomez, Id.
+508 » Abelardo Aguiar Casanova, Real 109. rianao,
+Gregorio Conesa Molina, O-Reilly 102,
+José Novas, A. del Norte 386.
+José lrio Oliva, Empedrado 15.
+José Blandino Rodriguez, Cerro 769.
+José Alvarez García, J. del Monte 406.
+Eligió Valdes García, Aguila 45.
+_ Eduardo Navarro Valdes, Falgueras 13.
+516 » José do Jesus Baesa Lagranje, S. José 98. Habana 5 de Junio de 1874.—El Teniente de Alcalde Presidente de la Junta de Milicias Disciplinadas, Julian Alvarez.-Segundo Rigai.—Agustin Saavedra.—Manuel Ajuria.—José Rojas.-Gaspar Lampea.—Pedro Bassave.— Antonio Pardifias.—José Pantaleon Machado.—Ignacio Gioì. Secretario.
+h
+494
+495
+496
+497
+498
+499
+500
+501
+503	»
+504	»
+505	»
+506	»
+507
+509
+510
+511
+512
+513
+514
+515
+¡Apuesto de veinto peso? A cu la dueño do aquo-: ós, ha acoulaJo reunirse do ido el lunes próxi-Ao oeh > del eorriouto en la Sala Capitular de 3 i 4 de la tarda para contratar ó comprar los [uo so le presenten con las oondieio a es exigí -las; y que so anuncie por lo? piriólicoi de e?ta Capital para cuaocimieut > del público y de toda persona que quiera vender negros.
+Habana tí de Junio do 1874.—.El Secretario, Ramón de E:h ivurria.
+La Sociedad do Ilevia y Bausá lian solicitado de esta Alcaldía Corregimiento matricular para el uso de su propiedad, la marca do tabacos iue poseen eú la calle del Campanario núrn. 126, con el nombre de ‘‘La Mariposa.”
+En cumplimiento de lo resuelto por el Excmo. Sr. Alcalde Corregidor, se anuncia esta petición por medio de la Gaceta oficial á fiu de que el interesado ó sus herederos do otra marca que existió coa ol mismo título puedan hacer sus reclamaciones dentro del preciso término de seis dias, acontar desde la fecha du esta convocatoria y de no hacerlo, se declarará caducada la citada marca que consta matriculada.
+Habana 3 de Junio de 1874.—El Secretario, Ramón de Echavarria.
+Iglesia
+Ma-
+ESCUEU PROFESIONAL DE U ISLA DE CUBA-
+OBSERVATORIO FÍSICO-MHTEOKOnÓClICO.
+Estado de las observaciones hechas el dia 8 da Junio de 1871.
+Abreviaturas.—0. cirrus —n. nimlnisr-p. palt 0—q. cú-rnutus.—3. sereno. La fracción lecnnal ai la io «ie estas letras	HORAS^DE L,\ mañana. tarde.			
+indica la parte de cielo A «jue se refieren.	Las 6.	LulO.	Luí.	Lu C.
+Barómetro reducido			761,00	761,56	760,6?	760,73
+Termómetro centígrado	 Tensión del vapor de agua	 Fracción do saturación		23,SO	31,50	32,40	29,10
+	21,48	22,22	22,23	21,62
+	9 <,00	04,Ug	«1,00	72,0 I
+Anemómetro		0,00	l«i	1,88	0,57
+Dirocoion del viento			SsO	NNO	NNE	N E
+Admidóinetro					1.20 (cq		4.00 u fq cc p	2.00 q s t 1 a c 0
+Estado del cielo			f q c		
+	0 1	0 4	0,1	0.9
+D. Mateo González ha acudido á esta Alcaldía Corregimiento en solicitud de permiso para matricular una marca de tabacos y cigarros titulada «EL General Pardiñas,» para el uso de la fábrica de su propiedad calle del Prado núnt. 18.
+En cumplimiento de lo resuelto por el Excmo. Sr. Alcalde Corregidor, so anuncia esta petición por medio de la Gaceta oficial á fin de que los dueños de marcas de tabacos y cigarros, que so crean con derecho á oponerse, puedan presentar sus reclama.iones en la Secretaría de este Corregimiento dentro del preciso término de diézUíá's, á contar desde la fecha de esta convocatoria.
+Habana 23 de Mayo de 1874.—El Secretario, llamón de Echavarria.
+Junta Protectora Jurisdiccional de Libertos.
+Habana.
+El Excmo.' Sr. Alcalde Corregidor, Presidente de esta lunta, se ha servido disponer, so cite á la persona que se considere dueño de la morena Vicenta Corga ó Cimarrona, natural de Africa, que como cimarrona ingresó en el Asilo deSauJosé procedente del Hamo de Calles y Paseos en 4 de Febrero de 1868, á fin de que comparezca en esta Secretaría á enterarse de ciertos particulares.
+Habana 2 de Junio de 1874.—.El Secretario del Corregimiento, Rafael de Arajon.
+Rocío....................... Vs.
+Canuda i du agua llovida....
+El Secretario.—f. U. Barrena.
+Orlan ie >» Pihzí dai 10 de Junio de 1874.
+Servicio para el fl de Junio.
+Jefe de «lia.—D. A u ton lo P«á, Coronel T miento Corona pihu r Jefa del batallón de Parada.
+Parada y Biliario da la Punta. Voluntarios de Artillería.
+Castillo del Piíuui|ie.—Voluntarios del mismo ba -rio.
+Patrullas.—Primer Escuadrón.
+ida n en Jesús «leí Monte.—2.‘ compañía de Voluntarios del mismo barrio.
+Hospita y provisiones.—D. Miguel Heredia, capí tan de la Comisiou general Liquidadora.
+Médico para las mismas.—D. Fraucisco ¡Roldan, de la Guardia Civil.
+Kl coronel bargeuto mayor, Recaño.
+Colegio de Correlare? y Notarlos Comerciales déla Habana
+CAMBIOS.
+156 A 160 p g P. 60 d(V.
+}-169á 163 p g P. corto.
+.J
+D. Juan Florit ln acudido á esta Alcaldía Corregimiento eu solicita l de permiso para matricular uua marca de tabacos coa el título: Mi Humar, para el uso de la f ibricu de su propie lad, en la callo de la estrella número 145. E i cumplimiento de lo resuelto por el Etcno. Sr. Alcalde Corregidor, se anuncia e3ta petición por medio de la Gaceta oficial, á fiu de que los dueños de marcas que se crean con derecho á oponerse puedan presentar sus reclamacienes en la Secretaría de este Corregimiento dentro del preciso término de diez dias, á contar desde la fecha de esta convocatoria.
+Habana 21 de Mayo de 1874.—El Seoreta-Rzmn de Echavarria.
+rio,
+Exciun. Ayuntamiento.
+Secretaria.
+Expeditos por la Coutaduría Municipal los recibos de lo? predios rústicos de esta jurisdicción, correspondientes al año económico actual, ha dispuesto el Excmo. Sr. Alcalde Corregidor Pre-idente, se publique eu la Gaceta oficial y demas periódicos, á fin de quedos contribuyentes por dicho concepto, ocurran dentro de diez dias á la oficina de recaudación á satisfacer sus .correspondientes cuotas; con cuyo mstivo S. E. ha dispuesto también, se recuérde á los contribuyentes por este concepto y por cualquier otro, á los fondos de esta Manicipalidal, que desde J. ° de Julio próximo, se cobrarán todos I03 recibos que estén pendientes en las oficinas, con el aumento acordado por el Gobierno General de la Isla, y publicado eu los periódicos de esta ciudad.
+Loque en cumplimiento de lo dispuesto por S. E. se publica pv. a conocimiento de los interesados.
+Habana 28 de Mayo de 1374.—Si Secreta-trio, Ramón de Echavarria.
+172 á 175 p.g P.
+A 60 dias vista.
+p. 60 d(V. 140 A 145 p.g 4 60 d( V.
+ta fecha á fi i de que los aspirantes al referido car^o presenten en ésta Sací icaria sus proponeioues en pee-go cerrado y con arreglo a las presen poioms que Cítameos el repetido capitulo uoveuo de lá indicada ¡us-trueeioi'.
+Y de órdeu del Sr. Alcalde Pr ísident , s» hace público al tenor de lo acordado | ara general c mocimieuto y efectos de su tramitación.—Paso R ail de San Uiigo Mayo de 1871.—Adolfo Rui/, de Q, levedo.
+Junta Local de Instrucción publica de Matanzas.
+Hallándose vacante la ¡raza- Uem iesi r.i ’o la escuela de Entrad i de ninas titulan.» «Nu «»trr Seriara del-Mou-rerrut.» sita en e¡ pueblo de (Jnbezas, de e-tijurisi-dicon, dotada coa seiscientos pesos de sueldo aova!;-' doscíeutos cu .tro para alquiler do casa y ciento c n» cuenta para miterid, con mas ol veinte por ciento de aumento sobre el sueldo; y nebí mil > proveerse esta plaza por oposición se ouvoea i aspir mtes ‘ basta ol día doce leí outraut « tees de Junio, A tin de qua presentóla sus solicitudes acompaña las de sus títulos lespectiv.is* eu la Secretar a do la Jnuta L >cal.
+Y de ótden del Excmo, ¡Sr. ¡Brigadier Gob ornado* Presi leute, se p'ublic» pacacouomniieiiiogn ral. -Matanzas y í.íayo 12 de 1871.—El Vocal Secretario, Salvador (J jndaiumas.
+.1 unta local de Instrucción Pùbi ca.—(fjCretiría.— Por renuncia de su destino que A causa de enfermedad h i hecho D. To uás González B irmi, maestro de L escuela de Cartagena, yen cumplimiento de resolución'' supetior en el expedieut « del asunto, se publica votivo1-'*' catoria de aspirantes ií dicha plazo, que se ha de pío-veer por oposición c >u arreglo al articulo sesenta del Ktglaureuto y A la circular de diez y ocho de Setiembre de mil ochocientos se ieut 15 tres.
+La plaza está dotada C ni cincuenta j esos do sueldo mensual; oca pesos cincuenta ceutavo- pora material y diez y siete pesos de alquiler de la casa.
+Los Hspirautes presentarti i sin instancias con las formalidades qua 4eterm.ua el Reglamentoon Iah-üii:-*-taria de mi cargo hasta el día quince d. Juino próximo.
+Vencido dicho plaz • y en vi-ta de las solicitudes que se liayau presentado, esta Junta fijara di i para los ejercicios de oposición, anunciándolo opo tunamente para que pue an concurrir los ínteres i.Ion—üieufnegos lode Mayo de 1874.—El B.screurio. Antonio Alean Gallano.
+Ea cuirancy.
+116 á 121 p.g á 60 d(V.
+Contribución Municipal.
+Expeditos para el cobro los recibo3 que corresponden al año económico corriente y al gremio de Fábricas de tabacos y taba juerias de menudeo, el Excmo. Sr. Corregidor tVos'dente, se ha servido disponer que los expreiadoa recibo», catea al cobro en la oficina de Recaudación por eL plazo de 15 días á coutar desde la fecha, del ¡presente auuucio adviniéndose qua vencido el iu licado plazo se procederá á cobrar á domicilio cou el recargo del.2 p.g que dispone la ley.
+Lo que de órdeu de S. E. se publica por este medio para couoeimieuto general de Io3 agremia los.
+Habana 2 de Junio de 1874.—El Secretario, R imon de Echavarria.
+Ea aro.
+1 IO A 142 p.g F. 60 il(v.
+143 á 145 p.g P. corto.
+La Comisión nombrada por el Excmo. Ayuntamiento para la adquisición de esclavos para el servicio de Milicias cou el producto dol
+TUUCF.Ut Siitelo«.
+(jmi iu lancia Miniar «1c If trina del Api« (.ulero «lela llana.»».
+H.recc".u ile leaervr.
+D. Francisco Giren» y C irhonell, (Jorouel gra inaio Tt-uieute C >r.m**l ilei Re'imitino- Artillería ile Mon tufi » v J-»»-z Fiscal ile 1 » c-uiia ’tue se mstru ye ai Capitan ilei Cue po, U. R.ifiel Hílate Kodriguez. HibiCnl se Au-*Siit»ili> Uè es a p aza el Capitan del Cuerpo t). .íaftM U .Ut > y J Irigjez A quien e«toy procesan lo por ie f »le i, us nido de la juris luición quo eu estos casos o rnee lau las Ordena i/a» A 'os Otiri »íes del Élércicó, p >r u presente 11»mo,-cito y emplazo por este s -guado e lieto y pregan a diono Capitan l». R ifael Ubato seflalá id de e. cuerna ds guard.a del cu ut-d del Linimiento Aitil e ía de Muutufi i doulodebirá comparecer personahnente dentro uol término de veUlte lias que se cuéutau desde el de la fecn i A dar sha des Cargo ; y de uo comparecer eu el r* f irido p azo se se • zuiza ia causa y se sente iciará eu rebeldía por el delito 'oas grave entre el desfalco y ei quo o usó su fuga. Fíjese y pr-góutse este edicto para que llegue A uoiicin de ,odO< —Habana 11 de Maro de 1874—V? B? —El Coro-nei Tei.ieuie Coronel Fiscal, Gncia.—Por ili manda* o.—El Aj u i»nt i decretarlo, Juan 1,. cenen.
+Ilustrisiiiio cabiHlo eclesiástica «le l.i MauHua.
+Cocrctarlü.
+Por acuerdo celébra lo en 2 d .1 ao.ual se anuncia al odbiici que se h dia vacante en esiaiSanta I«iesia Catedral una de lus plazas de Capellán de Uoro dotada con dsueldo anual de qu meneos pesos, A fi i deque los aspirantes & día préseuteti sos correspondientes s ilícita if-s per conducto de esta s cretaría tle mi caigo eu el término de diez di is contados desde esta feoh .
+lltbiuaS de Jumo ds 1871,—Induro Serrano, Be < cretario.
+üla Irid .......
+üiree.nua .................
+.•Santander................
+Bilbao....................
+8an -deoastian.............
+Oádiz......................
+8evilla .............
+Otras plazas de España.....
+! ió mires..... ..........
+lii vori-col...............
+L ver ¡uní pag.'eu Londres..
+Bristoi...................
+Bristo! pagf en Léudres....
+Glasgow ..................
+Glasgow p:*-g? eu Lóadres.,
+Gr.-enocu..................J
+Oree íoclt na«? e i Londres... j 139 4 H! p.g
+Hamburgo...................
+París Frunojs..............
+Havre-—* ............¡.....
+Havre pagadero eu París....
+Mursella...................
+Marsella pagadero eu Paris...
+Rurdoos....................
+B ardaos pagadero en Paris...
+Na ates....................
+Nantes pagadero en Paria...
+Naucy......................
+Na ley pagadero en Paris...
+Ambares....................
+Av»'>eres pagadero en París.
+N :w York..................
+«i-l u.....................
+B 11 oag? eu N. Yorn.......
+B iltin ote..............
+Raltiiuore pag? euNew Yoik
+Filado! da.............
+Fila tenia pag? eu N Y< n... |
+New Gt loaos................
+N. OrUans pag? eu N. York.. |
+Mobil a.................... . 121 á 125 p.g P. C[V,
+Mrbíia pagV eu N. York.....•
+Portlaud, pagV en N. York.. |
+tiaagor....................j-
+tf..ugor. pagí eu N York.... |
+Providencia................
+P-svíilenoia pagí en N York
+Moutreal...................
+Mo itreal, pag.1 en New York
+Bn >tnl....................
+tSf.iju» pag?en N. York....
+'Vilmiugtou................
+vVílmiutziou pagVeu N York.
+tíuií'ax ..................
+H-.iitax, pagf eu New York.
+Fraaoktort.................
+daockfori pagí eu N. York
+Ouzas mejicanas............
+Pesos ídem en la plaza.......
+Pesos ídem A burilo .......
+Pea .A ide n en depósito....
+Pesos columnarijs..........
+uro americano acuñado .....lNomlual.
+Oro del cuño español....... J
+Descuento mercantil........ 12 A 15 p.g anual.
+O-o eu el Banco Eqiafi »1 para pago? de derechoi al 140 p.g premio.
+ACCION EK.
+Compañía de Oamiii s de Hierro 25 aos, 13 p.g D. A de la Habana................... 1 mes plazo.
+MERCADO NACIONAL.
+AZOCARES.
+Blanco trenes de Uerosueyj
+Relieux, bajo A regular..|
+Id. id id. id. bueno Asuperior '
+Id. id. id. id. íl irete...
+Cogucho iulerior A regmar u?
+8 A 9 (I*, tt..)............ m
+Id. bueno á superior u? íü A Nominal.
+II id................... —..............
+Q lebra to mfeilor A regular
+u? 12 A 14 id............
+Idem bueno n? 15 A 16 id.....
+Idem superior........ • MI ••••••
+Id. ¿ore e n? 19 a 20 id.......
+MERCADO EXTRANJERO.
+N? 12......... Nominal.
+CENTRIFUGAS DEGUARAPO.
+N? 8 A 10..................1
+... 11 a 12................1-Nominal.
+... 13 A 14................ i
+... 15 A 16............... J
+Azúcar de mleu en caja ó en roooy.
+N? 7	a 8..................1
+1	A	10................I
+... ií	a	12................f-Nominal.
+... 13	A	14................ I
+... 15 A 16................J	„
+MASUABAuoDE GUARAPO EN BOCOY.
+Inferior A regular.........}
+Bueno A superior..........- vNomiual.
+Consumo....................)
+Habana 10 de Junio do 1871.—Por el Sindico, el 2o adjunto, M. M. Carbó.
+i
+CUARTA SECCION.
+OFICINAS DEL INTERIOR.
+Ayuntamiento d • 3 in A itonio de lo? Baños.—Secretaria.— Por acuer *o d i e?t<? Cu trpo Capitular eu cabildo ordin »rio celebrado ei dia 15 iel actual y con la aprob »clon del Gobierno Gsueral de esto» isla «le 4 dol mismo, se cjuvoca por me lio de este anuncio y por el término de treiuta dice cantados desde la fecha eu que por pr'ua.tra vez salga A luz esta convocatoria en 1» Gacela « Acial de la H »ñau • alus ar |uitectos 6 personas facultativas que «leseen optar Ala plaza «le maestro de obras «le este M micipio, «lutada culi el sueldo anual de mil quinientos pesos, la c »a be encuentra vacante por uo Uubursa pr asentado el nombrado para servirla, A tomar postaban de su destino, debiendo oonourrir A esta tíjcretiru» los aspirantes A dicna plaza oon los título? q«»e »crediieu su suficiencia. — San Autouio 28 de Mayo «le 1874.— Leandro G. Rimen.
+II istre Ayuntamieut) de Paso Real de Sin Diego. —Secretaria.—Declárala vucaute la Mayoidomía de Propios de esta L'orporaoiou por haber termina 10 la pròroga concedida cou arr -glo al artículo ochenta y seis,’ capítulo uoveuo de la instrucción vigeute ai que la ve-niu de?eiupeQ»a«io, A «cord ido este Ayuntamiento que se anuncie ul público por medio de eiíiotose » 1 >s par»-jes «le costumbre y anuncios eu la Gaceta oficial de la Habana, por término de tqeinta diaci á contar desde es-
+tiüIJSTA SECCION.
+AUTOS.
+»,.j
+Ldo. D. R »mon José Rodríguez, He 'rehirió del juzgado de primera lustauc a le esta ciudad.
+Certifico: que en el ?t-g 111 lo rollo «te la primera pieza del concurso necesario ue J. Francisco Uamon Cusa' RdS, se lia tenido por los aereadn os el acuerdo que A ia letra dice:—“En la ciudad de Cárdenas eu quince ,lo Abril de mil ochocientos setenta y cuatro.—Tura 1* .
+J unta dispueet» siendo las doce del di 1, se reuiiierou eu . el juzgado el procurador i.'. Anterior Betueiuour,, apo?. iterado del «i ud>«r oouiuu D.* Frau óseo Rapion O isur . ñas cou su abogailo director Di. U. Jovmo García Tuñou; ol procurador U. Bernardo «anillen Ano abre de L). N ><i * «¡iso Billt, de D. M n uel Echenique y de la socied 11 «lo. Gómez, <lamino y Compañía, el primero por la mima Us mil trescientos seso,«ta y cinco pisos veinte y in» , centavos, el segundo por lude setecientos ocie uta y nueve pesos sesenta y cinco centavos y el t reero por mil cuatrocientos ir. mta y tres pesos euareuliy ir«^., centavos, co«i sus ahogados directores Ldo. D. Tomás Eusebio Díaz, i). J uan Valdés Pa^éiy D. Calixto L e- , rundís; 01 procurador D. Joaju'u «le Maicileiu, apode-, ra«lo sustituto del acre.-dor hipotecario D. Joaquín .lie-dina, por la suma de treinta md seiscientos veint,« ps .. s s, con su abogado director y api» ierado, L l«>. D. J *aé M «ría Feruanutz de Castro; el propio procurador Mai¡-¡ , loleta, apo ierudo sustituto de la 8 iciodad do Aroinj,,, Hermano y Couipiüía, acreedor por a suma >0 m i trescientos trece pesos veinte v orneo centavos, que ir.ij’o tamnieu por su director al referido LJo. Diazj el propio;
+D. Tumis Eusebio Diaz, A uoiubre de D. M «uuel Rive^¿ ra y Rabio como heredero de su legítimo ¡1 idre D. Mu-uu««l, por ia > ama de cuatro mil «icUuoienLos cuarenta y seis pesos y por ia suma «ie setecientos ses uta y un pa ^ sas sesenta eeut-t vo?, según pagarés con la li inza do l). Joaquín Mediua; el procurador D. ituinou Pagos, ap«> dtra 10 del acreedor D. Bernardo Reyes, acreedor por la suma le mil doscientos ochenta y ocho posos, que concurrió oon su «bagado director, Ldo. D. Lino Caoi-()Os._q'4lU0ieu concurrió el procarudo • U Biruardo Guilleu apoderado sustitulo de D. iLutingo 3 une, acreedor 1 or mil quinieuto? treinta y nueve pesos treinta,y euatio centavos, dirigido por el referhio Ldo. Diaz; 1^. Pedro B isen que concurrió por si como a iré ior por Ja, sumado ochooieutos set-.-uia pesos, seguí» p «garó que eXUibió; D. Bernardo Alvaiez que igualmente coucnr-i rió por .-i y OcUlO endosante d ■ 1J José Cuiu.ih,ii:1’ol-uor eu ftmbot couce, toa por la suma de uní «JoscieutijS ciucuenta pesos diez y siete ceuLavos, según los tro- pa-gurós que presentó «u e-te neto; D. Manuel Liuar,«i« que concurrió p«>r sí y ucreedor por 11 sama ae mil uo'-veoieutos un pesos.—Abierta la j aula «o «J.O lectura por mi el escribano A la memoria vmblo n f j »s lie , a iu relación de bienes de la nueve, citado «le «leuda» «le |,i diez y en r to de cesión «le n» «lie/, y seis. Y eu este estajo se propuso por iu represemuoioú «iel deudor ol guíente convenio; —Primero: qao si los acreedores 140 1 ucoutras-cu error ú omisiou en la lista que completóle lodos los que lo son al coucurso, so i touu<>z;uu de-do luego sus créditos.—Segundo: «pie a 1 mili dos todos los' jasliticaniea «ie estos, se sirva el Sr. Jaez do par« «ado pronunciar Iu oportuna seulouoia «le pradua» ciou como si el juicio hubiera corrillo todo este tramite. —Tercero: quena« Vez hecha iu graduación, se pr ice la al pago de los créditos eeguu la misma y a prorata eu cada uuo de los estados respectivos, según se vayan percibiendo lo plazos que 1» compradora «leí ingenio ««Di-chose» adou-ia, a coya «feo o «os acreedores acoplan ia cesum do tonos los bieues «luí deudor.—Cjlario: «ju«j |i„-ra percibir el importo de ios plazos referidos y «li■«tribuirlos eil su dia outro l«>s tiernas ao-eudoio», después de saiisfacsr las costas judiciales ocasionadas y queso causaren,se nombro uuo de e»t¡ s plena tiente auuoizado para lia -er el cobro y »0. ventar en su caso ia» obligaciones á cargadal c mouiSo.-Y quinto: qu • el ucl' -odor elegido pura percibir y pag»r se.» autoriza lo también 1 aii» onageuarea ia forma mas ventajosa a lo Huleros :.-«do fa maiu, ios terrenos que couslau «¡suel número segundo 10 ia relación de bienes del doudor, confiriéndole para to lla esto el poder que sea necesario y con la c.afisuia «le poderlo sfismuir para pleitos.—Puestas A discusión estas bases de convenio y t ncoutrauao.as su» uereedores 1^-ueficiosas eu todo lo pu»ib e par. sus uilete-es, siquiera para que se ecauoiaicen grandes gastos y costes judiciales, las aprueban eu to-Jas eUs parte.-, ««mnlituyeudoio A estur y pasar por su contenido, A excopelou «jeí acroq dor D. Mauue. Uiveia que por »1 y como representante de su dituuto padre, se reserva »u derecho paiu r. c 1-mur contra ei Uauor y principal obligado, tan lu«-g > como lo creyese oportuno; que en ixTiia-joaeucio «leía aaroiittoiou ospresada por ios domas acreedores, innil-oían estos A D. Manuel Linares do este poní icio y v>j.-ciniiario para la ejecaoioa fim encargo o »mondo por Qs clAdsnli's cuarta y quinta «lo tsie couvenio, cominéu-dosele todas las \«cu.tades consignadas ot» los iinfl-ups números co u(> si í leran otorgada» eu esoruuia públic f, y por fiu que se inHtrjya de este convenio A 1 s acreedores que no asistieron, oouc -dlfildoie- el téroono «lo quince días para oponerse A él y presentar (os que no.lo lid Oleran hecho los títulos justlüo itivo 1 fie sus créditos ó las iuíormaciuuoB supletor.as para que oUudu dictarse eu fui mu la sentencia de graduado.1. Y uo nab.ouiio otra cosa Bolate «¡ue acordar, ae Uió por terminad 1 jauta próvia lectura uel ana qu» Lodos epccuiraron conforme y eu su vi»t» aprobaron y mUlioaiou liro.au do cou 3. 8rii. de que doy ié.—Aoies.— (’«amas R. Díaz.
+—	Lio. Lino (Jampas.—Josquiu de Maroelit «.—Ldp. Calixto Lleraudis.— ür. Jovmo G. Tuñou.—L to. Jo»é Ma la Feruaii iez .e «Jastro.—Ldo. Juan V. r'agó». — B marco Guillen.—Mauuei Rivera. — Alan ucl Liourcij.
+—	Pedro Bo Cfi.—B »ruardo Alvarez.—A. Bjtnuooui i,.—
+Ldo. Ramón J. Rod«lguez. ’—Y para bu t.uul c.icion.lj-nro la p. eseuls eu O trdeuaiy J unió 2 de JSid.j-rJi | Ramón José Rodiig .ez.	A u 13 ,
+El br. Juez «le primera iustan- i» de e»tn p.iRlo judicial por cousecueucirt de la testamentaría de D. Md-uuel y Di Dalores Gauz«lcz que cura» por ame mí,.ce ha servido disponer la insercicu en tros mimaros fio G icet» oficial del auto siguiente:—“B-juc»l Felir^i» veinte y ochidd mil ocnocieuio « soten o» y miatrq^j-Oousideramio: que por providenci»«le veiuto y uutv.i d.- Julio próxim 1 pasado sé dispuso convocar por ocho número« eoaaecutivoa de la G »cela oficial de u capital A los Hijos, metía» y descsudienles legitmu.s h ‘redero* de D. M»uuei y Di Dolores G mzalez, para «jila 011 pl término de «iuiucc alas compareciesen a constituir si?» poderes ios mayore« y uo ubrur curador los incu >,rea con expreso apercibimicuLode «¡ue «le uo hacerlo «leuja-o «le e»e lérunuo, mu illas iamai 1 ss se conferiría la repre• seutaeiou de su» derechos ul Prour itor lisca« co 1 cuyo ministerio se eiuenderiau e i lo sucesivo l->» liAmiics del juicio produciendo los lilísimas resulia ios juu si us-inviesüu presentes.
+Uouslderaüdo: que llevAuJo-e efecto di», lia proyl-deuoiu seguir oertiheaciou «lol escribano D. Rduel «Jet Pino, fojas oua recieutas ciucueiilt» vueita, se uicier*»u lascouvocator.us eu la G icen» de los días veiuie y nueve, treiuta y treinta y uuo de tíetieiuor «, y do¡, ir,««s, cuatro, oiuco, seis y siete del mes de Oeuiüre «leí ggu ¡iróxiuro pasado, sin que onusto en cuatro meses qgo hall Iruscuri lo que so haya persona lo utas que el Ji lo. D. Calixto G m/alez.
+Co.isiUeraudo; qua el resp-to «jue merecen las «lis-rrosíemnes judiciales por un lado y por otro aternlié/i-UoseA ia circunstancia de que la rebeldía y uegfigbugia de algunos interesados uo debe perjudicar el d reciio de los demas que desean la leruiluaolou del juicio qua oneulu ya treinta afios do exis.eauia, lie . A ulose a talante empercibimieuto decretado eu caus-m iucia «jjyr lo proveído en veinte y nueve «le J filio dol año próximo pasado y de io que dispone la Real cédula ue treiuta
