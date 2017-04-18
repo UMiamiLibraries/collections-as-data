@@ -1,0 +1,102 @@
+﻿860
+GACETA DE LA HABANA
+de las expresiones fraccionarias.—Transformaciones y procedimiento operativo.—Formas simbólicas que proceden de la fracción.—Ejercicios.
+Propiedades de los Polinomios enteros.—Definición.—Teoremas relativos á los polinomios enteros.— Método de los coeficientes indeterminados.-Ejercicios.
+^POTENCIAS Y RAÍCES DE LAS EXPRESIONES ALGEBRAICAS.
+Cálculo de las cantidades radicales.—Definición. —Algoritmo.—Necesidad de operar directamente con radicales.—Determinación aritmética de un radical.— Transformación de los radicales.—Operaciones con las cantidades radicales.—Escolio.—Racionalización de los denominadores de ciertas expresiones irracionales. —Ejercicios.
+Elevación á potencias.—Definición.—Algoritmo. —Potencias de los polinomios.—Fórmula de la potencia de un binomio.—Fórmula de la potencia de un polinomio.—Variación de las potencias de una cantidad. —Ejercicios.
+Extracción de raíces..—Definición.—Algoritmo. —Raíces de los monomios.—Raíces de los polinomios. —Condiciones para que un polinomio sea potencia perfecta.—Raíz inexacta de los polinomios.—Variación de las raíces de una cantidad.—Ejercicios.
+PROGRESIONES.
+Progresiones por diferencia.—Definiciones.—Algoritmo.—Propiedades Se las progresiones por diferencia.—Interpolación diferencial. —Ejercicios.
+Progresiones por cociente.—Definiciones.—Algoritmo.—Propiedades de las progresiones por cociente. —Escolio.—Interpolación proporcional.—Aplicaciones de las progresiones por cociente á las fracciones decimales periódicas.—Ejercicios.
+LOGARITMOS Y SUS APLICACIONES.
+Preliminares.—Definición de logaritmo.—Sistema de lagaritmo.—Base del sistema.—Algoritmo.— Consecuencias.—Propiedades de los > logaritmos.— Proposiciones generales.
+Logaritmos decimales.—Definición. — Propiedades particulares de este sistema.—-Tablas de logaritmos decimales.—Definición.— Descripción de las tablas.— Uso délas tablas de logaritmos.—Principios fundamentales.—Problema directo.—Problema inverso.—Ejercicios.
+Cálculo logarítmico.—Utilidad del empleo de los logaritmos en los cálculos numéricos.—Multiplicación. —División.—Potencia.—Raíz. — Ejercicios. — Aplicación de los logaritmos á las reglas de interés compuesto y á las anualidades.—Fórmulas relativas al interés.—Fórmulas relativas á las anualidades.—Ejercicios.— Regla de cálculo.—Objeto de la regla y medios para realizarlo,.—Descripción de la regla.—Uso de la regla.
+APLICACIÓN DEL ALGORITMO
+algebráico á la resolución de las ecuaciones.
+Planteo de problemas
+y principios generales de transformación.
+Preliminares.— Identidad. — Ecuación. — Sistema de ecuaciones.—Procedimientos para plantear los problemas.— Transformaciones que puede experimentar una ecuación.—Objeto de las transformaciones.—Teoremas fundamentales de transformación.—Forma general de una ecuación.— "transformaciones que puede experimentar un sistema de ecuaciones.—Objeto de la transformación.-Transformaciones aisladas .-Transformaciones de combinación.
+ECUACIONES DE PRIMÉr GRADO CON UNA INCÓGNITA.
+Resolución de la ecuación.—Discusión de la fórmula.—Ejercicios.—teorema ELEMENTAL DE LA ELIMINACIÓN.—Definición.— Necesidad de la eliminación.— Método de substitución.—Método de igualación.—Método de reducción.—Método de factores indeterminados.
+ECUACIONES DE PRIMER GRADO CON DOS INCÓGNITAS.
+Resolución de todos los métodos expuestos de eliminación. —Observaciones. —Discusión. — Ecuaciones homogéneas.—Ejercicios. ,
+SISTEMAS GENERALRS DE ECUACIONES DE PRIMER GRADO.
+Diversas clases de sistemas.-Forma determinada. Forma indeterminada.—Forma de incompatibilidad.— Ejercicios.
+INTERPRETACIÓN EN CONCRETO DE LOS VALORES DE LAS INCÓGNITAS.
+Consideraciones generales.—Aplicación á algunos ejemplos.—Planteo, resolución y discusión del problema de los móviles.
+ANALISIS INDETERMINADO DE PRIMER GRADO.
+Objeto de análisis.—Soluciones enteras de la ecuación de primer grado con dos incógnitas.—Soluciones enteras y positivas.—Soluciones enteras de los sistemas generales indeterminados.—Ejercicios.
+ECUACIONES DE SEGUNDO GRADO.
+Resolución de la ecuación completa.—Obtención de la fórmula.—Discusión de la misma.—Relaciones
+entre los coeficientes y las raíces.—Diversas clases de raíces.—Signos de dichas raíces.—Ejercicios.
+Propiedades de trinomio de segundo grado.—Su descomposición en factores.—Variación de signos.— Resolución de las ecuaciones de segundo grado incompletas.—Objeto especial de esta resolución.—Anulación de un solo término.--Anulación de dos términos. —Anulación de tres.—Ejercicios.
+ECUACIONES DE SEGUNDO GRADO, CONTINUACIÓN.
+Interpretación de las ralees en la resolución de los problemas.—Caracteres de esta interpretación.— Su aplicación á algunos ejemplos.—Problema de las luces y su discusión.—Problema del pozo y la suya.— Caso en que es muy pequeño el coefidente del término de segundo grado.—Inconvenientes que presenta la fórmula general.—Cálculo de la menor raíz por aproximaciones sucesivas.—Ejercicios.
+Geometría.—Texto: Ortega.
+GEOMETRÍA PLANA.
+INTRODUCCIÓN.
+Línea recta.
+Propiedades de la linea recta y de la linea quebrada.—Línea recta.—Línea quebrada.—Angulos.— Definiciones.—Magnitud de un Angulo.—Perpendicular.—Propiedades de los ángulos.—Perpendiculares y oblicuas.—Perpendicular.—Propiedades relativas de las oblicuas.— Lugares geométricos. —Paralelas.— Propiedades.—Paralelas cortadas por secantes.
+POLÍGONOS Ó FIGURAS FORMADAS POR LÍNEAS RECTAS.
+Definiciones.—Triángulos. — Clasificación.—Propiedades.—Igualdad de triángulos.—Nuevas propiedades.
+Cziaí&'z'tóíeros.-Clasificación.-Propiedades.-Igual-dad de paralelógramos.— Polígonos en general.—Propiedades.—Igualdad de polígonos.—Simetría de los polígonos.
+CIRCUNFERENCIA.
+Propiedades de la circunferencia.—Definiciones. —Propiedades.—Propiedades relativas de la recta y la circunferencia.—Cuerdas.—Tangentes.-Normales. —Secantes y tangentes.—Posiciones relativas de dos circunferencias.—Posiciones distintas.—Línea de los centros.
+MEDIDA DE LAS LÍNEAS Y ÁNGULOS.
+Preliminares.—De la medida en general.—Medida directa.—Medida indirecta.—Magnitudes proporcionales.
+Medida de la linea recta.—Medida de un arco.— Amplitud de un arco.—División de la circunferencia. —Transportador.—Arcos correspondientes.
+Medida de ángulos.—Evaluación en grados.—Angulos en el círculo.
+PROBLEMAS.
+Consideraciones preliminares.—Instrumentos.— Reglas para el dibujo.—Problema sobre la linea recta.
+Problemas sobre polígonos.
+Problema sobre la circunferencia.
+Obsdrvaciones generales sobre los problemas.— Procedimientos generales.—Métodos especiales.
+LÍNEAS PROPORCIONALES Y SEMEJANZA DE FIGURAS.
+Consideraciones preliminares.—Proporción harmónica.—Segmentos proporcionales.-Entre paralelas. —En un triángulo.—En un círculo.
+Semejanza de figuras.—Definiciones.—Semejanza de polígonos.
+Semejanza de figuras.—Propiedades de las figuras semejantes.—Homotecia.—Definición general de semejanza.
+. Propiedades y relaciones métricas en un triángulo. —Problemas.—Sobre segmentos.
+Problemas.—Sobre tangentes.—Construcción de figuras semejantes.—Compás de reducción.—Escalas.
+POLÍGONOS REGULARES.
+Polígonos regulares convexos.—Polígonos regulares estrellados.
+Problemas sobre polígonos regulares.
+MEDIDA DÉ LA CIRCUNFERENCIA Y RELACIÓN DE ÉSTA CON EL DIÁMETRO.
+Consideraciones preliminares.
+Medida de la circunferencia.—Longitud dé la circunferencia.—Rectificación de la circunferencia.— Longitud de un arco.—Relación de la circunferencia al diámetro.—Método de los perímetros.
+Areas.—Determinación de las áreas en las figuras rectilíneas.—Determinación de las áreas en las figuras mixtilineas.—Determinación de las áreas en el círculo.
+Comparación de áreas.—Areas de figuras cualesquiera.—Areas de figuras semejantes.
+Comparación de áreas de figuras isoperímetras.— Máximos y mínimos.
+Problemas sobre áreas.—Transformación de figuras.—Construcción de figuras equivalentes.—Construcción de figuras cuya extensión guarde relaciones determinadas con la de otras.—División de superficies. —Areas de polígonos regulares.
+GEOMETRIA EN EL ESPACIO.
+RECTAS Y PLANOS.
+Determinación de un plano.—Posiciones relativas de dos rectas.—Idem ídem de dos planos.—Idem de recta y plano.—Rectas paralelas.—Paralelismo de rectas con planos.—Planos parálelos.
+Rectas y planos perpendiculares.—Planos perpendiculares.—Horizontales y verticales.
+Proyecciones.—Angulos de rectas con planos.— Mínimas distancias.	itit
+‘JS’
+PROBLEMAS SOBRE REGÍAS y PLANOS.
+Rectas y planos paralelos.—Rectas y planos perpendiculares.;—Mínimas distancias.—Trazar una recta que corte á otras tres que dos á dos no determinen un plano ni sean las tres paralelas á uno mismo.—Trazar una recta que siendo paralela á su plano, se apoye en dos rectas que se crucen.
+COMBINACIÓN DE PLANOS.
+Angulos diedros.—Definiciones.—Angulo rectilíneo correspondiente á un diedro.—Medida de los diedros.—Angulos podriedos.—Definicioñes.-Nomencla-turas y clasificación.
+Angulo triedro.—Propiedades.—Igualdad de triedros.—Angulos poliedros.—Propiedades. —Igualdad de ángulos poliedros.
+Lineas y superficies curvas.—Líneas curvas en general.—Superficies curvas en general.—Generación y clasificación.—Propiedades generales.—Plano tangente.—Superficie de revolución.—Propiedades.—Superficies regladas —Superficie alabeadas ó ganchas.— Superficies desarrollables.
+j Superficie cónica.—Generación y definiciones.— Propiedades.—Plano tangente.—Desarrollo de la superficie lateral de un cono.—Superficie cilindrica.— Generación y definiciones.—Propiedades.—Plano tangente.—Desarrollo de la superficie lateral de un cilindro.
+Superficie es/énca.-^Generación y definiciones.— Propiedades.—Plano .tangente.—Posiciones relativas de dos esferas.-*-Angulos en la superficie esférica.
+Polígonos esféricos.—Definiciones. —Propiedades. —Triángulos esféricos.—Propiedades.— Igualdad de triángulos esféricos.
+Figuras sobre la superficie esférica.—Problemas sobre la esfera.—Radio de una esfera sólida.—Arcos de círculo sobre la esfera en condiciones determinadas.—Construcción de triángulos esféricos.
+POLIEDROS.
+Definición y clasificación de los poliedros.—Pirámide.— Definiciones.-Propiedades de los tetraedros..— Propiedades de los pirámides en general.—Prisma.— Definiciones.—Propiedades del paralelepípedo.—Propiedades de los prismas en general.
+Poliedros en general.—Propiedades.—Poliedros regulares convexos.—Tetraedro.—Exaedro ó cubo.— Octaedro. —Dodecaedro. —Icosaedro. —Todo poliedro regular es inscriptible y circunscriptible.—Poliedro conjugado.
+COMPARACIÓN DE LOS CUERPOS POR SU MAGNITUD, FORMA Y POSICIÓN.
+Igualdad.—Igualdad de poliedros.—Determinación de un poliedro convexo.—SiwíeMa.—Definiciones. —Simetría respecto á un eje.—Simetría respecto á un centro ó á un plano.
+Diámetros y planos diametrales.—Diámetros.— Planos diametrales. — Semejanza.— Definiciones. — Propiedades. —Homotecia.
+Areas.—Poliedros.—Superficies curvas.
+Volúmenes.—Poliedros.
+Volúmenes.—Cuerpos terminados por superficies curvas.—Fórmula de Simpsón.
+Comparación de áreas y volúmenes.
+Comparación de áreas.—Idem de volúmenes.— Idem de áreas con volúmenes.
+TRIGONOMETRIA RECTILINEA. - Texto: Pallete.
+Elementos que fijan la posición de un punto y deuna recta.—Conveniencia de unir los principios del Álgebra con los de la Geometría para resolver gran número de cuestiones.—Posición de un punto sobre una línea.—Convenio de los signos.—Ventajas que de él se alcanzan;—Su comprobación, discutiendo como ejemplo el problema de dividir una recta en media y extrema razón.—Posición de un punto situado en un plano.—Posición de un punto en el espacio.—Posición de una recta en un plano.
+Lineas trigonométricas.—Su necesidad.—Definición de las líneas trigonométricas.—Notación.—Estudio de las variaciones de valor y signos de las líneas trigonométricas cuando el ángulo varía desde cero 4 cuatro rectas.—Líneas trigonométricas de los ángulos mayores que cuatro rectos.—Fórmulas de los ángulos que tienen el mismo seno y de los que tienen el mismo coseno.
+Proyecciones de las lineas rectas.—Proyecciones de un punto sobre una recta.—Idem octogonal.—Proyección de una recta sobre otra.—Idem de una quebrada sobre una recta.—Valor de la proyección de una recta sobre otra.—Valor de la distancia entre dos puntos.—Problema l.° Dadas las coordenadas de un punto con respecto á tres ejes, determinar su abscisa octogonal con respecto á una recta que pasando por el origen forme con los ejes ángulos conocidos.—Pro-

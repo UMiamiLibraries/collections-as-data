@@ -1,0 +1,16 @@
+﻿197
+G AGITI DE LA HAß AN a
+Modelo Dúm. 2.
+REGISTRO FISCAL DE FINCAS URBANAS
+%
+Situación de la finca por la entrada principal, calle, plazuela, travesía, callejón, lugar, etc.	Manzana.	NUMERO		Su cabida en metros cuadrados.	RENTA		TOTAL de la renta anual.	Baja de la parte por huecos y reparos.	Producto liquido que tributa ó tributará en su día.	NOMBRE del propietario ó poseedor.	OBSERVACIONES.
+		Viejo.	Nuevo.		que produce por locales destinados sólo á habitaciones.	que produce por locales destinados & industria, comercio, oficinas, etc.					
+											
+Traslaciones posteriores elei dominio de esta linea.
+DIA.	MES.	AÑO.	CLASES DEL ACTO 0 CONTRATO.	NOTARIO QUE LO AUTORIZA.	NOMBRE DEL ADQUIRENTE.	OBSERVACIONES.
+					»	
+Modelo Dúm. 3.
+PADRON DE LA RIQUEZA URBANA Y SOLARES
+NUMERO DEL		EDIFICIOS T SOLARES RUE CONTRIBUYEN.		Norqjbres de los contribuyentes y de sus administradores ó apoderados.	SEÑAS DE SU DOMICILIO		PRODUCTOS		Cuota para el Tesoro al por loo y por loo por premio de cobranza y gastos de comprobación. Pesos.	Recargo municipal. Pesos.	TOTAL general. Pesos.	Corresponde al trimestre. Pesos.
+Registro.	Padrón.	Calle, plaza, partido, etc.	Número.		Calle.	Número.	Integro. Pesos.	Liquido imponible. Pesos.				
+								'i: ■				
