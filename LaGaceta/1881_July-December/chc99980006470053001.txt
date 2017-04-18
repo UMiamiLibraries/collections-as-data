@@ -1,0 +1,218 @@
+﻿£
+Ilegula-
+posición y propiedades. Especies de equilibrio. Definición de máquina en general. Desistencia, potencia. Punto de apoyo. Máquinas simples. Compuestas. Palanca. Polea: Torno. Plano inclinado. Tornillo.
+3.	° Definir los órganos de las máquinas.— Organos de trasmisión. Ejes ó árboles. Tornillo ó rosca. Poleas. Cuerdas. Correas y cables sin fin. Ruedas dentadas. Roscas sin''' fin. Cremalleras. Cadenas. Junta de Oldlian. Junta universal. Embragues. Trinquetes.
+4.	° Organos de trasformacion del movimientos. Ruedas y rodillos. Biela y manivela. Topes. Escéntricos. Organos.de dirección del movimiento. Barras-carriles. Charnelas. Sectores-Gruías. Cojinetes y soportes. ,Organos de regu. larizacion del movimiento. Volantes, dores de fuerza centrífuga. Frenos.
+5.	° Motores. Definirlos. Kilográmetro.— Caballo de vapor. Medida de la fuerza de un motor. Freno de Prony. Motores de sangre.— Malacates. Definir los hidráulicos. Ruedas de paletas planas. Ruedas de paletas curvas. Ruedas de costado. Turbinas. Motores de vapor.— Propiedades del vapor de agua. Definir las máquinas de vapor. Manera de obrar el vapor en ellas, según sean: De simple efecto. De doble efecto sin condensador ó de alta presión. Con condensador ó de baja presión. De dos cilindros de Woolf. De espansion. Generadores. Hogar. Chimenea. Caldera. Accesorios en general.
+CONOCIMIENTOS DE PROYECCIONES.;
+1.	° Definir lo que se entiende por proyección. Manera de representar en dibujo un objeto para que se conozcan sus verdaderas dimensiones. Objeto del estudio de las proyecciones. Medio para poder determinar rigurosamente un cuerpo por medio de las proyecciones. Qué son planos de proyección y cómo se designan. Denominación de la línea de intersección de dichos planos. Denominación do la proyección, según el plano en que se encuentra. Qué se entiende por plano geométrico y elevación ó alzado. Qué se denomina corto. Nombres que toma el corte ó sección. Qué es perfil. Cómo se representan en el papel los planos de proyección. Qué es proyectante de un punto y denominación relativa al plano do proyección correspondiente. Principio fundamental do las proyecciones y reglas- para la mayor claridad en representar situaciones.
+2.	° Proyecciones del punto.—Definiendo.— Qué es proyección de un punto sobre un plano.— Conocidas las de un punto determinar su distancia á los planos de proyección. Posiciones diversas de un punto respecto á los planos de proyección y de. terminación do sus proyecciones , en cada caso.— Posiciones de un punto respecto a los planos de proyección prolongados. Proyección de la línea recta, definiendo la que se obtiene sobre un plano. Qué es plano proyectante. Dadas las proyecciones de una recta, determinarlas. Si será ó nó siempre una recta la proyección de otra. A cuántas rectas podrá ser común una misma proyección. Posiciones principales que puede tener una recta respecto á los planos de proyección. Posiciones principales respecto á la línea do tierra, de una recta en un plano de proyección y determinar sus proyecciones. Principales posiciones de una recta en el espacio respecto á los planos de proyección. Casos en que se necesita acudir á un tercer plano de proyección y nombre que éste recibe.
+3. ” Trazas de una recta. Definirlas. Número de trazas do una recta. Cuándo la traza de una recta se confunde con su proyección. Cómo se expresan las trazas de una recta. Modo de hallar las trazas de las rectas. Encontrar los ángulos que forma con los planos de proyección una recta propuesta. Trazas de las 'planas. Definirlas. Cuál es el medio más simple'para indicarla posición de un plano. Cuándo se dice que es conocida la posición de un plano. Propiedades concernientes á las trazas de un plano.
+4.	° Proyecciones de las figuras planas. Definirlas. Qué es prisma proyectante de un polígono. Qué es cilindro proyectante do un curva. Proyecciones de una figura plana situada en uno de los planos de proytíccion. De una figura situada en el espacio. Posiciones principales de una figu- ¡ ra en el espacio, respecto á los planos de proyec-'l cion. Proyecciones de un círculo en el espacio. De una elipse perpendicular ú oblicua á un plano, j Qué es echamiento do una figura. Proyecciones do los poliedros. Definirlas. Manera de obtener, la proyección de un prisma sobre un piano. La de una pirámide. La de un tronco ó trozo do pirámide. Proyecciones de los poliedros regulares.
+5.	° Proyecciones de los cuerpos redondos. Definición. Qué son geno ratrices extremas en los cilindros. Relación entro las proyecciones de un cilindro y de un prisma. Analogía en-1 tro el cono y pirámide para las proyecciones, j Qué son generatrices extremas del cono. Re-! glas para proyectar un cono sobre un plano.j Proyecciones do la esfera. De los círculos paralelos do la esfera. Determinar una de las proyec-| ciones de un punto do la superficie de la esfera conocida la otra. Lo mismo respecto á una gene-; ratriz de la esfera. Proyecciones de sólidos de ! revolución y propiedades generales que le son aplicables.
+6.	° Líneas de luz y de sombra ó fuerza. Definirlas. Distinción en los diseños entre las partes iluminadas y las que no lo son. Inclinación del rayo luminoso respecto á los planos de proyección. Determinación de las partes iluminadas y de sombra en las proyecciones de un cuerpo. Determinación en las generatrices extremas de los cilindros conos y cuerpos de revolución á simple y doble curvatura. Representación de las líneas de luz y de sombra en las proyecciones de un cuerpo hueco. Variaciones do intensidad que se dá á las líneas de sombra, según la complicación que exija su diseño.
+7.	° Secciones do los cuerpos. Sección de un poliedro por un plaao secante. Casos en que el plano secante es perpendicular á uno de los de proyección. Definir la sección recta y la oblicua. Secciones de los cuerpos redondos, expresando las que resultan en un cilindro cortado por un plano. Sección de un cono recto y circular por un plano. Sección por un plano secante en la esfera ó cuerpos de revolución de generatriz curvilínea cerrada. Idem en los engendrados por figura mistilínea.
+8.	° Desarrollos de las superficies de los cuerpos. Manera de considerar los sólidos para que sean desarrollables y definir lo que es desarrollar un sólido. Reglas para dibujar el desarrollo de un cuerpo. Desarrollo de los prismas. Idem de las pirámides. De los poliedros regulares. Desarrollo de los cilindros. De los conos. De la esfera y cuerpos de revolución ó doble curvatura. Desarrollo de la esfera por usos y por zonas.
+9.	° Penetraciones de los cuerpos. Medio general de solución para hallar la intersección de una superficie curva por un plano. Reglas para determinar la intersección de dos superficies curvas representadas por sus proyecciones. Regla práctica para llevar á la super-ficie de los sólidos las líneas ya obtenidas de su intersección y definir el patrón. Definir lo que se llama cuerpo. Penetrado y penetrante. Qué se entiende por penetración y por secciones de penetración. Cuándo se dice que la penetración es completa. A qué se llama sección de entrada y «ual d* salid». Ejercicio* gráficos.
+MI mi'« [TlÉIIHtUilM**
+ÜBOHMM
+■PM
+10.	Hélices, superficies y- cuerpos helicóideos. Definir la curva llamada hélice. Manera de cons-.truir la hélice sobre un cilindro. Qué se entiende por paso y por esfera de la hélice. Si puede considerarse como hélice la sección recta del cilindro. Cuándo las hélices se llaman cilindricas, cónicas, esféricas etc. En qué se trasforman las espiras de una hélice trazada sobre un cilindro cuando este se desarrolla. Caso en que suele ser ventajoso servirse del desarrollo para construir la hélice. Medio práctico de abreviar la construcción de una hélice cilindrica de crecido número de espiras. Definir la superficie helicóide y cuerpos helicóideos Ejercicios gráficos.
+Regias para práctica de los problemas elementales de mecánica.
+1.	a Con presencia de las correspondientes tablas de pesos específicos ó densidades y dadas las dimensiones de una pieza prismática ó cilindrica de hierro ó madera ó cualquier otra materia usual en mecanismos, determinar su i peso. Manejo y aplicaciones de las tablas que expresan el peso del metro cuadrado de planchas y el de metro corriente de tubos. Dado el peso de un cuerpo, obtener el valor de su masa.
+2.	a Traducciones y aplicaciones numéricas de la fórmula E= VXT en el movimiento uniforme. De la E = V+V y- rp cn ci uniformemente varia-
+2 _2____________________
+do de las V = gX T y V,/ 2g H. cn la caída de los cuerpos. Cantidades cuyo producto constituye el valor p expresión del trabajo mecánico y aplicaciones numéricas do ella. Valor ó expresión formular, del trabajo mecánico del hombre y los animales haciendo aplicaciones numéricas con presencia do la tabla correspondiente.
+3.	a Traducciones y aplicaciones numéricas de las expresiones de equilibrio en las máquinas simples tales como P X a = R X b en la Palanca. Caso particular de la Romana.— De la P = ~- en la Polea movible. De la I* = R en el Moton movi-
+2 n
+ble con poleas. De la I* =• R X b en el torno ó
+cabria simple. De la P = R X b x v X b" cn el
+» x v X n"
+cabrestante ó torno compuesto De la P = R X
+b~b' ó su equivalente de ventaja mecánica a:.
+2 a	2
+en el torno de dos partes ó diámetros De la
+2 _bj»	b x b'
+P = R a en el Crik simple ó P = R a x a' en el crik compuesto.
+4.	° Dependencia entre la fuerza ó potencia, y la velocidad, común á todas las máquinas sin excepción y con relación al trabajo ó efecto útil. Traducceion y aplicación do las relaciones del equilibrio en el plano inclinado P = R X H
+P = Q X T » Q = R X T- De la P = RX ii
+oirounfercuüia £ en el tornillo ó husillo. De la análoga en la cuña.
+5°. Definir el rozamiento y sus dos especies.
+13.	Obtenido por la tabla correspondiente, el espesor de los dientes de engranaje determinar su altura, ó sea aplicaciones de la espresion A = E + _R_ y el espesor del anillo, curva ó corona de
+la rueda E=E según la materia. 1 raduccion y aplicaciones numéricas de la fórmula; a b* 2 — para
+125
+determinar la latitud de los brazos de la rueda de engrane con la relación b = 5,-5a para los de hierro fundido. Medio de evitar el ruido en . los engranes, fenómeno que produce y desgaste de materia. Kngranaje del husillo sin fin, expresando el objeto principal á que suele destinarse ó su especialidad característica. Traducción y aplicaciones numéricas de la fórmula r — en el citases
+do engranaje.
+14.	Correas de trasmisión. Circunstancias
+de latitud y velocidad que debe reunir una correa por cada caballo de vapor á trasmitir. Traducción y aplicaciones numéricas de la fórmula LL -	1500 F
+para deducir el ancho ó latitud de las correas y casos en (pie satisface esta fórmula según las circunstancias de resbalo, dilatación y resistencia á la tracción. Relación que debe existir entre los diámetros de dos poleas de trasmisión.
+EJERCICIOS PRACTICOS.
+1.	° Ejercicios en lima, taladro, garlopa ó máquina de cepillar, de fresar, de tornear, espliean-do y razonando los funcionamientos denlos diversos órganos de estas operadoras y construyendo por sí un husillo especial que se le proponga.— Reconocimiento de una máquina de vapor que se le presente, haciendo notar los defectos de instalación ó montaje y de uso que pueda presentar.
+2.	° Proyecto y presupuesto de un mecanismo especial para satisfacer al objeto que se le proponga. Distribución del trabajo entre una sección de obreros. Manejo y conducción do una máquina de vapor.
+Es copia de los Programas para exámenes del Personal Obrero y auxiliar del Material, mandado observar provisionalmente por el,. Excmo. Sr. Director General del Cuerpo.
+Habana 20 do Octubre de 1881.—El Ttc. Coronel Comdte. Jefe del detall, José Villar.—V.° B.°—El Coronel Director, Molins.
+La Escuela está dotada con seiscientos pesos de sueldo anual y cíenlo cincuenta para material, todo en oro. El edificio es propiedad del Ayuntamiento.
+Los aspirantes presentarán sus instancias acompañadas de sus títulos correspondientes y certificado do moralidad del Alcalde do Barrio respectivo, visada por el Cura Párroco de su feligresía, en la casa parroquial de la iglesia de San Carlos de esta ciudad, hasta el 18 del próximo Diciembre. Los ejercicios de oposición tendrán lugar el en Salón de la Excma. Diputación Provincial, el 26 do dicho mes, empezando á ias siete y meda ue la noche.
+Matanzas Noviembre 18 de 1881.—hl Secretario, Bruno V. Miranda,—Vto. Bao.—El Presidente, Dr. Francisco de P. Barnad».
+Dependencia que existe entre el rozamionto, ex tensión de la superficie, velocidad, naturaleza de los cuerpos y presión. Manejo do las tablas de rozamiento y aplicaciones numéricas en el de resbale. De las tablas de rozamiento por rotación de los collarinos sobre cojinetes y aplicaciones numéricas de la fórmula ó expresión de T = f X p X v de la pérdida de trabajo.	75
+6.	“ Principios de los líquidos. Manera como trasmite la presión un líquido comprimido en vasija cerrada. Columna de agua, que equivale en peso á la presión. Relación do nivel según la naturaleza de los líquidos contenidos en vasos que se comunican. Relación entre la presión y la superficie de presión de los líquidos en vasos.
+Aplicación al aire, del principio de igualdad de presión. Equivalencias numéricas de la presión atmosférica. Alturas de la columna equilibrante de agua y la de mercurio.
+7.	° Bombas hidráulicas. Esplicar la manera de funcionar de las Aspirantes, Aspirantes é Impelentes y de la Impelente, expresando la altura máxima sobre el nivel del liquido, á que puede colocarse el cuerpo aspirante. Especies que se aplican á riegos ó incendios y objeto del depósito regulador de aire. Aplicaciones numéricas y traducción de la fórmula P = 785 X D2 X II para el peso do la columna de agua sobre.el émbolo. De la T = 785 X D2 X II X Vpara el trabajo. Causas que aumentan de á j la fuerza motriz á emplear respecto al efecto útil.
+8.	° Traducción y aplicaciones numéricas de la fórmula E = 900 X D2 X H X v para la fuerza á emplear en una bomba. Relación entro el volúmen práctico y el teórico do agua y cubicación en las bombas.
+Fundamento y manera de funcionar del Sifón. Principio fundamental, objeto y manera de funcionar de la prensa hidráulica.
+9.	” Principio fundamental de los engranajes. Relación entre el número de dientes, las circunferencias, radios y diámetros, de dos ruedas cn contacto. Relación entre las velocidades de las ruedas poleas ó tambores y el de dientes ó radios.- Aplicaciones numéricas de las expresiones N: n:: R: r„ V: v:: r: R„ V: v:: n: N„ entre dos ruedas y regla general extensiva á cuando sean várias las intermedias. Regla geométrica y aritmética, para determinar los rádios de las ruedas de engrane que dén rotaciones de velocidad deseada, á dos árboles paralelos, conociendo la distancia entre sus ejes.
+10.	° Manejo, y aplicaciones numéricas de la tabla de dientes y diámetros, en los problemas siguientes; dado el paso de los dientes y su número en una rueda, determinar el diámetro. Conociendo el diámetro y el número de dientes determinar el paso. Dado el paso y diámetro determi nar el número de dientes. Distinción entre la velocidad en el centro de un eje y la cn la circunferencia de una rueda montada en él; y regla para determinar numérica y prácticamente una de ellas conociendo la otra.
+11.	Dimensiones de los engranajes. Definir el círculo primitivo ó circulo de contacto.— Su situación respecto á la altura del diente. Paraje'del dieh,tc en que se fijan sus dimensiones.— Flanco y fases cumias del diente y paraje en que se unen uno y otra. Definir las dos maneras de medir ó apreciar el paso de un engranaje y relación entre el de dos ruedas cu contacto. Traducción y aplicaciones numéricas de la fórmula N = 2 'J R
+p
+para determinar ol númoro de dientes, dado el paso. Valor numérico de relación entre el paso y espesor del diento para el buen trazado de engranajes. Reglas para determinar el espesor de los dientes según la cantidad de trabajo á trasmitir y la velocidad en la circunferencia primitiva
+12.	Traducción y aplicaciones numéricas de la fórmula E = 0, 105 -j/¿ para determinar el espesor de un diente de hierro fundido, conocido el esfuerzo que debe sufrir. Variación del coeficiente 0,105 á 0,120 ó 0,077 según las relaciones de L y E. por L = 4. 5 E„ L = 3 E.„ L = 8 E; variaciones de dimensiones cuando las velocidades sean grandes y relación entre L y E. Variante de espesor del diente en madera, respecto al de hierro fundido y aplicación numérica de la fórmala E 0’ 145 |/¿., para aquel caso. Manejo y aplica», ciones numéricas de la tabla de pasos y espesores de dientes, correspondientes á presiones dadas, deduciendo de ella la latitud de los mismos si Xpie la velocidad resulte mayor ó menor de l.1“ 50 ó qua lo* (¿ieutas en. ¡nadara «stón humedecidos.
+Junta Lolal de Patronato de Sancti-Spíritus.
+Por acuerdo de esta Junta local de Patronato, tomado en 17 del corriente, se hace saber que eu el dedepósito municipal de esta ciudad, existe un moreno que aparece llamarse Leandro Betaucourt Baracaldo ó Pedro Celestino Cruz, de estatura buena, color negro, como de cincuenta á cincuenta y cinco años de edad, natural de Matanzas y de oficio campo, el cual tiene manifestado ser hijo de Carmen y pertenecer á D. Francisco tíetancourt tesidente eu Puerto Príncipe y á cuyo poder pasó del de D. Juan de la Cruz, vecino de Matanzas y dueño del ingenio «Santa Teresa.» Y á intento de que la persona que se considere con derecho al referido patrocinado se presente á reclamarlo ante esta Junta dentro de 30 dias contados desde el de la inserción de este anuncio en el Boletín Oficial de la provincia y Gaceta de la Habana, se publica el presente.
+Saneti-Spíritus Noviembre 21 de 1881.—El Secretario, Jaime Pruna.
+Hospital Militar del Principe.
+J unta Económica.—An unció
+Debiendo procederso el día veinte del corriente á la segunda licitacioü verbal do víveres, carnes, aves, huevos, lecho de vaca, pauotelas y bizcochos, ferretería y aoarreos que sean necesarios para el abastecimiento de esto Hospital duranto el próx’mo mes de Enero, se avisa por medio del presente á las personas que quieran interesarse en la misma, haberso fijado ia hora de las doce del mencionado dia para que acudan á hacer sus proposiciones, ante ia Junta Económica, ya verbales ó por escrito, pudiendo verificarlo en la Secretaría en loa dias anteriores para informarse do las condiciones á quo deban (-ujetítrso las mismas y bases que se consignan en la relación de precios límites.
+Los precios de los artículos so marcarán en oro ó su equivalente on billetes del Banco Español de la Isla de Cuba al tipo quo fije él Gobierno c u el mes del suministro; el peso de ellos por arrobas y kilogramos en los víveles y arrobas y litros eu los líquidos.
+La mencionada licitación se mantendrá abierta basta la una do la tarde, desdo cuya hora en i do-1 lante, no se admitirán más proposiciones quo ias ya presentadas y será adjudicado o! suministro á la quo ! resultare sor más beneficiosa á los intereses del Es-! tado, en vista de la comparación quo do las mismas ! so hará á presencia de sus autores; y en el caso de que hubiere dos ó mas iguales, so admitirán pujas á la baja por se lo el plazo do diez minutos.
+Los autoreb do las proposiciones que obtengan 1 ia aprobación do las suyas respectivas y que por lo tanto suministren en el mes próximo al Hospital Militar de esta plaza de los artículos de su comercio quedan obligados á satisfacer inmediatamente á la i Dirección do la Gaceta oficial el importe de los | anuncios que aquella hubiere insertado en su periódico respecto de dichas licitaciones; verificándolo del total de ia oantidad á quo aquellas asciendan si uno sólo fuere el que suministrare todos los artículos de la licitación, y por todos los quo tomaren parte en j ella á prorateo de las cantidades á que se calculo asciendan en el mes el suministro, si esto se ofectúa por muchos y por ramos separados.
+Habana 10 do D eiembre do 1881.—El Secretario, José Monteresi.
+Ilustre Ayuntamiento de Matanzas.
+Secretaría.
+No habiendo tenido efecto por falta de Imitadores la subasta de los productos del arbitrio «Mesillas da donvnó,» durante el t ñi económico actual, este I, Ayuntamiento en sesión celebrada o! dia de hoy, acordó so anuncie nuevamente la subasta, señalando para verificar el acto las ocho do la mañana del dia 16 del corriente aato !a Corporación ó Comisiou de Policía Urbana, con sujocion al pliego de condición s publicado.
+Y de órden del Sr. Alcahlo Presidente, para su inserción eu la Gaceta de ia Habana, expido la presente.
+Matanzas D.ciembro 2 de 1881,—•Manuel del Portillo. .
+No hab endo tenido efecto por falta do licitado-ros !a subasta de los p odüctes del arbitrio «Caballos de lujo,» durante el año económico actual, el 1. Ayuntam ento en sesión celebrada el dia do hoy acordó se anuncie nuevameme la subasto para las ocho de ia mañana del dia 16 dd corriente en la Sala Capitular, ante la Corporación ó C misión de Policía Urbana, con extricia sujeñon al p iego de condiciones publicado.
+Y de orden del Sr. Alcalde Presidente, expido la presento pata su inserción en la Gaceta de la Habana.
+Matanzas Diciembre 2 de 1881.—Manuel del Portillo.
+Muy Ilustre Ayuntamiento de Güines.
+Se retaría.
+Rectificada la división territorial de este término municipal por disposición del Exorno. Sr. Gobernador Civil de esta provincia, consignándose cinco coleg os electorales en lugar de los cuatro que en el anturior cuadro se señalaban, y que se pub ico en la Gaceta oficial núm. 256, correspondiente al dia 23 de Noviembre próximo pasado, se hace saber al público por esto medio, para general conooimientc ; en ia inteligencia que ia úinca variante introducida se encuentra en el segundo distrito, en el que so consignan dos colegios, nno para ia parte de pob aeion y otro para Ja rural, correspondiendo á és a los barrios do S->n Pedro y Nombre de D os.
+Y en cumplimiento de acuerdo tenido eu sesión celebrada en el iba de ayer, libro el pieseute para su inserción en la Gaceta oficia1 á los efectos del párrafo segundo del artículo 38 de ia L >y municipal vigente.
+Güines Diciembre 3 de 1881.—Manuel Gandían.
+Ayuntamiento de Güira de Melena.
+CUADRO de la división territorial y electoral del término, con arreglo á los artículos del 3-1 al 38 de la _____Ley Municipal vigente,__________ _____________
+En virtud de lo dispuesto por el Excmo. Sr. Capitán General, queda sin efecto la subasta simultánea anunciada para el cinco del corriente mes, debiendo realizar cada Hospital lo suyo en su localidad; eu su consecuencia sé proroga hasta el 16 del corriente la que lia de celebrarse on el Hospital Militar del Príncipe de esta plaza con objeto de contratar todos los artículos que sean necesarios en lo que resta del ejercicio económico de 1881 á 1882.
+Lo que se publica para conocimiento general y á i fin de,que los que deseen hacer proposiciones se ente-1 ren oportunamente de las condiciones y requisitos que se exigen cn dicha subasta, las que están de manifiesto en el salón de sesiones de esta Junta Económica.
+Habana 1. ° de Diciembre de 1881.—El Secretario, José Monteresi.'
+o			
+5	Colegios.	BARRIOS.	EXTENSION.
+17	f Norte.	Primer Barrio pueblo.	Primer Barrio.
+	( Este.	Tumbadero.	Tumbadero y .ferez»
+			^ Gabriel, Melena,
+27	Oeste.	Melena.	-j y Turibaooa. 27
+			[ y ?)\ Barrio.
+3 7	$ur.	Sibanacan.	Sibanacan y Cn jío.
+			Total	
+J 2613
+Ì
+I 2071
+J •
+3273
+S900
+Cotizaciones del Colegio de Corredores.
+CAMBIOS.
+España................... ñi íi 7J p.g P. s. p. f. y c
+Inglaterra............... 19| ít 19$ p. § P. 60 U(v.
+, .. J H 4 5 P-i P- Gú div.;:
+.  ...................1 5} íl 5$ p.g P. cjv.
+Alemania.................
+E uados U niños..........
+Oro del cuño español....
+Descuento mercantil......j
+¡l 3¡ p.3 p. 60 d[v. 8| a 9* p.g P. 60 div. 9$ á 10J p.g P. c)v.
+7ó¡¡ á 76 p.g P. íi las 3. 6 y 8 p.g anual B[B.
+6 y 8 p.g auual oro.
+MERCADO NACIONAL. AZOCARES.
+NOMINAL.
+MRUCADO EXTRANJERO.
+NOMINAL.
+BRE8. CORREDORES’ DE BEMANA.
+DE CAMBIOS Y ACCIONES.
+D. Felipe Ruz.
+D. Federico del Prado,
+DE FRUTOS.
+D. Jaime Santacana.
+1). Ramon Juliá.
+Habana 13 de Diciembre de 1881.-Nuñez.
+-El Síndico, M.
+CUARTA SFXTTOM.
+ai'xcjxsïj&.â izsrs3ss,:Eejs.
+Tribunal de Oposiciones de Maestros de la provincia de Matanzas.
+Vacanto la E-cuola Municipal para varonas de la categoría de entrada de1 pueblo de Sabanilla do la Palma, término de Goanajayabo, do órden superior se convoca á lo» Maestros que deseen ocupar la plata, mediante oposición.
+Güira de Melena 19 de Noylembre de 1881.—El Secretario interino, José Montalvo,—Vto. Bno.—El Presidente, Tiuji lo.
+Ayuntamiento de Cien/liegos.
+Secretaría.
+Acordado por este Ilustre Ayuntamiento, la creación da la plaza de Depositario de caudales de; Municipio, para ejercerse por téiminododos años, letrlbuiia con ol 2 p.g do todos los ingresos presupuestados, se convoca á les que aspiren ásu dosempo-por el término de treinta dias, que espirarán el 15 de Diciembre próximo, para que presenten sis proposiciones en pliego cerrado, á la Corporación, antes del vencimiento de d ebo p'azo, con arr gío al modelo que existe en ia Secretaría do mi cargo, en el expediente do su razón y se eneucnt’a con e! pliego de condiciones aprobado á dispos cion de lo3 que se interesen en la licitación.
+í por acuerdo del l ustre Ayuntamiento, en
+cabildo do 14 de los corr’entes y por disposición del Sr. Presidente, expido éste para su publioacion en los periódicos oficiales y en los locales de esta ciudad.
+Cienfuegos Noviembre .15 de 1881,—Enriquo do Zaldo, Secretario.
+Registro de la Propiedad de Cienfuegos.
+Don José Gregorio Verdaguer y Kiernan, Registrador de la Propiedad Del partido judicial de Ciec-fuegos.
+Hugo saber: que el dia 15 del corriente, rae bau sido» presentadas, una solioitud y relación, suscritas por D. Nicolás S. Acea, vecino de esta ciudad, solicitando la inscripción de una finca rústica, cuya déscripcion es como sigue: un ingenio de elaborar azúcar titulado «Dos Hermanos,» uticado en el término municipal de Palmira, en la hacienda denominada «Limones,» comprendiendo un total de setenta y ocho caballerías de tierra y doscientos ochenta y tres cordeles p'anos ó sean, mil cincuenta y ocho hectáreas, cuarenta y nueve áreas y catorce contiá-reas, conteniendo las fábricas necesarias on esta clase de fincas para la elaboración del azúcar. Linda por ol Norte con el estero de «Limones» y terrenos de ¡os Sres. Apcsteguia, por el Sur con el ingenio «Concepción,» do la Sra. viuda do Montaivo y con el in-gonio «Manuelita,» do I). Javier Reguer a, por el Este con terrenos de Di1 Eustasia Campos y de D. José Manuel Rebasa y por el Oe.-tecon el rio Damu-jí y terrenos de D. Tomás Ar veloyde D. Nolasco Carttvya.
+Y	como la finca se halla situada en la mencionada hacienda «Limones,» Jo bago público á fin de que si aiguu comunero ó partícipe eu ia misma, so considera perjudicado con ia inscripción solieilada, ocura á usar de su derecho, dentro del téimiuo de treinta días, si residióte en í& Isla y el de noventa si fuera do elia ó careciese de representación cn la forma prevenida en la regla 51.1 del artículo 120 del Reglamento, pata la ejecución de la Ley Hipotecaria.
+Y	para.su inserción eu ia Gac9ta de la Habana, libro ia presente en Cienfuegos á 17 de Noviembre de 1881.—José G. Verdaguer y IUernan.
+Registro de la Propiedad de Trinidad.
+IX José Francisco Ramos, Abogado del Ilustre Colegio (le Madrid y Registrador de la Propiedad de este partido judicial, etc.
+A consecuencia de solicitud que me ha presentado la Sra. Di1 Luisa María Galliano de Soto del Valle, mayor de edad, de estado viuda, de este vecindario y propietaria, pidiendo, con arreglo al artículo 121 del Reglamento general sobre ejecución de la Ley Hipotecaria, le inscriba los potreros «Las Cuchillas» y mitad del otro «San José de Buenavista» (a) «Limones,» con sus sitios auexos .«Pico-Blanco,» «Valerio.» «San José» y «Aragonés,» enclavados, ebprimero con sesenta caballerías de tierra acotadas en terrenos de la hacienda «Rio-hondo» y corral «Palmarejo,» situado en el barrio de este nombre, y con los siguientes linderos: por el Norte, con el ingen o «San Carlos» conocido por «El Quemado,» y corral «Pitajones,» del Excmo. Sr. D. Roque' de Lara; por e) Este,' con terrenos del ingenio demolido «La Ceiba» y potrero «Santa Elena,» de D. José Fernandez Caylá; y por el Sur y Oste, con tierras pertenecientes á la Sociedad de M. Araoz y compañía; y el segundo, con igual número de caballerías de tierra acotadas dentro de la hacienda «Cabagan,» situado en ei barrio de este nombre; y linda por el Norte, con el potrero «El Naranjo;» por el Sur, con potrero de los herederos do José María Zúñiga; por el Este, con terrenos de D. C asimiro Vivas y D. Vicente Hernández; y por el Oeste, con propiedades de ¿. Lázaro Palacios y D1.1 Josefa L u-eute, acreditando que dichas fincas, como lo exije la Ley en el presente caso;' con casa abierta y hace más de cinco años, están dedicadas á la agricultura.
+Y	á fin de dar debido cumplimiento á ia solicitud de que se hace referencia, por medio del presente ia hago saber á los dueños copartícipes de dichas haciendas «Uicj-liondo,» «Cabagan» y corral «Palmarejo» de este distrito judicial, para que dentro del término de treinta dias los residentes en esta Isla y de sesenta los ausentes de ella, comparezcan en esta Oficina á manifestar lo que tengan por conveniente, caso de oposi-c on, y apercibimiento de que trascurrido dicho término sin oposición, se procederá á la inscripción do las referidas fincas quo-motivan este edicto.
+Y	para su publicación en la Gaceta de la Habana, expido el presente.
+Trinidad 15 de Noviembre de 1881.—José Francisco liamos.
+Registro de laPropiedai de Baracoa.
+D. Juan Fernandez Rubio y Cantillo, Registrador de la propiedad del partido judicial de Baracoa, hago saber:
+• 1? Que en los libros de la antigua Anotaría de hipotecas de esta ciudad, se encueutran los asientos defectuosos que se expresan en el estado puesto á continuación, y convoca á los que se crean interesados en ellos, para que por sí ó por quienes legítimamente los representen, acudan á rectificarlos conforme á lo prevenido en el decreto de lo de Setiembre de 1879.
+29 Que el no rectificar los aludidos asientos pueden perjudicar los derechos que con ellos se quisieron garantir; pues trascurridos dos años desde que empezó á regir la Ley Hipotecaria, eu tanto se considerará trasmitido el domin o, y constituidos, modificados ó extinguidos los demás derechos reales sobre inmueb'es, en cuanto cons e, así en ias autiguas como eu las nuevas inscripciones. Lo que en dichas inscripciones no aparezca explícitamente consignado, no perjudicará á terceros interesados que hayan inscrito su derecho.
+3? Que para notificar los asientos defectuosos, se presentarán en el Registro los títulos en que consten las circunstancias omitidas, y en su defecto, una nota en que se expresen, firmada por todos los interesados. Cuando se trate de los linderos de una finca rústica, se considerarán interesados los dueños de los predios colindantes.
+49 La falta de título puede suplirse por información de persona ante el Juez de primera instancia, con audiencia del Promotor Fiscal y citación de los propietarios colindantes, si tratare de inscribir el dominio pleno de alguna finca; y con la del propietario, ó la de los demás partícipes eu el dominio, si se tratase de un derecho real, según lo establece el art. 69 de la Ley hipotecaria y demás concordantes.
+ESTADO All í: SE CITA,
+INTERESAD03.
+D. Luis Arme.............................
+D9 Josefa Batista y Gregorio Alvarez.....
+1). Enrique Biró y I). Agustín Mondelot...
+... Antonio Cascasés.........•'..........
+... Antonio y D. Femado Cascasés.........
+D:-1 Ana Cruz y Eugenio Delgado..........
+D. Isidro y D9 Carmen Duran .............
+.. Julián Guiiarte........................
+... Manuel Granado.......................j
+El mismo....!.........................
+... José Gil........ ....................
+... Franc? Javier Hndz. é hijos de JsPÍ Ferrer. Da Mn 19 de Paula Hndz. y D. Joaquín Brrego JXXBeatriz Heraandez y D. Julio tíunmiguel.
+D. José Antonio Lores....................
+... Juan Lazo y D. Antonio Turro.........
+... Manuel Navarro.......................
+... Jacinto Osorio................. .....
+Antonio Bregón y IX Francisco Tomasí.....
+Ana L9 Román y Sixto Osorio..............
+D. José María Romero.....................
+D9 Teresa de J. Suarez é bjs. de D9 M9 Garrido
+D. Julio Sanmiguel.......................
+... Julio Sanmiguel y acreedores de Luis Perez ... 1). Franc'.' ürgeliés éhjs. de D. José Toirac. ... Clemente Martínez y D. Eugenio Delgado.
+FINCAS.	Lugar donde radican.	Númr9 del asiento	Año.	Es¡ecie de derécho.
+Casa.	No se expresa.		1813	Hipoteca.
+id.	id.	15	1823	id.
+id.	C matachín.	5	1819	id.
+id.	No se expresa.			1823	id.
+¡d.	C. mercaderes.			1823	id.
+Solar.	No se ex i resa.		1823	id.
+No se expresa.	id.	6	1819	id.
+id.	id.	82	1837	id.
+Casa.	i,i.	87	1838	id.
+id.	id.	102	1839	id.
+Ingenio Caguasey.	id.			1839	id.
+Casa v Solar.	id.	5	• • • •	id.
+id.	id-.	........	1843	id.
+Jaitcsico.	id.	2	1831	id.
+Cairuasey.	id.	72	1834	id.
+Rio arriba y casa.	id.	80	1836	id.
+Casa y otros bienes.	id.		1813	id.
+Casa y solar.	id.	15			i<l.
+Casa.	C. mercaderes.			1822	id.
+id. ■	No se expresa.	»•••••	1806	id.
+. id.	id.	38	1829	id.
+Vega larga y casa.	id.		1813	id.
+Solar.	Cuartel francés.	91	1838	id.
+Cayojuin.	No se expresa.	104	1839	id.
+Cosa. .	id.	31	1827	id.
+Solar.	id.	13	1823	id.
+Baracoa Setie bre 28 de de 188L—Juan Fernandez Rubio,
+t.

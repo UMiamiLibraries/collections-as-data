@@ -1,0 +1,771 @@
+﻿96	1010
+97	1011
+98	1012
+99	1013
+100	1014
+101	1015
+102	1017
+103	1018
+104	1019
+105	1020
+106	1021
+107	1065
+108	1066
+10!»	1067
+110	1068
+111	1069
+112	1070
+113	1071
+114	1072
+115	1073
+116	1074
+117	1075
+118	1076
+119	1073
+120	1079
+121	1030
+122	1081
+123	1032
+124	1033
+125	1084
+126	1035
+127	1036
+128	1087
+129	1038 '
+130	1089
+131	1090
+132	1091
+133	1092
+" 134	1093
+135	109 4
+A 133	10)3
+137	1093
+"133	1097
+" 139	1098
+140	1099
+141	1100
+142	1101
+143	1102
+144	1103
+145	1104
+146	1105
+147	1106
+148	1107
+149	1108
+150	1109
+151	1110
+152	lili
+153	1112
+J54	1113
+155	1114
+156	1115
+157	1116
+158	1117
+159	1118
+160	1119
+161	J120
+162	1121
+163	1122
+164	1128
+165	1136
+166	1137
+167	1142
+168	
+169	
+170	
+171	
+172	
+173	
+174	
+175	
+176	
+177	
+178	
+179	
+180	
+181	
+182	
+183	
+284	
+185	
+186	
+187	
+188	
+189	530
+190	631
+191	532
+192	533
+193	534
+194	537
+195	545
+196	546
+197	547
+198	567
+199	568
+200	569
+201	570
+202	578
+203	579
+204	580
+205	581
+206	582
+207	592
+208	593
+209	594
+210	595
+211	596
+312	598
+213	599
+214	600
+215	601
+216	602
+217	603
+218	604
+219	605
+220	606
+221	608
+222	609
+223	610
+224	611
+225	612
+226	614
+227	615
+228	616
+229	617
+230	618
+231	619
+232	620
+233	621
+234	622
+235	623
+236	624
+237	625
+238	626
+239	627
+240	628
+241	629
+242	630
+243	631
+244	632
+245	633
+246	634
+247	636
+248	637
+249	638
+250	639
+251	640
+262	641
+253	642
+254	380
+£55	496
+256	53o
+257	536
+¿93	548
+... Alberto Mauteiga, Sub-Uspecoion de Artillería.........................
+... Pascual Izuel, ídem de Infantería y Caballería........................
+... Juau Alvarez, idem de Ingenieros.....................................
+... Tomás Sanz, Ídem de la Guardia Civil..................................
+... José R. de la Luz, Estado Mayor............................. ........
+... Manuel O.ti?, E. M. de Pu.z s......... ..............................
+... Jcsé R. de la Luz, Cuerpo juridice........................*..........
+.. Ildefonso López, ídem sdnn'üiecrtit ..................................
+... Antonio Jorian, i iem do Sanidad.....................................
+... Mmuel Alvares, Pa'que Sanitario......................................
+.. Pablo Velez, Clero Castrense..........................................
+... Luía Sauobez, Subsistentiis militare1, Rom» dios.....................
+... Alfredo Fullchs, ídem Gibara.........................................-
+... Felipe Alvarez, Ídem Puerto Padre ...... .... ............... .......
+... Eduardo Marcos, Ídem Manzanillo.......................................
+... Pedro Perez, ídem Sagua de Tánamo..................... ...............
+... Juan López, ídem Baracoa....... ......................................
+.. Manuel Romero, iJem Ciego de Avi'a....................................
+Andrés del Va1, ídem Guantáoamo.......................................
+Faustino Cactos, Ídem Cauto ...........................................
+I.. Ignacio Mendez, idem Sancti-Spíritus..................................
+... Arturo Bascufiaua, idem Holguio.......................................
+... "Wenceslao Alvarez, idem Sagua la Grande.............................
+... José Bonafus, idem Santa Clara....................-...................
+... «uan Alvarez, piusas de campaña, P.aua mayor ingenieros...............
+... Alberto Manteigr, idem, idem Ariillería ..............................
+... Eduardo Marcos, Ucenxi ios, Manzanillo......................... • •...
+... Arturo Bascuñ ina, idem Holguin.......................................
+... José Grmez Pardo, idam Habana.........................................
+... Alíroio Fulíehz, ídem Gibara...........................................
+... Félix Segrí, idem Victoria de las Tunas...............................
+... José Toneñas, irem Nueva Gerona.......................................
+... Valenttu Orio, idem B.yamo............................................
+... Alberto Aianieigi, Radones de pienso, Artillería................. ......
+... Joió R. de la Luz, ídem, Estado Mayor-..........................».....
+... A átomo Jordán, ídem, Ingenieros......................................
+... Tomás Sanz, ídem, Guardia Civil.......................................
+... Gregorio Ticdra, idem, Comisión activa................................
+El mismo, gratificación de montura, ídem.............................
+... Antonio Jordán, idem Ingenieros...............................<.......
+.. Pasoual Izuel, idem Sub-Inspecnion de Infantería.....................
+... José R. do la Luz, id'm Estado Mayor.......... .......................
+... Runon García, Material del Hospital militar, Habana...................
+.. Arturo Bascuñaua, material de hospitales, Holguin......................
+... Adolfo Fullhez, idem Gibara...........................................
+... Eduardo Marcos, idem Manzanillo.......................................
+.. Valentín Ocio, idem Bayaruo............................................
+... Felipe Alvarez, idem Puerto Padre.....................................
+... Félix Seguí, idem Victoria de las Tunas ..............................
+Sres. Lobé y C?, idem medicinas............................................
+D. Casimiro Aced, estancias de militares enagenados ......................
+... Jaime Ardebol, asistencia domiciliaria, Bahía-Honda...................
+... Antonto Yeso, estancias de militares enfermos, Guanajay...............
+.. José Gómez, trasportes, Habana.........................................
+... Arturo Bascufiana, idem Holguin .................................. ....
+... Adolfo Fullehz, idem Gibara...............................,...........
+... Eduardo Marcos, idem Manzanillo.......................................
+... Valentín Ocio, idem Bayamo............................................
+... Faustino Cantos, idem Cauto...........................................
+Sres. M. Calvo y C?, idem por los vapores correos tras-atlántico.........
+Los mismos, idem idem................................................
+D. Juan Pueyo, idem por la Costa Sur ......r.............................. •
+El mismo, idem idem..................................................
+El mismo, idem á la Isla de Pinos....................................
+... Femando Balbueno, material de artillería......... ...................
+El mismo, idem.......................................................
+... Manuel López Bago, material de ingenieros.............................
+El mismo, idem.......................................................
+... José Gómez, idem buques menores.......................................
+... Manuel López Bago, limpieza de letrinas.............................
+... José Tobefias, idem...................................................
+.. Julio Anguiano, material del hospital de Puerto-Príncipe...............
+SECCION 4?-HACIENDA.
+D. José Pellicer, Dirección General,..........................    Personal.
+El mismo, idem...............................................Material.
+El mismo, Sección de	estadística..........................  Personal.
+El mismo, idem...............................................Material.
+... Pedro Barro, Ordenación general de Pagos......................Personal.
+El mismo, idem............................................   Material.
+... José Pazos, Contaduría	general..............................Personal.
+El mismo, idem...............................................Material.
+... Francisco Puente Aliaga, Tesorería general....................Personal.
+El mismo, idem........................................... ...Material.
+... Autonio A. Portocarrero, Administración general de Loterías...Personal.
+El mismo, idem.............................................. Material.
+El mismo, idem para gastos de sorteos......................B. B. 49 16
+... José Pellicer efectos timbrados..-...........................Material.
+... Antonio Vázquez Queipo, devolución del 16 p.® ........................
+Sres. Calvo y C¡>, pasages de empleados
+D. Federico Olea, haberes de navegación.....................................
+... José María Aizpurua idem................................................
+... José Montemar, ídem.....................................................
+•. Adolfo García, idem.....................................................
+... José J. Bolívar, gastos de amortización de Bonos........................
+SECCION 5?—MARINA.
+Sres. Soto y C?, ferretería.................................................
+Los mismos, idam....... ................................................
+D. Cayetano Aguilera, medicinas y embaces...................................
+... Bartolomé Ortoll, materiales.........................................
+... José María Arteta, maderas..........................................
+... Miguel Saiz y C;), tegidos..............................................
+Sres. Zorrilla y O4, letra girada á New-York para satisfacer haberes de la
+Comisión de marina, á justificar.... ...............;.... ...........
+Los mismos, idem sobre- Madrid á la órdeu del director de la fábrica de
+jarcias de Cartajena, á justificar...................................
+Los mismos, idem á la órdeu del Contador del vapor León para el pago
+de haberes del mismo buque, ¿justificar..............................
+D- Isidoro Bocio, Cañonero de la capital, vestuario..................... ...
+El mismo, ídem Carenas..................................................
+El mismo, idem personal ................................................
+El mismo, idem raciones.................................................
+El mismo, depósito del Arsenal, marinería...............................
+El mismo, idem raciones.........................................-.......
+El mismo, idem maestranza...............................................
+D. Isidoro Bocio, Depósito del Arsenal.—Carenas............................
+El mismo, idem personal..................................................
+El mismo, cañoneros de la c -pita!, quebranto de moneda..................
+D. Eulogio de la L.ina, estación naval de Gibara, vestuarios................
+El mismo, idem, carenas..................................................
+El mismo, i em personal..................... ............................
+El mismo, idem raciones.................................... .............
+D. Hermenegildo D. y Pelayo, Estación Naval de Nuevitas.—Sueldos.. .........
+El mismo, idem asignación de escritorio...................................
+El mismo, idem prácticos..................................................
+El mismo, idem vestuario..................................................
+El mismo, idem carenas ...................................................
+El mismo, idem personal...................................................
+El mismo, idem raciones........... .......................................
+El mismo, idem reparaciones de edificios..................................
+D. Miguel Lluria, Reparaciones de la Capitanía del Pto. de Cárdenas...,.....
+.. Adolfo Lafuente, Fragata «Almansa» Carenas...............................
+El mismo, idem personal...................................................
+El mismo, idem raciones................... ,....... ......................
+D- Rodrigo S. Román, Maestranza de Arsenal .................................
+El mismo, idem oficinas del Arsenal ......................................
+El mismo, idem.l................................................... ......
+1?. Manuel Amor, Fletes y pasajes, Efectos de escritorios... ...............
+El mismo, idem prácticos..................................................
+El mismo, idem carenas....................................................
+El mismo, idem reparaciones de edificios ............................... ..
+El mismo, idem Fletes.....................................................
+El mismo, idem Correos y telegramas.................................,.....
+El mismo, idem giro de letras........... .................................
+D, Agustín M? Pol, Ponton «Hernán Cortés,» Carenas..........................
+El mismo, iiem personal...................................................
+El mismo, idem raciones-..................................................
+D. Luis Berdellans, vap6r «Bazan,» vestuario............. ................
+El mismo, idem carenas ...................................................
+El mismo, idem personal...................................................
+El mismo, raciones........................................................
+D. Francisco de P. Rodríguez, Artillería de la Armada, personal.............
+El mismo, idem Condestables...............................................
+El mismo, idem prendas mayores... ........................................
+D. José García Alvarez, Guardias de Arsenales,-sueldos......................
+El mismo, idem Condestables...............................................
+El mi-mo, idem prendas mayores............................cr, ...;........
+El mismo, idem fletes.................................... ................
+D. Narciso Medina, goleta «Favorita,» Carenas...............................
+El mismo, idem personal...................... ............................
+El mismo, idem raciones...................................................
+D. José Gómez Ogeda, aviso «Sánchez Barcásteguí,» Carenas..........;........
+El mismo, idem personal...................................................
+El mismo, idem raciones...................................................
+D. M. Calvo y O, Pasajes de Jefes y Oficiales en Octubre....................
+El mismo, idem en Noviembre..........................„....................
+Sres. Palacio, Tarracena y C4, Efectos para carenas.........................
+D. Antonio González, ideai.............. ..... .............................
+Sres, A. Gassol, Galleta para la escuadra...................................
+62 ...	259	643
+292 ..	260	644
+62 ...	261	645
+62 ..	262	646
+500 ...	263	647
+100 ...	264	648
+250 ...	265	649
+417 ..	206	650
+270 ...	267	651
+525 ...	268	65‘7
+12 ...	269	653
+800 ...	270	654
+1000 ...	271	655
+150 ...	272	656
+500 ...	273	657
+400 ...	274	658
+2500 ..	275	659
+1000 ...	276	660
+500 ...	277	661
+266 88	278	662
+300 ...	279	663
+500 ...	280	664
+500 ...	281	665
+1000 ...	282	666
+100 ..	283	667
+100 ...	284	668
+80 ...	285	669
+20 ...	286	670
+1540 ...	287	671
+20 ...	283	672
+40 ...	289	673
+20 ...	290	674
+80 ...	291	675
+39 ...	292	676
+200 ...	293	677
+26 ...	294	678
+120 ...	295	679
+500 ...	296	6S0
+100 ...	297	681
+5 ...	298	682
+5 ...	299	683
+100 ... 35000 ..		
+2000 ...		
+2000 ...	300	
+27000 ...	301	
+11000 ...	302	
+2000 ...	303	
+1500 ..	304	
+16433 25	305	
+464 24	300	
+872 40	307	
+17 77	308	
+18000 ...	309	
+300 ...	310	
+4500 ...	311	
+5100 ...	312	
+3500 ...	313	
+60 ..	314	
+24878 14	315	
+35823 55	316	
+12087 01	317	
+10948 61	318	
+342 93	319	
+7850 96	320	
+126 ..	321	
+658 ...	322	
+10537 31	323	
+1200 ...	324	
+344 ...	325	
+130 ..	326	
+5014 11	327 328 329 330 331	
+16933 82 875 ... 366 66		
+116 66	332	
+3436 11	• 333	
+133 33	334	
+5765 17	335	
+266 66	336	
+2552 69	337	
+100 ...	338	
+2483 22	339	
+91 66	340 341	
+1000 ...	342	
+220 32	343	
+231 ...	344	
+113 33	345	
+105 55	346	
+16 66	347	
+29 16	348	
+460 ...	349 350 351 352 353	
+24174 43	354	
+230 85	355	
+476 15	356	
+2409 24	357	
+1097 ...	358	
+71 86	359 360	
+4000 ..	361	
+10000 ...	362 363	
+15000 ...	364	
+161 25	365	
+827 31	366	
+6995 50	367	
+349 42	368	
+1443 25	369	
+455 90	370	
+2 ...		
+112 85 887 19		
+68 19	371	
+80 ...	■ 372	
+1340 ...	373	
+8344 51	374	
+373 32	375	
+681 25 66 66 273 65		
+376 99	376	
+1054 60	. 377	
+7624 80	378	
+408 53	379	
+85 ... 400 ... 1292 80		
+10428 68	380	
+17
+452 18 27796 111 20 2731 95 959 102
+39	70 766 65
+12513 37 62 10 18 22
+40	66 1857 ...
+108 80 225 75 176 53 1647 83 77 -96 727 50 680 ... 35 90 2476 47 3469 74 1001 83 119 15 380 60 2631 14 126 52 248 53 2746 36 201 80 5359 50 14032 10 1 60 76 50 5332 21
+D. Vicente Roa, vapor «León,» Carenas.......................
+El mismo, idem personal..................................
+El mismo, idem raciones..................................-
+El mismo, idem hospitalidades............................
+D. Luis Berdellans, aviso «Fernando el Católico,» vestuario.
+El mismo, idem Carenas....................................
+El mismo, idem personal...................................
+El mismo, idem raciones........ ..........................
+D. Vicente Roa, vapor «León,» Carenas, Julio.........*......
+El mismo, idem personal, ídem.............................
+El mismo, idem prácticos, Agosto..........................
+El mismo, idem vestuario, idem............................
+El mismo, idem Carenas, idem.............................-
+D. Vicente Roa y Eipiu, vapor León, personal, Agosto. •
+El mismo, idem, raciones, id...........................
+El mismo, idem, hospitalidades, idem...................
+El mismo, idem, correos y telegramas, idem.............
+El mismo, idem carenas, Setiembre......................
+El mismo, idem, personal, idem.........................
+El mismo, ídem; raciones, idem.........................
+El m'smo, idem, hosp talidades, idem...................
+El mismo, idem, prácticos, Octubre....................
+El mismo, idem, carenas idem..........................
+El mismo, idem, personal, idem..................... ....
+El mismo, idem, raciones, idem ......................
+El mismo, idem, medie na-1, idem......................
+El mismo, idem, hospitalidades, idem..................
+Francisco Painceyra, plana mayor, sueldos...............
+El mismo, idem. idem...................... ...........
+El mismo, idem idem...................................
+El mismo, ídem, escribieutes.........................
+El mismo, idem, prendas mayores.......................
+El mismo, idem. complementos de sueldos...............
+El mismo, idem, alumbrado de Secretaría...............
+E mismo, ídem, prácticos .............................
+El rn smo, idem, oficinas del Arsenal.................
+El mismo, idem, carenas...............................
+El mismo, idem, buques de la escuadra.................
+El mismo, idem, raciones............... ..............
+El mismo, idem, reparaciones de edificios.............
+El mismo, idem, fletes............... ................-
+D.
+SECCION 6a—GOBERNACION.
+D. José R de la Luz, Gobierno General............................Personal
+Al mismo, ídem, gastos reservados....................................
+... F lomeno Muñoz, Secretaría del Gobierno General............. Personal
+Al mismo, Idem...............................................Material
+... Juan Perera, Consejo de Administración.... ..................Personal
+Al mismo, idem................................................. Marerial
+... Serafín Romeu, Central de Correos............................Personal
+Al mismo, idem..................................................Material
+... Domingo Marín, Junta de Sanidad..............................Personal
+Al mismo, idem.......................-...... ..................Material
+... Manuel del Rey, pres dio..................................... Personal
+Al mismo, idem..............................................    Material
+Al m'smo, Casa de Gobierno y Quinta da los Molinos..............Personal
+Al mismo, idem...............................................   Material
+... Gregorio Sol's, subcomisión de arbitrage............ ........Personal
+Al mismo, idem..............................................    Material
+... Luis Martínez, Escribanía de G bierno........................Pers nal
+... Emiliano Muñoz, hospitalidades.......................................
+... Leopoldo Carbajal, alquiler da la casa del Consejo de Administrac on.
+... Tomás Sanz, idem de la Guardia civil B[B 175 25 .....................
+... Tomás Rodríguez, idem del Orden Público...... .... ..................
+... Manuel Ubiña, telegramas oficiales...................................
+.. Manuel del Rey, pasajes de confinados................................••
+... Juan Pueyo, id.............................. ........................
+.. Ramón Herrera, vapores-correos de las Antillas........................
+Sres. M. Calvo y compañía, idem idem trasatlánticos..... ................
+Los mismos, pasajes de confinados.......................................
+D. Antonio Valdés Amoroso, Telégrafos.............................Personal
+El mismo, idem..................................................Material
+El mismo, idem, indemnizaciones, Setiembre, Octubre, Noviembre..........
+El mismo, idem, haberes de Agosto de D. Ramón Mendiola.............. • • •
+... Antonio Calduch, reparación de la casa administración de Correos...—
+SECCION 7?—fomento.
+D. Antonio Ma Gordon, Universidad.................................Material
+El mismo, idem................................................  Material
+Paulino A. AguiSiga, Instituto provincial.....................Personal
+El mismo, idem............. ....................................M aterial
+... Francisco Barrena, Escuela profesional.......................Personal
+El mismo, idem............................................    ..Material
+El mismo, observatorio........................................  Personal
+El mismo, idem..............................,...................Material
+... Ramón Perez, Escuela de pintura..............................Personal
+£1 mismo, idem.........................-........................Material
+.. Gabriel M? García, Academia de Ciencias.......................Material
+... José Irio y Oliva, Obras públicas............................Personal
+El mismo, puestos, escribientes temporeros................ .....Material
+... Filomeno Muñoz, Negociado de Obras públicas..................Personal
+El mismo idem............................................Indemnizaciones
+... Antonio Calduch, conservación de Carreteras, Setiembre y Octubre......
+El mismo, puestos...............................................Personal
+El mismo, idem ...........................................      Material
+El mismo, ídem......................................................Idem
+El mismo, Faros.................................................Personal
+El mismo, idem, material B[B 25 50....................................
+... Antonio Calduch, Obras públicas..............................Material.
+El mismo, Indemnizaciones.... ...........................B. B. $ 4 80
+... Nicasio Alvarez, Montes......................................Personal.
+El mismo, idem..............................................Material.
+El mismo, idem........................................Indemnizaciones.
+El mismo, Minas.............................................Personal.
+El mismo, idem...............................................Material.
+... Antonio Calduch, Puertos, Junio de	1880......................Material.
+... Antonio de Gordon, haberes	del catedrático D. Juan Setien Bustamante,
+Julio á Noviembre de 1880...........................................
+Sres. Rodríguez y Compañía, efectos de ferretería, Noviembre de 1880......
+Los mismos, idem idem................................................
+Sres. Ibarra y Compañía, suministro de maiz...............................
+D. Francisco Diaz, idem idem..............................................
+El mismo, idem idem...................................................
+El mismo, acopio de piedras........................... ...............
+... Miguel Estébau, idem idem.............................................
+... Ramón Amado, idem idem................................................
+... Miguel Estéban, machaqueo de idem ....................................
+Depósitos judiciales.
+D. Joaquín Lancís, causa contra D. Baldomero Perez.....................
+... Angel S. García, intestado de D. Antonio García Mendez...B. B. 1500
+... Benito García, causa por robo.. ........................B. B. 1049
+... José Collado, idem por resistencia á la Autoridad......B. B. 264
+... Mariano de la Torre, concurso de D. José M. Morales................
+Fianzas.
+D. Antonio Fernandez, fianza por D. Francisco Fernandez.......Bonos $	4000
+... Simón Bateti, idem por consumo de ganado en Regla.........Bonos $	2000
+... Ramón Herrera, idem por trasportes......................  Bonos	$	20000
+... Enrique Hornillo, idem por D. Víctor Pagés................Bonos 8	2000
+Depósitos por retenciones.
+La Subinspeccion de Infantería, haberes de D. Nicasio López-...
+Las cantidades señaladas en esta relación se abonarán en el órden siguiente:
+"	"el 168 al 188 y del
+del 327 al 346.
+Viérnes 25 Febrero del	núm. 1 al	13, d
+Sabado 26 ...	... 306 al	316 y
+Lúnes 28 ...	... 14 al	29.
+Miércoles 2 M arzo	... 189 al	207.
+Juéves 3 ...	... 30 al	41.
+Viérnes 4 ...	.. 208 al	226,
+Sábado 5 ..	... 42 al	55.
+Lúnes 7 ...	... 227 al	250.
+Mártes 8 ...	... 56 al	70.
+Miércoles 9 ...	... 251 al	275.
+Juéves 10 ...	... 276 al	299.
+Viérnes H ...	... 71 al	87.
+Lúnes 14 ...	... 317 al	326.
+Mártes 15 ...	88 al	100.
+Miércoles 16	... 347 al	355.
+Juéves 17 ...	... 101 al	115.
+Viérnes 18 ...	356 al	370.
+Lúnes 21	.. 116 al	132.
+Mártes 22 ...	... 371 al	380.
+Miércoles 23 ...	... 133 al	151.
+J uéve3 24 ...	... 152 al	167.
+529
+3465
+1291
+37
+32
+126
+1444
+77
+529
+3605
+101
+63
+529
+3640
+953
+63
+35
+529
+3638
+60
+06
+28
+17
+25
+86
+74
+60
+86
+60
+90
+60
+15
+30
+89
+6<
+89
+1540	97
+39	68
+18	90
+782	20
+3493	19
+679	70
+29	75
+102	04
+1900	• . •
+833	33
+11557	45
+329	25
+90	t • •
+3978	70
+332	50
+1694	...
+5257	36
+976	83
+190	38
+32	78
+304	. . .
+1270	11
+4166	66
+2250	...
+6741	93
+500	• ••
+3002	88
+166	66
+1971	58
+333	33
+941	64
+66	66
+9826	26
+•370	15
+127	60
+250	• . .
+• 790	. ..
+141	...
+Administración Local de Aduanas
+Por disposición del Exorno. Sr. Dheotor gen le Hacienda, fecha de ayer, queda levantado el c & >urgo de ouareuta y cinco sacos de lapus de cor 1°' y lus cincuenta y cinco pacfls do tabaco de pnc í10 Rico, per lo que queda tu»pendido el remate del referidos efec os, anunciándose por oste medio 18 eonecimiento gene»a'-	** r*
+Habana 24 de Febrero de 1881.—O. Barca
+El Viérnos 25 dol actual á las doce y doce y m lia de la mañana, so rematarán respeetivaraout,, ®" os almacenes y almacén de averías de e»ta Adi*'1 na 1319 kilos tejidos de hilo hasta 16 hiles y Uq í8' los tejidos algodón hasta 12 hilos, caído» en ponil j" lomiso por resaltar de exceso al despachar !a j,..6 8110, del vapor «Carolina,» y valorados en 862 peJl S7 centavos oro, cncebatrlis gengibre, caidoo* jena do abandono, retasados en 60 posos ore- 11, lándose en el acto las formalidades prevenidas.’
+H ibaca Febrero 21 de 1881.— Q Burea.
+166 66 838 50 170 3159 973 1006 54 25 9000 60000 317 12895 8136 4482 38 464
+34
+96
+90
+37
+54
+45
+18
+50
+6404 279 1579 108 1095 66 83 50 508 91 41 4244 80 470 75 5404 175 805 1314 1266 140 449 402 966 235 33 229 66 266 66 41 66 3 15
+16
+11
+33
+82
+66
+33
+31
+66
+66
+90
+82
+52
+78
+65 61
+98
+95
+66
+458 30 29 35 694 888 167 186 3116 1229 929 319
+153
+82 78
+2630 66
+1140
+NOTA.-De órden del Excmo. Sr. Director General de Hacienda, se suplicad los señores habilitados que cobren por el ram i de Guerra, presenten en la Ordenación de Pagos, los talones corresp indieates íi los libramientos que en la semana deben hacer efectivos con la debida anticipación para que puedan efectuarse las operaciones necesarias, haciendo presente que Jos que teniendo asignado aigun pago de cualquiera naturaleza y no se hubiesen presentado para su cobro en el día respectivo perderán el derecho, procediéndose á un nuevo señalamiento.
+NOTA.—El Exemo. Sr. Director General, ruega a los interesados y al público en general, que si advierten algún erroró irregularidad en los señalamientos ó en ios pagos, lo pongan al instante en su conocimiento, pudien-tio además, si gustan, tomar cuantos antecedentes de seeu acerca de las condiciones y fechas de los pago3 que se efectúen.
+Otra.—Lns interesados por devoluciones de fianzas y depósitos, presentarán con tres dias de anticipación al s‘ flalado las cartas de pago correspondientes, para que puedan practicarse las opeiaciones necesarias para los pagos-
+Habaua 24 de Febrero de 1881,—El Ordenador General de Pagos, Antonio Gonzalos Llórente,
+Derechos liquidados en el dia de ayer.
+Departamento de muellop................$	24262 ae
+Idem de almacenep...................... 11169 29
+Total......$	3543^	*
+Contraido en esta fecha.
+Por importación.......................$	38634 75
+[dem exportaoion.. .................... 84677,
+ídem multas............................ 79 J
+<.dem derechos de navegación........... 1875 22
+1 lem comisos................................
+Ldem depósito mercantil................ .....
+dem intereses de pagarés....................
+Total......í_4905r?4
+Recaudado en esta fecha.
+?or importación.............. ........$ 28424 86
+Idem exportación........................ 8467	74
+Idem multas.............................   rq	^
+l/era derechos de navegaoion...,........ 1375	22
+Idem comisos..................................
+Cdom depósito meroantil.................... 5	jj
+Idem intereses de pagarés....................
+Total......$ 38¡34~27
+.Habana 23 de Febrero de 1881.—El Contador Víctor de Pagés.— Vto. Bno.— El Administrador'
+Barca.
+' Junta Provincial de Patronato de la Habana.
+Presideiioia.
+Por el presente se convoca al apoderado deD. Manuel Bornio, cuyo domíoilio aotual so ignora í do do que dentro del término de quince d'as oom'a. los desde aquel on que se publique el primer anun-»io, comparezca ante esta J unta calle de Empedrólo número 32 pava que conteste la reelumaoionde la patrocinada Carolina Lucumí, fundada en el abandono en que se la tiene á ella y á su hijo Jacinto, crio. 1I0, en la inteligencia que Ue no comparecer en el plazo fijado, se declararán desdo luego exentos de patronato á los referidos morenos proveyéndoseles de las correspondientes cédulas provisionales de bre.
+Habana Febrero 4 de 1831.—Arias,
+Colegio de Abogados.
+Secretaria.
+La Junta do Gobierno en sesión celobrada ayer, ha acordado que los Sres. Cotegialos quo deban cno-tas menscabs á la Corporación, las satisfagan dentro de quinoe dias contados desde esta techa, es/« Tesorería dol Colegio, San Ignacio 52; con la advsr-.encía de que si no lo verificaron, se cumplirá lo dispuesto por los Estatutos y la Junta general, dándoseles de b ja en ol Colegio y avi ándose á lus autoridades, on cuyo conoc'm ento deba ponerse.
+Habana 21 de Febrero de 1881.—El Secretario Contador, Dr. Vidal Morales y Morule%.
+Escuela Profesional de la Isla de Cuba.
+Dispuesto por el Exemo. Sr. Gobernador General se saque á pública subasta el arrendamiento del taller de maquinaria de San Isidro, se señal» el dia 12 del mes de Marzo entrante á las doce do su mañana, para que tenga efecto el remate, qne se verificará en la Dirección de la Escuela Profesional de la Isla de Cuba, debiendo advertir qne no se admitirá proposición que baje del tipo do tres mil doscientos pesos en oro anuales, y caso de haber proposiciones iguales, se admitirán pujas verbales durante diez minutos, cuyo remate se verificará con arreglo al siguiente Pliego de condiciones para el arrendamiento del
+taller de maquinaria de San Isidro.
+1.	” Los que aspiren al arrendamiento del referido taller, dirijirán sus proposiciones á la Secretaría de la Escuela Profesional de la Isla de Cuba, ex convento de San Felipe, calle de Aguiar, frente al Banco Español, en pliego cerrado y con ari’eglo al modelo que se estampa á continuación, incluyendo en él una carta de abono de persona de arraigo, sin cuyo requisito no se podrá tomar parte en la subasta.
+2.	Para garantizar el pago do la cantidad en que se haga la adjudicación y entrega de las máquinas y demás lítiles quo reciba, se exijirá la garantía do un fiador principal pagador, á satisfacción del Director de la citada Escuela.
+3.	El contratista abonará en Arcas de! Tesoro y por trimestres adelantados, las cantidades que haya ofrecido en el remate, debiendo empezarse á contar este tiempo desde el dia en qne tome posesión del taller. Si pasados ocho dias de cumplido el trimestre 110 hubiese el contratista presentado la carta de pago á la Dirección de la Escuela, podrá esta hacer uso del derecho qne le asiste y reclamar, además del alquiler, los daños y perjuicios que por esto puedan originarse.
+4.	* Se entregará al contratista el taller con todas sus pertenencias bajo inventario, debiendo concurrir al acto su fiador.
+5.	El pago de las contribuciones del Estado y Municipales, son de cargo del contratista.
+6.	d El contratista hará por su cuenta y riesgo las obras que se presenten, siendo de su exclusivo cargo los costos que se ocasionen.
+7.03 Cuando alguna de las máquinas ó herramientas se inutilicen por abandono ó causas extrañas al uso natural de ellas, está el contratista en la obligación de reponerlas por su cuenta, dando inmediatamente aviso al Director de la Escuela.
+8.33 El contratista queda obligado á mantener en buen estado de limpieza el edificio, máq«1' ñas y herramientas del taller; en caso contrario podrá el Director de la Escuela disponer la limpieza por cuenta del contratista.
+9.50 Serán de cargo del contratista los costos de la escritura que se otorgará á su favor, antes del octavo dia después del remate; como asimismo los derechos de publicación del presente anuncio en la Gaceta oficial, según lo previene la Real órden de 5 de Junio de 1878.
+10.	Todas las mejoras que se hagan tanto
+en las fábricas coino en las máquinas pertenecientes al taller, quedarán á beneficio del Estado; con excepción de las nuevas máquinas que se introduzcan, que serán de la esclusiva propiedad del arreu datario, si su uso no deteriora por abandono 1 que pertenecen al taller.	. •
+11.	La falta de cumplimiento de enalquier de las condiciones de este contrato, por parte
+v

@@ -1,0 +1,412 @@
+﻿13q Condiciones de una. recta en un plano. De una recta perpendicular ó un plano. Perpendiculares y oblicuas á un plano. Distancia desde un punto á un plano. Rectas paralelas á un plano. Proyecciones. Angulos diedros. Relación entre su magnitud y la extensión de sus caras- Diedros adyacentes, rectos, agudos y obtusos. Diedros opuestos por la arista, ñfedida de un diedro. Planos perpendiculares, oblicuos y paralelos entre sí. Poruña recta perpendicular á un plano, cuántos pueden pasar perpendiculares al mismo y cuántos por una oblicua ó paralela. Intersección de dos planos paralelos con un tercero. Líneas > ¡danos verticales y horizontales.
+l io Definición de ángulo poliedro. De los dife-r<i;tea elementos del mismo. Descomposición de un p i . ■ Ir.i en triedros. Angulos que forman en el espa-c¡ , tivs planos que se cortan. Huma de los ángulos planos de un poliedro. Cuerpos poliedros. Vértices. Caras. Aristas. Diagonales. Planos diagonales. Poliedro-i regulares é irregulares. Sus hombres según el número de caras. Pirámides. Pirámide regular é irregular. Nombre de sus elementos. Apotema de las regulares. Descomposición en tetraedros. Area lateral y total. Desarrollo sobre un plano, de la superficie lateral y total.
+15q Definición del prisma. Paralelipípedos. Cubos. División de ún prisma en prismas triangulares. Prismas rectos. Oblicuos. Regulares é irregulares. Area lateral y total de un prisma. Desarrollo sobre un plano, de la superficie lateral y total de un prisma. Descomposición de un poliedro en tetraedros. Poliedros regulares. Elementos que entran en cada uno de ellos. Sus áreas. Desarrollo sobre un plano, de las superficies de estos cuerpos.
+16p Definiciones del cono. De sus elementos. Conos equiláteros. Sección de un eouo por un plano paralelo á la base. Trozo de cono. Area lateral y total de un cono. Desarrollo sobre un plano, de su superficie lateral y total. Definición del cilindro y de sus elementos. Cilindro equilátero. Sección de un cilindro por un plano paralelo á la base. Area lateral y total del cilindro. Definiciones de la esfera y sus elementos. Círculos máximos y menores. Sección de una esfera por un plano. Plano tangente á la esfera. Area de la esfera. Problemas numéricos.
+17o Volúmen de un cuerpo. Unidad de volumen, volúmenes de los: Paralelipípedos. Prismas. Pirámides y en general de un poliedro cualquiera- Volumen de los poliedros regulares. Equivalencias de los volúmenes de algunos poliedros. Comparación de los volúmenes de los poliedros semejantes. Problemas numéricos. Volúmen del cono. Cilindro. Esfera, Equivalencia de estos volúmenes. Cuerpos redondos semejantes. Comparación de sus volúmenes. Problemas numéricos de aplicación en cuerpos redondos.
+Dibujo.
+lo Definir el óvalo. Elipse. Sus ejes. Focos de la elipse. Rádios véctores. Ceutro de la elipse. Escentricidad. Diámetros. Vértices. Huevo. Espiral. Cómo se indican los puntos aislados. Líneas de dato. De resultado. Puntos y líneas ocultas. Auxiliares ó de construcción.
+2? Nomenclatura.—Descripción y uso de las principales piezas de un estuche para dibujo lineal. Especie de tinta que se emplea para trabajar á tiralíneas. Dibujar sacando del sólido los planos necesarios á la construcción de un efecto del material que haya de «laborarse en talleres de su oficio. Trazar los croquis parciales acotados de las diversas piezas que ha de encomendar á cada operario. Trazar en análoga forma las plantillas que deban servir para construcción y verificación. Dado un plano de efectos del material, traducirlo oralmente, detallando sus diversas piezas, colocación relativa, objeto que desempeñan, ligue ó sujeción recíproca. Dimensiones.
+Física y Mecánica,
+lo Definición de materia. Cuerpo. Ciencia de la naturaleza. Observación y experimento. Ley natural. Fuerzas. Hipótesis. Método deductivo. Definir las propiedades generales de los cuerpos. Extensión. Impenetrabilidad. Porosidad. Divisibilidad. Compresibilidad. Dilatabilidad. Elasticidad, Movilidad, Inercia. Gravitación y gravedad. Peso. Peso específico. Estados de agregación de los cuerpos. Sólidos. Líquidos. Gaseosos.
+2o Definiciones de posición de un cuerpo. Reposo. Movimiento. Velocidad. Especies de movimiento. Uniforme. Variado. Acelerado. Retardado. Uniformemente acelerado ó retardado. Fuerza. Punto de aplicación. Dirección. Intensidad. Equilibrio. Mecánica. Centros de gravedad. Su determinación experimental. Su posición y propiedades. Especies de equilibrio. Definición de máquina en general. Resistencia, potencia. Punto de apoyo. Máquinas simples. Compuestas. Palanca. Polea. Torno. Plano inclinado. Tornillo.
+3? Definir los órganos de las máquinas. Organos de trasmisión. Ejes 6 árboles. Tornillo ó rosca. Poleas. Cuerdas. Correas y cables sin fin. Ruedas dentadas. Roscas sin fin. Cremalleras. Cadenas. Juntas de Oldhan.—Junta universal. Embragues. Trinquetes.
+4? Organos de trasformacion de movimientos. Ruedas y Rodillos. Biela y manivela. Topes. Es-céntricos. Organos de dirección del movimiento. Barras-carriles. Charnelas. Sectores. Guias. Cojinetes y soportes. Organos de regularizacion del movimiento. Volantes. Reguladores de fuerza centrífuga. Frenos.
+6<? Motores. Definirlos. Kilográmetro. Caballo de vapor. Medida de la fuerza de un motor- Freno de Prony. Motores de sangre. Malacates. Definir los hidráulicos. Ruedas de paletas planas. Ruedas de paletas curvas. Ruedas de costado. Turbinas. Motores de vapor. Propiedades del vapor de agua. Definir las máquinas de vapor. Manera de obrar el vapor en ellas según sean. De simple efecto. De doble efecto sin condensador ó de alta presión. Con condensador ó de baja presión. De dos cilindros de Woolf. De es-pansion. Generadores. Hogar. Chimenea. Caldera. Accesorios en general.
+CONOCIMIENTOS DE PRÁCTICA DE TALLEK.
+1° Propiedades generales del hierro. Densidad. Cristalización. Resistencia de rotura. Temperatura dé fusión y reblandecimiento. Propiedad magnética. Acción del aire sobre él. Combinación del hierro y carbón Propiedades del hierro dulce y sus principales aplicaciones. Propiedades del hierro ágrio y sus aplicaciones. Propiedades y aplicaciones del hierro quebradizo en caliente.
+2q Naturaleza y propiedades del acero en general. bu composición. Su textura y color. Temperatura de presión. Acción del temple sobre el acero. Propiedad magnética. Densidad. Fuerza coercitiva. Propiedades y aplicaciones del acero de forja ó natural. Del acero de cementación. Del acero fundido. Del acero Bessemer.
+3? Naturaleza y propiedades de la fundición en general ó hierro fundido en altos hornos. Su composición. Propiedades de la fundición gris. Su color, fractura, dureza, cantidad de carbón, temperatura de fusión y aplicaciones. Propiedades de la fundición blanca. Su color, fractura, dureza, cantidad de carbón,
+■ temperatura de fusión, su conversión en gris y aplicaciones. Medios de distinguir entre sí el hierro, el acero y la fundición.
+4? Descripción nomenclatora de las principales especies de fraguas. Fráguas fijas. Fráguas portátiles. Hogar. Pila. Tobera. Busa. Campana. Chimenea. Aparato de aire. Fuelles. Partes de que constan y manera de funcionar. Ventiladores mecánicos de paletas y su modo de funcionar y acumular é inyectar el viento. Ventajas é inconvenientes de unos y otros. Manera-de regular el efecto de los fuelles. Toberas reguladoras ó gasotermas. Influencia de la situación de la tobera respecto al hogar.
+5o Máquinas y aparatos de uso frecuente en los talleres de forja en fragua. Aparato para encorvar hierro en barras. Máquinas para forja mecánica de pernería y piezas pequeñas; su descripción; manera áe trasmitirle la fuerza motriz y modo de funcionar. Descripción y modo de funcionar de los martillos ó martinetes de vapor y de los á muelles ó aire comprimido por trasmisión directa del motor. Máquinas para cortar y punzar el hierro; su descripción y manera de funcionar. Laminadores.
+6q> Examen y clasificación preliminar para la
+Jjuena elección de lo» hierros forjado». Dimensiones1
+
+
+más convenientes en sección de !ai barras á ensayar. Exámen (le la fractura y circuir . hk-iiis dn rila que atestiguan la mejor calidad. Cii oistancias de fractura que revelan defectos de alino, ; o eeptibles de desaparecer por caldas y batidos. Cuánto revela la fractura ser el hierro ya aceroso, quebradizo tu trio y duro, \a quebradizo en frió y fácil de hender y’abrir al trabajo del.martillo, ya agrio, blando al calor, sudante y fácil de forjar. Significación y trascendencia de los defectos esteriorescomo escamas, h ¡as, puntos negros ó picaduras.
+7o Grado de suficiencia de fractura en el rééniioci miento He dios de hacer nervioso un hierro i dio de hacer perder e cérselo recobrar. Exámen por
+me
+exánen exterior y de rros forjados. Me-dé granos sucios. Me-nervio ó fibra a un hierro y ha-áinen por pruebas en frió yen la 'llífl
+caliente. Trabajo en la fin ja. <' .locación más conveniente del hierro para ia calda. Formación y objeto de la bóveda con carbones. Manipulación del hierro para la buena leparticion de la calda y desembarazo de la tobera, Precauciones á tomar en las caldas altas y para soldar. Medios para corregir los defectos riel mal trabajo: si se quema el hierro, si pierde su duccilidad, si se pone aceroso.
+8.° Exámen exterior de fractura y pruebas de los aceros. Propiedades que adquiere por el temple, manera de producir el temple. Colores característicos de color para los diversos grados del temple. Temple en el agua, en el mercurio, en los ácidos, en cuerpos grasos, en arena, tierra etc. Diferencias características que originan estos diversos medios de templar. Influencia que pueda tener la clase de agua empleada. Recocido ó revenido del acero templado. Aceración de hierros y manera de conseguirla. Sustancias que más comunmente se emplean como cementa para acerar. Soldaduras postizas ó de fusión. Planchas de hierro y acero: su procedencia y exámen.
+9q Descripción y uso de las diversas herramientas y útiles que se emplean en un taller de ajuste. De sujeción. Alicates diversos. Baja muelles. Bancos de cerrajero. Bigornia de banco. Desarmadores y destornilladores. Entenallas. Gatos. Llaves de obreros. Sencillas. Dobles. Inglesas. Alemanas. Tenazas ordinarias y de chañan. Tornillos de banco, fijos y articulados. De ajustar ó dar forma: Avellanadores. Bruñidores. Cinceles. Cortafríos. Pulicaues. Fresas. Gra-netes. Gratas. Limas diversas con su nomenclatura corriente. Limandel ó serrucho. Mandriles. Mane-rales. Martillos de mano. Peines para recorrer roscas. Piedras de afilar. Piedras de rebajar ó desbastar. Terrajas diferentes expresando el límite de diámetros á que con ellas se trabaja. Volvedores con coginetes para los diámetros superiores. Tijeras de mano y de banco.	•
+10.	De penetrar: Arco de violin. Berbiquis de mano y de banco ó momantes. Bombillo ó taladro de cruz. Brocas ó trepantes. Brocas salomónicas. Carracas ó carrañacas. De confrontación ó dirección: Cartabones. Compases diversos. Escuadras. N iveles de aire. Niveles de aire para ángulos. Placas-Tipos. Tornillos de espesores ó compases de espesores con el manejo del nonios s n esplicar su fundamento.
+11.	Descripción ante el aparato al natural, en modelo, ó en dibujo, de las principales máquinas operadoras empleadas en talleres de ajuste como: Tornos ordinarios. Paralelos. Copiadores y mesas de tornos múltiples. Máquinas de cepillar horizontales y verticales. De taladrar. De fresar. De terrajar.
+12.	Pulimento del hierro y acero y ajustes de precisión. Esmerilado y acicalado. Descripción ante el aparato al natural, en modelo ó dibujo, de los sistemas más en uso de repasaderas, esmeriladoras y acicaladoras Barnices. Pavones diversos, al carbón ó calor al temple y á los ácidos. Procedimiento para construir y rectificar planos ó placas-tipos de contraste.
+13.	Propiedades y caractéres distintivos de los siguientes metales: Zinc. Estaño. Plomo. Cobre. Propiedades y caractéres distintivos de las aleaciones en general. Aleaciones en metales quebradizos, dúctiles y blandos. Componentes de las siguientes combinaciones. Hierro galvanizado. Hoja de lata. Latones. Bronces. Soldadura de plomeros. Metal de campanas. Masties y sustancias diversas empleadas en las juntas de tubería y casos de preferencia de cada una.
+Ejercicios prácticos.
+1? Reconocimiento en lo concerniente á maderas y asentado de herrajes de un carruaje ú otro aparato del material. Presupuesto de su recomposición, con tanteo de tiempo. Presupuesto y tanteo de tiempo en lo relativo á maderas y asientos de herrajes de un efecto que se le designe para construcción.
+2o Preparación de herramientas para el trabajo. Distribución del mismo entre una sección de obreros para construir un montaje. Trazado al natural de los croquis necesarios desglosándolos del general ó planos que se le marquen.
+3q Efectuar la construcción de uña rueda ó cualquier otra pieza de análoga importancia que se le designe. Cuenta corriente de los fondos invertidos en ella por jornales, materiales, mermas y retales, precediendo á la construcción el pedido en cantidad, valores y dimensiones ó peso de los materiales. Las piezas que preferentemente deberá construir por sí, serán: Un tornillo ó compás de espesores; á precisión, con nonios hasta dejarlo dispuesto á marcar las graduaciones en la máquina de dividir. Trazado y construcción completa en forja, picado y temple, de la fresa apropósito para trabajar á lima mecánica, una pieza de figura especial que se le proponga.
+4<j Ejercicios en manejo de torno al aire y con carrillo ó estuche y eu cualquiera otra operadora de metales.
+Es copia de los Programas para exámenes del Personal obrero y auxiliar del Material, mandado observar provisionalmente por el Exorno. Sr. Director General del Cuerpo.
+Habana 20 de Octubre de 1881.—Él Tte. Coronel Comandante Jefe del Detall, José Villeti.—Vto. Bno.^ El Coronel Director, Molins.
+Instituto de SegundaEnseñanza de la Habana.
+Secretaría.
+De orden del Sr. Director y en cumplimiento de loque dispone el artículo 221 del Reglamento, se hace saber que en el colegio “La Gran Antilla,’’ han i ocurrido das variaciones' siguientes, en el cuadro de Profesores:
+El Doctor I). Carlos Hergueta queda hecho cargo 1 de la Asignatura de 'Geografía, que explicaba el Ldo.
+, i>. Luis Febles.
+El Dr. D. José Pedro Perez, desempeñará las de ! H storia natural, Fisiología é Higiene y Agricultura,
+S que estaban a cargo del Ldo. P. Carlos dé la Torre y éste explicará las de Física y Química, que désempe-| fiaba el expresado Perez.
+Habana y Noviembre 24 de 1881.— Vr- íaulino Alvarez Aguíñiga.
+Banco Español de la Isla de Cuba.
+Debiendo destinarse la suma de 440931 pesos 94 centavos en el presente trimestre para el pago de intereses y amortización de las obligaciones del Tesoro de esta Isla sobre los productos de la renta de Aduanas, creadas por virtud de la Ley de 25 de Junio de 1873, y habiendo de aplicarse en el que vencerá en primero de Enero próximo, la suma de 218652 pesos para I03 intereses cíe los 14.576,800 peses, importe de las obligaciones que aún no ha tocado la amortización, después de deducidos de los 16,144,100 pesos que quedaron en primero de Octubre 1.613,500 pesos cangeados por billetes hipotecarios de 1880, con aumento de los 46,200 pesos que han resultado eliminados del sorteo anterior, quedan para aplicar á la amortización 222,279 pesos 94 centavos.
+Hallándose dispuesto que la amortización se verifique por sorteos, la Administración de este Establecimiento procede á anunciar las siguientes reglas á que ha de sujetarse él del cuarto trimestre del corriente año, de acuerdo con las instrucciones comunicadas por el Ministerio de Ultramar en Real orden de 3 del corriente mes.
+1.50 El sorteo se verificará públicamente en el salón de juntas generales del Banco, sito en la calle de Aguiar núm. 81, á las ocho de la mañana del dia tres del próximo mes de Diciembre y lo presidirá el Excmo. Sr. Gobernador del Banco, asistiendo además una Comisión del Consejo, el Secretario y el Contador del mismo Establecimiento.
+2.	® Las 2128 bolas en representación de 212,806 obligaciones que en primero de Octubre quedaron pendientes de amortización, se expondrán ai público antes de ser introducidas en el globo para que puedan ser examinadas.
+3.	p Encantaradas las 2128 bolas, se extraerán del globo 40 en representación de 4000 obligaciones, correspondiendo 32 bolas en representación de 3200 obligaciones al vencimiento de primero de Enero próximo, y las ocho restautes, en representación de-800 obligaciones que se dedujeron del vencimiento de primero de Octubre últjmo, según el cuadro de amortización estampado al dorso de las obligaciones; pero deberá enteudérse que aunque dichas 40 bolas representan 4000 obligaciones,- habrá de eliminarse de ellas las que por su numeración estén comprendidas en las 67404 cangeadas por billetes hipotecarios de 1880.
+4 p La Administración del Banco publicará en los periódicos oficiales los números de las obligaciones á que haya correspondido la amortización y dejará expuestas al público para su comprobación las 40 bolas que hayan salido eu el sorteo.
+Habana 30 dé Noviembre de 1881.—El Secretario, Eugenio de Nava Cavela.
+rulos lí-
+Hospital Militar del Principe.
+Junta Económica.—Anuncio
+Debiendo precederse el dia 10 del próximo mes de Diciembre á la primera licitación verbal para el suministro de víveres, carnes, aves, huevos, leche de vaca, panetelas, bizcochos, carbón , lefia, gas, ferretería y acarreos entre este Hospital y los Barracones del Principe, que sean necesarios para abastecimiento del Hospital Militar de esta Plaza, durante el me3 de Enero próximo venidero, se avisa por medio del presente á las personas que quieran interesarse en la misma, haberse fijado la hora de las doce de la mañana dei mencionado dia diez, para acudan á hacer sus proposiciones, ya verbales ó por escrito ante la Junta Económica de este Establecimiento, pudiendo verificarlo ea la Secretaria de esta Junta en los dias anteriores para informarse de las condiciones á que deban sujetarse las mismas y bases que so consignan on la relación de precios liantes.
+Los precios de los artículos se marcaváu en oro ó su equivalente en billetes del Banco Español do la Isla de Cuba al tipo que fije el Gobierno en el mes del suministro; el peso de ellos por arrobas y kilo mos en los víveles y arrobas y litros en quicios.
+La mencionada licitación se mantendrá abierta hasta ia una de la tarde, deode cuya hora on i deante, no se admitirán mas proposiciones quo las ya presentadas y sera adjudicado el suministro á la que resultare ser más beneficiosa a ios intereses del Estado, en vista de la comparación que de las mismas se hara á presencia de sus autores; y en caso de que hubiere"dos ó mas iguales, se admitirán pujas a la baja por solo el plazo de diez minutos.
+Los autores de las proposiciones que obtengan ¡a aprobación do las suyas respectivas y que por lo tanto suministren en el mes próximo al Hospital Militar do esta plaza de los artículos de su comercio quedan obligados a satisfacer inmediatamente a la Dirección de la Gaceta Oficial el importe de los anuncios que aquella hubiere insertado en su periódico respecto de dichas licitaciones; verificándolo del total de la cantidad á quo aquellas asciendan si uno sólo fuero ei que suministrare todos lo» artículos de la licitación, y por todos los que tomaren parte en ella á prorateo de las cantidades á que se calcule asciendan en el mes el suministro, si este se efectúa j por muohos y por ramos separados.
+Habana 29 de Noviembre de 1881.—El Secreta- * rio, José Montereei.	. j
+Situación del Banco Español de la Isla de Cuba
+en la tarde del Sábado 19 de Noviembre de 1881. ACTIVO.
+ORO.
+BILLETES.
+CAJA................
+CARTERA.
+Vencímtos. hasta 3 meses..$1590096 18
+Id. de 3 á 6 id...	152188 11
+Id á mas tiempo 4533319 01
+6503770 59 $ 7909313 70
+Doemtos. á cobrar cuenta ajena.........
+$6584604
+lo
+968858 04 202075 37
+1J70933 41
+39008 .... $05346(74 20	1209941 41
+Otros créditos:
+Títulos del empréstito de.,25	. •
+millones....... 4400000 ...
+Comisionados... 627655 13 Sucursales....... 1110395 74 1250765 47
+Créditos vencidos............. 110994 05 2712938 18 $6249044 97 $3963703.65
+Hacienda Pública cuenta de anticipo sin	*
+interés...................................... ... 44881341 25
+Propiedades............................. 129766 75
+Gasto;* de i-odas ciases:
+Instalación ......$ 31304 75	6235 80
+Generales......	69284 76	8223 64 $ 100589 51’	14459 44
+$19667776 02 $58038789 45
+PASIVO.
+ORO.
+BILLETES
+CAPITAL.................................$ 8000000 ...
+Fondos de reserva........................ 426341 14
+Obligaciones á la vista:
+Ctas. corrientes, $8673013 96 5474171 97 Depósitos sin interés.......... 317982 28 674847 87
+Divds atrasados	19745 ...	30065 85
+Id. corriente.... 34820 ................ $ 9075561 24 6079085 69
+Billetes emitidos del Banco Español do la Habana:
+Emisión propia..-............ 4041920 ...
+Emisión de guerra.......... 44881341 25 ...i............ 489232G1 25
+Otras obligaciones:
+Empréstito de
+25 millones... 205113 65	........
+Corresponsales.. 10272 76 $ 44701 05 Contrato contribuciones........	...,.. 147SS5 60
+Cuentas varias.. 286758 73 1063S4S 25 $502145 14 $ 1256434 90
+Saneamiento de créditos vencidos........	9041 70 $ 1740096 40
+Intereses por cobrar...................$ 1382279 20	..... ...
+Ganancias y pérdidas..................172407 60	39311 21
+$19567776 02 $58038789 45
+Habana Noviembre 19 de 1881.—El Contador, J. B. Carvalho.—• Vt” Bn?—El Sub-Gobernador, E. Quijano.
+Colegio de Abogados de la Habana.
+Decanato.
+Según lo prevenido eu el artículo 12 de los estatutos de esta corporación y con los objeto» expresados en el artículo id, convoco á ios Sre3. Colegiales para celebrar junta general ordinaria el domingo cuatro de Diciembre próximo á las doce del dia, en los salones del Colegio calle de Mercaderes número 2.
+Habana 2ó de Noviembre de 1881.—L. Pedro Gozalez Llórente.
+Cotizaciones del Colegio de Corredores.
+CAMBIOS.
+España .............. 5j á 7j p.g P. s. p. f. y c.
+Francia..............{ $ ‘ 8	60 dlv-
+l á	p.$ Jt\ civ.
+Alemania....:........ Ci	p.g P. 00 d[v.
+..........11» t va«.“vd‘v-
+Oro del cuño español. 81¿ a 811 p.2 P. & las 2£.
+Descuento mercantil..{ « * | P-f\ anual BtB.
+I 6 y 8 p.g anual oro.
+MERCADO NACIONAL.
+AZUCARES.
+NOMINAL.
+MERCADO EXTRANJERO.
+NOMINAL.
+" SRIS. COREEDOREB DE SEMANA.
+DE FRUTOS.
+D. CArlos María Jiménez.
+D. Calixto R. Navarrete, auxiliar de corredor.
+Habana 2 de Diciem bre de 1881.—El Síndico, M. Nufiez.
+DE CAMBIOS Y ACCIONES.
+D. Juan Saavedra.
+D. Miguel Rota, auxiliar do corredor,
+Boletín de Cotizaciones
+del CVnlro de Contratación de Víveres de la Habana.
+Arroz de Valencia.................... 18 A 20 rs.
+Idem de semilla bueno superior.......I 171 rs.
+Idem idem regular.................... 17$ rs.
+Idem idem inferior................... 17 rs.
+Idem canilla bueno................... 20 á 21 rs.
+Idem idem regular.................... 19 ít 10J rs.
+Idem ídem inferior................... 18 rs.
+Aceite de olivas..................... $ 5$ A 5f
+Idem de Sevilla en latas............. $ 7 A 7$
+Idem ídem en botijas....,.....'...... $ 6$
+ídem de Málaga en latas.............. $ 71 á 7}
+Ídem idem en botijas................. No hay.
+Idem refino nacional..............$ 14
+Idem idem francés Betus.............. $ 14 á 19
+Idem idem italiano Niza....’......... $ 7
+rdem de carbón ...................... 61 á 6J rs.
+Idem del país........................ 61 rs.
+Idem del extranjero..................
+Idem de maní......................... 18 rs.
+Idem de almendras.................... 17 A 18 rs.
+Idem de coco.........................
+Aceitunas manzanilla en cuñetes...j 2n rs
+Idem gordales en idem.............j
+Idem negras en idem................... 10 A 11 rs.
+Idem ídem en garrafoncitos........... 6 rs
+Idem verdes en Idem.................. 6 rs.
+Atún en cuñetes........................ $ 3
+Afrecho.............................. $ 51 A 51
+Anís................................. $ 30 qq-
+Aguardiente de Islas................. $ 9, a J2 grfn.
+Idem del país........................ $ 40 oro pina.
+Anisado corriente.................... 19 A 20 rs. fnga
+Idem doble........................... 26 A 23 rs
+Idemtriple........................... $ 5 A 5J
+Ajos lí.............................. i
+Idem 2?...........................V 4 A 9 rs.
+Idem 3?...........................)
+Alcaparras en garrafón............... 6 rs.
+Idem en cajitas ..................... 10 rs.
+Almendras de Mallorca......-......... $45 A 46
+Idem de Canarias.....................
+Ylmidon del país..................... 10 rs.
+rdem de fuera........................
+Alpiste............................... $ 10 qq.
+Añil en piedra....................... Nominal.
+Idem eu bolita francés............... $ i6 A 40 qq.
+Idem en idem aleman....,........... $20 A 22 »
+Arencones.............................  7	r». caja.
+Avellanas............................ 5620 qq.
+Avena.......................’........ $6$ á 61
+Azafrán puro ñor..................... $39 A 40 Ib.
+Idem compuesto....................... $ 13 A 20
+Bacalao Escocia...................... $19 A 191 caja.
+Idem (le-E. U.......................   Nominal.
+Idem de Halifax...................... $131 qq.
+Buches bacalao....................... $70
+Carne de vaca en salmuera..........	$28 A 32
+Idem de puerco idem.................. Nominal.
+Café de Puerto-Rico 1?............... $31 A 32
+Idem ordinario....................... $26	A 31
+Idem del país........................ $32	A 34
+rdem del extranjero.................. No hay.
+Cebollas de Canarias................. $	10
+Idem de la Península................ $9
+Idem del país........................
+Idem del Norte.......................
+Calamares............................$ 14 A 16 de. lts.
+Castañas............................. Nominal.
+Cerveza P. P. enteras................ $ 7j
+Idem idem medias.................... $ 8
+Idem Globo enteras.. ................ $	61
+■Idem idem medias.................... $	71
+Idem otras marcas..................... Nominal. •
+Cimento nacional..................
+Idem extranjero.......................
+Ciruelas............................. 31 rs. caja.
+Cominos............................... $23 A 21 qq.
+Conservas............................$ 15 A 17 du. Is.
+Coguac nacional en barriles.......... 12 A 16 rs. gln.
+Idem extranjero superior............. 28 a 32 rs.
+Idem idem inferior................... 13 A 17 rs.
+Idem en botellas primeras marcas, oro. $ 9} oro.
+Idem ídem segundas, idem............. $ 10 A 15
+Idem ídem inferiores...............    $3
+Canela superior...................... 16 rs. bb. libra
+Idem inferior.....................      4
+Clavo..............................     9
+Cebada............................     31	rs.
+Chorizos de Asturias................. 29 rs. lata
+Idem de Bilbao.................... $ 5 á 6J
+Idem (le Cádiz..................,.... 9j rs. •
+Champiñón............................$ 14 A 16 dn. ls.
+DAiilé».............................. Nominal.
+Encurtidos franceses................. $20 A 30 caja.
+Idem americanos...................... $5 A 13i
+Idem (le otra procedencia............
+Escobas del país..................... $4 A 8J dna.
+'Idem, extranjeras................ Nominal.
+Espárrugos nacionales................ $ 10 dna. latas
+Idem extranjeros..................... $ 24 A 30 »
+Fideos del país La Salud............. $16 las 4 arrbs.
+Idem nacionales...................... $16 A 16j
+Frijoles blanco» de E. U............. 28 A 2fi¿ rs. ab?
+Idem negros del .país................ 19 rs.
+Idem idem extranjeros...... ......... 19 á 18.J rs.
+Fruías nacionales en latas........... $ 10 A 13 caja.
+Idem extranjeras eu pomos.,.......... $22	»
+Idem ídem en latas................... Nominal.
+Garbanzos selectos................1
+Idem medianos......................  í	10	&	30	rs- *
+Idem menudos .	................J
+Galleticas del país en latas sueltas. 14 rs. lata.
+Idem eii cajas....................... $26 » »
+Idem del país en barriles ........... $25 qq.
+Idem americanas enlatas____ __________ Nominal.
+Idem idem en barriles...'.......	.... »
+Idem inglesas en latas............... $ ¡4 docena.
+ídem nacionales en idem........... ...	Nominal.
+Ginebra Campana en garrafones.....	$1~¿
+ídem en frascos...................... $18
+Idem eu medios....................... $12
+Idem Corona en garrafones..........  $10j
+Idem idem en frascos y medios......... Nominal.
+Idem Ancla en garrafone.3............ $ 11
+Idem en frascoB y medios............. Nominal
+Idem otraa mareas.................... ¿fio A llj
+Idem Estrella en garrafones.......... $10
+Idem Bol en idem..................;.. Nominal
+Idem La Llave en id.................
+Idem Mosca...........................
+Harina Flor Almoiidares..............
+Idem ídem ídem......................
+Harina nacional en barriles y sacos.. $27| A 30
+Idem americana en idem.....^......... $31 A 3I
+Heno americano....................... $8f A 9
+Idem del país........................
+Higos en cajas....................... 18 rs.
+Idem en tabales...................... Nominal
+Idem Srnlrna en cajitas.............. Idem.
+Habas................................. Idem.
+Habichuelas.......................... Idem.
+Jamones nacionales................... Idem.
+Idem americanos del Norte............ $37 A 39 qq.
+Idem idem del Sur.................... $444 qq.
+Jabón Mallorca...... ................ $14* a 18 qq.
+Idem Roeamora........................ $11¿
+Idem del país........................1
+ídem ídem............................. I .
+Idem ídem........-................... f *llu a
+Idem idem....... ....................J
+ídem inglés.......................... Nominal.
+Licores nacionales................... Idem.
+Idem idem............................ Idem.
+Idem idem....................... .... Idem.
+Idem extranjeros finos................ $.0 á 24
+Lentejas.............................) Nominal.
+Longanizas............................ 9 rs. libra.
+Losas de Canarias.................... 8 r3. oro.
+Manteca en tercerolas................$374 & 3»* ciq.
+ídem en latas........................$394 a -lo"
+Idem en medias....................... $404 a 41
+ídem eu cuartos............:......... $H¿ a qj
+Mantequilla nacional en latas........ $57 A 60
+Idem ídem en cuñetes................. $ 46
+Idem extranjera en latas.............. $50 A 58
+Idem idemotro3 envases................
+Maiz del país........................ 10 A 11 rs.
+Idem extranjero...........................  n	a 11J rs.
+Maicena.............................  $-6	qq.
+Melocotones en latas nacionales...... $13 caja.
+Idem idem en pomos extranjeros....... $21 docena.
+Nueces.............................../ Nominal.
+Nuez moscada.............................. 22	rs. libra.
+Ostiones enlatas..................... $ 9 A 10
+Orégano................................ $20 qq.
+Idem verde...........................
+Papas nacionales..................... <$7¿ '
+Idem del país........................
+Idem extianjeras................,.i.. $11£ A 12 barril
+Pimentón superior eu latas........... $22 A 24 qq.
+jdemeusacos................ ......... Nominal,
+Pimienta en grano.................... $45 qq.
+Papel amarillo nacional.............. ls.
+Idem estracilla idem................. 6¿ A 8 rs.
+Idem cilindrado ídem................. 7$ rs.
+Idem extranjero amarillo............	74 rs.'
+Batas................................ $ 44
+Pescado salado........................ Nominal.
+(Quesos patagraa.....................1
+Idem Hundes.....................*’00 a
+Idem otras clases...................... Nominal.
+Robalo en tabales......................... qq	•
+6al espuma nacional................... $ 7 faiietra.
+Idem ídem extranjera.................. No hav
+Idem molida nacional..... ............$ 5	*
+Idem en grano nacional y extranjera... $ 4 a qq
+Idem (le Liou........................! $0 r8, llbr»-
+Sardinas tn latas, aceite y tomate.... 54 a 64 rs
+Idem en salmuera latas................1..	; s'
+Idem en idem barriles.................j-lNominal.
+Idem en tabales................... $ 4 a 5
+Sebo.................................. $16 a 18
+Bidra de Asturias..................... $ 6 A 74
+Idem americana........................ Nominal.
+¡Sustancias latas carne y pescados.... $12 a 16
+Tabaco breva......................I... $48 A 54 no
+rapas para botellas corrientes........ 9 rs. *9'
+Idem idem entrefinas.................. 18 rs. millar
+Idem idem finas....................... 28 rs- idein'
+ídem de garrafón..... ................ $9 idem '
+Tocineta en pencas y pedaoitos........ $35} a 36 qa
+Tasajo............................... 23 á 234 rs.V.
+Turrón de Oijoua....................... or°
+Idem de otras marcas...................j orninal.
+Velas nacionales comunes.............. $25 qq.
+Idem ídem especiales................... $44
+Idem extranjeras comunes.............. $26 A 25j
+idem idem especiales................... $90 A 95
+Idem del país........................ 1
+Idem idem ídem....................... [-Nominal
+Idem idem idem........................ )
+Vinagre nacional..................... $2 garrafón
+ídem extranjero....................... 24 a 25 rs.
+Idem del país......................... 12 rs.
+Vino tinto primeras marcas............ $112 A 114
+Idem idem segundas idem............... $100 Alio
+Idem idem vanas,...................... Nominal.
+Idem ídem en cajas nacional........... »
+Idem ídem tu ídem extranjero ......... »
+Idem seco en barriles................. $12 A 12J
+Idem dulce en ídem..........:......... $15J firme.
+ídem Jerez en cajas................... Nominal.
+Yeso..................................
+Habana 2 ile Diciembre de 1881.—El Presidente
+Luciano Ituiz.
+___________________—----------------:-- -	^ ■ 1 ltíí
+......
+€ «JAUTA SECATON.
+
+Junta de Instrucción Pública de Bayamo.
+Secretaría.
+Vacante la plaza de Maestra *de Escuela de esta ciudad, dotada con el haber anual de 700 pesos, 120 para alquiler de casa y 170 para material; esta Junta acordó se hagan convocatorias en el término de 30 dias contados desde su publicación en el Boletín Oficial, para los que se interesen servirla presenten sus solicitudes en esta Secretaría, acompañadas de la correspondiente certificaciion de aptitud que deberá estar visada por la Superioridad. Este anuncio se insertará también en la Gaceta oficial.
+Bayamo 19 dé Octubre de 1881.—El Secretario Interino' Oírlos Yero Ortiz.
+Junta de primera enseñanza de Caney Secretaría
+Aprobada por la Superioridad la instilación do dos csouelus iuoompleias, ut a de niñas en esta oc-becera y otra de uiñ^s en e! poblado del Ciisto; esta Ju nía en sesión ctl.b ala el dia de ayer, acordóse convoquen aspirantes por treinta aiaa, contados doaile la fecha, en el Bololin Oficial de la Provioci« y Gaceta de la Habana, á fin de qus las personas que doseéu desompeñai ian, presenten sus-aolicim. des on esta Secretaria, acompañada de los documentos correspondiente; advirtiendo que cada una de las referidas escuela», está dotada coa la cantidad de 300 pesos anuales, para sueldos de maestro, 7fi pesos cinouonla centavos para material y 102 pesos para alquiler de ousa.
+Y on cumplimiento de lo acordado, firmo el presente en el Caney á 29 de Octubre do 1981.— El Secretario, Antonio R. Guia.—Vio. Bao.—El Presidente, Oíos.
+Tribunal de Oposiciones de Maestros da la provin« cia de Matanzas.
+Vacaute lu Eicuela Municipal para varones de la categoría de entrada del pueblo de Sabauiiia de la Raima, término de Guanujnyabo, deóraeneupe rior se couvoca á ios Maestros que deseeu ocuper p.aza, meaiunto opo»icion.
+ha Escuela está dotada con seiscientos pesos de sueldo anual y ciento cincuenta para material, No eu oro. El edificio es propiedadytel Ayuntamiento.
+Los aspirantes pret-eutaran sus instancia acompañadas de sus títulos coi respondientes y c«r-tífica 10 do inoial.dad doi Atcaldo de Birno respec tivo, visada por ei Cura Rá.rooo de su feligresía,en ia cusa pairoq^iat de la iglesia de San Lárius de esta ciudad, hasta ei 18 de! proxuno Diciembre. L« ejercicio» do oposición tendrán lugar el en tíJtniie ia Exorna. Diputaron Provincial, ei 26 tic dicho m«, empezando a ¡as siete y media ae la noche.
+Matanzas Noviembre 18 de 1881.—.A Secretario, Bruno V. Miranda,-—Vto. Buo.—El Presidente, Dr. Francisco de P. Baruada.
+Vacante la Escuela Municipal para varonts de a categoiía de entrada del pueblo de tiuacniue de orden superior se convoca á los Maestros qut deocea ocupar ia plaza pjor oposición.
+La Escuela e&tá dotada con seiscientos peso-do sueldo auual, ciento cincuenta para material y ciento o. lienta pata alquiler de casa, todo en oro, Los aspirau.es presentaran sus mstanoiaB ai empañadas dei titulo correspondiente y oertifitado moralidad del Alcalde de Barrio respectivo, visada por el Gura Párroco de su feligre«», «n 1» ca su parroquial de la iglea.a de San Garios d esta eiuda-i, hasta ei lo uel pioximo Dioienibrt ios ejerctos ue oposition tendían logar eu el kaiul de la Exorna. Diputación provincial, el 27 ue d*cin mes, empezando a la-¡ siete y media do la ooche.
+Matanzas y Nuviembro 18 ae 1881.—El 8<¡cn taño, Bruno V. M rauda.—Vto.Bno.--El Presidí1 te, Dr. Francisco de P. Barriada.
+Junta Lolal de Patronato de Sancti-SpiráM.
+Por acuerdo de esta Junta local de Patronato, mado en 17 del corriente, se hace saber que en el 1 depósito municipal de e»ta mudad, existe un que aparece llamarse Leandro Betaucourt Baracaj® ó Pedro Celestino Cruz, de estatura buena, color -gro, como de cincuenta á cincuenta y cinco edad, natural ue Matanzas y de oficio campo, “ tiene manifestado ser hijo de Oarmen y pertenece1 ■ D. Francisco Betancourt residente en Puerto l» j y á cuyo poder pasó del de D. Juan de la Gruz, de Matanzas y dueño del ingenio «Santa Tere»*-'1 intento de que la persona que se considere coa	¡
+cho al referido patrocinado se presente á	!
+ante esta Junta dentro de 30 días contados desie ^ J la inserción de .este anuncio eu el Boietin Oficia provincia y Gaceta de la Habana, se publica e
+¿3011 titL	1	t.‘,| y
+bancti-Spíritus Noviembre 21 de 1S6E--E I taño, Jaime Pruuu.
+Junta Provincial Protectora de Libertos de IaP vincia de Santiago Ue tuba.
+Di Josefa Ortiz ó sus hijos D. -á-gust‘u’ ..’a) guel y D. Angel Barzaga y üi Dolores *etftrj presentarán dentro de echo días eu	e¿ joc-e <■
+bauta Lucia, esquina al Calvario y dB sie eXj iu mañana, para tomarles una declaración ^ diente promovido por D. Antonio Ua*ag ^ inclusión eu el Registro número uno, de	■
+vos pertenecientes aD Eugenio Oduardo y Estrada.	, Pre=iui
+Y de orden del Excmo. tír. Goberna e; te te, se publica eu ia Gaceta de la Habana mino indicado para conocimiento dé lo» 1 jgM,—E bautiago de Cuba Noviembre 1
+Secretario, José Orúe y Palacios-
