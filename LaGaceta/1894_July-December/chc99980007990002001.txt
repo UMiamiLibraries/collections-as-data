@@ -1,0 +1,86 @@
+﻿210
+GACETA DE LA HABANA
+Los que salieran suspensos podrán repetir otro aflo; pero si al final de éste no salieren aprobados, serán dados de baja en la Escuel^.
+Art. 12. El número de alumnos ó plazas de que constará la Escuela será de doce, y sólo podrán aumentarse hasta 18 cuando circunstancias especiales aconsejen puedan necesitarse mayor número de Telegrafistas del señalado en Presupuesto, por exigencias del servicio.
+Art. 13. La convocatoria anual no se hará más que por el número de plazas vacantes que haya en la Escuela ó que hayan de quedar fijamente en el primer trimestre; pero sin que nunca puedan pasar de 18 á no exigirlo un aumento de personal extraordinario.
+Art. 14. Los exámenes de fin de curso se harán por un Tribunal especial bajo la presidencia del Director Inspector general de Telégrafos ó sustitución reglamentaria de éste, el Jefe de la Escuela y tres Jefes del cuerpo en la misma forma que la dispuesta por Reglamento para los exámenes-de Telegrafía Práctica; pero con derecho á dirigir al examinando, las preguntas sobre cada asignatura qute crean convenientes, además de las tres papeletas que á la suerte saque en cada una de ellas.
+Art. 15. Un Reglamento interior de la Escuela fijará los programas de cada asignatura, distribución de horas, orden de la enseñanza y régimen que ha de observarse, así como las materias que ha de abrazar cada papeleta para el examen.
+Art. 16. Desde el momento que entren en la Escuela los alumnos, quedan sujetos en un todo al Reglamento del Cuerpo en cuanto á sus deberes, de subordinación, obediencia, compostura y castigos que sean aplicables, computándose las suspensiones de empleo y sueldo por pérdidas de puntos ó notas de aplicación y conducta, que ,se tendrán en cuenta para el examen de fin de curso.
+Art. 17. Será condición indispensable que al salir de la Escuela con el empleo de Telegrafista 2.° sea destinado á servir precisamente en los Centros de las provincias de Matanzas, Santa Clara, Puerto Príncipe ó Cuba, según donde haya ocurrido ó, resulte la va-cáñte que cubra, donde practicará dos. años en todos los servicios, sin cuyo requisito no podrá hacerse cargo de ninguna Estación ó Administración de .Comunicaciones, ni ser destinado á la Central de la. Habana ni á ninguna de las Dependencias Centrales,
+Artículo transitorio.
+Serán admitidos en la Escuela en clase de alumnos aun cuando no poseen el grado de Bachiller, todos los aspirantes primeros y segundos que existan en el Cuerpo á la fecha de la aprobación de este Reglamento, siempre que lo soliciten oportunamente y reúnan las condiciones de edad y salud exigidas para el ingresó en la Escuela.
+Habana, 15 de Agosto de 1893.—El Administrador general, José M.& Zapata.
+PROGRAMA M TELEGRAFIA TEORICO-PRACTICA
+QUE áE EXIGE Á LOS ALUMNOS DE LA
+SSCUELA DEL CUERPO DE COMUNICACIONES DE ESTA ISLA
+Aprobado por Real orden fecha 6 de Febrero de
+1891; PARA LOS EXÁMENES DE HABILITACIÓN DEL PERSONAL NO ASIMILADO, CONFORME Á LO PREVENIDO EN
+EL ARTÍCULO 38 DEL REGLAMENTO ORGÁNICO DEL
+Cuerpo.
+MATERIAS
+de que se compone el programa de estudios de Telegrafía TeórIco-Práctica.
+ELECTRICIDAD Y PILAS.
+1.	a ¿Qué es electricidad?—Sus manifestaciones. —Generadores de todas clases.—Efectos y aplicaciones más generales de la electricidad.—Pilas de sales solubles y corriente constante; como Dániell, Minotto, Siemens, Callaud, Trouvé y demás conocidas hasta el día, describiendo algunas de ellas.—Pilas de sales poco solubles.—Marié-Davy, Trouvé Hermética, Leclan-ché, etc., etc.—Pilas de ácidos.—Grove Bunsen.—Pilas de un líquido, de Arena; de bicromato potásico, Chutaux; Barker.—Pilas secas.—Idem de gas.—Idem portátiles para campaña y otros usos.—Pilas secundarias.
+POLARIZACIÓN, MONTAJES Y EFECTOS QUÍMICOS QUE SE
+PRODUCEN EN LAS PILAS.
+2.	a Polarización de las pilas, causas y efectos.— Instalación y disposición de las pilas en tensión y cantidad; sus efectos, ventajas y desventajas.
+Condiciones que requiere una buena pila y explicación de su montaje. Modo de producirse las corrientes en las pilas ó efectos químicos que en ellas se operan.
+Conocimientos generales de los condensadores, carga, estabilidad y descarga.
+APARATOS.
+3.	a De aguja, de cuadrante.—Electro-magnéticos.—Electro-químicos, de Morse, en sus diferentes sistemas conocidos.-—Transmisión y recepción.—Aparatos portátiles.—Montajes é instalación de aparatos Morse, en extrema, intermedia y traslación, representándolos gráficamente.
+Diferentes sistemas de tras)atores.—Sistema Hughes.—Explicación del mismo.—Su montaje.—Trans-
+misión y recepción.—Sistema de electro-imanes.—Armaduras.—Sincronismo.
+Wheatstone automático.—Explicación del sistema.—Perforador.—Transmisor.—Receptor.
+Sistem a Meyer.—Transmisión. — Rece pción. —Sincronismo.—Diferentes sistemas, Dúplex y Diplex.— Sus fundamentos y descripción.
+Comparación entre estos sistemas, sus ventajas, desventajas y diferentes aplicaciones.
+APARATOS DE MEDICIÓN Y OBSERVACIÓN.
+4.	a Descripción de los últimos adelantos que se conozcan en aparatos telegráficos.—Brújulas y galvanómetros, verticales, horizontales, de senos, de tangentes, astático, diferencial, reflector, Thomson y Siemens.
+1 Descripción del Puente de Wheatstone y sus fundamentos y aplicaciones.—Relojes eléctricos.—Timbres de aviso y alarma.—Cuadros indicadores.—Sus montajes y aplicación.
+MEDICIONES ELÉCTRICAS.
+5.	a Fuerza electro motriz.—Tensión.—Unidad de resistencia, intensidad, cantidad, capacidad.—Electro-estática.—Trabajo.—Calor.— Efectos electro-químicos. . .
+Conocimiento de las leyes de Ohm y su determinación gráfica.
+Unidades tipos de resistencia adoptado en diferentes países.
+Mediciones y determinación de la fuerza de las corrientes.—Resistencia de las pilas.—Resistencia y aislamiento de los conductores.
+Uso del Puente Wheatstone y de los galvanómetros para hacer, estas mediciones y diferentes modos de hacer las operaciones.
+LOCALIZACIÓN DE AVERÍAS.
+6.	a Métodos de aplicación para localizar las averías; por la intensidad de las corrientes, por contacto, resistencia,: aislamiento ó tierra.—Defectos de las planchas de tierra y condiciones que deben tener éstas.— Localizar la avería por la resistencia de un conductor ó por exceso de circuito.
+Por la pila ó batería.
+Pruebas que deben hacerse diariamente con aparatos ó sin ellos.
+Uso del Puente Wheatstone y de los galvanómetros para localizar las averías.
+Pruebas de los cables aéreos, subterráneos y submarinos.
+APOYOS.
+7.	a Maderas.—Conocimientos generales de las
+que produce el país.—fixtructura orgánica.—Condiciones que deben tener para líneas telegráficas, según el número de hilos.:—Duración probable.—Preservativos de conservación.—Resistencia de las maderas.— Elasticidad.—Regiones ó localidades: en que: se ¡producen.—Precios medios á que pueden adquirirse.— ■ Medio de arrastre, dadas las condiciones del país.— Métodos generales de inyección y sus aplicaciones, si son ó no :convenientes.—Reconocimientos de las maderas.	.ojjtoimioofíoo icianog
+POSTES, PESCANTES Y PALOMILLAS.:
+8.	a Postes de hierro fundido ó de palastro.— Ventajas é inconvenientes de unos y otros.—Reconocimientos á que deben sujetarse.—Dimensiones y colocación.
+Palomillas y pescantes de madera ó hierro.—Forma más adecuada y usual, según sean para líneas1 rectas ó ángulos y modo de colocarlos.
+Resistencia de los postes telegráficos considerados como vigas y de éstas, según su seeción, forma y figura.
+Comparación entre las columnas sólidas ó huecas de hierro fundido y tubos de palastro.
+METALES.
+9.	a Conocimientos generales sobre el hierro.— Sus diferentes clases.-Alteraciones y propiedades que sufre según los métodos de fabricación. Temple. Acero. Sus propiedades y aplicaciones en la Telegrafía. —Hierro maleable.—Tenacidad de barras, planchas é hilos.—Alambre y su galvanismo, aplicado á los conductores telegráficos.—Conocimientos generales del cobre, zinc, plomo, estaño.—Producción,—Aleaciones diversas y aplicación que tienen estos metales en la telegrafía.
+Causas que modifican su duración.—Métodos diferentes para soldar los conductores de hierro ó cobre.
+Tensión á que deben sujetarse los conductores.— Flecha é influencia de la temperatura sobre los hilos.
+AISLADORES.
+10.	a Conocimientos generales de lo que es porcelana, loza, cristal y vidrio.—Diversas clases de aisladores que se conocen.—Cuáles son los más Ventajosos en su aplicación, dada su forma y consistencia de los materiales de que se formen.—Condiciones que debe tener la porcelana y el vidrio y reconocimiento de esta clase de material.
+Condiciones, forma y fuerza que deben tener los soportes y. reconocimiento á que deben sujetarse.— Conocimiento de la gutapercha, su composición y propiedades.—Efectos del calor y aplicación á la Telegrafía.
+Caucho.—Producción.—Propiedades. —Uso principal en la Telegrafía. —La vulcanita y ebonita como materias aisladoras.—Aceite secante y sus compuestos en su aplicación á los materiales telegráficos como-preservativos.
+TERRENOS Y MATERIALES DE CONSTRUCCIÓN.
+11.	a Conocimiento de los diferentes terrenos, pe roca, movedizo ó de acarreo, blandos, arcillosos, areniscos, húmedos, secos y duros.—Profundidad que debe darse á los postes, según el objeto y condiciones de éstos, y las del terreno en que han de colocarse.
+Conocimiento de los materiales de cimentación.— Piedras graníticas, arenosas ó calizas, ladrillo, yeso, cal, cemento, cal hidráulica, betunes, asfalto, hormigón y demás que sean aplicables á la construcción de basamentos de postes, obras de casas, estaciones, instalación de máquinas motoras ó productoras de electricidad.
+NOCIONES GENERALES DE FUERZAS.
+12.	a—¿Qué son fuerzas?—Equilibrio.—Sus relaciones con los cuerpos.—Dinámicas.—Unidades de fuerza.—Representación gráfica dé lás fuerzas.—Resultantes.—Componentes.—Paralelógramo de las fuerzas. —Fuerzas equilibradas.—Triángulo de las fuerzas.— Momentos de fuerza.—Par de fuerza.—Fuerzas paralelas.-—Palanca y resultante de las fuerzas en un plano ó planos diferentes.—Gravedad.—Centro de gravedad de un cuerpo.—Inercia.—Velocidad.—Masa.—Trabajo.—Unidad de trabajo.
+ELASTICIDAD.
+13.	a—¿Qué es elasticidad?—Modulo.—Resistencia á la presión, á la atracción, á la torción, al esfuerzo-lateral.—Modulo de tenacidad.
+SOBRE LÍNEAS TELEGRÁFICAS.
+14.	a Principios generales de la telegrafía.—Estudios que deben preceder á la construcción de las líneas aéreas.—Construcción de líneas aéreas.—Materiales que deben emplearse.—Condiciones de éstos y modo de colocarlos.—Organización de los trabajos y mano de obra.
+HERRAMIENTAS.
+15.	a Manejo decuerdas, cadenas, cabrias, poleas. —Aparejos más usuales.—Trócolas,--Bárras.—Cazos para sacar tierra.—Tenazas de empalme.—Hileras y en general conocimiento de todas las herramientas usadas y que puedan necesitarse en la construcción,, entretenimiento y reparación de líneas.—Carbonización y pintura de postes y palomillas para su conservación.—Disposición que debe darse á los conductores, según el número de ellos, en rectas, curvas y ángulos.
+CABLES.
+16.	a Ideas generales sobre cables aéreos, subterráneos y submarinos.—Materiales de que se componen.—Construcción de' los: misinos.—Condiciones del conductor.—Dieléctricos qué le envuélveri'y armaduras de defensa.—Empalmes.—Amarres.—Unión á las líneas aéreas.—Velocidad* de la tránsmisióií.—Resistencia y reconoéimieñtó dé los-mismos.—Modos de tender los cables *aérébS, subterráneos ó submarinos. —Medios de suspensión de los ^primeros, lechos y colocación de los segundos é inmersión y tendido de los terceros.—Rozamientos.—Leyes.—Coeficientes.-—Sustancias fibrosas que entrañ en ellos.—Materiales ásperos y suaves.—Usos de grasas.—Su acción.—Angulo de reposo.—Estabilidad de fricción.—Angúlo de fracción.—Rozamientos dél cable sobre' el tariibór 5 cilindro.
+Todos estos conocimientos exclusivamente en su aplicación á los aparatos de tendidos de cables.'
+LUZ É INDUSTRIAS ELÉCTRICAS.
+17.	a Aparatos magnético-eléctricos.—Idem de luz «Drumond. »—Conocimientos génerales de los diferentes-sistemas de dinamos aplicados hasta el dial— Descripción de losmismos.—Fuerza que desarrollan.— Motores que se emplean.—Condiciones de los circuitos constantes ó alternados.—Formación de las instalaciones.—Condiciones de éstas.—Lámparas de arco más en uso.—Idem incandescentes.—Conocimientos de la Ley y Reglamentos que rijan sobre alumbrado é industrias eléctricas.—Conocimiento sobre la aplicación de los diferentes sistemas conocidos bajo el punto de vista del ornato y seguridad pública.—Precauciones que deben adoptarse.—Corta-circuitos.—Salvacaídas de conductores y pararrayos que deben aplicarse.
+TELÉFONOS.
+18.	a Conocimientos generales de los diferentes sistemas usados en Europa yAmérica.—Sus ventajas ó diferentes aplicaciones, según los países y el clima.— Descripción de los aparatos y de sus montajes.—Condición' s dé las líneas aéreas telefónicas.—Sistemas con tierra ó doblecircuito.-Ventajásydesventajas.—Líneas teir' '»nicas simultáneas.—Sistema Ryssélberghe.—Cono' liento y descripción de los cuadros conmutadores éú -o y aplicación.
+Construcción de estas líneas en las grandes pobláis donde los vanos tienen que atravesar anchas
+as, diversas calles y edificios de diversas alturas, •; diendolos hilos sin interrumpir él tráfiéo genéral Sé la población y de sus operaciones. ■
