@@ -1,0 +1,600 @@
+﻿gl Fábricas de productos químicos.
+82	Idem de carbón.
+83	Fábricas de clavos.
+84	Hornos de cal. materiales de fabricación y
+canteras.
+85	Marmolerías.
+gg Médicos, cirujanos y oculistas. g7 Pintores de obra fina. g8 Peloterías no importadoras.
+89	Retratistas en todos sistemas.
+90	Tiondas de ropa sin sastrería,
+91	Trenes de aguada para buques.
+Duodécima clase á 50 posos.
+Cuota máxima $100, mínima $6 25 cts.
+92
+93
+94
+95
+96
+97
+98
+99 100 101
+102
+103
+104
+105
+106
+107
+108
+109
+110 111 112
+113
+114
+115
+116
+117
+118
+Almacenes ó especuladores de tabaco en rama al por menor.
+Corredores do comercio anotariados.
+Idem Ídem no idom.
+Cafés con cantina ó sin olla, ó solamente de bebidas y refrescos. .
+Casas de huéspedes ó posadas.
+Cervecerías y viriaterias a) por menor. Carpinterías pava envases de tabacos y dulces.
+Caballerizas.
+Callistas ó quiropedisias.
+Depósitos ó almacenes de toda clase do artículos y efectos.
+Fondas.
+Floristas ó tiondas de flores artificiales. Fábricas de pinturas.
+Muelles y terraplenes no siendo careneros. Platerías y joyerías no importadoras Puestos y ventas de agua de soda, siropes y toda clase de aguas minerales.
+Peluquerías tengan ó no barbería.
+Relojerías no importadoras.
+Sombrererías no idem.
+Sastrerías no idem.
+Tiendas ó ventas de máquinas de coser.
+Trenes de tostar café.
+Improntas y litografías.
+Décima tercia clase á 40 posos.
+Cuota máxima $320, mínima $5.
+Baratillos do topa hecha, no siendo sastrerías ni tiendas do ropa con sastrería, ni sin ella ni almacenes en grande escala.
+Puestos y depósitos devenías de tabacos y cigarros sin fabricarlos.
+Tiendas de lámparas é instalaciones de cañerías no importadoras.
+Taileres do trabajos mecánicos sin fundición.
+Décima cuarta clase ¿35 pesos.
+Cuota máxima $280, mínima $4 37£- cts.
+144
+145
+146
+147
+148
+149
+150
+151
+152
+153
+154
+155
+156
+157
+158
+159
+160 161 162
+163
+164
+165
+166
+167
+168
+169
+170
+171
+inclusos los de ferro-
+119	Agrimensores.
+120	Agentes de nogocios,
+carriles y Aduanas.
+121	¿generas de mudadas.
+122	Albeiterias.
+123	Aserraderos sin máquina de vapor.
+124	Azucarerías y ventas do frutos del País al por
+menor.
+125	Bodegas .ó tiendas mistas.
+126	Capataces de muelles.
+127	Casas de cambio de moneda.
+128	Comadronas.
+129	Caldererías.
+130	Cordonerías.
+131	Depósitos ó ventas de hielo no importadores.
+132	Juegos de bolos,
+133	Librerías no importadoras.
+134	Modistas con tienda:
+135	Preparadores de sustancias animales.
+136	Papelerías y efectos do escritorio no importa-
+doras.
+137	Piatiuerías de efectos para carruajes,
+138	Quincallerías con ó sin juguetería no importa-
+do ra.
+139	Tiendas do curtidos no importadoras.
+140	Tejares.
+Décima quinta clase á 25$.
+Cuota máxima 200$ mínima 3$ 124 centavos.
+141	Bodegones aunque estén anexos á bodega.
+142	Bordadores ó pasamaneros.
+143 Carpinterías no siendo para envase do tabaco ni dulce.
+Constructores ó compositores de instrumentos de óptica.
+Constructores ó compositores de romanas ó balanzas.
+Idem de carretas, carretones y toda clase de carros.
+Compositores de pianos y demás instrumentos de música.
+Colchonerías.
+.Doradores por todos sistemas,
+Escultores en mármol, piedra y madera. Fábiicas de carbón de tierra ó sea artificia'. Jdom de aparejos.
+Idem de árido sulfúrico.
+Idem de botones.
+Idem de rapé.
+Idem do fideos.
+Idem de corsés.
+Idem do escobas.
+G rabactoros.
+Hojalaterías.
+Hornerías pava azúcar.
+Herrerías.
+Maicenas.
+Tronos de pesca.
+Talabarterías y guarnicionerías no importadrs. Tonelerías no siendo almacenes de envases comprendidos en la cuarta ciase.
+Tornerías.
+Tiendas de jaulas y obras de alambre. Tragantes inodt ros.
+Vidrierías.
+Zapaterías.
+Décima sexta clase á 15$.
+Cuota'máxima 120$ mínima 874 centavos.
+172	Amoladores fijos ó con tiendas.
+173	Armerías.
+174	Barberías sin peluquería.
+175	Baratillos da quincallería situados en plazas,
+mercados, portales ete. no siendo propiedad dei Establecimiento estando en el mismo local.
+Camiserías inclusas las de las plazas de los mercados.
+Constructores y compositores de paraguas, abanicos y peinólas.
+Carbonerías.
+Enfardeladores de tabaco en rama.
+Lecherías.
+Panoramas, dioramas y oosmoramas.
+Puestos de ventas do aves, frutas, huevos y legumbres, no siendo en las mesillas de los mercados.
+Trenes do lavar ropa.
+Tintorerías.
+Tabaquerías de menudeo.
+Tapicerías.
+Tiendas de semillas y plantas.
+Tiendas de pescado frito y otras frituras.
+Nota.—La base de la contribución señalada á las diferentes elases, puedo aumentarso'y disminuirse ocho tantos ajuicio y conocimiento de los respectivos gremios, los cuales pueden hacer las categorías que juzguen convenientes, en concepto que las Industrias, Profesiones, artes y oficios que se ejercen exclusivamente en los cuatro partidos déla Jurisdicción formarán por separado sus gremios de los de la ciudad y los repartos ios harán con robaja de un 50 p.g de los tipos asignados en esta tarifa.
+Habana 20 de Abril de 1878.,—El Secretario, Ramón de Echavarría.
+TARIFA NUM, 2.
+Contribución tija.
+Los contribuyentes están obligados á recojer la matrícula para el ejercicio de su industria ó profesión cada semestre y en cada caso particular según está dispuesto por la superioridad respecto á las licencias de los establecimientos.
+Cuota
+anual.
+Cuotf
+anual
+176
+177
+178
+179
+180 181 182
+183
+184
+185
+186
+187
+188
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+50
+25
+25
+75
+50
+30
+2
+3
+4
+5
+6
+Anotador de Hipotecas, pagadero por se-
+somestro............................  1000
+Agentes de periódicos idom idom.......... 20
+Academias de esgrima y tiro de pistola
+etc. idom idem..... .................... Ib
+Arquitectos idem idom.................... 75
+Aparejadores idem idem.................... 30
+Bazares cuando los permita el Gobierno
+idem idom.............................. 150
+Billares cada mesa idem idem.......,,...
+Bailes públicos de sala no agremiados cada baiie...............................
+Idem idom para jente de color no ídem
+idem ................................
+Idem de disfraces no agremiados idem
+idem......... .......................
+Bailes públicos idem para jenie do
+demcolor rio idem idem ..............
+Idem idem de jen te do Nación do color
+ó cabildos idem idem............... 2
+Baños do mar por temporada inclusos los
+del Vedado ............................ 200
+Contratista pagadero por semestre.......	39
+Cafés cantantes ó toda función teatral en
+cafés Idem idem......................
+Casas de rifa de artículos de todas clases (cuando las permita el Gobierno) al recibir la matrícula idem idem...............100
+Corridas de toros ó lachado fieras de
+cualquier clase por función__________ 150
+Casas de baños-hidroterápicos-medicina-
+los pagaderos por semestre ............ 250
+Corrales ó depósitos de ganado do todas
+elases idem idem .. .................
+Despachos do cantinas para comidas á
+domicilio idem idom .................
+Expresos de ómnibus además de ¡a marca, por cada carruaje ruede ó no, siempre que no pertenezcan' á sociedades
+anónimas idem idem...................
+Expresos no siendo importadores idem
+idem....................... .........
+Editores de todas ciases de periódicos y
+obras idem idom ........ ... ........
+Empresarios do bailes ídem idem.........
+Encuadernadores idem idom...............
+Estatuarios ó museos de figurasidem idem Fábricas de papel no constituyendo sociedad anónima idem idem ...............
+Funciones ecuestres ó do caballitos en Teatros, Circos ó cualquiera otro local, cada función......................
+Fabricantes do bragueros, pagadero por
+semestre........... ...........
+Idem de casullas ó cualquiera otro ornamento idem idem........................
+Limpiadores de calzado idem idem.......
+Maestro do calafateria idem idem ......
+Maestros de obras do albañiiería, carpintería idom idem.......................
+Pirotécnicos por función ........ .....
+Preparadores de picadura pagadero por
+semestre .. ...................... ...
+Sociedades anónimas, el cuatro y medio por ciento al año sobro las utilidades que en dividendo reparten periódicamente.
+Trenes ó fuentes de empresas especiales que venden agua pagadero por semestre....................................
+Teatros provisionales para funciones nacionales, cada función sea do la clase
+que fuere............................
+Teatros para funciones extranjeras idem
+idem................................
+Tiendas ó puestos do disfraces para máscaras cada Carnaval....................
+Tívolis, juegos de pelot.a, ó cualquiera otro que se le asimile en teatros, circos, ó edificios comunes, pagaderos por semestre.................................
+Tasadores judiciales pagaderos por so-
+tnestre..............................
+Traperos ó vendedores ambulantes de
+trapos idem idem ...................
+Vapores remolcadores no perteneciendo á sociedades anónimas cada vapor idom
+idem................................
+Volatines, titiriteros, gimnasias, ¡ restidi-jitadores, equilibristas y cualquiera otra función ó exhibición análoga en teatros, circos, plazas ó casas particulares, cada fuucion.................... 5
+Nota.—Los teatros construidos ad-boc pagarán el impuesto urbano sobre ia renta que se calcule obtíeua el propietario.
+Otra.—Las industrias previstas en está tarifa que se ejerzan exclusivamente, en les cuatro partidos de ia jurisdicción de esta Ciudad, pagarán el 50 p.g menos de las cuotas señaladas.
+Habana20 de Abril de 1878,—El Sseéretario, Ramón de Echavarría.
+TERCERA SECCION.
+Corral de Concejo.
+Kl dia 4 del próximo mes de Mayo á las 4 de la tarde ha de tener efecto el remato de las bestias que á continuación se expresan en el Corral de Concejo de esta Capital, sito on la Calzada de San Lázaro núm. 259, los cuales serán adjudicados al mejor posto1'-—Un caballo dorado de 6 y media cuartas de alzada, cabos al pelo, tres patas blancas y un lucero corrido, remitido por el Celador del Cerro en 22 de Marzo.—Una yegua mora que remitió el Celador dei Príncipe en Marzo 16.—Un cabalio dorado, castrado, de 6 cuartas escasas de alzada que remitió el Celador del Luyanó en 15 de Marzo último,
+Habana Abril 25 do 1878.—Vt9 n9—El Secretario.—P. C., Rafael Aria on.—El Administrador, M. déla Vega.
+21
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+30
+20
+30
+100
+30
+250
+20
+20
+200
+10
+30
+30
+10
+30
+60
+5
+10
+30
+10
+25
+50
+25
+100
+10
+100
+PERSONAL.
+DIRECCION DE OBRAS MUNICIPALES.
+VIA PUBLICA.
+Orden de los trabajos «leí Miércoles 1 0 de Mayo.
+1.—Sobrestantes, 11.—' apataces, 15.—Guardas pa-
+GOBIERNO MILITAR DE LA HABANA,
+Orden de la Plaza del 30 de Abril de 1878.
+La revista de comisario del entrante mes de Mayo se verificará por las diferentes clases de Sres. Jefes y Oficiales residentes en la plaza, en la forma siguiente:
+De 11 á 3 la tardo.
+de j
+Dia 19
+f Sres. Jefes, Capitanos y Subalternos de todas armas ó íustitutos, transeúntes en cualquier concepto en ( la Plaza.
+Dia 2,
+De 12 á 2 de | Sres. Jefes, Capitanes y Subalternos
+la tardo.. ) del Cuerpo de E, M. de Plaza.
+Do 2 é 4 do ( ®rt9- J°f0S y Oficales (iensionistas la tarde b c*e ®an Hermenegildo y reservas ( do Santo Domingo.
+Dia 3.
+Do 8 á 10 de f Sres. Jefes, Capitanes y Subalternos la mañana. { en comisiones activas del servicio.
+Dia 4.
+De 12 á 2 de f Sres. Jefes, Capitones y Subalternos
+la tarde.. ( en situación de reemplazo.
+Lo que so publica en la órden de este dia para general conocimiento y cumplimiento en las horas que á cada clase so señalan, en la inteligencia de que pasado el dia 5 no se autorizará justificante alguno.
+Habana 30 de Abril de 1878.—El General Gobernador, Calleja.—Es copia. Ei Coronel Teniente Coronel Secretario, Balbino Ordoñez.
+Servicio para el dia 1? de Mayo.
+Jefe de dia.—D. Pedro Bances, Comandante 3er. Jefe del batallón de Parada.
+Parada,.—' ? Batallón de Voluntarios-
+I^mlLdlto6snC,pe' 1 Batallón depósito de Ins-Idein del número 4. } trucclou-Campamento del Príncipe.—Depósito de Transeúntes.
+Guardia del Cuartel de Madera.—Compañía de Chapelgorris.
+Id. del Castillo de la Punta.—Batallón de Parada. Id. de la Batería de la Reina.—Artillería á pió de Ejército.
+Reten en eECuartel del Regimiento Caballería de Voluntarios.—Escuadrón de Húsares.
+Patrullas eu Jesús del Monte.—2? Compañía de dicho barrio.
+Hospital.—D. Felipe Cordovilla Tovares, Capitán del batallón Depósito de Instrucción.
+El Coronel Sargento Mayor.—Recaño.
+Colegio de Corredores y Notarios mercinles de la Habana.
+eo
+CAMBIOS.
+Esnnfl»	/ 3i á P. 60 div. oro.
+1 ana...................\5¿ á 7 P. c[v. oro.
+Inglaterra................. 141 á
+16 P. 60 d[v. oro.
+Francia ...................°r°‘
+Alemania................
+Estados Unidos.
+civ oro.
+1 & IJ P. 60 d[v. oro. f Currency.
+3	á 4 P. 60 d[v. oro.
+4	ó 44 P, C|v. oro.
+ri
+Oro.
+4 á P. 60 d[v. oro. (5 á 54 P. cpr. oro.
+Oro del cuño español...... 124Jál24fP.
+Descuento mercantil....... 9 A 12 según banco.
+AZUCARES.
+Blanco trenes de Derosne y
+Aparejadores
+g 0Og 12.	■	_
+Asiáticos y morenos, según parte de la Inspección Económica. 505
+Total de braceros útiles..................................^
+Id. id. de inútiles por varios conceptos................— w
+Total................. 505
+TREN DE ACARREO DISPONIBLE.
+Yuntas para carretas, zorras y cilindros.................................. 18
+Carretones que pueden trabajar............................................ 71
+En Marianao hay 2 yuntas y 5 carretones.
+En el Semillero para la labranza 2 yuntas.
+Piedra existente en el depósito el dia 29; ninguna.
+DISTRIBUCION.
+DESTINOS.
+E11 el tren de acarreo.,.............
+» los talleres y servicios del depósito
+Consejero Arango (mto. trra.) Marianao (reparación y lim-¡ ieza).......................
+p » Palatino [reparación.]..
+T.
+Máquina Trituradora........
+Paseo de Tacón y Semillero.
+En los demás parques y paseos.
+» Tte. Rey, Prado (adoquinado).
+Conservación de cajas de incendio.
+Manrique Valla, (cloaca.)...........
+Escobar, Virtudes (cilindrando)..,
+Servicios de gas y agua[adoqdo. ].. Belascoain. Estrella (movimiento
+de tierra.)....................
+la extracción de arena,.........
+Zanja, Pedregal (terraplén.)....
+Calzada de la Infanta (cilindrando) Cementerio de Espada (terrapienj
+Zulueta, Colon (relleno.).......
+la calzada del Vedado ........
+Crespo, Colon (cilindrando)........
+la casa de Socorro del 3.er distrito.
+Arreglo de cloacas en Corrales.....
+San José, Campanario [cilndndo.]
+ACUEDUCTO DE FERNANDO Vil Y ZANJA REAL.
+Albañiles.
+Carpinteros.
+Herreros.
+CARRETAS.
+Asiáticos ‘ j morenos.
+llañana.
+I
+Tardo.
+108
+57
+11
+19
+11
+11
+23
+36
+14
+2
+4
+1 basura.
+12 ! ■
+10 ! 10 ‘
+14
+“iö
+10
+12
+En la derivación vento á los filtros » Zanja Real y filtros de Frdo. VIL.
+» los filtros del Príncipe.....
+Toda clase de obras en las cañerías para el abasto (3 cmplomadores.)
+Suma total......
+6 tierra.
+Zorras.
+CARRETONES.
+Cilindres.
+Mañana.
+•K
+Aprjdor.. 2 Comidas.
+3 tierra.
+5 permanentes.
+{1 pan.
+2 servicios.
+2 trsldo. Tacón.
+[■ 2 arena.
+, 2 cascajo.
+6-
+2 arena.
+2 tierra.
+2 materials,
+Tarde.
+■{;
+Aprjdor.. 2 Riego....
+3 tierra.
+5 permanentes. 3 servicios.
+OBSERVACIONES.
+Limpieza de cajas y sifones.
+Cajas.
+Monte, Someruelos.
+Idem, Obispo.
+Muralla, Bernaza.
+Rellieux, bajo á regular...	12¿ á 13 rs.
+Id. id. id. id. buenoá superior	13¿ á 14 rs.
+Id. id. id. id. florete	 Cogucho, inferior á regular,	15 rs. 7 á 7J.
+núm. 8á9 (T. H.)		
+Id. bueno á superior n° 10 á	
+11 id		7* á 8.
+Quebrado inferior á regular	
+núm. 12 á 14 id				8J á 9.
+Id. bueno n? 15á 16 id			9J á 10.
+Id. superior 17 ál8	 Id. florete n° 19 á 20 id		}l0¿ á 12J.
+.........10	tierra.
+..........ii	tierra.
+.........¡18	tierra.
+.......... 6	tierra.
+1 i...........
+31
+19
+5
+16
+445
+Egido, Arsenal.
+2 trsldo. Tacón, i Aguila, Esperanza. ...............Idem, G’oria.
+{2 arena.
+Sifones.
+2 cascaj o.
+...............¡Egido, Arsenal.
+..............Arsenal, Zulueta.
+...............jPta, Cerrada, Suarez.
+{2 arena.	¡Rviilgigedo, Alcantarilla
+2 tierra.	¡Aguila, Misión.
+2 material». ¡Mercado de Colon.
+.............. i Las carretas dan por
+...............¡término medio 3 viajes al
+¡dia y los carretones 6.
+.j Habiendo falta de pie-Idra el tren se destina al acarreo de tierra.
+A los braceros destina-. dos al servicio de cañerías,
+. les auxilian 8 confinados . del Presidio Departamen-. tal.
+La cuadrilla del Cementerio de Espada es parte ¡de la destinada á la Má-. quina Trituradora.
+10 tierra.
+lí tierra, i 18 tierra. 6 tierra.
+
+11
+71
+71
+RESUMEN.
+Braceros.
+En el Tren de acarreo...............................................
+» los Talleres y servicios del Depósito............................
+» las cuadrillas permanentes.............................■ •■•••■..•••
+» las cuadrillas destinadas á ia construcción, reparación y limpieza de cloacas, composición de callea, extracción de arena, limpieza y riego
+de paseos, etc..................................................
+» los Acueductos..................................................
+Inútiles por varios conceptos.......................................
+106
+57
+75
+136
+71
+60
+Ilustre AyuntamientOjde Sagua la Grande.
+Presidencia.
+Hallándose vaaáute la plaza do oficial da iá Societaria Municipal, dolada con el haber- de mit ochenta pesos anuales, ee convoean aspirantes á la misma por el término do treinta dias, para que los que desoen optar á ella, presenten sis instancias acompañando los documontos que acrediten los méritos y servicios que tengan prestados, en la inteligencia qao transcurrido dicho plazo, no se nd mitirá ninguna solicitud.
+Sagua la Grande 24 do Marzo de 1878, Faustino Cistné.
+MEBCADO EXTRANJERO.
+Núm. 12............ 7 rl. arroba.
+CENTRIFUGAS DE GUARAPO.
+7j á 8.
+AZUCAR DE MIEL.
+6 á 6J.
+AZUCAR MASCABADO.
+Inferior á regular........ 6 á 6J-.
+Bueno á superior.......... 6£.
+Consumo.................... No	hay.
+CONCENTRADO.
+5 á 5}.
+SRES. CORREDORES DE SEMANA.
+DE CAMBIOS Y ACCIONES.
+D. Ignacio Herrera del Castillo y D. Pedro Pequeño dependiente del Colegial D. J. Estalella.
+Ilustre Ayuntamiento de Bejucal.
+El dia 16 de Mayo próximo venidero á las doce del mismo tendrá lugar en los portales de esta casa Consistorial la subasta para el remate dol arbitrio «Marca de carruajes» y carretas de esta jurisdicción durante el año económico próximo venidero, con i arreglo al piiogo de condiciones que estará do manifiesto en la Secretaría de esta Corporación todos los dias hábiles en horas de oüoina, bajo oí tipo de so-tecientos pesos en oro pagaderos en billetes del Banco con el aumento fijado por la Superioridad y con igual con icion hará el cobra el rematador, siendo de cuenta de esto el pago del papel sellado quo se invierta en el expediente y el costo de los anuncios en la Gaceta oficial. Para ser postor se requiero el' previo depósito on la Mayordomea de Propios de la caá ti dad de cien pesos ó carta de abono do persona do reconocida responsabilidad por igual suma.
+Lo quo se anuncia por esto medio para mayor concurrencia de lidiadores.	. ¡,
+Bejucal Abril 16 de 1878.—Vicente Martines.
+Ayuntamiento de Regia.
+Vacante la plaza de oficial de ia •Socretaría y Contaduría do esto Ayuntamiento por renuncia dol que la servía, ei Sr. Alcalde Municipal President e de acuerdo con la L Corporaoion se ha servido disponer se anuncie por este medio a fin de quo las personas que quieran optar á ella presenten su¿ solicitudes en esta de mi cargo, acompañadas de los documentos que justifiquen sus méritos y servicios-durante el término de 30 días a contar desde esta fecha; en la inteligencia que dicha plaza está dotada con ei haber anual de 840 pesos.
+Regla y Abrí! 8 de 1878.—Felipe Peres.
+Junta Jurisdiccional Protectora de Libertos do €0 -Ion,—Secretaría.
+Ocupada esta oficina en los trabajos de la uiR maeion ael censo cerrado el 15 de Enero do 1871 en la forma quo proviene el artículo 26 dol Reglamento de 5 de Junio dol año próximo pasado, cuyo cenáo ha de ser el definitivo en cuanto se ajuste al artículo 27 del Reglamento de 5 de Agosto de 1872 y lo prescrito en Real orden do 25 de Enero de 1876 he dispuesto de órden dol Sr. Coronel Gobernador Presidente, darle la mayor publicidad en la Gaceta oficial do la Habana y periódico de la cabecera, hasta el 20 do Abril próximo, con el fin de que se presentoh en la Secretaría dei ramo los poseedores de esclavos que hayan empadronado ios de su pertenencia en esta Jurisdicción en el que cerró en 15 Je Enero de 1871 y lo hayan verificado en otras localidades en el de 1867 y vico-versa, acompañados de los documentos que en debida forma justifiquen habor llena do tal requisito en el año de 1867, con di propó dl-de quo figuren eu el definitivo los esclavos quo hayan sido debidamente inscritos en los censos de 1867 y 71, en la inteligencia que encontrarán de manüieto-to en la misma oficina ios respectivos padronos para quo ¡os dueños ó sus representantes so enteren do la verdadera condición ee que se encuentran sus siervos v puedan con oportunidad ¡recojer los dsitos necesarios con que acreditar el empadronamiento en ambos censos. Trascurrida la citada fooha se retirarán los anlecodontes y se dará principió á formar las relaciones qué por 30 dias se han dé fijar al público, en las cuales para mas ouirid-id y á fin Me que los propietarios puedan dentro de menor tiempo tener conocimiento do cuanto aeorca déla situación de sus siervos les interese, demostrará la Ia los quo so hallen comprendidos en ios censos do 1867 y 71, la 29 ios que figuren en el padrón del 67 y dejen de estar en el 71 yen la 39 los que se eliminen de cóta-formidad con el artículo 34 del Reglamento citado porque bailándose incluidos en el censo de 1817 no lo estuvieren en el do 1867 para qtie (os que s > Consideren perjudicados, puedan hacer las reclamaciones conducentes á su derecho.
+V para general conocimiento limo la presento de órden del Sr. Presidente en Colon á 29 de Marzo de 1878.— El Secretario, Jnan M. Ibaüez.
+J unta Jurisdiccional Protootora do Libertos de Santiago de Cuba.—Secretaría.
+En sesión ordinaria del 23 dei actual se acordó por esta Junta que por el término de ún mes se¡ cite por el periódico local y Gaceta de la HaBapa, á D. Luciano Curó para quo por sí ó por medio de, apoderado se présente on esta dependencia, Catedral, bajo, núm. 18, á sor notificado debidamente en el expediento quo se. instruyo sobre libertad de su esclava Gabriela, como no empadronada en el censo eerijado en 15 de Enero de 1871.
+Santiago do Cuba 30 do Marzo do 1878,—JJo-nato Adnaonscns.
+D.
+DE FRUTOS.
+José Fontanili« y D. José
+Manuel de Molina.
+Habana 30 de Abril ¿riño, M. Nuflez.
+de 1878,—Kl Síndico in-
+OæXCXSffAS BEI. x»®xmx05v.
+Junta Jurisdiccional Protectora do Libertos de Guanabacoa.—Presidencia.
+En sesión ordinaria del 23 del que cursa se acordó por esta Corporaoion que se cite por el término de 30 dias, por el porió Lcode esta ciudad y la Gaceta de la Habana, a Doña Virginia Ronane, á su esposo D. Pedro Darrivioro, ó á Mme.. Boatriz Leroux para ene por sí ó por medio de apoderado se presecl > en está Secretaría, Catedral, bajo, núm. 18, á ser notificados debidamente en el expediento que se instruyo á consecuencia de la reclamación do libertad de la esclava Sílvint.Ronanó para sí y su hijo José, por falta de empadronamiento.
+Santiago de Cuba 26 de Marzo de 1878.—Donato Adriaensens.
+Habiéndose convocado oportunamente por e periódico local de esta villa y por cedulones á los duo- j ños de esclavos quo ios hayan empadronado en esta jurisdicción en el censo cerrado on 15 do Enero de 1871 para quo probasen o empadronamiento do los mismos en el de 1867 y fallando aun muchos por llenar este requisito, so les cita por última vez, y por este medio por ser mas públioo, acudan basta el 15 de Mayo entrante á la Secretaría de esta Junta de mi presidencia á verificar lo quo se deja in iicado en donde para mas facilidad se encuentran los padronos de 1867 y 71 y las listas de ¡os esclavos que solamente aparecen on el primero do dichos censos, pues esta Junta, pasado dicho término no admitirá reclamación alguna de inclusion on las listas de los que están en ambos. Todo lo que sobaco saber por la Gaceta
+Junta Jurisdiccional' F¡ .¡lectora de Libertos do Santa Ufara.—Presidencia.
+Terminados por e.-ta Junta los trabajos dol cencío general de esclavos correspondiente a eála jurisdicción en la forma que previene el artículo 26 del Reglamento de 5 do Junio de 1877 y ponsu».* todas las disposiciones de la Ley relativas .. K ficacion y comparación del censo de 1867	. .1:
+1870, desdo esta fecha y por el tórmiho de ■ dias, se hallaráu de manifiesto al público oí-, i. ;•] -erctaría de esta Junta, calle del Buenviagé nu...... .j
+4, las relaciones da ¡os escrávos quo existan a . <•/< inscriptos en arabos consos de la oiudad y-de ... pía apareciendo en el padrón de 1867 no so bajía,.4 <‘n c! do 1870, así como los que constan en esu üljJÍiío Registro, sin estarlo 011 el do 67.
+En cnanto á los distritos dé la juritvij, so han circulad > órdenes convordcntci^ ¡••.rsiUciem las relaciones que á cada partido c<;rresp¡CU«1#,. ps.r;t qno durante ese mismo término de treinta días 'éstenexpuestas al público en los Delagaoj'qpp« rp'-'iv' ’mps 'y puedan también los interesados de cadadiatruo gestionar oportunamente anto esta Junta, lo quo orean conducente á su derecho; en la seguridad de que i^s
+505
+Total general...................
+Habana Abril 31 de 1878.-El Arquitecto, Antonio Gonzalez y Herrera.
+referencias de aclaración y expedición que solíciijón, les serán dadas por la misma Secretaría en qÓqequtp de este preferente servicio.	•	¡ ' >« •
+Todo io que se acuucia al público por med o del periódico «El Aiba» y por la «Gaceta» ofic'a!. ¡Vios fines que son consiguientes.	.4
+Santa Clara 4 de Abril de 1878,—Ei Coponei, Teniente Gobernador Presidente, Eduardo Roihiam.
+Junta Jurisdicpioral Protectora de Libertos K de S. Juan de los Remedios.—Presidencia.
+ciones posteriores
+Guanabacoa 12 de Abril de 1878. do.
+Terminada por esta Secretaría la confrontación de los padrones de esclavos formados on los añps Jo
+1867 y el cerradu en 15 de Enero de 1871 y ' fóma-
+, . . . .... ' -■ 2g
+m»i-
+inserí)) te.-.
+Enrique Par« i ambos padrones; cuya relación sorú el censo dotlpi-Itivo de esclavos, en cuanto í»e ajuste a lo prescrito
+gn UIIIUUO. AUUV ID MUW 1	^	--- a	I •	»	|
+oficial en cumplimiento de lo ordenado en el artículo ¡ das las tres relaciones que proviene el articulo 21 26 del Reelamonto de5de Juniode 1877y disposi- del Reglamento de 5 de Jumo de 187,; comm msi
+¡ vas: La 19 de los esclavos que están inscripto,, cr
