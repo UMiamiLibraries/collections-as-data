@@ -1,0 +1,714 @@
+﻿138
+139
+140
+141 143 143
+144
+145
+146
+147
+148
+149
+150
+151
+152
+153
+154
+155
+156
+157
+158
+159
+160 161 162
+163
+164
+165
+166
+167
+168
+169
+170
+171
+172
+173
+174
+175
+176
+177
+178
+179
+180 181 182
+183
+184
+185
+186 187 183
+189
+190
+191
+192
+193
+194
+195
+196
+197
+198
+199
+200 201 202
+203
+204
+205
+206
+207
+208
+209
+210 211 212
+213
+214
+215
+216
+217
+218
+219
+220 221 222
+223
+224
+225
+226
+227
+228
+229
+230
+231
+232
+233
+234
+235
+236
+237
+238
+239
+240
+241
+242
+243
+244
+245
+246
+247
+248
+249
+250
+251
+252
+253
+254
+255
+256
+257
+258
+259
+260 261 262
+263
+264
+265
+266
+267
+268 269
+S70
+*
+1171
+118
+119
+120 121 122
+123
+124
+125
+126
+127
+128
+129
+130
+131
+132
+133
+134
+135
+136
+137
+SECCION 74—Fomento.—Agosto.
+D. Paulino Alvarez Aguíñiga, Material Instituto..........
+... Francisco Barrena, Ídem Escuela Profesional..........
+El mismo, idem Observatorio..........................
+... Antonio González, idem Pesas y Medidas..... .........
+... Gabriel María García, idem Academia de Ciencias...... .
+.. José Irio y Oliva, idem Obras Publicas...............
+El mismo, Indemnizaciones idem........ ..	...........
+El mismo, idem idem .... ............................
+El mismo, idem idem.......... •••• ..................
+El mismo, idem idem................•.................
+... Filomeno Muñoz, idem Negociado de idem ..... ........
+... Nicasio Alvarez, idem de Montes.'.,..................
+El mismo, idem idem..................................
+... Antonio Caldueh, Material de Faros...................
+El mismo, idem idem ..........•.....................
+El mismo, idem Puertos...............................
+El mismo, idem Obras Públicas........................
+El mismo, Indemnizaciones idem...............i,...;..
+El mismo, idem idem ...............................
+El mismo, Conservación carreteras.....................
+El mismo, idem idem...................... ..........
+Contratistas de servicios.
+D. Francisco Diaz, Suministro de Maiz...................
+... José María Urquiola, Acopio de piedras..............
+... Francisco Perera, Suministro de maíz................
+Sres. Rodriguez y Compañía, idem efectos de ferretería.
+Los mismos, idem idem............................
+Los mismos, ídem idem..............................
+Señalamiento de pagos del mes de Octubre. GUERRA.*
+99
+239
+622
+620
+618
+619
+639
+759 621 627
+760
+707 617 706
+709
+761
+663
+664 584
+665
+666
+702
+703
+704
+697
+698
+699
+700
+701
+658
+667
+668
+674 682 688
+693
+694
+695
+696
+675
+676 575
+677
+678
+679
+680 681 755 754 753 711
+710 692 691 686 685 684 673 672 671 670 669
+623 626
+624 776
+625 662 661 660
+659 657 656 C55 654 653 652 580 651 650 649 648 647 646 645 644
+642
+643 641 610 683
+689 687
+690
+705
+708
+762
+D. Jacinto Suarez, Batallón Milicias color de Matanzas, Julio.......
+El mismo, idem idem, Agosto.................................
+... José R. de Luz, Cuerpo Jurídico militar, Octubre.............
+El misino, Estado Mayor y Secciou de Archive.....1....
+... Ramón Fernandez, Subinspeccion de las Armas..................
+... Tomás Sauz, idem idem..........i.............. ............
+... Francisco Bosque, Estado Mayor General del Ejército ......
+El mismo, Cruces pensionadas................................
+... Manuel Ortiz, Estado Mayor de Plazas .......................
+El mismo, Clero Castrense .................................
+El mismo, Cruces pensionadas................................
+... Zacarías Bazo, Reemplazo.....................................
+El mismo, Comandancias Generales y Militares................
+El mismo, Comisiones Activas................................
+El mismo, Reserva de Santo Domingo.....................
+El mismo, Cruces pensionadas................................
+... Manuel Medal, primer Batallón de Orden Público..............
+El mismo, idem idem, Sección Montada ................w......
+El mismo, idem idem ........................................
+... Bernardo Suarez, segundo Batallón de Orden Público..........
+El mismo, idem idem, Sección Montada.........-.......—- ••••
+... José Fernandez, Caballería• Milicias Habana...............
+... Antonio Izquierdo, idem idem Güines .........................
+.. Emilio Rigol, idem idem San Antonio..........................
+... Pedro Alemán, idem idem Habana, primer Batallón.............
+... Isidro Peña, idem idem, idem segundo idem.......,,..........
+... Matías Martínez, Milicias Color España..................
+... Manuel León, idem idefn Habana...................... .......
+... Jacinto Suarez, idem idem Matanzas,........... .......
+... José Gáitan, Batallón Cazadores Isabel segunda...............
+... Manuel Serrano, Batallón Escribientes y Ordenanzas...........
+... Federico Menendez, Academia de Alumnos.......................
+... Luis dé León, Escuadrón Príncipe, primero Tiradores..........
+... Juan Jerez, Escuadrón de Remonta.............................
+... Alberto Manteiga, Maestranza Artillería..........«*.,........
+... Sixto Calatayud, primer Tercio Guardia Civil ................
+El mismo, idem idem......................... ...............
+El mismo, idem idem........................................•••
+El mismo, idem idem ........................................
+... Antonio López, Escuadrón Borbon, segundo Tiradores..........
+... Luis Monreal, idem Princesa, tercero idem........ ..........
+... José G. Pardo, Gastos diversos, Setiembre...................
+... Estanislao Sevila, Escuadrón Colon, cuarto Tiradores.........
+... InocenteS. Martin, idem Cortés, quinto idem.................
+... Juan L. Mendoza, idem Pizarro, sexto idem— ..................
+... Joaquín Bermejo, idem Alfonso XII, sétimo idem .............
+.. Feliciano Gallego, idem María Cristina, octavo idem..........
+... Manuel C. Hueva, Embarcaciones menores...!...................
+.. Manuel Romero, idem...........................................
+... José Gómez, idem.............................................
+... Ramón García, Personal Eclesiástico.........................
+El mismo, Hermanas de la Caridad...........................
+... Francisco Noé, Regimiento Infantería Marina, primer Batallón
+El mismo, idem, segundo idem................................
+... Fructuoso Mendizábal, Artillería de á pié,...................
+... Francisco López, Tercio Guerrillas Villas....................
+... José Morales, idem idem Centro..............................
+... Rafael Leal, Regimiento Reina segundo Cof?.................
+... Francisco Alvarez, idem Re*' núm, primero....................
+... Juan Gazapo, Brigada Obreros.................................
+... José Camargo, Brigada Sanitaria..............................
+... Olegario Seacedo, Brigada Disciplinaria......................
+... Alberto Manteiga, Establecimiento Artillería...............
+... Antonio Jordán, Sanidad Militar..............................
+... Joaquin Ruiz, Establecimiento Ingenieros.....................
+... Félix Cloravana, Gastes diversos, Setiembre.................
+... Luis Manrique, Cuerpo Administrativo.......................
+... Primitivo Diaz, Batallón Cazadores de Borbon................
+... Gaspar Orta, idem idem Bazae................................
+... Lucas Alonso; idem idem Talavera............................
+... Manuel Val verde, idem idem ChiclaDa.........................
+... Antonio Montes, idem idem Union..............................
+... Jaime Canals, idem idem Bailen..............................
+... Ignacio Campa, Regimiento Infantería Tarragona núm. 8........
+... Antonio Cerezo, idem idem..................¿................
+... Benigno Castillejos, idem Infantería de Cuba................
+... Francisco Gil, idem.........................................
+... Juan Rodríguez, Cuerpos Permanentes...................... •••
+... Juan Buendía, Regimiento Infantería Habana...................
+... Enrique López, idem idem idem ...............................
+... Florencio Cocli, idem idem España........... ................
+... Francisco García, Regimiento Infantería España..............
+... Juan Aranda, idem idem Ñapóles...............................
+... Rafael Corda, idem idem idem.................................
+... Francisco Melero, idem idem Gerona..........................
+... Francisco Lozada, idem idem idem............................
+... Ramón Alvarez, idem idem Reina...............................
+... Tomás Herrera, idem idem idem................................
+... Celestino Romero, idem idem Rey.......................... ...
+... Rodrigo García, idem idem idem...............................
+... Agustin Tejerina, Brigada Trasportes.........................
+... Miguel Gómez, Regimiento Ingenieros..........................
+... Manuel García idem Artillería á pié, primer Batallón.......
+. • Ricardo Vázquez, Regimiento Ingenieros, primer Batallón.....
+.. Jacobo Rodríguez, Bandas y Furrieles.........................
+... Severo López, Gratificaciones ó especiantes á embarque......
+... Ricardo Vázquez, Regimiento Ingenieros, segundo Batallón....
+
+SECCION 2?—Gracia y Justicia.—Mes de Noviembre.
+-D. Gregorio Solis, Real Audiencia.....................Personal.
+SECCION 44—Hacienda.—Mes de Noviembre.
+D. José Pellicer, Haberes del personal de la Dirección de Hacienda....
+... Manuel Nogués, idem idem de la Ordenación general de Pagos____
+... José dé Pazos, idem idem Contaduría General....................
+... Juan Esturll, idem idem Tesorería Geneial......................
+... Antonio Portocarrero, idem id. Administración general de Loterías..
+SEÑALAMIENTO DE OCTUBRE.—Marina.
+431
+430
+428
+426
+425
+424
+468
+494
+522
+458
+456
+509
+510 513
+489
+490
+497
+498
+499 501
+503
+504 477 489
+D, Saturnino Sapipélayo, Plaza Mayor........................
+El mismo, idem............................................
+El mismo, idem..,...,.....................................
+El mismo, idem............................................
+El mismo, idem.....................................
+El mismo, idem......... ..................................
+... Luis Berdellans, vapor Bazan........................
+El mismo, idem Juan de Austria............................
+El mismo, idem Leon.......................................
+... Virgilio Garrido, Aviso Jorge Juan.. ...................
+El mismo, idem............................................
+... Celestino San Roman, contramaestres.....................
+El mismo, depósito Arsenal................................
+El mismo, idem...................................;........
+... Francisco de P. Rodríguez, Artillería de la Armada......
+El mismo, idem............................................
+• • Ricardo Saralegui, Maestranza permanente................
+El mismo, idem............................................
+El mismo, idem!........“...".i............................
+El mismo, idem eventual del Arsenal
+Jacinto Ortiz, Compañía Depósito y Guardas delArzenal...............
+El mismo, idem idem...... ...........................................
+José María Martin, Cañoneros del puerto.........,..................
+Antonio Martin Alvarez, estación Gibara»
+108	33
+66	66
+50	...
+15	
+41	66
+416	66
+170	• • •
+200	, . ,
+25	
+53	89
+75	
+60	
+16	66
+12	75
+904	81
+1329 03 16 66 88 92 456 92 6849 03 2904 93
+644 85 1636 30 310 17 235 73 143 20 241 16
+271	483
+272	486
+273
+274
+275
+276
+464
+462
+473
+471
+277	435
+278	438
+279	442
+.. Fraucis:o Mallo, Aviso Fernando el Católico........
+... Antoni» Martin Alvarez, goleta Juanita ............
+... Agustii María Pol, Ponton Hernán Cortés............
+El misno, idem...................•.....
+... Vicente Roa y Espino, Aviso Sánchez Barcaiztegui...
+El inisno, idem......................................
+... Silvestie Caja, Crucero Aragón.....................
+... AValdo Andradi, Provincia Puerto-Rico ............
+... Ladislai Baamonde, Comisión Marina en New-York.
+SECCION 6?—Gobernación Central—Mes de Noviembre de 1881,
+280
+281
+282
+283
+284
+285 28 G
+287
+288
+289
+290
+291
+D. Fi]omino Muñoz, Personal de la Secretaría del Gobierno General .... ....
+...'Juan Perera, idem del Consejo de Administración..................y.....
+..." Serali i Romeu, idem de la Administración general de^ Correos-........
+.. Domiigo Marin, idem de la Junta Superior de Sanidad......• • •* ••"• •..
+... Domiigo Ruiz Arévalo, id. de la Casa de Gobierno y Quinta de los Molinos.
+El mismo, idem del Presidio................• • •• •••;...................
+... Gregirio Solis, idem de la Subcomisión de Arbitraje....	...........
+... Mantel Villarnovo, idem gratificación al Escribano de Gobierno.........
+... Emiiano Nuñez, Flospitalidades.........................................
+... Gregorio Solis, Personal del Tribunal y Fiscalía de imprenta...........
+... Anttuio V. Amoroso, Personal Telégrafos................................
+... Cárbs Abalos, idem idem................................................
+6476
+3198
+1946
+916
+127
+9309
+798
+166
+934
+729
+2966
+3268
+39
+22
+58
+61
+50
+No habiéndose presentado declaración de dos cajas marca !~zTo~ 1 conteniendo dos máquinas para imprimir y sus accesorios, importados por el vapor español “Serva” en 8 dé Noviembre último, se convoca á su dueño ó consignatario para que dentro de quinto dia se presento en esta Administración, pues de lo contrario 6e procederá á lo que corresponda.
+Habana Enero 24 de 1882.—Antonio Matos.
+66
+59
+13
+58
+73
+292
+293
+294
+SECCION 64—GoBERNAcroN.—Mes de Julio de 1881.
+D. Antón» Valdés Amoroso, Material Telegráfico.......... •
+El misao, Indemnizaciones idem..........................
+... Cárlos Abalos, Material: ideni^.......................
+66
+75
+145
+199 98 300 ... 1997 ... 8000 ... 5438 ... 1726 ... 1227 ... 180 ... 4917 ... 370 ... 11 ... 10500 ... 3666 ... 20600 ... 260 ... 42 ... 31000 ... 4000 ... 25000 ... 21138 ... 6850 36 1163 ... 1395 ... 1960 ... 1369 03 1183 80 644 08 629 90 381 46 11746 47 15837 96 3320 41 7680 ... 6700 ... 1351 5685 10567 7813 10596
+47
+4486 13 4082 27 8740 17700 6491 100 23000 800 800 800 1000 1200 1000 1000 800 800 1200 162 50 800 800 800 800 800 2800 800 800 800 800 800 800 1352 12550 97 10956 16 12423 81 1S200 ...
+50 ...
+4
+SECCION 7.05—Fomento.—Mes de noviembre de 1881.
+295
+296
+297
+298
+299
+300
+301
+302
+303
+304
+305
+306
+307
+308
+309
+310
+D. Antonio M* Gordon, Universidad...................................Personal.
+... Paulino A. Aguíñiga, Instituto..................................Personal.
+... Francisco Barrena, Escuela Profesional..........................Personal.
+Bi mismo, Observatorio.........................................—Personal.
+D, Ramón Perez, Escnela Pintnra.................... ................Personal.
+... José Irio Oliva, Obras públicas.................................Personal,
+El mismo, idem idem...............................................Personal.
+El mismo. Puertos material, Escribís, temps .......................Personal.
+El mismo, idem idem...............................................Personal.
+D. Filomeno Muñoz, Negociado Obras públicas..............- .........Personal.
+... Antonio González, Comisión pesas y medidas.......................Personal.
+.. Nicasio Alvarez, Montes............................................Personal.
+El mismo, Minas ...	..........................................Personal,
+D. Antonio Caldueh, Faros.......................................• •••• Personal
+El mismo, Puertos..................................................Personal.
+El mismo, Idem personal de la Draga...............................Personal,
+7937 83 1754 92 997 83 33 508 31 4309 8G 220 83 80 00 80 00 499 99 25 00 1216. 63
+Administración Local de Aduanas.
+jDerechos liquidados en el dia de ayer.
+Departamento de muelles.............& 18033 34
+Idem de almacenes................... 161 70
+Total............% 18195 04
+Contraído en et ta fecha.
+Por Importación........................$ 14474 24
+Idem exportación........................ 8057 16
+Idem multas...... ...................... 162 88
+Idem derechos do navegación............. 1748 41
+Idem comisos.......................................
+Idem depósito mercantil............................
+Idem intereses de pagarés....................... ••
+Total.........8 243 82 69
+Recaudado en esta fecha.
+Por importación.............. ........$ 26167 08
+Idem exportación......................... 8057	16
+Idem multas................................ 47	67
+Idem derechos de navegación.............. 1748	35
+Idem comisos.....................................
+Idem dopós'to mercantil..........................
+Idem intereses de pagarés........................
+958 29 175 00 742 00
+Habana 26 de Enero do 1882.—El Contador, José López Peiegnn.—Vto. Bao.—El Administrador, Muios.
+Mes de Julio de 1881,
+311
+312
+D, Francisco Pereda, suministro de maiz, ... Francisco Diaz, idem idem..........
+296
+657
+TESORO.—Fianzas,
+313
+314
+Sres. Mustell y Cuadras, contratista del H. M. Ciego de Avila D. Francisco Gottardi, contratista reparación Ig.08 del Cano .
+2624
+353
+72
+315
+D.
+Depósitos judiciales.
+Juan Andreu, Int. ° deD. Benito Fernandez Andrade.
+...B. B. 1800
+SECCION 3?—Guerra.
+Material de Agosto,
+316 317 at a	561 560 559 554	D. Andrés del Wals, Material Ingenieros..			 ... Manuel López Bago, idem 					• ••• • • • • • • ••••■«•}
+319		... Eusebio Sanz, Material dé Artillería. 						
+Q91			
+322	552	... Manuel Perez, idem					
+14000
+19000
+1C00
+18
+16000
+69
+.850
+Las cantidades señaladas anteriormente se satisfarán en el orden siguiente: Dia 28 Enero Del núm. 241 al 247.
+1792 ...			• ••	30	jí .		-281 al 29 J y 295.
+2694 ...				19 Febrero		... ... 296 al 310, 144 al 146
+260 ...			•	3			 147 al 149, 155 all 57.
+2509 ...				4	jj		 150 al 154, 158 al 160.
+3223 ...			...	6	y)		 161 al 164.
+1667 ...				7	i*		 248 al 266.
+1937 ...				8	yy		 267 al 270.
+4282 ...			...	9	yy	... ... 271 al 280.
+323 ...			• • •	10	yy		 165 al 173, 1 al 33.
+134 ...			...	13	yy		 174 al 178, 35 al 37.
+2782 ...			• » •	14	yy		 179 al 185, 38 al 44.
+1054 98			...	15	yy		 316 al 322.
+1868 ...				16	yy		 186 al 201.
+213 53		* ’	...	17	yy	.. ... 202 al 207, 45 al 64.
+141 79			...	20	yy		 209 al 220, 65 al 75.
+15911 78			...	21	yy	... ... 221 al 236, 76 al 84,
+1099 ...			...	22	yy		 237 al 240, 292 al 294,
+1099 ...	^ ■		...	23	>9		 85 al 109. 117.
+3122 ...			...	24	yy		 110 al 114 y 34,
+5256 ...			• •	25	yy		 115 al 1161 y del 117J
+3352 24			...	27	19	v.	 114 J.
+y 312, 138 al 143.
+Habana 27 de Enero de 1882.—El Ordenador General de Pagos, Ignacio Maria Justis.
+Señalamiento de los pagos que habrán de verificarse por la Económica de esta Provincia desde 28 del corriente á 4 del siguiente, según lo dispuesto por la Dirección General de Hacienda, de acuerdo con el Tesorero General y Ordenador que suscribe, correspondiente al material de Agosto y personal de Obligaciones Civiles de Noviembre en el órden fijado por dicha Superioridad, cumpliendo instrucciones del Gobierno de S. M.
+16
+10260 32
+17104 43 3604 54 6628 94 2041 60 2483 73
+51 33 6387 70 4128 72 329 15 8125 62 916 66 1797 72 1008 63 2076 10 2840 71 50 ... 426 66 1383 24 937 571 580 111 2553 44 631 67 27906 52 2323 33 2444 42 7168 83 5811 31
+50
+25
+21
+SECCION 2?—Gracia y Justicia.—Agosto de 1881.
+1	D. Pablo Velez, Clero Parroquial:..............................Material.?
+2	El mismo, Regulares ...........................................Idem.
+3	D. Mauricio Montero, Juzgados de la Instancia.....................Idem.
+4	El mismo,	Idem de idem.................................Idem.
+5	D.	José Rodríguez,	Idem‘ele	idem ..........................      Idem.
+6	...	Francisco Muñoz,	Idem	de	idem.................................Idem.
+7	...	Narciso Mora,	Idém	de	idem..............................  Idem.
+Noviembre de 1881.
+.
+8	D. Pablo Velez, Clero Catedral.................................Personal.?
+9	El mismo, Idem Parroquial......................................Idem.
+10	D,	Tiburcio Coca, Id.	idem.......................................Idem.
+11	...	Pablo Velez, Juzgados	Eclesiásticos.........................  Idem.
+12	El mismo, Regulares...............................................Idem.
+13	D. José Esclapet, Juzgados de la Instancia........................Idem.
+14	El mismo,	Idém de idem................... ...........Idem,
+15	D.	Gregorio Sol ís	Idém	de idem........................    ..Idem.
+16	...	José Rodríguez,	Idém	de idem ..........................   Idem.
+17	...	Narciso Mora,	Idem	de idem .............................Idem.
+18	...	Francisco Muñoz,	Idem	de idem............................  Idem.
+19	...	Mauricio Montero	Idejn	de idem............................  Idem.
+20	El mismo, *	Idem de idem....... ......................Idem.
+21	D. José de los Ríos, Seminarios Conciliares......„..............Octubre
+22	El mismo	Idem idem.................................Noviembre
+SECCION 4a—Hacienda.
+23	D, Juan Gutiérrez, Resguardo Terrestre..........................Personal.
+24	Idem idem, Marítimo.............................................Idem,
+25	Mariano Montero, Colecturías de rentas..........................Idem,
+26	...	Pedro Ramos, ídem de Gjfines .................................Idem.
+27	...	Mariano Soto, Económica de la Habana..........................Idem.
+28	...	José Gómez Rozas, Aduana de idem..............................Idem,
+SECCION la—Material de Hacienda.
+29	D. Emiliano Nuñez, Sala de Convalecencia del Hospital de S, Felipe y Santiago
+SECCION 6a—Gobernación Central,
+30	D, José de-Castro, Personal del Cuerpo de Vigilancia....................
+31	... Manuel González Chacón, Idem de la Secretaría del Gobierno Civil....
+32	... Domingo Marín, Idem de la Fálua de Sanidad.........................
+33	... Serafín Romeu, Idem de la| Administración provincial de Correos.....
+34	Al mismo, Idem de los conductores..................................'
+35	...	Pedro Artel], Idem Médico de Batabanó..............................[
+36	... Casimiro Aced, Asignación á la casa de Enajenados ............
+37	... Gabriel V, Carranza, Idem de la Casa de Beneficencia.......... ..
+38	... Emilio Nuñez, Idem Hospital de S. Felipe y Santiago..........
+39	... José María Valenzuela, Idem de Güines de los meses de Agosto á Noviera e
+inclusive..........................................................
+40	...	Maunel Candína, Idem de Jaruco de Setiembre	á	Noviembre............
+41	...	Manuel Ramos, Idem de Santiago de las Vegas de	Agosto	á Noviembre..
+42	... Francisco Ruvira, Idem, de Bejucal de Agosto á Noviembre...........
+SECCION 7a—Fomento.
+43	D, Nicasio Alvares, Jardín Botánico...................;........Personal.
+Las cantidades señaladas anteriormente se satisfarán n el órden siguiente:
+Dia 28 de Enero.:—Del número 23 al 28. °
+Dia 30	„	Del número 29 al 32.
+Dia 1 Febrero.-r-Del número 33 al 37.
+Dia 3	„	. Del número 38 al 43.— 1 al 12.
+Dia 4	,,	Del número 13 al 22. •
+Habana Enero 27 de 1882.—El Ordenador General de Pagos, /gwcio M, Jútfa
+85
+20
+4180
+2353 10 40 10 40 10 10 10
+40
+Total.............$ 36020 26
+Monte de Piedad.
+Dirección.
+Vacante en CBte Monte de Piedad una plaza de escribiente, dotada con el sueldo anual de trescifu-tos pesos eu oro, y debi ndo provee: se por oposicioa con arreglo al decreto del Gobierno General de 5 de Mayo de 1879, se anuncia por tres números conse-curívos de la Gaceta ofioial para que llegue á conocimiento de h s que deseen optar a ella; cuya oposición ha de verifica:se el dia 8 de Febrero á las doce de su mañana.
+Los ejercicios exigidos para la Oposición, son; escritura úl dictado y copias que el Tribunal juzguo necesarias para poder dolirminar la suficiencia dtl opositor. Estos han de presentar sus respectivas solicitudes extendidas en p ipel del sello correspondiente, con los documentos, si lo* tuvieien, que acrediten los servicio?, conocimientos útiles al desempeño de dicho deetino, acompañando- á la vez una cert fi-cacion do buena conducta expedida por el Alcalde de barro en que estén domiciliados.
+Habana 25 de Enero de 1882.—M. Torres y Samá.
+TEBCËRA SKt'CIOar.
+Don Higinio Fernandez García, Teniente Coronel graduado, Comandante de Infantería, Fiscal de la Plaza de la Habana y comisionado Como tal para la ultimación de la causa instruida al ex-Intendente Militar D. Antonio Aid aya y otros, por cohechos, prevaricación y estafa, con motivo del suministro de víveres del Ejército de operaciones en esta Isla, durante la
+primera campana.
+Por el presente hago saber que en acordada
+de S. A. el Consejo Supremo de Guerra y Marina de 21 de Marzo del año actual, so dictó la providencia que sigue:—Hay un sello que dice.—Capitanía General de la siempre fiel Isla de Cuba.— Estado Mayor.—Sección 5.a—Hay un sello que dice:—Consejo Supremo de Guerra y Marina.— Exorno. Sr.—Dada cuenta á este Consejo Supremo de la causa que V. E. me remitió con escrito
+de 25 de Febrero de 1880, instruida al Intendente
+5700
+5559
+44
+741
+4477
+2350
+312
+3373
+413
+475
+375
+525
+500
+330
+330
+10943
+2814
+741
+116
+4027
+8718
+381 25
+16812
+1836
+362
+1058
+3181
+84
+59
+49
+22
+75
+Militar D. Antonio Aldaya y otros, por cohecho y otros delitos en consulta de sobreseimiento respecto. á D. Antonio Sacristán y nuevo más, el Consejo eu Sala primera previo dictámem de sus Fiscales dictó en 21 de Marzo último la providencia que sigue:—Se aprueba la providencia de sobreseimiento que en 10 de Diciembre del año do 1876 dictó el Capitán Geueral de la Isla de Cuba eu estos autos, con respecto á D. Antonio Sacristán, D. José de la Cruz Otero, D. José López, D. Ramón Granda, D. Dionisio Coello, D. José Alonso, D. Julio Freiré, D. Marcelino Vilanova, D. Francisco Javier Bautista y D. Fernando Ituiz, por no existir en el procedimiento cargo alguno contra los expresados; se aprueba así mismo por igual concepto el sobreseimiento que lia dictado la mencionada Autoridad eu 22 de Diciembre de 1879 con respecto á D. Jaime J., D. Juan Moixes, D. Juan Fraueisco Tabernillii, D. Alejandro Tomás, D. Pedro Rivera, D. Tito Montaner, D. César Agosti, D. Emilio Fantoni, D. Ramón Cantero y D. Manuel Figueroa, y también en cuanto á D. Rafael Fantoni, sólo por el concepto de haber fallecido éste como estima dicha Autoridad Militar. Y para el cumplimiento de esta providencia, devuélvase la causa don la órden correspondiente.—Lo que con inclusión de la causa de referencia que se compone de diez y ocho piezas, remito á V. E. para los efectos expresados.—Dios guarde á V. E. muchos años.—Madrid 6 de Abril de 1881.—Aguirre.— Hay una rúbrica.—Sr. Capitán General de la Isla de Cuba.—Es copia de que certifico.—El Brigadier Jefe de E. M.—Luis Roig de Lluis.—Hay un sello que dice:—Capitanía General de la siempre fiel Isla de Cuba —Estado Mayor.
+Y á fin de hacerse pública y notoria la preinserta acordada, y con objeto de que llegue á conocimiento de los encartados que por medio de los Fiscales Militares no hayan sido notificados y á quienes se les libró en esta Isla y con oportunidad la mencionada acordada, puedan darse por notificados los aludidos, expido la presente en la Habana á los quince dias del mes de Diciembre de mi ochocrentos ochenta y uno.—Higinio Fernandez. —Por mandado del Sr. Fiscal,—El Teniente Al* férez Secretario, José Cortés.
+50	
+4000	» . .
+1350	• • •
+481	...
+190	64
+199	50
+90	20
+178	64
+58	33
+Comandancia General de la Drovincia de la Habana y Gobierno Militar de la Plazo..
+Comisión General Liquidadora.
+Ignorándose cual pueda ser el paradero actual de D. Francisco Zulueta Ferrer, que perteneció en clase de Capitán al Batallón Voluntarios de Cádiz en esa Isla en el año de 1869 y en la actualidad de paisano, se hace saber por este medio si se encuentra en esta Capital, se presente en 1» Fiscalía de la Comisión General Liquidadora, sit® calle de los Oficios núm. 4, y de estar ausente, participará de la manera más fácil el punto de su residencia, con objeto de evacuar un acto de justicia.	1
+Habana 14 de Enero de 1882.—El C. Cafh
+tan Fiscal, Fermín Herrero.
+4

@@ -1,0 +1,560 @@
+﻿nombre
+DEL INGENIO.
+San Claudio.
+Almngro .....
+M onta ila...
+Fan Joaquin.. Santa Teresa. San Jqaquin..
+Carmelo....
+Jngua .....
+La Martina..
+Bestino....
+Amelia.....
+San Manuel
+Prudencia .•
+La Fé......
+Santa Ana.
+Océano...__
+Aluiiuira.... Santa Ana
+La Fé......
+Matilde . ...
+L i Fé.....
+San Andrés....■••••
+Destino..........
+Florentina.......
+María Antonia....
+San Antonio......
+Snn José Valiente.
+Macagua..........
+Flor de Sagua....
+Recurso..........
+Ranchita.........
+Los Angeles......
+Laverinto........
+Resulta..........
+Andrea...........
+San José.........
+Jaique...........
+La Fé............
+Guadalupe..
+Los Baños......
+Santi Maria. Santa Maria. Esperanza .....
+CLASE DIN. INCENDIO.	FECHA EN QUB OCURRIÓ.			V BESULTA DO.	PUESTO DEL QUE ACUDIÓ FUERZA AI, FUEGO.
+	nix.	MES.	a So.		
+COMANDANCIA DE VUELTA-ABAJO.					
+Se ignora.	19	Febrero.	1882		Cubabas.
+idem.	r.>	Marzo.	id.		Las Pozas.
+Casual.	L»	idem.	id.		B.ibía-Pondn.
+idem.	14	Abril.	i t.	•	J as Pozas.
+idem.	25	idem.	id.		A rleutisa.
+idem.	25	idem.	id.		Las Pozas.
+COMAN IL		VNCIA DE SANTA CLARA.			
+Casual.	29	Febrero.	1882		Snn Diego del Valle
+idem.	2	idem.	id.		Ranchuelo.
+Intencional.	18	idem.	id.	Cojido el incendiario.	Guaro.
+Casual.	2	Marzo.	id.		Jieoten.
+ídem.	11	idem.	id.		San Diego del Valle.
+idem.	24	idem.	id.		Esperanza.
+COMANDANCIA			DE REMEDIOS.		
+•Intencional.	27	Abril.	1882	Cojido el incendiario.	Salamanca.
+ideut.	8	idem.	id.		idem.
+Casual.	20	idem.	id.		idem.
+Ídem.	17	Marzo.	id.		Océano.
+Intencional.	20	idem.	id.	Cojido el incendiario.	Tagunyabon.
+Casual.	8	idem.	id.		Salamanca.
+ídem.	9	idem.	id.		idem.
+ídem.	24	Febrero.	id.		Cnmnjuaní.
+idem.	24	idem.	id.		Salamanca.
+	COMANDANCIA DE			SAGUA.	
+Casual.	13	Enero.	1883		Santo Domingo.
+idem.	27	idem.	id.		Yabucito.
+idem.	19	Febrero.	id.		Palma Sola.
+idem.	27	idem.	id.		Santo Domingo.
+idem.	4	Marzo.	id.		Mata.
+idem.	5	idem.	id.		T abucito.
+idem.	7	idem.	id.		Mata.
+idem.	18	idem.	id.		Sitio Grande.
+idtm.	39	idem-	id.		idem.
+idem.	20	idem.	id.		Santo Domingo.
+idem.	25	idem.	id.		Mata.
+idem.	21	idem.	id.		La Ensenada.
+So ignora.	27	idem.	id.		Sagua.
+Casual.	26	idem.	id.		Sierra Morena.
+Intencional.	13	Abril.	id.		Yabucito.
+Casual.	14	iuem.	id.		Corral il lo.
+idem.	13	idem.	id.		Rancho Veloz.
+	COMANDANCIA DE			CUBA.	
+Casual.	24	Abril.	1882		M oron.
+COMANDANCIA DE GUANTÁNAMO.					
+Casual.	29	Abril.	1882		Arrovo-IIondo.
+idem.	20	Febrero.	id.		Guantánamo.
+Intencional.	16	idem.	id.	Cojido el incendiario.	idem.
+Casual.	31	Enero.	id.		Esperanza.
+COMANDANCIA DE CIENFUEGOS.
+Rioja...........
+Regla...........
+Constancia......
+Constancia.......
+Buena Vista......
+Andreita........
+Parque Alto......
+Tauteo..........
+San José........
+Esperanza ......
+Parque Alto......
+Conchita........
+Sacramento......
+San Manuel.....
+Reparador..... •
+Idem..........
+Amalia..........
+Reparador.......
+Lequeitio.......
+Buena Vista.....
+Soledad..........
+Ro ario.........
+Rosarlo........
+Caracas..........
+Santa Rosalía....
+Destino.........
+San José........
+Manacas ........
+Santa Teresa.... . Regla...........
+Tuinicú..
+Casual.	20	Fnero.	1882
+idem.	20	idem.	id.
+idem:	27	idem.	id.
+idem.	3	Febrero.	id.
+idem.	9	idem.	id.
+idem.	13	idem.	id.
+idem.	13	idem.	id.
+idem.	14	idem.	id.
+idem.	14	idem.	id.
+idem.	20	idem.	id.
+idem.	27	idem.	id.
+idem.	27	idem.	id.
+jdem.	14	Marzo.	id.
+idem.	17	idem.	id.
+idem.	19	idem.	id.
+idem.	21	idem.	id.
+Intencional.	39	idem.	ill.
+Casual.	22	idem.	id.
+idem.	21	idem.	id.
+idem.	26	idem.	id.
+idem.	25	idem.	id.
+idem.	22	Abril.	id.
+idem.	22	idem.	id.
+idem.	23	idem.	id.
+Intencional.	24	idem.	id.
+Casual.	24	idem.	id.
+idem.	27	idem.	id.
+Intencional.	28	idem.	id.
+Casual.	7	Mayo.	id.
+Cojido el incendiario.
+Cojido el incendiario.
+Cojido el incendiarlo.
+COMANDANCIA DE SANCTI-SPIItITüS.
+Casual.
+24
+Febrero.
+id.
+COMANDANCIA DE TRINIDAD.
+A raen Riquelme....
+Agua Hedionda y Araca...
+Guinea.............
+Mainicú............
+Magua..........y 1
+Corpi al .......í
+Palniarejo.........
+Casual,	'18	Febrero.	id.
+Intencional.	24	idem.	id.
+Casual.	19	Marzo.	id.
+Intencional.	8	idem.	id.
+Casual.	26	Abril.	id.
+Se ignora.	2	M ayo.	id.
+		RESUMEN.	
+Cojido el incendiario. Cojido el incendiario.
+Camarones.
+Ciení'uegos.
+Abreus.
+idean.
+Cnunao.
+C. rucos.
+Abreus.
+Rodas.
+La Sierra.
+Abreus.
+Congojas.
+A ri niao.
+Lajas.
+Jabacoa.
+Rodas.
+idem.
+Ceiba Hueca. Redas.
+’ Soledad.
+Cam ao.
+San Anton.
+Caunao.
+Lujas.
+San Anton, Ciego Montero. Palmira.
+Santa Rosa.
+Arimao.
+Cienfuegos.
+Alonso Sanchez.
+Higuanojo.
+Parra!.
+Hijabo.
+Higuanojo.
+Sabanilla.
+Higuanojo.
+Total de los ingenios en que ha habido fuego.
+CLASIFICACION.
+Fuegos intencionales........................................................
+Idem que se ignora la causa...........'.....................................
+Idem casuales..............................................................
+Se han cojido y entregado á los Tribunales a los incendiarios de diez y nueve ingenios/
+Habana 26 de Mayo de 1S82.—El Brigadier Sub-director, Carlos JJénis. — Es copia._________E
+Gobierno General, M. Díaz de la Quintana.
+20 » r¿ y
+167 )
+199
+199
+copia.—El Secretario del
+Capitanía General de la siempre fiel Isla de Cuba.
+ESTADO MAYOR.
+Sección G.a
+Ignorándose el paradero del Guerrillero inu ilizado en campaña Leopoldo Giménez Cano, de irden del Excino. Sr. Capitán General se le pre-'iene por este medio que se presente en el Hospi-;l] Militar do esta plaza con objeto de que se le econozca facultativamente para que en vista del esultado de dicho acto pueda resolverse su expeliente de redro.
+Habana 21 de Julio do 1882.—El Brigadier fefe de E. M., Luis Roig de Litas.
+Intendencia Militar de la Isla de Cuba.
+Comisaría de Guerra.
+Don Manuel Rico y González, Comisario de Gue-na y Jefe Instructor do expedientes administrativos, de alcances y reintegros de esta Plaza.
+m
+
+..„■i*.
+RELACION ti« las oanti ta les que han ingresado en la Caja do esta Te-orería, durante el mes de Abril de ¡882, en concepto de Depósito provisional, por descuenta g tul nal sobro babores.—(finaliza.)_____________________
+NUMEUO
+del carga-rème.
+ile la carta ile pago.
+FECHA.
+147
+1¿0 ]/>•' 1.% 1
+168
+16«
+17.1
+174
+175
+iso;
+181
+183
+182
+l8li
+189 ]«(>
+191
+192
+20b
+207
+208 209
+219 211 212 231 233
+237
+238 141 195
+190 197 194 205 216
+217
+218 221 222 228
+224
+225
+220 2 224
+229
+230 9
+200
+201
+202
+203
+15
+18
+19
+26
+27
+41
+43
+44
+12	'I ]-•» 130
+13	i 18»
+135
+136 166
+157
+158 161 162 103 10» 163 16'*
+170
+171
+172 17!» l'O 181 182 183 1«4 1S5 186 190 20u 201 201
+213
+214
+215 21« 2L 218
+219
+220 221
+222
+.,.io
+2 ¡4
+225
+220
+227
+228 2:9 230 281
+232
+233 284 235] 2301 237 215
+246
+247 24SÍ 25«
+271
+272
+273
+Me
+Abril.
+Dia.
+1»
+A ombre Jcl que hace el ingreso.
+Suma anterior.
+18
+Í9
+20 2 i
+°2
+24
+26
+27
+28
+O. Hermenegildo Kmnco, por D. Hermcnd? Diego, Prov? Nuevitas
+...Salvador Viial.............................................
+... llamón María Jiménez, Vapor «Blasco-de Gnray».............
+... José l’ellieer, Ii.hj eccion (Jen ral do Hacienda........
+El mismo ...............................................
+El misnib.......................................... ....
+K1 mismo................................................
+... Jacinto ()rt;z, Guardias de Arsenahs......................
+... Antonio Jordán, Sanidad Militar...........................
+... Emilio Cosculiuelii, apoderado de D. J uan Casamitjana....
+.. José del ltey, autorizado por D. Francisco Osoiio ..........
+... Alb-rto Manto ga, Comandancia Geneial do Artillería........
+... Francisco de i’. 11o triguez, Artii'b ría déla Armada......
+... Francisco S. Logroño, Vap* r«Leoii»........................
+... Juan Perez. autorizado por D. Adolfo Morales...............
+... Luis llerdellans, Vapor «Razan»............................
+Kl mismo.................................................
+El mismo.................................................
+El mismo..........«.................. ..................
+... Luis de Pando, Vapor í Blaseode Garayn.....................
+... Jacinto Otli/, Compafi a de Dej osito de Marina............
+El mismo. Guardias del Arsenal ..........................
+... .losé María Martin, Cañoneros de esta Capital..............
+Virgilio Garrido, Avi-o «D. Jorge Juan»...	..............
+... Hermend? Franco, p..r I). Frnic? Mallo, A «Fernando el Católico.» El mismo, por 1). Vicente Roa, Aviso ‘‘S. liarcá ztegui.”..
+... Fi onteno Muñoz Secretaría del Gobierno General........
+... Antonio Villuviceneio, Tribunal d« Cuenta,? .............
+... Gregorio Solis, Rtal Audiencia... .... ................
+... Mauricio Montero, autorizado por D. Euseó io Mauro.......
+... José K. de la Luz, por ti Exento. Sr. Gobernador General...
+... Manuel Nogué*, Ordenación Gtner.il de Pagos................
+El mismo.................................................
+Ei mismo............................................ ....
+El mismo.................................................
+... José de l’uzos, Ordenación General.........................
+El mismo, Contaduría General............. ........-......
+El mismo........................... .....................
+El mismo.................................................
+Excmo. Sr. D. Oírlos de Rejas, Director General de Hacienda....
+D. José Pellicer, íriib-Direeriou d - Hacienda....'. ..........
+El mismo, Dirección General de Hacienda......6..........
+El mismo.................................................
+El mismo............ ....................................
+El mismo.................................................
+El mismo.................................................
+El mismo.................................................
+El mismo....... .........................................
+El mismo....................................... .... ...
+... Alfonso Hamos... .........................................
+... Juan Estivili, Tesoretía General de Hacienda...............
+Ei misino.. .................................. ..........
+El mismo..'..............................................
+El mismo.................................................
+... An'onio Portocairero, Administración de Leerías...........
+El mismo.................................................
+... Ricardo Saralegui, Maestranza del Ar-etral................
+... Juan Perca, Consejo de Administración.... .................
+... Serafín Roineu, Administración General do Correos.........
+... Mauticio Montero, apoderado de D. M. Bem spe..............
+... José lt. de la Luz, Estado Mayor ........ ................
+... Antonio Villavi encio, Tribunal de-C uentas............ ...
+... Manuel León, Batallón Milicias de Color de la Habana.......
+... Mauricio García, autorizado por D. Maximino Jargue........
+IMPORTE.	
+Pesos.	Cts.
+6106	29
+70	
+	99
+103	i 1
+4	58
+32	06
+182	05
+OS	04
+3	25
+115l i	
+21	10
+	95
+317	
+32	62
+37	03
+3	29
+26	81
+1	o:
+28	39
+18	62
+162	54
+84	72
+27	49
+139	42
+81	31
+55	71
+76	10
+437	12
+795	26
+1777	13
+o	79
+1041	06
+197	68
+6	25
+15	34
+15	20
+366	9!
+13	03
+26	77
+IS	32
+37Ó	
+631	(»">
+t»5	93
+25	30
+31	05
+42	84
+170	80
+18	83
+! M	99
+17	19
+	42
+HO	21
+0	66
+7	50
+7	91
+140	79
+7	ÖC
+29	58
+284	94
+142	26
+12	50
+3S5	
+794	o ■»
+3	80
+4	16
+10911	81
+Importa esta relación diez y seis mil novecientos once pesos, ochenta y un centavos.-18S2.- -E1 Tesorero general, José Rodriguez Correa.
+-Habana 30 de Abril de
+Contaduría General de Hacienda.
+Sección de Atrasos. —Negociado de Leparos.
+Convocatoria,
+Niím. 589.—F? 316.
+Convocatoria.— D. Ramón de Beruete, Tesorero General que fué de esta Isla, su apoderado ó herederos, si hubiere fallecido, se presentarán en esta Contaduría en hora y dia hábil y término de quince, ú reco-jer un pliego de reparos deducidos por el Tribunal de Cuentas del Reino, á la del Tesoro por ingresos y pagos de la Habana correspondiente al mes de Agosto de 1866; en la inteligencia que de no presentarse le parará el perjuicio que baya lugar con arreglo á lo dispuesto en el art. 65 del Reglamento de dicho Tribunal de 8 de Noviembre de 1881.
+Habana 2 de Julio de 1882.—El Contador general, Beiamendi.
+Niíin. 1478.—F.° 520.
+Convocatoria.—D. Luis Santaló, Interventor de Pagos que fué de esta Isla, su apoderado ó herederos si hubiere fallecido y D. José Antonio de Quijano, Administrador que fué de Matanzas, ó su apoderado D. Eduardo Laborde, ó sus herederos si hubiere fallecido so presentarán en esta Contaduría, en hora y dia hábil y término de 15 á recojer un pliego do reparos deducidos por el Tribunal de Cuentas del Reino á la del Tesoro por ingresos y Pagos de la Depositaría de Matanzas, correspondiente al mes de Setiembre de 1868, en la inteligencia que de no presentarse les parará el perjuicio que haya lugar, según lo prevenido en el art. 65 del Reglamento orgánico del Tribunal de Cuentas del Reino de 8 dp Noviembre de 1871.
+Habana 13 de Julio de 1882,—El Contador general, Jieramendi.
+do dicha Administración subalterna de Sagua, correspondiente ¡il mes de Agosto de 1S79; en la inteligencia que de no presentarse, les parará el perjuicio (pie haya lugar.
+Habana 11 de Julio de 1882.—El Contador general, Jieramendi.
+D. José G. Bequer por autorización de D. Ventura Paredes, Administrador que füé de la Económica de Santa Clara, sus apoderados ó herederos, si hubiesen fallecido, se presentarán en esta Contaduría General en dia y hora hábil y término do quince días, á recojer un pliego de reparos deducidos por el Tribunal de Cuentas de esta Isla á la do operaciones del Tesoro de la referida Administración Económica de Santa Clara, correspondiente al mes de Agosto de 1S79; en la intelU geneia que de no presentarse les parará el perjuicio que haya lugar.
+Habana 12 de Julio de 1882.—El Contador general, Jieramendi.
+Ignorándose el paradero del paisano D. Juan Lassevill, Ayudante de factor que fué en la factoría do provisiones de San Luis (Cuba) lo llamo ' y cito por este mi segundo edicto para que en el preciso término de veinte días á contar desde su pnblieacion se presente en esta Jefatura, sita calle de Teniente Rey número 15.
+Habana 9 de Julio de 1882.—El Jefe Instructor, Manuel Rico.—Por su mandato.____El So-
+cietario, José Valero.
+Comandancia General de Marina del Apostadero de la Habana.
+Secretaría.
+ANUNCIO.
+Habiendo salido en la Gaceta do ayer 13 el anuncio convocando á nueva licitación para la contrata del suministro de Materiales de albañilc-rj(l y terminando por tanto en 12 del próximo mes de Agosto ci plazo de los 30 dias estipulados por la Ley desde la publicación de aquél, para verificar la subasta, se hace presente al público que dicho acto queda señalado para el mencionado dia 12 de Agosto próximo á la una de la tarde, podiendo en consecuencia presentarse á la Junta Económica del Apostadero que estará constituida ¡d efecto, las proposiciones do los que deseen interesarse en el expresado servicio.
+Habana 14 do Julio de 1882.—Luis Pastor y Laude) 0.
+Tesorería General de Hacienda.
+Debiendo procederse á operaciones de reintegro dispuestas por el Tribunal de Cuentas de la Nación en el expediente instruido contra D. José Ladillo, so hace publico por este medio y nuevo dias consecutivos, á fin de que en el término de quince, á contar del pi onero do la inserción de este aviso, se sirva dicho señor, por sí ó por quien le represente, entregar ó remitir á esta Tesorería, la carta de pago por valor Je nueve mil pesos representados en diez y ocho acciones del Banco del Comercio, que en 27 de Enero de 1870, constitu -yo en fianza á favor de la Hacienda el Sr. D. Fé hx María Callejas, para garantir su manejo en el destino de Colector do Rentas de Gnanajay; en la inteligencia de que de no hacerlo, so procederá á la anulación de la carta de pago citada y á la ex-pedición de una certificación que la sustituya á hn de llevar á efecto las operaciones indicadas’
+Habana Julio 10 de 18*2.--El Tesorero ge-
+neral, José Rodrigues Correa.	°
+Sección 3.a—Negociado de Reparos.
+ANUNCIO.
+Don Vicente Bahía González como apoderado de L). José Verdú, Colector que fué de la Co lecturía de Remedios, sus apoderados ó herederos si hubiese fallecido se presentarán en esta Conta duría general, en hora y dia hábil y término de quince á recojer un pliego de Reparos deducido por el Tribunal do Cuentas de esta Isla á la del Tesoro de dicha Administración subalterna de Remedios correspondiente al mes de Agosto de 1879, en la inteligencia que de no presentarse les parará el perjuicio que haya Jugar.
+Habana 15 de Julio de 1882.—El Contador general.—P. O,. Ramón Qlcing,	______
+D. Julián Reuio y D. Juan Antonio Cuesta, Administrador é Interventor por sustitución que fueron de la Administración subalterna de Trinidad, sus apoderados ó herederos si hubiesen fallecido, se presentarán en esta Contaduría General, en hora y dia hábil y término do quince, á recojer pliegos de reparos deducidos por el Tribunal de Cuentas de esta Isla á la do operaciones del Tesoro de la referida subalterna do Trinidad, correspondiente al me3 de Agosto do 1879; en la inteligencia que de no presentarse les parará el perjuicio que haya lugar.
+Habana 12 do Julio de 1882.—El Contador general, Jieramendi.
+Núra. 933.—F? 408.
+Convocatoria.—D. Cayetano Jiménez, Administrador que fué de la enfermería Militar del pueblo de Neyba de la Isla de Santo Domingo, su apoderado ó herederos, si hubiere tallecido, se presentarán eu esta oficina, cu hora y dia hábil y término de quince á recojer el pliego de reparos deducidos per el Tribunal de Cuentas del Reino, á la de Gastos Públicos de Guerra por el crédito extraordinario para dicha Isla, correspondiente al mes de Marzo de 1869; en la inteligencia que de no presentarse les parará el perjuicio que haya lugar.
+Habana 30 de Junio de 1882.—El Contador general, Beramendi.
+Sección 3.a—Negociado de Reparos.
+D. Pedro Pon, Interventor que fué de la Colectu ría de Remedios, su apoderado ó heredero si hubiese fallecido,se presentarán en esta Contaduría en hora y dia hábil y término de quilico á recojer un pliego de reparos deducidos por el Tribunal de Cuentas de esta Isla á la del Tesoro de la dicha Administración subalterna de Remedios correspondiente al ines de Agosto de 1879; en la inteligencia que de no presentarse le parará el perjuicio que baya lugar.
+Habana 5 de Julio de 1882.—El Contador general, Beramendi.
+Negociado de Compulsas.
+P. núm. 1481.—Folio 274,
+D. José Mercedes Brajino y García Paredes, empleado que fué de la Administración general de Loterías ó persona que le represente, se servirá presentarse en esta Contaduría general en dia hábil para enterarle de un asunto que le concierne.
+Habana 19 de Julio de 1882.—El Contador general, F¡ aecisoo Beramendi.
+1). núm. 1457.--Fólio 271.
+D. Bernardo Alverich y González, Oficial quinto cesante de la Aduana de Cienfuegos ó persona que le represente, se servirá presentarse en esta Contaduría general en dia hábil, para enterarle de un asunto que le concierne.
+Habana 19 de Julio de 1882.—Beramendi.
+Convocatoria.—I). Vicente María Jerez y D. Raimundo López, Administrador é Interventor respectivos que fueron de la Colecturía de Sagua, sns apoderados ó herederos, si hubiesen fallecido, se presentarán en esta Contaduría General en hora y dia iiábil y término de quince, á recojer pliegos de Reparos deducidos por el Tribunal de Cuentas de esta Isla á la de operaciones del Tesoro
+"--------------t¡tq m: i'4'j truno azor—----------—-
+D, N. Campos, Interventor que fué de la Ordenación general de Pagos de esta Isla ó su apoderado ó herederos si hubiere fallecido, se presentará en esta Contaduría en hora y dia hábil y término de quince á recojer un pliego de reparos deducidos por ei Tribunal de Cuentas del Reino á la del Tesoro da Pinar del Rio de los diez últimos dias del mes de Julio de 1872; en la inteligencia que de no presentarse, le parará el perjuicio que baya lugar, según lo dispuesto en el art. 65 del Reglamento orgánico del citado Tribunal de 8 de Noviembre de 1871.
+Habana 15 de Julio de 1882.—El Coufador genera], F) ancisco Beramendi.
+Núm. 1492.—Fólio 523.
+D. Miguel Novella y Carrascal, Administrador que fué de la Económica de Santiago de Cuba, su apoderado ó herederos si hubiere fallecido, se presentarán en esta Contaduría en hora y dia hábil y término (le quince, á recojer un pliego de repares deducidos por el Tribunal de Cuentas del Reino á la del Tesoro de aquella Admiuistracion, correspondiente al mes de Julio de 1868; en la inteligencia que de no presentarse le parará el perjuicio que haya lugar, según lo prevenido en el art. 65 del Reglamento orgánico del citado Tri- j bunal de 8 de Noviembre de 1871.
+Habana 21 <le Julio de 1882.—Et Contador general, Francisco Beramendi.
+dar principio á los ejercicios públicos de oposiciones á la precitada Cátedra.
+En conformidad á lo prescrito por el articulo 17 del Reglamento expido el presente para su ¡n_ sercion en la “Gaceta” y “Boletín Oficial” de la Provincia así como para lijarse en el sitio de costumbre do esta Real Universidad.
+Habana, Julio 22 de 1882.—El Presidente, Andrés Urreta.
+($E«(JSí»A SECCION.
+Gobierno Civil de la Provincia de Santiaao de Cuba.	a
+Cárceles y Presidios.
+Vacante la plaza de Alcaide de la Cárcel de Baracoa dotada con el haber anual de cuatrocientos ochenta pesos oropel Excmo. Sr. Gobernador de la Provincia se ha servido disponer, se anuncie dicha vacante en la Gaceta oficial para que los aspirantes á la referida plaza presenten en la Secretaría de este Gobierno sus solicitudes (loenmentadas y suscritas por ellos mismos ántes de trascurridos treinta dias desde la primera publicación do este anuncio, á cuyo efecto se insertan á continuación los artículos del Decreto Superior referentes al particular.
+Articulo 3.” Los aspirantes deberán justificar tener treinta y cinco años cumplidos, con la fé de bautismo, el estado de casados con la partida de matrimoñio; la moralidad, buen concepto público y el requisito de no estar procesados, con certificaciones de la autoridad del pueblo de sn residencia; y la circunstancia, en fin, de tener arraigo ó de responder por ellos personas que lo tengan, con los documentos correspondientes.
+Artículo 4.° Trascurrido un mes del primer anuncio, escojerán los Gobcrnadoi-es á los tres aspirantes más acreedores, eu su concepto, á obtener el nombramiento, y elevarán la propuesta al Gobierno General acompañando los expedientes originales de los comprendidos en ella.
+Cuba 14 de Julio de 1882.—El Socretarip de Gobierno. J. M. Bolívar.
+Adinímígtraeion Local do Aduanas,
+Derechos liquidados en el dia de ayer.
+Departamento de muelles.......$ 15033 29
+Idem de almacenes............ 1380 69
+Total............$ 16413 98
+Contraido en ce la fecha.
+Por Importación..,.................-■$ 33074 74
+Idem exportación.................... 364Í	52
+Idem inulta.»............................ 45	...
+Idem derechos do	navegación ........... 1157	76
+Iiem ermisop....................... 234
+Ijem 15 p.§ sobre	bebidas.............. 34	04
+Idem depósito mercantil.........................
+Idem intereses de pagarés....................
+Total.........8 18180 66
+Iiecaudado en esta fecha.
+Por importación.. ................ 8 40901 48
+Idem exportación..................... 3641	12
+Idem multas..........................  151	88
+Idem derechos de	navegación......	1157	76
+I 'ern comisos...............................
+Idem 15 p.9’ sobre beb das........ 1588 08
+Idem depos to mercantil............ ...... ...
+Idem intereses de pagarés.........
+Tota!.............8 47440 32
+Habana 24 de Julio de 1883.—El Contador, Manuel López Gamundi.—Vto. Buo.—Et Administrador, Matos.
+Junta Central Protectora de Libertos.
+Habiendo acudido á este Centro IXa Matilde Inehausti do Fabiau, en solicitud do duplicado del certificado de derecho de patronato, que con el núm. *1286 le fué extendido en 8 de N’ oyiemhtp del año próximo pasado, y el cual sufrió extravío. El Excmo. Sr. Vice-Presidcnte lia tenido por conveniente acceder á su petición, si bien en el concepto de que se publique en la Gaceta oficial para general conocimiento, y á fin de que se declare nulo, y de ningún valor el primitivo documento caso de que pareciese.
+Lo que de orden de S. E. se inserta á los efectos indicados.
+Habana 7 de Julio de 1882.—El Secretario,
+Mariano del Rio,
+Tiibunal de Oposiciones á la Cátedra de Historia de la iglesia, Concilios y Colecciones Canón icas.
+So hace saber á los Sres. opositores á dicha Cátedra que deberán presentarse ei dia diez del próximo Agosto á las seis y media de la tarde en i el Aula Magna del Instituto do la Habana, para
+Junta Provincial de Patronato de la Habana.
+Presidencia.
+• Esta Corporación on su sesión cc-h brada el di» II del ictugl, tuvo á bien acordar t.o declare exento de patronato al patrocinado Doroicgo( cu virtud dp no haber comparecido en el término fijado i-u patrón* D4 Concep'-i n Acosia de De'gado á contestar la reclamación interpuesta; reto quedando s ijoto á los arí.rulog 9« y 16o de la L y do Ato icion viger te.
+Lo que so pub ica por este medio á fin do que las perrouV.s que se consideren perjudicadas con tal re-soluci- n, acudan ante la Secretaría de cita Junta, calle de E niie Irselo i-úra. 32 dentro del termino «e quince dia» contados de; de aquel ea que se publique el pTirntr unen ¡ >, con li g documentos justificativo« á inducir lo» derechos do que se erran rsisti'ios-; on 'a iuteügenC a de que trascurrido dúho término se 1« ixpedtrá de-de mego al ci alo Domingo la corroí« pondiente cédula de libre.
+Habar» Mayo 17 'le 1882.— P, 0.--EI Secre'a-r:o, Amonio Fraachi de Adiare,
+I r: o ándose el domioil o do los herederos de D. R moa S nr.inat ó sus representante11, como arimi-mq del moreno Vicente Lucumí, so les notifica por medio del presente anuncio que esta Co-'j oraoic-n en sesión co i brada > 1 di - 11 del arica! tuvo á bien de-c'arar á esto último exento do patronato, por hellat-se abandonado y srr mayor de sesenta uñes, disp1-i ié idoso en su oo isecm ncia se le provea de eedu a de libro con suj-.cion á lo pr sjiíío en les artículo: 9o y 10«? de la L',y de Abo icion vgmte.
+Hataca Mayo 22 de 1882.- P. O.—E! Secretario, Antonio Frutuhi do A loro.
+Eua Cmporac'tn en tu cesión celebrada el dia 25 del actúa1, tuvo á bien acordarse declaro exenta de patrorato á 'a pstiOc nada Dolores, en virtud de uo haber eomp reo-do £u pa'.ronaD? Emilia Cncnari en e! término fijado á comprcbiu hubri satirfoibo el exttpendio que marea la Ley; pero quedando sujeta á los artículos 9ó y 16? de la misma Ley.
+Lo que re pub ña por este medio á ño da que l&s p r.-< mí que se c n-ideren j erjudicudas con tal ro solución oí mparezeaft en a Secretaria de esta Junta • ado d» Empairado rúo?. 32 dentro del término de
+quince dia» contados; desdo aquel en que se pub ique «. primer a u-icto, cea les documentos justificativos del ca o á deducir le» de e:hoí de que se crean asis> ridut; en la inteligencia de que trascurrido el térmico fijado sin presentarte peisona alguna seles expedí' rá desdo lucg > la oorrcfpondiente cédula á la antes menciot a -a D >hrea.
+Habana M yj 30 de I882.-P. O.—E. Secretario, Antonio Francia de A faro.
+Esta Corporación en su sesión celebrada el dia 25 de Mayo próximo pasado, tuvo á bien acordar se declare exenta de patronato á la patrocinada Nicolasa, á
+_	.1 VAc Amina Vasa bm a« . »i-I J „ i.-* ..	_i ..a
