@@ -1,0 +1,915 @@
+﻿Material.
+
+29
+30
+31
+32
+33
+34
+35
+36
+'37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60 61 62 03
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74 35
+76
+77
+78
+79
+80 ,31 82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99 100 101
+D. I. Alvarez, comandancia de Holguin... ... M. Vargas, Maestranza de Artillería...
+Id	id.	id. ....
+... J. Santa María, subsistencias militares.
+166 66 10560 .... 5700 ... 100000 ...
+Libramientos cuyo señalamiento se repite por no haberse presen tado.los interesados á su cobro.
+D. J. Santa María, subsistencias ... G. Ruiz,	id.
+... L. Mejía,	id.
+120
+100
+50
+Marina.—Setiembre.
+D. F. Rosique, fragata «Almansa»...
+... L. Berdellans, aviso «Jorge Juan».
+Id.
+Id.
+Id.
+Id.
+Id.
+Id.
+Id.
+id.
+id.
+id.
+id.
+id.
+vapor «Churruca»..
+id. «Borjai.............
+«Blasco Garay»......
+«Bazan»............
+«Hernán Cortés».....
+«León»..............
+«Blasco Garay».....
+A. M. Pol, ponton «Guadiana»............
+R. Jimenez, aviso «Fernando el Católico». Id. id.	id.
+I. Bocio, cañoneros del puerto.........
+N. Balboa, estación naval de Nuevita9...
+Id.	id.	id.......
+A. M. Alvarez, idem de Gibara..... .....
+Contratistas de servicios por guerra y marina.
+D. Ramón Herrera, Trasportes militares por Julio y Agosto....
+Id.	id. ia. por id................................
+Id	id. id. por id................................
+I). F. G. Rey, limpieza de edificios...............................
+Id.	id.	............ ..................
+... F. Dorta, suministro de galleta y pan á marina por Agosto. ... A. López y O'1?, subvención de correos por Julio.’..............
+Devoluciones de ingresos indebidos.
+B. B. E.
+13564	98
+4754	32
+52	16
+4224	58
+849	49
+3191	. ,
+1513	75
+1814	12
+3916	56
+1723	32
+3515	95
+3421	02
+6955	52
+9673	62
+315	81
+6783	45
+10000	
+5977	54
+768	70
+140	
+28«	
+5401	36
+40000	...
+ORO	
+D. Hipólito Arbier................
+Sres. Navarro Washington y C?.....
+... Heydrich y C“.................
+D. Juan E. Chumbet ................
+... J. B.Ilaasse..................
+Sr. Conde de Mous....... ........
+D. Sebastian Puig.................
+... Eduardo Lapuente...............
+D? Dolores Rufin...................
+D. Ignacio Vargas......... ..... ..
+Sra. Viuda de Castro..............
+D. Pedro Mirallcs..................
+... José M. Otuegui...............
+D? Josefa Quintero................
+D. Antonio García Rebollo.........
+... José M. Mora..................
+.., Rafael Garcia.................
+Dá Juliana Jenes..................
+D. Juan Zumalacárregui............
+Da Victoria Roig ...............
+D. Lorenzo Gómez...................
+... Pedro Lamberto Fernandez......
+Sres. Vidal y Toraya..............
+... Zulheta y Sobrino!.'.........
+Ferro-carril de Matánzas , .. .....
+D. Pedro Sánchez üolz......... .....
+Plana y Estrada...................
+Ferro-carril de Caibarien.........
+D. José Francisco Rodríguez y otros.
+Da Josefa M. Cuesta ...........;...
+Sres, Zulueta y Sobrino...........
+... Gumá Hermanos................
+... líodriguez y Hermano .........
+... Zulueta y Sobrino.............
+D. Manuel Suria........ ..........
+Sres. Moré, Ajuria y comp.........
+D. José Aranda....................
+... Antonio G. de la Puente.......
+... Galan, Cuesta y oomp..........
+D. J. W. Wolf....................
+Sres. Brown y comp................
+... Mera, Oña y comp.............
+D. José Bruzon (pagaré) ..... ......
+26 12
+25 21 5439 50 104 ... 33 90
+64 37 246 18
+34 10
+104 50 220 90
+79 50 105 80 57 28 799 26
+242 22
+81 93 77 09 107
+25 60
+50 66
+Haberes de n a v egaci oÿ y empleados cesantes.
+14 34 91 80 9 75 77 50 225 ... 237 50
+476 50 60 .... 717 90 147 43 329 05 126 65 454 43 482 43 20 60 354 30 149 50 189 13 974 15 117 40 546 48 29 83 100 ... 46 26 65 60 742 50 42 50 20654 40
+102
+103
+104
+105
+106
+107
+108 109
+no
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120 121 122
+123
+124
+125
+126
+127
+128
+129
+130
+131
+D. Mariano Canencia.....................
+El mismo.............................
+D. Gregorio Gago.........................
+El mismo..............................
+El mismo..............................
+D. José Gabriel Rodríguez................
+D. Manuel Lianes............... ....... ....
+... Tomás Valla..........................
+... José María Madariaga................
+... Juan Embil... . .....................
+... Rafael de la Bastida................
+... M. Calvo y Cá, (pasajes de empleados).
+... Sergio Suarez....................
+... José Maria Jorro....................
+... Benito A. Alvarez...................
+... Miguel Setien........................
+... Salvador Casas......................
+... Ignacio Alonso..............;.......
+... Domingo Perez.......................
+... José Pulpeiro........................
+... Bernardo Garcia......................
+... Felipe Vázquez.......................
+... Manuel del Rey......................
+... Francisco Simó.......................
+... Cayetano Torres.....................
+... Santiago Diaz................. ......
+... Ernesto Sardifia.....................
+... Atanasio León........................
+... Víctor de la Red.....................
+D? Dolores Martin....,.....;..... .
+133 c-~i3á 135 136	D. Vicente Estenoz			
+	El mismo	 ... Andrés Mayno	 ... José Reyes			
+lo7 138	... Benito Moreira	 ... José Pujoís			
+139	... Juan Medir				
+130 141	... Isidro Fernandez				 ... Ricardo Gaston						
+142	... Antonio Lori			
+143	... Eulogio Feito			
+144	Sra, viuda de Guzman	 			
+145	Da Cándida Suarez (por su hijo) ..		
+		Fianzas.	
+146
+147
+(148
+149
+150
+D. Francisco Diaz, ds acopio de piedra.............................................Bonos.
+... Ciríaco Garcia, Guarda Almacén de la Aduana...  ............................... Oro.
+El mismo........ ..............................................”'Bonos!
+... Miguel Estéban, contratista de machaqueo de piedra..............................Oro.
+... Manuel Mufiiz, contratista de consumo de ganado, Isla de Pinos..'.'..!'...... .'.Bonos
+Al mismo de idem Alacranes..................................................!...Bonos
+1187 50 540 50 142 50 142 50 10 29 657 08 33 05 62 21
+35	... 62 50 32 22
+308 .. 101 59 305 54 199 98 79 17 59 10 104 50 237 50 226 50 118 75 237 50 142 50 152 ... 514 57 166 25 142 50 126 77 274 44 26 39 26 40 55 43 55 43 142 50 237 51 125 ... 1306 ... 416 65 -169 50 208 30
+36	... 360 ...
+1250 ... 129 75
+1000
+22
+2000
+225
+500
+1000
+Excmo. Ayuntamiento.
+Secretaría.
+Acordado por el Exorno. Ayuntamiento se saque de nuevo á pública licitación el remate del arbitrio «Caballos de lujo,» sirviendo do tipo la proposición hecha por D. Manuel Yillarnovo, de cinco mil trescientos pesos oro, ti Sr. Alcalde Municipal, Presidente, ha señalado, para que tenga efecto el acto, el dia 24 del actual, á las dos de la tarde, en la Sala Capitular, auto la cemision respectiva., con estricta sujeción al pliego de condiciones que se inseria á continuación.
+Y de órden de su señoría se publica para general conocimiento.
+H ,baña Diciembre 15 de 1879.—El Secretario interino, Rafael de Aragón.
+interesarse en dicha subasta.
+Pliego de condiciones para el remato del arbitrio
+de «Caballos de uso particular» en ol año económico do 1879 á 80.
+Arlíoulo 1. ° C-msislo este arbitrio en la cuota que deben abonar lodos los dueños de cuba'leríat destinadas al uso particular; ya sean do tiro ó de silla que andan en esta C-udad y partidos de su ju risdicciou, con arreglo al Reglamento acordado por el Exorno. Ayuntamiento en 19 do Agosto de 1869.
+Art. 2. ° La cuota ti que se refiero el art, an terior es la de seis pesos oro por cada bestia, la cna1 se abonará por semas're9 adelantados.
+Art. 3. ° Están exceptuados do este arbitrñ según io dispuesto en el citado Reglamento, las bes lias destinadas a! servicio de Ia3 fincas rurales, las arrias, tas que forman parto de dotaciones de ten el de carretones y carros y las que pertenezcan á individuo« filiados en institutos militares ú otros qm les obligue a ser plazas montadas, así como tam bien las del Exorno. Sr. Gobernador Genere.l y Ca pitan (jionotal.
+Art. 4. ° El cobro del arbitrio se hará en lai oficinas del rematador, debiendo aquel enunciar oportunamente ios días y horas que dedica á la cobranza y el punto donde ha de verificarse, pudiendo taiubien cobrar ¡i domic lio si así lo conviniere, en cuyo caso pondrá en conocimiento del limo. Sr. Alcalde municipal las personas que elija para cobradores, á fin de que por 9. S. I. se les expidan los correspondientes nombra miento?.
+Art. 5 o Kn el caso de no hacerse por el due ño de la bestia el pego del arbitrio, el contratista pasará el oportuno aviso al Inspector de policía del distrito donde resida el deudor, y dicho funcionario hrrá que sea conducido el animal al corral de concejo, donde pasado el plazo de la ley será rematado si aun no se hubiese tibouado el arbitrio.
+Art. (5. ° Del precio de la subasta deducirá el rematado!' el importo dei arbitrio y los derechos y es'-ancuis devengadas en el corral, devolviendo el remanente si lo hubiere al du< ño de la bestia.
+Art. 7.9 El contratista cobrará el aibitri* precedente con recibos impresos talonarios segur los modelos que se les darán, y ánles de principia! la'Cobranza, los p ementará on la Secretaría á fin de que sean sella ios y de que en las primeras fojas de dichos libros certifique el Seorttuio el número de recibos que contiene. Estos libros deberán ser en t,regidos en la Contaduría municipal por el rematador al finalizar ol remate, sin cuyo nquisitono h será dovuelU la fianza que baya otorgado.
+Art. 8. ° El t po pura verificar el remate ec ol do cinco mil trescientos pesos oro anuales y no se admitirá proposición que no llegue á dicha suma.
+Art. 9. ® Para ser poslor se requiere el depósito previo en la Caja municipal do la cantidad de ochocientos pesos en efectivo ó en bonos del Excelentísimo Ayuntamiento, con la cual responde e1 postor al sostenimiento do las condiciones del remate, devolviéndose dicho depósito inmediatamente después de verificada la subasta á los que no resultaren rematudore«. Al que resulte serlo laseia devuelta lan luego haya otorgado la fianza que previene ol art. siguiente.
+Art. 10. El rematador del arbitrio otorgará dentro de los 15 dia» siguientes al remate, fianza depositada en efectivo ó en bonos del Exorno. Aj untamiento ó acciones del Banco Español por su valor nomina', de la cantidad de mil quinientos peso* oro, ó hipotecaria por el duplo para responder a! importe del remato.
+Art. 11. Es condición precisa que el contratista habrá le pagar el importe de la subasta por trimestres adelantados; en el concepto de que á falta do pago de cualquiera de elles, autoriza á la Cer-poraoion á poner el aibitrio en r-dministraciun por cuenta y riesgo del rematador, sin perjuicio de cobrarle por la vía de apremio los plazos vencidos.
+La especie en que deberá hacer el aboco será la misma en que cobre á los contribuyentes el aibitrio.
+Art. 12. Por ningún motivo ni aun por casos fortuitos, podrá el rematador pedir quita, rescisión ó rebaja de la cantidad ofrecida ni indemnización do perjuicios por causas previstas ó no previstas, Tampoco se exijirá al rematador por parte del Exce. lentísimo Ayuntamiento mayor precio que el estipulado en el remate, cualquiera que sea el número de bestias que puedan aumentarse durante el térra: no do ia contraía.
+Art. 13. Cuantas cuestiones se susciten, asi entre el rematador y los particulares como entre aquel y el Ayuntamiento, sobro el cumplimiento
+Adiniuistr cion Principal de Santerías.
+Números premiados en el sorteo extraordinario jn? 1051, cuyo acto se ha celebrado boy 23 de Diciembre de 1879.
+Depósitos.
+151 D. José Soroa, depósito en autos de D. Leocadio y D. Joaquín Arredondo........Oro.	250 ...
+152 ... Cárlos Medina, autos de D. Manuel Arce y D. Francisco Fernandez...,!..'.'.'...* Id.	1000 !!!
+153	Escribano D. B. Suarez, causa contra Perez Resalta......................Billetes.	18 37
+154	D. Agustín Valerio, testamentaría de D. Manuel Puig y Perez... .	...Oro! ~ 938
+Las cantidades señaladas en la relación precedente serán satisfechas en el órden siguiente-
+El Viernes 26.—Del n? 2 al 28 inclusive.-
+El Sábado 27.—Del n9 29 al 51 id.
+El Lunes 29.—Del n9 52 al 58 id.
+El Martes 30.—Del n? 59 al 101 id.
+El Miércoles 31. Las restantes y las que por cualquier causa no hubiesen presentado para su cobro los interesados en el día respectivo.
+NO l A. El Excmo. Sr. Director General, ruega á los interesados y al público en general, que si advierten algún error o nregulandad en los señalamientos ó en los pagos, lo pongan al instante en su conocimiento, podiendo además, si gustan, tomar cuantos antecedentes deseen acerca de las condiciones y fechas de los pagos que se efectúen.
+OTRA.—De órden del Excmo. Sr. Director General de Hacienda se suplica á los señores habilitados que cobren por el ramo de Guerra, presenten en la Ordenación de Pagos los talones correspondientes á los libramientos que en la semana deban hacer efectivos precisamente el lúnes, para que con la debida anticipación puedan efectuarse la» operaciones^ necesarras, haciendo presente que los que teniendo asignado algún pago de cualquiera naturaleza y no se hubiesen presentado para su cobro eu el dia respectivo, perderán el derecho? precediéndose a un nuevo señalamiento.	r
+GI RA.—Todos los pagos señalada en la relación precedente á excepción del marcado con el número 1 serán sa isfeehos en Billetes del Banco Español al tipo de la cotización oficial de] Colegio de Corredores de esta plaza del día anterior al designado para el pago.	°
+Habana Diciembre 23 de 1879.-E1 Ordenador General Je Pagos, José J. Bolívar.
+_ , Ns. Premds. Pesos.	
+Centena.	
+8		 1000
+17..		1000
+84.		 1000
+137		1000
+146,		1000
+174.		1000
+207.		1001
+304.		1001
+372		1001
+374.		 1001
+425		1001
+451.		1001
+481.		1001
+516		1001
+519.		1001
+536.		1001
+566.		100C
+587.		100(
+606.		loot
+607.		100'
+626.		 1000
+627		1001
+651		1000
+662.		1000
+706		 1000
+717		1000
+811.		1000
+854		1000,
+943.		1000'
+950		1000
+984.		1000
+Un m«.	
+Ns.
+Premds.
+Pesos.
+Ns.
+Premds.
+Pesos.
+.1000 .1000 .1000 .1000 .1000 .1000 ..1000 .1000 ,.1000 .5000 „1000 ,.1000 5974........1000
+5331.....
+5347 ....
+5356-....
+5404r....
+5636 ....
+5712.....
+5777.....
+5835.....
+5848	....
+5849	....
+J5894.....
+5935.....
+Seis mil.
+1002.
+Encontrándose depositados en el almacén de averías desde ei 8 de Noviembre del año próximo pasado, 24 atados arcos de madera y nueve piezas de lo mismo, descargado por el vapor americano «Caron-delet,» procedente do New York, é i inorándose á quien pertenezcan los expresados efeoto?, so convoca al dueño ó consignatario de los mismos, para que dentro de quiDto dia se presenten en esta Administración á deducir sus derechos, en la inteligencia qne de no verificarlo so procederá á deolarar sa abandono y remate en pública subasta.
+Habana Diciembro 19 de 1879.—C. Barca.
+,1000¡
+.10001
+por ol limo. Sr. Alcalde municipal, quedando á salvo á los interesados los recursos que marea la Ley.
+Art. 14. Las proposiciones se harán en pin gos c ’n ados con arreglo al modelo que se pone a! final, los cuales entregarán á ia Gomisicn que piesi-da el acto, el dia do la subasto, acompañado del re -cibo de depósito. Abiertos que sean los pliegos el dia- y hera señalados pata la subasto, se adjudicará esia á favor do !a proposición que resulte más beneficiosa: solo en el caso que se adviertan dos ó más vontajesas iguales se admitirán pujas á la llana entro los autores do ellas por espacio de 15 minutos, y pasado este téimino se adjudicará al que hubiera hecho la última pt oposición.
+Art. 15. El rematador queda obligado á indemnizar el papel sellado que baya debido emplearse para el acta del remate y demás diligencias pos tenores hasta pouerlo en posesión do él, así oomo también todos los gastos de publicación que se originen y el medio por ciento al Estado como contralista municipal. También abonará los gastos de escritura do contrato que ha de otorgarse.
+Modelo do proposición.
+D. N...........vecino de.....entecado de li s
+anuncios publicados on la Gaoeta oficial, con fecha do....y de los requisitos y condiciones que se exi-
+jan para adjudicarse el remate del arbitrio establecido sobre caballerías, se compromete tomarlo ú su
+cargo por la cantidad de... (aquí pondrá en letra
+el propio que ofrezca.)
+Fecha y firma del interesado.
+Y de órden de su Sría., se publica para general conocimiento.
+Habana Diciembre 15 de 1879.—-Ei Secretario interino, Rafael de Aragón.
+Administración ¡bocal ds Aduanas.
+El miércoles 24 del actual á las doce de su mañano, so rematarán en los almacenes de esta Aduana, siete cartones con 42 piezas de encajes de seda caídos en pena de comiso por resultar de exceso al despachar ia h'ja 6,742 del vipor español «Serra», retasados últimamente en 79 pesos oro, llenándose en el acto las formalidades prevenidas.
+Habana D eiombre 19 de 1879. — C. Barca.
+1024		...1000
+1133		
+1156.....	...IODO
+1176		..10000
+1235		...1000
+1246		.,1000
+1359		...1000
+1387		...tooo
+1403		...10001
+1478 ....	...1000:
+1533 ....	...looo
+1543		...lOOOj
+1668		...1000'
+1670 ....	...IOOO
+1679 ....	...1000
+1692 ....	.. 1000
+1718 .	...loool-
+1732 ....	.. ..íooo!
+1792		..1000
+1810		....1000
+1861		....1000
+1901... .	...10000
+1913		....1000
+1919 ....	... 1000
+1951		....1000
+Dos mil.	
+2012....	....1000
+2170....	... 1000
+2224....	...1000
+2269....	....1000
+2271....	....1000
+2301....	....1000
+2303 ...	...1000
+2322....	....1000
+2343....	....1000
+2349....	....1000
+2371....	....1000
+2372....	
+2394 ...	....1000
+2398....	....1000
+2407 ...	....1000
+2511....		1000
+2611....	....IOOO
+2761 ...	...1000
+2763....	.... 1000
+2776....		1000
+2824....		1000
+2977....	....1000
+Tres mil.	
+3022....		1000
+3038....		1000
+3039 ...		íooo
+3053....		1000
+3059....		1000
+3137..,.		1000
+3151....		1000
+3181....	.....íooo
+3187 . .		1000
+3219....		1000
+3289....	
+3317...		1000
+3342....		1000
+3371....		1000
+3387....		1000
+3397....		1000
+3453....		íooo
+6050..... 1000
+6070 ......1000
+6098 ......1000
+6127......1000
+6158......1000
+6161.......1000
+6175...... 1000
+6186......1000
+6238 ......1000
+6245.......1000
+6288......1000
+6292.......1000
+6294 ......1000
+6322......25000
+6377......1000
+6385.......1000
+6390..... 1000
+6455.......1000
+6459..... 1000
+6476......1000
+6508......10000
+6569	.....1000
+6570	.....1000
+6619......1000
+6634......1000
+6646.....10000
+6693 .....1000
+6706......1000
+6737...... 1000
+6743.......1000
+6758......1000
+6782 ..... 5000
+6790 .... 1000
+6833......1000
+11016.......1000
+11025 ......1000
+11039.......1000
+11059.......1000
+11103 ......1000
+11117...... 1000
+11127......„10Ö0
+11209.......1000
+11231 ......1000
+11234 ......1000
+11269...... 1000
+11290...... 1000
+11344.......1000
+11377.......1000
+11385...... 1000
+11405.......1000
+11411.......1000
+11425.......1000
+11432 ......1000
+11523 ......1000
+11569.......1000
+11623 .... 1000
+11643.......1000
+11711 ..... 1000
+11763.......1000
+11810.......1000
+11848.......1000
+11861.......1000
+11883 ..... 1000
+11921.......1000
+11988 .... 1000
+11998.......1000
+6926
+6954
+1000
+1000
+Siete mil.
+7079....	..500000
+7098...		1000
+7108...		1000
+7144...		1000
+7145...		1000
+7172..		1000
+7184...		1000
+7196 ..	.... 1000
+7240...		1000
+7271...		1000
+7280...	... íooo
+7371...		1000
+7377 .		 1000
+7399...		10000
+7400...		1000
+7509...		5000
+7547...	
+7676...		1000
+7678. -	.... 1000
+7761...		1000
+7784...		1000
+7796..		1000
+7829..		1000
+7941..		1000
+7967..		1000
+Ocho mil.	
+8042..		1000
+8062 .		1000
+8091..		1000
+8144..		1C00
+8168..		1000
+8193..	......1000
+8232 .		1000
+8264..		1000
+8386..		1000
+8408..		1000
+8447..		1000
+8000 •		1000
+8621..		ioooo
+8647..		1000
+8667..		1000
+8685..		1000
+8737..		1000
+8748..		1000
+8766..		1000
+8827..		1000
+8830..		1000
+8936..		1000
+8949..		1001]
+8963..		1000
+Ns-	Premds.
+Pesos.	
+16612		1000
+16653 .		1000
+16668..		 1000
+16692..		1000
+16771.		1000
+1G809		1000
+16825...		1000
+16839..		1000
+16849		1000
+16871.		1000
+16906		1000
+16980.		10000
+Diez y	siete mil-
+17021.		1000
+17108.		1000
+Ns. Premds. Pesos,		N s. Premds. Pesos.	
+17131		....1000	17639..		 1000
+17226		...1000	17655..		1000
+17235 ....	...1000	17659..		1000
+17240		....1000	17681..		1000
+17253		... 1000	17687.		 1000
+17315		... 1000	17694.		1000
+17321		....1000	17704.		1000
+17357....	....1000	17705.		1000
+17360.. .	....1000	17733.	
+17446....	... 1000	17785		1000
+17487....	....1000	17802.		1000
+17542....	....1000	17845		1000
+17548....	....1000	17874.		1000
+17563...	.. 1000	17875		 1000
+17582...		1000	17947.		1000
+17591....		1000	17963	
+17596....		IOOO		
+Aproximaciones a los 9 números restantes de la decena que han obtenido los dos primeros premios, y á los números anterior y posterior al tercer premio. Al de 500,000 pesos.
+7071...	...2000	7074...	...2000	7077...	...1000
+7072...	...2000	7075...	...2000	7078...	...1000
+7073...	...2000	7076...	...2000	7080...	...1000
+		Al de 100,000 pesos.			
+9951...	...1000	9954...	...1000	9958...	...1000
+9952...	...1000	9955...	...1000	9959...	
+9953...	...1000	9956...	...1000	9960...	...1000
+Nueve mil.
+3471.
+3479.
+,1000' 9074 ,1000- 9134
+3505 ..... 10001	9182
+3522........lOOQj 9188
+3603 ..... 1000'
+3630 ......100o;
+3662 ..... 1000'
+3681.......1000,
+3694.......1000:
+3717 ......1000^
+3727.......1000-
+3804........1000
+3936........1000
+3956........1000
+3972........1000
+3986........1000
+Cuatro mil.
+4015 ...	.... 1000
+4022 ...	.... íooo;
+4080...	.....íooo;
+4097-...	. ...5000
+4104....		IOOO.
+4157...		1000,
+4165....		íooo;
+4184...		íooo;
+4226...		1000:
+4281...		100Û1
+-4314-.	.....1000!
+4342...		1000
+4365...		íooo!
+4430...	.... íooo;
+4450..		íooo'
+4511...	
+4520...	....1000
+4538...		1000'
+4606...		1000
+4618...		1000
+4629 ..		1000
+4647...		1000
+4660 - •		 1000
+4702 ..		1000
+4703...		1000
+4712...	.. ...1000
+4752...		1000
+4781...		1000
+4811...		1000
+4880...		1000
+"4914...		1000
+4983...		1000
+4984..	.....1000
+Cinco mil.	
+5016...		1000
+5044...		1000
+5080...		1000
+5102 ••		5000
+5196...		5000
+5234...		1000
+9191
+9192..
+9245..
+9278..
+9313..
+9338..
+9348..
+9390..
+9445..
+9457.. 9511 .
+9530..
+9531..
+9558.. 9584 .
+9619..
+9728..
+9734..
+9815..
+9935.
+9957.
+Diez mil.
+10423.
+10471 .....
+10495...... 1000
+10497......
+10506......
+10514......
+10521.......1000
+10562.......1000
+10585.......1000
+10617.......1000
+10718......,1000
+10788.......JO00
+10807.......1000
+10971...... 1000
+Doce mil. d	
+12024. ...	....1000 8
+12072		....íooo 8
+12122		....1000 \
+12131		....1000 2
+12136....	. ..íooo
+12139....	....íooo i
+12140		....5000 c0
+12149		....íooo 8
+12160		..50000
+12179 ...	....1000 9
+12232....	....1000 1
+12284....	....1000
+12346 ...	... 5000 1
+12460....	....1000 1
+12491....	....1000 1
+12520....	....1000 1
+12573....	....1000 ,
+12575....	....1000 1
+12648....	....1000
+12673....	....1000
+12715....		1000
+12724....	....1000
+12753....	....1000
+12757 ...		1000
+12793....		1000
+12802....	....1000
+12813 ...		1000
+12851....		1000
+12878...	....10000
+12890....	
+12902....		1000
+12906. ..	....1000
+12920....		1000
+12974...		1000
+12990...		1000
+Trece mil.	
+13003...	.... 1000
+13019...		1000
+13032...		1000
+13038...	.... 1000
+13059...		1000
+13147...		1000
+13253...		1000
+13353...		1000
+13380 ..		1000
+13410...	.... 1000
+13445 ..	.... íooo
+13475...		1000
+13540...		1000
+13565...		1000
+13589 ..		1000
+13620...	... .1000
+13630...		1000
+13787..	....10000
+13805...	.....1000
+13812 .,		1000
+13931...		1000
+13942...	
+13954...		1000
+Catorce mil.	
+' 14011...		1000
+14030...		1000
+14111...		 1000
+14166...		1000
+14189 ..		1000
+14195...		íooo
+14199 ..		1000
+14200...		1000
+14236...		 1000
+14351...		1000
+14355...		1000
+14456...		1000
+14478...		11)00
+14489. .		1000
+14490...		1000
+14511...		1000
+14719...		1000
+14722...		1000
+14727...		1000
+14846...		1000
+14848...		1000
+14889 ..		1000
+14901...		1000
+14937...		1000
+14939...		 1000
+14962 ..		1000
+14975...		íooo
+14996...		1000
+Quince mil.	
+15053...		5000
+1 15107.,;		1000
+15111...		1000
+15179...		1000
+> 15195...		1000
+> J5237...		1000
+> 15239...		1000
+15276...		1000
+\\ 15377...		1000
+i 15447..		5000
+i 15485..		1000
+n 15518 .		1000
+n 15533..		1000
+n 15561..		1000
+n 15602..		1000
+n 15640..		1000
+n 15670..		1000
+n 15678 .		1000
+« 15681..		1000
+0 15696..		1000
+n 15740..		1000
+« 15892..		1000
+n 15895..		1000
+n 15944..		1000
+15974..	
+n 15977..		1000
+J 15999..		1000
+0 r\- ^ L)íez y	seis mil.
+Al de 50.000 pesos.
+12159.....1000	12161....1000
+Desde el Viérnes 26 del corriente de 7 á 10 déla mañana, so satisfarán por Jas Administraciones pagadurías que ácontinuación so expresan, los promios do 1,000 pesos exceptuando las aproximaciones leí premio mayor y de los billetes que hayan sido expendidos por las foráneas; advirtiendo que dichas Pagadurías suspenderán sus pagos al público dos días hábiles antes dol en que haya do oolebrnrso ol sorteo inmediato, en cuyo tiempo han de practicar sus operaciones en esta Principal.
+14 Admon. del nV idem, idem, idem, idem, idem.
+1 al
+1,385 al 2,769 al 4,153 al 5,537 al 6,921 al
+idem.
+il )) „
+8,305
+9,689
+11,073
+12,457
+13,841
+15,225
+ni
+al
+al
+al
+al
+al
+18 idem.
+16,607 al
+1384-..Morcadores 12.
+2.768..	.Tto Roy n9 59.
+4152..	.Tte. Rey n. 16.
+5.536..	..Angeles n? 3è
+6.920..	. Salud núm. 2.
+8.304..	. Galiano nùmero 100.
+9,688...Villegas 61. 11,072 Teniente Rey esqá á San Ignacio 12,456 S. Nicolás 140 13,840 Galiano 59. 15,224 S. Nicolás 1404 16,606 Salud esquina á Galiano. 18,000 S. Miguel 98
+Steal Sociedad Económica do la H baña.
+Secretaría general.
+El dia 27 del actual á la 10 do la mañana y en
+promisarios de la misma en union do los elegidos per las de Puerto-Rico y Cuba para nombrar ol Senador quo les corresponde con arreglo á la legislación do la materia.
+Y do órden del Excmo. Sr. Director, lo hago público en la Gaceta oficial para que llegue á concento de los aludidos Sres. Compromisario?. Habana Diciembro 23 de 1879.—El Secretario general, Dr. Francisco Morales Lopez.
+Once mil,
+11007......1000
+Casa general do enajenados do la Isla do Cuba.
+Junta Económica.— Secretaría.
+No habiendo tenido efecto la ouarla subasta de artículos para alimentos de las enfermerías de este Asilo por falta do licitadon s, esta Junta Económica acordó proponer al Excmo. Sr. Gobernador General el cual so sirvió aprobarlo por acuerdo do seis del actual el aumento do los precios en el órden siguiente:
+ORO.
+1
+10
+55
+50
+15
+Gallinas de peso do tres libras........	$
+Pollos do idem do una y media.............
+Huevos la docena..........................
+Botel'a do leche de 725 mililitros........
+•»*> na	... Ü
+Lo que se anuncia para general conocimiento y para que los que pretendan hacer proposición á este suministro, puedan enterarse del pliego do condiciones publicado eo la Gaceta del 19 de Agosto último, y en el expediento quo obra en la Secretaria de osta Junta, advirtiéndoles que para la cel<-bracion del acto do subasta se señala el dia 31 del corriente á las nueve do su mañana en las Oficinas de esto Asilo.
+Ferro 16 de Diciembro de 1879.-—El Secretario de la Junta Eoonómiaa, Faustino Canel y Romaelle.
+TERCERA SECCION.
+Mayoría general del Apostadero de la Habana.
+D. Emilio Sería Granior y Blanco, Comandante do Ejército, Teniente de navio de la Armada y Fiscal de una sumaria.
+Por este mi segundo odíelo, cito, llamo y emplazo al marinero de 2?, c'ase, José Guñalon García, de la dotación de la fragata de guerra «A'mansa,» acusado do segunda deserción, para que en el término do veinte dias, á contar desdo el de la publicación do esto edicto, so presente en esta Cemision Fiscal, sita en el Arsenal de esta Capital, á responder á los caigos que contra él recaen en la sumaria, bien entendido que do verificarlo se le administrará justicia.
+Real Arsenal 20de Diciembro do 1878.—Emilio Serís.
+Queda nula y sin ningún valor la célula do inscripción que se expidió en la Comandancia de Marina del Ferrol á Ángel Doconto y Garrido, hijo de Ramón, natural do Comes, inscrito al fól:o 291 de 1850.
+Habana 20 de Diciembro do 1879.—Juan M. Butlcr.
+16020 .....1000
+16035......1000
+16096.......1000
+16114.......1000
+16176.......1000
+16227,......1000
+16309 ......1000
+16355.......1000
+16418.......1000
+16420.......1000
+16498.......1000
+Comandancia General del distrito de la Habana y Gobierno Militar de, la Plaza.
+Fiscalía Militar de la Habana.
+D. Fructuoso Martínez y Martínez, Teniente Coro-n el graduado, Comandante de Iníantoria y Fiscal Militar do esta Plaza.
+Ignorándose ol actual domicilio dol paisano D. Pablo Hernández Febles, quo según datos habitúen la callo do Virtudes número 44 y on la de Figuras, siendo necesaria su presentación en esta Fiscalía; Príncipe Alfonso núm. 10, en virtud de las facultades, que conceden las Rea'es Ordenanzas do S. M-, lo cito, por esto primer llamamiento, para su presentación on aquella á la mayor brevodad posible, con el objeto de evacuar un asunto de juit’oia.
+Habana Diciembre 17 de 1879.—Fructuoso Mar' tinez y Martínez.— Por su mandato.—El Comandante Capitán Secretario, Leopoldo Romance Valor.
+Don Miguel Martínez Peulo, Comandante graduado Capitán de Infantería y Fiscal de la Comisión General Liquidadora.
+En el expediente inventario que so sigue en esta
+Fiscalía por defunción del Alférez del Batallón Cazadores de Colon número 29, D. Cárb s Berenguer Murtinez, hijo de D. C -ríos y de D4 Carmen, nacido en la Habana el 8 de Diciembro de 1851 y fallecido abintestato en Matanzas el 22 de Noviembre oo 1876, se interesa ol comparendo de los que siendo parientes del finado so consideren parte en dicha les-te montana. Y á fin de que mi solicitud fiscal llegue ¿noticias de ¡os interesados se publica su situación por medio de este tercer edicto, señalando como pon-

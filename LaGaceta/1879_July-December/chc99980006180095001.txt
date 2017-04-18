@@ -1,0 +1,866 @@
+﻿Administración Principal de Loterías.
+r*.
+Números premiados en el sorteo ordinario número 1042, cuyo acto se ha celebrado hoy 26 de Julio do 1879.
+Ns.
+Premds.
+Pesos.
+Centena.
+Ns.
+4 .
+20.
+95...		1000
+106	
+127....	
+136....		500
+237			500
+295 ....		500
+316....		500
+360 ...		500
+464			500
+482			500
+503			500
+505 ....		500
+553 ....		500
+591		....1000
+593...		500
+619			500
+645			500
+665 ....	
+759			500
+764 ....		500
+771			500
+836 ...	....1000
+846 .„		500
+964 ....		500
+996			500
+Un mil.	
+1000		
+1034			500
+1073			500
+1096		
+mi		
+1147			500
+1166			500
+1188			500
+1294 ....	
+1334...	...5000
+1338			500
+1355			500
+1384		
+1385		
+1429			500
+1460			500
+1481			500
+1483			500
+1541			500
+1559			500
+1613...	..1000
+1675 ....		500
+1678			500
+1700			500
+1733		....1000
+1744 ....		500
+1753			500
+1765		
+1771		....1000
+1804		
+1826		
+1834			500
+1839 ....	
+1866		...1000
+1908			500
+1939			500
+1953			500
+líos mil.	
+2017			500
+2037			500
+2080		......500
+2099		....1000
+2195		.„1000¡
+2200		
+2228. ...		500
+2242		
+2282		
+2284			500
+2303			500
+2378				500
+2393...		5001
+2408		
+2411			500
+2513			500
+2565		
+2571			500
+2581		
+2602.....	
+2626 ....	.. ..500
+2672		...1000
+2717			500
+2733			500
+2737 ....	... 1000
+2775		
+2780		
+2797			500
+2805		
+2806...		500
+2807- ...	
+2808 ....		500
+2833		
+2871		
+2894...		500
+2902 ....		500
+2903			500
+2918			500
+2932 ....	
+2934			500
+2989		
+Tres	mil.
+3012		..:„500
+3124 ....		500
+3169			500
+3191			500
+3246		. . ..500
+3276 ....	......500
+3296			500
+3319			500
+3382			500
+3383..-		500
+3387		....1000
+3452			500
+3469			500
+3472			500
+3555		....1000
+3577...		500
+3589			500
+3600 ....		500
+3672			500
+3736			1000
+3750			500
+3887			500
+3928			500
+3987			500
+3989		
+Cuatro	mil.
+4007..	.
+4030..	.
+4035..	. 4100 ..
+4117..	.
+4172..	.
+4251..	.
+4400..	.
+4417..
+4437..	.
+4446..	.
+...500
+...500
+...500
+...500
+.1000
+..500
+...500
+...500
+...500
+...500
+.1000
+4473......10000
+4611........500
+4632........500
+4653........500
+4693.......1000
+4765........500
+4832 ..... 1000
+4890........500
+4967........500
+4979........500
+Premds.
+Pesos.
+Cinco mil.
+...500
+.1000
+5116.....
+5155.....
+5191.....
+5199.....
+5231.....
+5241 ....
+5272.....
+5383.....
+5391.....
+5404....
+5423.....
+5488....
+5502.....
+5559.....
+5598.....
+5614.....
+5639....
+5650.....
+5682 ....
+5731.....
+5790.....
+10392...		600
+10413..		500
+10424...		500
+10433 ..		500
+10442 ...	
+1U544....	
+10546....	
+10569...		500
+10586....	
+10608....	
+10645..		500
+10653....		500
+10670....		500
+10689....		500
+[10786....		.500
+10842....	
+10843.. .		500
+10845....		500
+10849 ...		1000
+10880 ..		500
+10923. ..		500
+10976....		500
+10979....		500
+Once	mil.
+11046.. .		500
+11048....		500
+111089....	
+11092....		1000
+11104....		500
+11137....	
+11158....		500
+¡11175....	
+11209,...		500
+¡11226....		500
+11250....		500
+11258...		500
+11261....	
+11269....		1000
+11297....		500
+11335....		500
+11384....	...,1000
+11398....		500
+11403....		500
+11408....		500
+11413 ...	.. ..500
+11430....		500
+11438....		500
+11450....		500
+11472 ...		500
+11532....	
+Ns. Premds. Pesos.
+'
+!ns
+wr->- • *raü
+Premds.
+Pesos.
+
+Premds. i’esos.
+15097.........500 18297.
+15135........500 18383.
+15165.......500 18401
+15177.......500 18420
+15191.....
+15206...
+,500! 18468...
+5815..
+5819..
+5935..
+Seis	mil.
+6023....		500
+6124....	....10000
+6127....		500
+6195....		500
+6241 ...		500
+6258....		500
+6304...	
+6373....	
+6390....		500
+6420 ...		1000
+6499,...		500
+6519....		500
+6521....		500
+6582....		500
+6615....		500
+6630....	....1000
+6711...		500
+6744 ...		500
+6872....		500
+6894....		500
+6897....		500
+6906....	
+6929...		500
+6930. ..	...1000
+6932....			500
+6937....	
+6947			500
+6973 ...		500
+Siete	mil.
+7027....		500
+7041...		500
+7048....		500
+7054 ...		500
+7060...		500
+7098....		500
+7108....	
+7159 ....	
+7160 ....		500
+7277			500
+7282		
+7355 ...	
+7363....		500,
+7377...	
+7408....		500:
+7440		...50000:
+: 7444			5001
+7470...		500
+7513....		500
+7568 ...		500
+7585...	.....500
+7600....		500
+7645....		500
+7684 ...		500
+! 7691....		500
+1 7781		
+7802		
+7808			500
+7842. ...		500
+7858 ....		500
+7895			500
+7923			500
+7940 ....		500
+15308.......500
+15365.......500
+15385 .......500
+18902....
+15433.
+15515..	.
+15560..	..
+15646 .....
+15713......
+15809.....
+15833.....
+15867.....
+15882.....
+15896......
+,.500
+15937 15945.
+Diez y seis mil.
+16151....
+16156....
+11567........500
+11797.......1000
+11806.......1000
+11889.......500
+11904 .......500
+11908........500
+11956.......500
+11959.......500
+11961.......500
+Doce mil.
+7967.
+7973.
+7983.
+7991.
+,500
+,500
+..500
+,500
+12096	500 12148	500 12175 	500 12177	500 12239 	500 12242	1000	17271	..500 17293	500 17308 	500 17323	500 17393	500 1 741 fi 500
+12356	,..500	17J07 500
+12373	500 12378	,500	17437 	500 17478 . .. 500
+12385	500 12412	500 12418	1000 12474	500	17485	1000 17590	500 17608 	500 17094. 500
+12481	500 12558	500 12603 	1000 12606	500 12727	500 12730	500 12735	 1000 12756	1000 12759 	500	17627	5000 17671	500 17701	1500 17735	500 17751 	1000 17774	500 17783	200000 17785	500 17Â04 500
+¡12762	500 12797	500	17810	500 I7Ä91 500
+12820	...500 12836	500 12859		1000 12860		500 12874 	1000	17842	1000 17951	500 Diez yoclio mil.
+	18048		500 18049		500 18053 	500
+Trece mil.	
+13010		500 13072	500 13103	500	18085	500 18123	500 1X198 ... 500
+13128	500	18997 fiOO
+13144	500	18269	500
+Ociio mil.
+8007 . 8011..
+8017..
+8024..
+8029..
+8084..
+8139.. 8179 -
+8256..
+8293..
+8335.. 8436, 8462, 8648 . 8787, 8792, 8794, 8909, 8942, 8996,
+,500
+,.500
+.1000
+,.500
+,.500
+„500
+,.500
+„500
+„500
+„500
+,500
+„500
+„500
+„500
+„500
+„500
+.,500
+„500
+„500
+„500
+Nueve mil.
+9051, 9141. 9185. 9208., 9220. 9223, 9251, 9280 . 9295, 9327, 9368, 9378 . 9401, 9414 , 9419, 9426 „ 9435, 9468, 9472. 9483, 9492, 9544. 9558, 9575. 9612
+....1000
+....1000
+....500
+.....500
+.....500
+.....500
+....500
+.....500
+....500
+....1000
+.....500
+.....500
+.....500
+...„500
+.....500
+_____500
+.....500
+.....500
+.....500
+....1000
+.....500
+.....500
+...„500
+.....500
+.500
+13146 .......500
+13167........500
+13200......1000
+13204 .......500
+13218........500
+13310........500
+13399____*..1000
+13403........500
+13423.......500
+13430.......500
+13446........500
+13449........500
+13556.......500
+13585........500
+13593.......500
+13595........500
+13621 .......500
+13626.......500
+13682......1000
+13705 ......500
+13719......1000
+13737.......1000
+13739........500
+13780........500
+13784........500
+13789.......500
+13842.......500
+13859........500
+13879........500
+13889.......1000
+13935........500
+13947.......500
+13981........500
+13990........500
+Catorce mil.
+14001.......500
+14009.......500
+14049.......500
+14057.......500
+14085.......500
+14154.......500
+14184.......500
+14219.......500
+14320.......500
+14328.......500
+14343.......500
+14358.......500
+14393	......500
+14394	.....,500
+9617 ......1000	14460,-,,...500
+,500 i 14469.......500
+.500! 14490.......500
+9625..,
+9680........
+9724 .......500:14522........5o0
+9776.......500	14554........500
+9866 .......500Í14603........500
+9869-......500	14678 ........500
+9X81 _____ son	14801........500
+9903		..500)14817			....500
+9912		1000	14859.		....500
+9931 			14841		....500
+9955			14925		„.500
+9956		1000	14970		.„500
+9962		..500	Q,uince mil.	
+Diez mil	.	15028		„.500
+10110 		..500	15054		
+10233		..500	15064		....500
+10391		..500	15080 		..1000
+16684...... 1000
+16700 ......1000
+16841........500
+16861.......1000
+16872........500
+16914........500
+16922........500
+16959........500
+Diez y siete mil.
+17204.....
+IjDiez y nuevo mil	
+(119017		
+¡19031			500
+¡19037			500
+Ü9072			500
+119090			500
+¡19095		.. ..500
+19134			‘ 00
+19166 ....	
+19230		...1000
+19233....	..1000
+19253...:..	...1000
+19348....	....500
+19357			500
+19361		...1000
+19391			500
+19413		...1000
+19427		
+19446		
+19470		
+19499....	....500
+19538		...1000
+19550		
+19571		
+19587		
+19598		
+19605		...1000
+19614 .....	
+19649		...1000
+19652 		.....500
+19702			500
+19747 		
+19842			500
+19874 		.. ..500
+Veinte mil.	
+20111		.. ..500
+>20158		
+:20161			500
+.20310		....500
+20322		...1000
+20350 		
+¡20378....	
+,20382			500 •
+20383 ....		500U
+20403		
+20414		. ,.500|c
+20433		
+20447		....500 <
+20460		
+20490		..,.500.
+20502		. 1000
+20512		„.500 .
+20527		....500 .
+20563		....500 <
+20661		....500
+20675		
+20711		....50(1.
+20725		
+20736		....500|;
+20752.		..500 r
+20754		..1000'í
+20901		....500 <
+20973		....500!;
+Veinte y un mil. \<¿	
+>121883 .	
+) 21924 .. i	
+Veinte y dos mil.	
+) 22003..		500
+> 22031..		500
+1 22064 .		500
+22085..		500
+22109 .		1000
+122172 .	
+1 22205..	
+22252...		500
+22281..	
+22353...		500
+22384...		500
+22400...		1000
+22409...		500
+22421 ..		1000
+22462...	
+22481...		500
+22487...	
+22576...		500
+22633 ..		500
+22709..		500
+22763...	
+22775...		500
+22795...		500
+22798...		500
+22804...	
+22826...		500
+22827...		500
+22897...		500
+22937...		500
+22941...		500
+Veinte y	tres mil.
+23032...		500
+23057...		500
+23127...	
+23192...		500
+23235...		500
+23294...	
+¡23299..	
+23326 ..	
+23338 ..	
+23366...	
+23369...	
+23406...		500
+23428.......500
+660 .....1000
+23664.......500
+23674.......500
+23711.......500
+23758.......500
+....1000
+Veinticuatro mil.
+Por el presente se convoca al moreno José, esclavo que fue de D. Diego y de D. Cecilio Plasoncia y antes de D. Guillermo Murdoch, dueño del cafetal «Recurso,» ubicado en San Nicolás, jurisdicción de Guiñes, á cuya dotación j crteneci», para que so presente en la Secretaría de esta J unta, Empedrado número 7, á fin do que se le provea de cédula do libre; piues como tal ha sido deciarado¡en virtud de habérsele incluido indebidamente on el censo adicional do 1871.
+Y nara tu publicación on quince números consecutivos de la Gaceta oficial libro ésta, de orden del limo. Sr. Presidente.
+Habana Julio 14 de 1879.—Bienvenido Hernández, Secretario.
+..500
+,500
+,500
+24321.
+......500
+.....500
+21023.......500,24323	...
+¡21030......500! 24329........500
+¡21069......500 ¡24348.......,500
+¡21079......500:24377.........500
+21085.......500:24410........500
+21153.......50024415.........500
+21202.......500 24473........500
+21226.......500 24476.......1000
+21314.......500; 24627......1000
+21334.......500:24534........500
+21335.......500:24574........500
+21405.......500:24601........500
+21454.......500124605....... 500
+...1000
+21529.......500)24612,,
+21560.......500 24616.......1000
+21645.......500;24621........500
+21667.......500 24636.......1000
+21690.......500¡ 24702.......500
+21693........500124731.......500
+21696.......1000'24763.......500
+21791.......500 24792 .......500
+21800,.:.....500'24845.......500
+Aproximaciones á los 9 números restantes de la decena que ha obtenido el premio mayor y á los números anterior y posterior al segundo premio.
+Al de 200,000 pesos.
+17781 ...1000
+17782 ...1000
+17784....1000
+17785	....1000
+17786	....1000
+17787	....1000
+17788	...1000
+17789	...1000
+17790	...1000
+Al de 50.000 pesos. 7439.......500	7441.
+.500
+1? Admon. 2? idem. 3!.1 idem. 4? idem.
+6? idem.
+7? idem.
+84 idem.
+del n?
+9*
+10
+11
+12
+13
+u
+15
+16 17
+idem, id. ra.
+idem.
+idem.
+idem, idem, idem, idem, idem '
+10,291 al 11,761 al 13,231 al 14.701
+al
+16,171
+17641
+19,111
+20,681
+22,051
+18 idem. „ „
+Junta Protectora
+23,521 al
+de Libertos de Habana.
+la Provincia de la
+Desdo el día treinta y uno del corriente mes do Julio hasta el dia veinte y nueve del entrante Agosto, de once do la mañana ú oiucode la tardo estarán de manifiesto en la Secretaría de esta Junta, calle del Empedrado número 7, los registros formados para la ultimación del padrón de esclavos do la Provincia, cuyos registros comprenden los quo están incluidos en los censos de 1867 y [1870, y los quo sólo aparecen en uno de los dos, á fin de quo los que se consideren perjudicados puedan hacer las redamaciones conducentes á su derecho dentro del mismo término.
+De orden del Excmo. Sr. Presidente se publioa la presente convocatoria en todos les periódicos diarios de esta Capital por los mismos treinta dias para general conocimiento.
+Habana 24 de Julio de 1879.— El Secretario, B. Hernández.
+lieal Academia de Ciencias Médicas, Físicas y Guturales de la Habano.
+Eljdomingo 27 del corriente á las doce celebrará esta Academia sesión pública ordinaria en su local alto, calle de Cuba (ex-convento de San Agustín.)
+Orden del dia.—19 Informe sob-e un jarabo de nogal yodado; por el Dr. Machado.—29 Eoglamento para el Instituto Centrai de Vacuna; por el Dr. V. B. Valdés.—39 Discusión sobre una operación obstétrica; por los Dres. Zayas y Montalvo.—49 Observador. de bocio exoftálmico en una niña do trece años; por el Dr. Royes.
+Habana 24 de Julio de 1879.—El Secretario general, Antonio Mestre.
+T* MC ERA SECCION.
+Jefatura de Presidios de la Isla de Cuba.
+Dopartuncntal de la Habana.—Mayoría.
+Acordado por el Excmo. Sr. Gobernador General en 15 del corriente se &aque por segunda voz á remate público el suministro del ma:z que pueda cousumir el ganado del presidio do esta plaza en todo el presente año económico, el Sr. Coronel Jefe, ha dispuesto se anuncie al público para quo ios que quieran hacer proposiciones lo verifiquen con sujeción al pliego de condioiones y modelo de proposiciones publicado en la Gaceta oficial do esta capital del dia 17 de Junio próximo pasado, fijando para dicho acto el primero de Agosto próximo á las nueve do la mañana on el despacho de S. Sría., situado en el Cuartel do esto presidio yen cuyas oficinas ee-tarán también de manifiesto desde las diez do la mañana basta las cuatro do la tarde el reforido pliego do condiciones.
+Habana y Julio 16 de 1879.—-El Mayor 29 Jefe, Manuel Garrido.
+Cornarvlancia general del distrito déla Habana y Gobierno Militar de la plaza.
+D. León Tegerina Blanco, Teniente Coronel graduado Comandante de Infantería y Fiscal do la Plaza.
+Edicto.—Dobiendo diligenciar testimonio de orden superior en los paisanos D. Antonio Pascual y D. Bonifacio Candara, contratistas que fueron del Ejército en el año do 1873 poit meciente á sumaria seguida on Holguin.
+Y usando de las facultades que conceden las Reales Ordenanzas do y. M. á tos Fiscales de Ejército, por este mi primer adieto, cito llamo y emplazo á los expresados paisanos prra que en el término de 30 dias á contar desde su publicación so presenten en esta Fiscalía sita on el Pescante del Morro y do no hacerlo así so les irrogarán los perjuicios á quo dieren lugar.
+Habana 21 de Julio de 1879.—El Teniente Coronel Comandante Fiscal, León Tegerina.
+D. Emilio de Mazarredo y López do Araujo, Teniente del Segundo Escuadrón del primer tercio de Guardia Civil, Comandancia de Matanzas, Fiscal por órdon Superior.
+Ignorándose el paradero del soldado licenciado Manuel Antón Vara, cuya declaraciones indispensable en la sumaria quo sigo contra el Sargento segundo de la quinta compañía del Primer Tercio do Guardia Civil, Comandancia do Matanzas, Manuol Martínez Rodríguez, por arrancarse los galones de su empleo, hallándose de Oomnudante del Manguito (Colon): por la presente llamo cito y emplazo por esto primero y último odíelo al soldado licenciado Manuol Antón Vara, para quo on el término de diez dias á contar dosdo la publicación del presente se persono á dar su declaración, señalándole la casa que ocupa la fuerza dol Cuerpo en esta ciudad. Pu-bliquese en la Gaceta oficial do la Capitanía General.
+Jaruco, 15 de Julio do 1879.—Emilio de Mazarredo y López de Araujo.
+Desde el Martes 29 dol corriente de 7 á 10 do la mañana, so satisfarán por las Administraciones pagadurías quo *á continuación se expresan, los pro-miosde $1,000y do $500, exceptuando las aproximaciones del premio mayor y de los billetes que hayan sido expendidos por las foráneas; advirtiendo quo dichas Pagadurías suspenderán sus pa gos al público dos dias hábiles áutos del en que haya de celebrarse el sorteo tiempo han de practicar sus Principal.
+inmediato, en cuyo operaciones, en esta
+1 al	1470..	Mercaderes	12.
+1,471 al	2,940.	.Tto Rey n9	59.
+2941 al	4410..	Tte. Rev n. 16.	
+4,411 al	5,880..	. Mercaderes	6.
+5,881 al	7,350.	..Salud núm	2,
+7,351 al	8,820.		nú-
+		mero 21}	
+8,821 al	' 10,290	... Galiano	nú
+mero 100. 11,760...Villegas 61. 13,230 San Nicolás 140. 14,700 Maloja 21. 16,170 Teniente Rey esqa á San Ignacio. 17,640 S. Nicolás 140. 19,110 Galiano 59. 20,580 S. Nicola 1401. 22,050 Maloja 21. 23,520 Salud esquina á Galiano.
+25,000 S. Miguel 98.
+Ejército de Ultramar en Cuba.
+Subinspeccion do Infantería y Milicias.
+El soldado Gerónimo Carazoy Pastor, licenciado dol batallón Cazadores de León, so servirá presentarse en hera hábil en la 4:¿ Sección de la Sub-Inspeccion do Infantería para recojer un documento que le perteneco.
+Habana 1q do Julio do 1879.—Do O. de 8. E.— El Corouel Secretario, Joaquín JReixa,
+do Vo-
+Orden de la Plaza del dia 26 de Julio de 1879.
+Servicio para el 27.
+Jefe do din.—El Teniente Coronel dol 59 Batallón de Voluntarios D. Manuel Perez Ochoa
+Visita da Hospital.—Regimiento de Ingoniefos.
+Capitanía General..........
+Castillo de la Punta.......
+Cáreer exterior...........
+Hospital Militar [eBterior],..
+Gobierno Militar........... ,6o Batallón
+Banco Español.............. luntanos.
+Administración Económica...
+Monte de Piedad............
+Capitanía del Puerto.......
+Prevención do Voluntarios...,
+Principal..................í Regimiento Infante-
+Hospital Militar interior..J ría de Cuba.
+Batería de la Reino........ Artillería á pió.
+Castillo del Príncipe.—Ingenieros de Ejército.
+Ayudante do guardia en el Gobierno Militar.— El 19 de la Plaza D. José Martínez.
+Imaginaria en idem.—El 29 -de la misma, D. Ramón Palacios.
+Nota.—Retreta el lúnes 28 en el Parque Central por la músioa del Regimiento Infantería da Cuba.
+El Coronel Sargento Mayor, Recaño.
+Hospital Militar del Príncipe.
+Junta Económica.—Anuncio.
+No habiondo lonido oíccto on todos los Hospi-los Militares la primera subasta simultánea celebrada en 30 de Abril úlLimo, según disposición del Excmo. Sr. Capitán General de esta Isla, con fecha cinco do Marzo próximo pasado; ha tenido á bien dicha Superior Autoridad ordenar que al dloz del corriente so proceda para el Hospital Militar del Príncipe en la Habana á una segunda subasta para el 16 do Agosto próximo vonidero, contratando on públi-co remate el suministro por el térmiuo de un año,
+Cuerpo de E. M. de Plazas.—Fiscalía.
+Anuncio.
+Teniendo quo evacuar un interrogatorio en D4 Dolores Moiejon, so le avisa por medio del presente para quo comparezca en esta Fiscalía, sita Castillo de la Punta, en el término do nueve dias contados desdo la última publicación del mismo.
+Habana 19 de Julio do 1879.—Juan Aymat.
+seis meses, ó tres meses, los artículos siguientes.— Víveres, earno de vaca, ternera y carnero, aves, huevos, leche de va^a y de burra, panetelas y bizcochos, leña y carbón, que detalladamente so expresan en la relación que está unida al pliego de condiciones y quo son necesarios para las atenciones de esto hospital, principiando el suministro una vez que recaiga la aprobación de dicha subasta, cuyo acto de remate tendrá lugar á 'as doce de la majara del mencionado dia diez y seis de Agosto, en la Dirección dei ya referido Hospital Militar.
+Lo que se anuncia al público para que puedan presentarse como lidiadores las personas A quienes interese, siempre que lo verifiquen bajo las bases que respecto á este Hospital marca el pliego de condiciones y modelo de proposición publicados en los números, noventa y tres, y noventa y cuatro, y noventa y cinco de la Gaceta oficial del mes do Abr.l próximo pasado y quo obran a lemas en la Secretaría de esta Junta; donde podrán acercarse para enterarse de todos los particulares concernientes á este asunto que deseen saber.
+Habana 18 de Jubo do 1879.—El Secretario, José Zaragoza.
+Colegio «le Corredores y Xoíario* comerciales «le la Habana.
+CAMBIOS
+Espada..................—Nominal.
+Inglaterra..............—20} A	21}	P.	60 dlv.
+Franni*	/ 6} A	7	P.	60 dlV.
+* ra 10 R............... \ 7 A	7i	P.	3 iliv.
+Alemania................—Nominal.
+Estados Unidos..........{ jq| £	p¡	Cg
+Oroespañol..............— A 114} p.g	P.
+Descuento mercantil.....{ ¡j J ¿ ¿	anual B[B-
+MERCADO EXTRANJERO.
+AZUCARES.
+N? 12 7 A 71 rs. arroba oro., según clase.
+CENTRÍFUGAS DE GUARAPO.
+De 7} A 8 rs. arroba. Según envase, polarización y número.
+AZUCAR DE MIEL.
+De 5} A 6} rs. Idem.
+AZUCAR MASCABADO.
+De 6J A 0| rs., según clase.
+SRES. CORREDORES DE SEMANA.
+DE CAMBIOS Y ACCIONES.
+D. Juan E. Rubio
+D. J uiian Romero, dependiente auxiliar del colegial D. Alonso del Portillo.
+DE FRUTOS.
+D. Laureano Chacón.
+D. Enrique Valdés'Chacon, dependiente auxiliar del colegial D. Miguel Damany y Sánchez.
+Habana 26 de Julio de 1879.—El Sindico interino, M. Nuñez.
+CUARTA SECCION.
+crzczsrAa bbz. zvsasies
+Administración Económica de la Provincia de Ma tanzas.
+Sección Administrativa.—Consumo do ganado.
+El Excmo. Sr. Director general de Hacienda so ha servido disponer se procada á la subasta del Consumo de Ganado do la Jurisdicción Municipal que se expresa á continuación, bajo el tipo que se índica y con sujeción al pliego de condiciones quo se inserta al pió de este anuncio.
+Dicha subasta tendrá lugar en el dia que s® expresa á las doce en punto do sn mañana siendo simultáneo en la Administración Económica de esta ciudad y en la Sub-Diroccion general do Hacienda.
+Distrito municipal.
+Tipo para la subasta.
+Matanzas y su jurisdicción. $44,000 oro al año.
+Miércoles 20 do Agosto do 1879.
+Pliego de condiciones para el remate en subasta pública del Consumo de Ganado.
+Primera. La subasta so verificará en el mismo dia y hora en la Secretaría Sub-Dirocoion de Hacienda y on la Administración Económica do la localidad respectiva, ante las juntas compuestas en la Habana por el Administrador de Rentas de la misma, del Letrado consultor de Hacienda, del Contador de la indicada dependencia y del Oficial del Negociado que actuará como Secretario.
+Segunda. El contrato se hará por dos años que se coutarán desde el dia que obtenga su posesión el rematante prévia la prestación de la fianza que determina la condición 13.
+Tercera. No se admitirá proposición que no se ajuste al modelo que so acompaña qao no exceda del tipo señalado en el anuncio y con la cual no se acompañe la carta de pago del depósito de quo habla la condición 64
+■ Cuarta. Para sor rematador se necesita no tener incapacidad legal ni ser deudor á la Hacienda.
+Quinta. Pueden hacerse proposiciones pero en pliegos separados á uno ó más distritos municipales expresando en los sobres cuales sean estos.
+Sexta. Para la presentación de las proposiciones es condición indispensable acompañarla cédula de vecindad, carta de pago que acredite haber depositado en el Tesoro la cantidad correspondiente al 5 p.g délas sumas señaladas como tipo parala subasta, cuya cantidad será inmediatamente devuelta á los que no r saltea adjudicatarios, reservándose el depósito del rematador basta el otorgamiento de la fianza que debí prestar.
+Sétima. Las proposiciones se harán on pliego cerrado con arreglo al modelo adjunto expresando en letra la cantidad quo quicna ofreoorso para obtener la adjudicación.
+Octava. Los pliegos pueden presentarse indistintamente en la Secretaria Snb-Direcoion ó en la Administración de Matanzas, desde el dia en que se publique el primer anuncio en la Gaceta hasta la hora en que se abra el remate.
+Novena. Llegado el dia y hora determinado para que tenga lugar la subasta so reunirán en la dependencia quo corresponda las juntas quo ordena la condición 19 y duranto media hora continuarán recibiéndose pliegos do proposiciones, numerándolos por orden de su ontrega y se darán á los Imitadores cuantas explicaciones juzguen necesarias. Trascurrida la media hora no se admitirán más pliegos y se declarará abierta la subasta, á la que se dará principio con la lectura del pliego de condiciones, después de lo cual so abrirán y leerán los pliegos por su orden, y si resultaren algunos ¡guales entre sí podrán mejorarse por sus autores con pujas á la llana por espacio de cinco minutos.
+Décima. La junta doclarará en ol acto cual de las proposiciones leídas es la más ventajosa, consi-rando como tal la que ofrezca mayer cantidad.
+Undécima. Inmediatamente so redactará el acta dol remate, firmándola los individuos de la junta y ol autor de la mejor proposición.
+Duodécima. El remato no se considerará tal hasta que obtenga la aprobación del Jefe Superior de Hacienda.
+Décima tercera. El rematador no entrará en el ejercicio de 6us funciones mientras que no afiance en metálico, en bonos del Tesoro de la emi-sion de veinte millones ó en acciones del Banco Español de la Habana por su valor efectivo ó do plaza al tipo del dia en quo se otorgue la fianza sobro la base do oro, el importo de un trimestre del valor del remate.
+Décima cuarta. Pára la prestación de la fianza de que trata la cláusula anterior se señaiará el término improrogable de un mes dentro dol cual quedará otorgada la escritura y el que se contará desdo el dia en que so comunique al rematanto la aprobación da la subasta que se hará constar cu el expediente con la oportuna notificación.
+Si trascurrido esto plazo no la hubiera prestado se dará por anuíalo ol rondato con pèrdi la do la cantidad depositada.
+Décima quinta. El rematador queda obligado á entregar el primer dia hábil de cada semana el importe proporcional correspondiente á ia ascendencia del remate.
+Décima sexta. Los rematadores subrogados por medio del remato en el lugar y grado de la Hacienda adquieren ol derecho de cobrar e-n jurisdicción correspondiente las caí tidades siguientes: $3 50 centavos en metálico por ada res mayor, como buoyes, vacas, toros y terneros que so maten para ol abasto: $1 metálico por cada res menor que se mate indistintamente.
+Décima sétima. Se exceptúan del pago de derechos determinados en la condición anterior, las reses mayores y menores que se maten con licencia del Gobierno en las casas particulares, en las fincas de campo, empresas y establecimientos, con tal que sea para el consumo de sus moradores.
+No están exceptuados los cafés, fondas, hoteles y colegios de educación. En ol caso probado de que se destine al expendio público algunas de las resas, comprendidas en los casos señalados en la primera parte do esta condición, el cabeza ó jefe do familia dueño ó representante de la empresa ó establecimiento, abonará al rematador el derecho correspondiente y además satisfará en el papel equivalente la multa de treinta pesos por la primera vez y sesenta por la segunda, cayendo la carne en pena, de comiso, cuyo importe en venta ingrosará cu las arcas dsl Tesoro.
+Décima octava. Las carnes que so beneficien en una jurisdicción municipal no podrán introducirse en otra sin anuencia y consentimiento del rematador, bajo las ponas maroadas en el artículo anterior, bien entendido que esta prohibición no quita á los part calares el derecho de proveerse para su consumo en el punto que más les acomode aunque sea en extraña jurisdicción.
+Décima novena. Si ol rematador f itaseá alguna de las condiciones estipuladas se rescindirá ol oontrato, sacándose á nuevo remate, siondo do su cargo abonar á la Hacienda la diferenc a quo resulte en contra de la misma, además de los daños y perjuicios que por su causa so hubiesen originado.
+Vigésima. La Direocion General do Ilaoionda resolverá por la vía gubernativa las cuestiones que por este motivo se susciten y en caso de'agravio podrán los rematadores aoudir en la vía contencioso-admini8lrativa ante ol Exorno. Consejo de Administración.
+Vigéésima primero. El rematador no tendrá derecho á resoindir el contrato ni á pedir indemni-zaeion sino en el caso que se redujesen los derechos de que habla la condición 16a
+Vigésima segunda. El rematador se comprometo á participar verbalmente y por escrito á la Dirección General de Hacienda la terminación dol arriendo con tres meses de anticipación.
+Vigés'ma tercera Si termina lo ol arriendo no se hubiese subastado de nuevo este servicio ó verificado ol remate del mismo no hubiese recibido la aprobación superior se obliga así mismo el rematador á continuar ol servicio bajo la» condiciones estipuladas en este pliego, por un plazo que no excederá de tres meses.
+Vigésima cuarta. Es obligación do las autoridades civilos y económicas proteger á los rematadores en la justa ¡ ercepoion del impuesto, pero u. lo es menos la de amparar á los contribuyentes, evitando abusos, injusticias y vejámenes por parto de los rematadores.
+Vigésima quinta. Todos los gastos quo so originen en la subasta inclusos en los anuncios en ¡a Gaceta oficial y Boletín do la localidad, escritura,y demás basta que se dé j osesion del servicio al rematante, serán de cuenta de éste que habrá do pi esentar un testimonio por duplicado de la escritura para que obre en el expodiente del remate.
+Matanzas 19 de Julio de 1879.—El Jofo Económico.—P. S.—t 'árlos M. Vega Verdugo.
+Modelo de proposiciones.
+D.....vecino de.....callo do...número......oti-
+terado del anuncio y condiciones que so han publicado en la Gaceta de fecha....para subastar por dos
+años el impuesto sobro el consumo de ganado dol
+Distrito municipal y su jurisdicción do......ofrece
+por dicho servicio la cantidad do....posos on oro
+cada año, ateniéndose en un todo á las condiciones citadas.
+(Fecha y firma.)
+So escribirá en ol sobro del pliego «contieno proposiciones para e! impuesto do consumo de ganado de....»
+Ayuntamiento de licgla.
+• Secretaría.
+El 28 de esto mes, A las 12 del dia, on la Sala capitular, se adjudicará en subasta pública, á favor del que mejor proposiciones hiciere, el arbitrio de marea de carruajes, el do puosos públicos y el de vendedores ambulantes, correspondientes a esto uño económico de 1879 á 80.
+Los tipos do subasta son; para ol 19 de los indicados arbitrios 1600$ en que está calculada su producción en dicho año, para ol 2o, 550$ y para ol 39, 850$ todo en oro español.
+No se admitirán proposiciones quo no cubran los referidos tipos y na estén ajustados estrictamente en un todo al modelo y pliego do condiciones modificado por ol Excmo Sr. Gobernador general do acuerdo con el Excmo. Consejo do Administración, que se encuentran de manifiesto con su expediente, de cada uno do los repetidos arbitrios, on la misma Secretaría, todos los dias hábiles.
+Habana 12 de Julio de 1879.—José M. Romero.
+Junta local de primera enseñanza de Cimarrones.
+Debiendo proveerse por oposición las plazas do directores de las dos escuelas mnnicipales incompletas de nueva creación para niños do color de ambos sexos, según está prevenido dotada cada uua, anualmente con 400 pesos de suoldo, 100 pava alquiler do casa y 50 pesos para gastos de material todo en oro; la Junta de mi presidencia ha acordado so convoquen aspirantes á dichas plazas por el término de un mes aconta1 desdo esta fecha; á fin do quo los quo deseen optar á ellas presen!on sus solicitudes documentadas dentro dol plazo señalado; en la inteligencia quo el acto de las oposiciones, tendrá lugar el 16 del próximo mes de Agosto á las seis de la tarde.
+Y para conocimiento general se anuncia por medio de la Gaceta de la Habana y Boletín oficial do ia Provincia de Matanza^.
+Cimarrones 16 do Juiio de 1879.—Domingo Cadenas.
+Ayuntamiento de Patabanó.
+No habiendo tenido efocto por falta do licitado-res el remate de los azúcares y míelos embargados por falta de pago del 29 semestro do! año económico de 1878 á 79, de la Contribución Municipal dol ingenio «Clarita» que debió celebrarse ol tres del corriente; so ha señalado oi dia 28 dol mismo á las doce do él para que- tenga lugar dicho acto on esta C»sa Consistorial, habiéndose retasado, ol azúcar a 56} centavos arroba y á cuatro pesos los envases; y la miel á doce pesos cada cuartel ola incluso el envase todo en oro. Debiendo tener lugar diebo remato bajo las mismas condiciones contenidas on la convocatoria do 26 do Junio último que se publicó en la Gaceta do la Habana do le del actual.
+Batabanó Julio 2'Ndo 1879.—Juan P. San Pe-
+layo.
+Y para su inserción en la Gaceta oficial de la Habana libro la presente en Batabanó á 22 do J unió de 1879. —El Secretario, Antonio Eonseca,

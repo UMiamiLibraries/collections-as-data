@@ -1,0 +1,399 @@
+﻿Declaración de alcances.—Procedimientos en los dos casos que pueden ocurrir.
+Recursos contra las providencias por alcances.
+Procedimiento para la cancelación de lianzas.
+Carácter y subordinación del Tribunal de Cuentas de Filipinas.
+TENEDURIA DE LIBROS.
+Definición. Método. Principio fnndamental del de partida doble. Regla para conocer el deudor y acreedor.
+Significado de las palabras cargar y abonar.
+Libros indispensables en pattida doble: su-objeté. Modo de redactarlos: contenido de los asientos del Diario. M odo de pasar estos al M ayor.
+División de las cuentas. Cuántas y cuáles son las generales: su definición y objeto especial de la de pérdidas y ganancias.
+Clasificación de las cuentas generales y cómo funcionan cada una.
+Cuentas personales. Clases en que se dividen y explicación de cada una.
+Cuentas corrientes con interés: su fundamento y modo de liquidarlas. M étodos en uso y su explicación.
+Balances de comprobación, de saldos y de situación.
+Balance general, inventario. Liquidación y saldo de las cuentas para cerrar los libros.
+Modo de abrir estos nuevamente.
+Aplicación de la partida doble á la Contabilidad general del Estado: datos para su formación.
+Balance de la situación del Tesoro y de los presupuestos á fin del año económico.
+Contabilidad de Rentas públicas, Efectos estancados, Gastos públicos, Tesoro, Presupuestos, Deuda pública, Bienes del Estado, su objeto y modo de hacer los asientos.
+Dado en Palacio á treinta y uno de Agosto de mil ochocientos setenta y ocho.
+ALFONSO.
+El ministro de Ultramar,
+José Elduayen.
+Por el mismo correo y bajo el núm. 3,025 se ha recibido por dicho Gobierno General la Real orden que sigue:
+«Excmo. Sr.—Con fecha 4 del actual se ha publicado en la Gaceta Oficial de esta Córte correspondiente al dia de hoy la Real orden siguiente.—limo. Sr.—Para cumplimentar de una manera inequívoca el Real Decreto de 31'de Agosto último referente á la reorganización del ramo de Contabilidad pública en las provincias de Ultramar y al ingreso en el mismo, por medio de examen prévio teórico-práctico que verse sobre los Progranlas y materias expresados en dicho Real Decreto, S. M. el Rey (q. D. g.) se ha dignado resolver, que tanto en la capital de la Monarquía, como en las de Cuba, Puerto Rico y Filipinas, se proceda desde luego al nombramiento de Tribunales' de exámen en la forma que se expresa á continuación.—1? En la capital de la Monarquía, constituirán el Tribunal de exámen purs ingreso en ej ramo de Contabilidad de las mencionadas Provincias: el limo. Sr. Director general de Hacienda del Ministerio de Ultramar, Presidente.—El Oficial Mayor, Ordenador de Pagos de dicho Ministerio, Vicc Presidente. —Un Contador de primera clase del Tribunal de Cuentas del Reino que designará dicho Cuerpo.— El Catedrático de Matemáticas del Instituto de Sai! Isidro.—El Catedrático de Prácticas Mercantiles de dicho Instituto.—El oficial de Secretaría del Ministerio de Ultramar, encargado del Negociado de Cuentas y Teneduría, Secretario.—El Tribunal se instalará en el citado Ministerio en donde se verificarán los ejercicios para el ingreso.—2? En las provincias de Ultramar, los Gobernadores Generales, de acuerdo con el Intendente de Hacienda, ó con los respectivos Directores de este ramo procederán á nombrar los tribunales de exá men paya los efectos del mencionado Decreto de 31 de Agosto, procurando que los nombramientos de Jueces ó examinadores recaigan en personas de reconocida competencia ó imparcialidad y que la formación del Tribunal guarde, si no perfecta identidad, la mayor analogía ó semejanza posible con el que se designa para la capital de la Nación.—3? Los Gobernadores Generales deberán remitir al Ministerio de Ultramar, para los efectos oportunos, los expedientes de los empleados que dejen probada su idoneidad, como asimismo los de aquellos que hubieren merecido censura desfavorable.—De Real orden lo digo á V. S. I. para su estricto c inmediato cumplimiento. Dios guarde á V. S. I. muchos años. Madrid 4 de Diciembre de 1878.—Elduayen.— Hr. Director General de Hacienda —Lo que de la propia Real orden traslado á V- E. á los propios fines y para que se publique en los periódicos oficiales de esa Isla, sirviéndose remitir á la Dirección General de Hacienda de este Ministerio dos ejemplares del periódico oficial de esa capital en que se dé publicidad á la Real orden preinserta.—Dios guarde á V. E. muchos años. Madrid (i de Diciembre de 1878.—Elduayen.—Sr. Gobernador General de la Isla de Cuba.»
+En su consecuencia y piara el debido cumplimiento de las Soberanas resoluciones anteriormente insertas, el Excmo. Sr. Gobernador General se ha servido nombrar el Tribunal de Exámenes á que se contrae la Real orden núm. 3,025, compuesto de los Sres. siguientes:
+Director General de Hacienda.—Presidente.
+Sr. Contador General.—Vice-Presidente.
+Sr. Ordenador Central de Pagos.
+Sr. Catedrático de Aritmética y Algebra del Insti tuto de 21.1 Enseñanza.
+Sr. Sub-DireCtor, hoy Director interino del Banco Español.	y
+Sr. Tenedor de Libros del Banco Industrial.
+Sr. Jefe de la Sección 1? de la Dirección General de Hacienda.—Secretario.
+Del mismo modo se ha servido acordar el Excmo. Sr. Gobernador General que este Tribunal se constituya el Io de Mayo próximo y que desde dicha fecha princi-
+g'e ante él el exámen de los empleados á que dicho eal Decreto se contrae, con sujeción al programa también inserto.
+Y por último, y como, los funcionarios qno han de sufrir este exámen son delegados de la Contaduría General, se ha servido disponerse prescriba á ésta:
+1? Que remita a la Secretaría del Tribunal de Exámenes Ai ¡.a lista nominal de los empleados en las oficinas Centrales, Provinciales y Subalternas que estén sujetos, según los términos del Real Decreto, al exámen que el mismo prescribe.
+2? Que encargue, con respecto á los que se consideren exentos, el inmediato envío á la misma Contaduría de sus hojas de servicios con los justificantes de los mismos.
+3? Que examinados éstos, la Contaduría General califique si efectivamente les comprende la exención de exámen por hallarse dentro de cualquiera de los tres casos que determina el art. 69 del Decreto.
+4? Que estos expedientes los remita á la Dirección para que pasen á la Secretaría del Tribunal á los fines que correspondan.
+5‘t Que participe con oportunidad á los que se encuentren en esta Capital, lo mismo que á los que sirvan en las oficinas del interior de la Isla, la precisa necesidad de que se hallen en la Habana el dia 19 de Mayo próximo que es el señalado para constituirse el Tribunal y proceder á los exámenes.
+Y 69 Que con arreglo á lo dispuesto en dicho Real Decreto, los empleados que en lo sucesivo sean nombrados Interventores y Tenedores de Libros para las oficinas de eSta Isla, deberán acreditar ante dicha Contaduría, antes de tomar posesión, haber sufrido el exámen teórico-práctico prevenido, y la aprobación ue estos ejercicios.
+Lo que se publica en la Gaceta para general conocimiento.
+Habana 20 de Febrero de 1879.
+Mariano Cando Villaamil.
+Sección 49-** A nuncio.
+E Sargento 29 licenciado del batallón milicias color do España Juan Mas Habana, so prosentará en la Sección 49 de esto E. M., para enterarle do una resolución superior.
+Habana 17 de Febrero do 1879.—El Brigadier Jefe do K, M., Pedro de Cuenca.
+1 \	■	íímm
+Obispado de la Hab »na.-Sede-Vacante.
+¡Secreta! í».
+En virtud de lo dispuesto por el limo. Sr. Gobernador Eclesiástico do la Diócesis eij ausencia del M. I. Sr. Vicario Capitular en decreto fecha 29 de Enero último; so ha señalado el dia 4 de Marzo á bis doce de su mañana para la adjudicación en pública subasta do la obra de reparación que demanda la Iglesia parroquial de ingreso del Santo Cristo de la
+B ?j u ce I ¿ony o i m porte ■It lutili ad d o mil
+Safod do la jurisdicción de según presupuestó asciende ií la cuatrocientos echen!a y ocho peso», cincuenta y »irlo centavos oro español.—La mi basta ..so celebrara con arrogk) á la Instittccion vigente para las contratas do obras públicas, hallándose do manifiesto tanto esto documento, cómo los demás relativos al particular, en poder del Cura párrofco do la citada Iglesia y en esta Secretaría, para conocimiento del público.—Las proposiciones bo 'arreglarán exaeta-ircnto al modelo adjunto y so frecontarán en pliegos cerrados, admitiéndose solamente durante la primera inedia hora del acto.— Los ¡diegos deberán contener el documento que acredite haber consignado como garantía provisional ¡.ara tomar parte en la licitación la cantidad do cincuenta y nueve posos, cincuenta y hoíh centavos oro; depositada en la Tesorería genera!, si él postor fuese vecino do la Habana y en la Adminislración de Rentas do Bejucal, si lo fuese do aquella ciudad.—Serán ñutas lar prop osieione» que faltón á cualquiera d,e estos requisitos y aquellas cuyo importo excoda el presupues-to.—Al principiar el acto del remate, so leerá la instrucción citada: en el caso do procediese á una licitación verbal por empite, la mínima puja admisible será de la cantidad antes mencionada.
+Los gastos do publicación de! presento anuncie y pliegode condiciones serán do cuenta do! contratista, que los satisfará en la Dirección de la Gaceta oficial.—Habana 19 de Febrero de 1879.
+D.
+Modelo de proposición.
+blieado por (aquí el nombro de la Autoridad correspondiente, en tal fecha), de la Instniccion do subasta, de ios roquisitos quo so exijen paru la adjudicación en pública subasta do la obra do reparación quo demanda !a Iglesia1 parroquial do ingroro de Santo Cristo de la Salud do ¡a jurisdicción do Bejucal y do tedas las obligaciones y derechos que señalan los documentes quo han do regir cu !a con trata; fe comprometo á tomar por su parto esta obra por la Cantidad de.....aquí el importo en le-
+tra.— Habana ó’Santo Ciisto déla Salud l.° de Febrero de 1879.—Antonio Hernández Valdés, Socrc tarió interino.
+El pingo de condiciones se publicó en la Cacóla del dia 11 del corriente.
+Inspección aeneral <fe Miontcs de la Isla de Cuba.
+Hallándose vacante una plaza do Ayudante ■ do Montes dotada con el sueldo anual do $400 y 800 de sobresueldo, se convoca pór este medio á 1 Ai-rlmensores que deseen obtener dicha plaza pa
+documentada on Jas oficinas do esta Inspección, tas en la callo do Amargura núm. 79.
+Habana 8 dó J- obrero do 1879.—El Inspec general, Francisco de P. Portuondo.
+si
+SEGUNDA SECCION.
+Ctobierno Civil do la Habana.
+l>. José Ardorius y García, Gobernador Civil de es
+la Provincia.
+llago sabor: que aproximándose las fiestas di Carnaval y deseando que reine on ol as la tranquilidad y buen órdon de quo siempre ha dado prueba! el vecindario do esta culta Ciudad, sin que la Ante >idnd so vea en e! sensible caso de tener que reprimir exceso alguno, be creido oportuno recordar l< dispuesto eu años anteriores, á fio de quo por todo.* sea estrictamente observado.
+Artículo Io No podrán circular comparsas de más de seis personas, sin permiso do esto Gobierno h s que para entrar en los Teatros y demás punto? en donde hubiere bailes públicos, necesitan del consentimiento del empresario y prévio couecimieirtc del Inspector ó Celador respectivo.
+Art. 29 No se permito disfrazarse con los trajes, insignias ó condecoraciones del órdon eclesiástf yo, civil, militar ó político, quedando asimismo prohibido, aunque el traje lo requiorn, el uso do armas, espuelas, palos ó bastones, cuyos objetos no podrán tampoco Usar los que concurran sin disfraz á los espectáculos.
+Art. 39 So prohíbe el uso de la careta á toda persona que circule á pié ó á caballo por la vía pú blicu, pudtondo solo llevarla las que transiten en osrruaje.
+Art. 49 Se ¡prohíben ios cohttcs, petardos y cualquiera otro objolo que pueda pottn bar el orden,
+Art. 5* Los carruajes entrarán en el paseo y saldrán del mismo por cualquier callo trasversal doblando á su derecha. Kl eordon se formará desdo la Punta por la derecha déla Alameda del Prado, ¡d llegar á Neptuno, tomarán los carruajes per la cali, del Prado, del lado Gesto y continúala por olla, haa-ta entrar en el Campo de Marte, por la puerta que da al írento de la Pila do la India, siguiendo por la derecha á la callo de la Reina y Paseó do Tacón hasta la fuento situada á la entrada de la Quint: de los Molinos. A la vuelta y siguiendo siempre por su derecha pasarán al Campo do Marto entrando por la puorta dol frento a la calle de la Reina y el llegar á ¡a India doblarán á la derecha para tomar la calzada del Príncipe Alfonso y la calle del Prado por el lado del Esto y en Neptuno volveren á te mar el Pase* por la derecha hasta la Punta. Los cochos tirados por dos ó irás parejas do caballos, lo mismo que los de una pareja á la Dunnont podrán entrar y continuar siempre por el centro del Paseo ó sea entre las dos líneas do los demás carruajes y no estarán obligados á seguir hasta la Punta como ios demás carruajes, podiendo dar la vu Ita si ios conviene en la Plaza dol Teatro do Tacón.
+Art. 69 So prohíbo la entrada en el paseo á todo carruaje de mal aspecto ú ocupado por personas que por sus trajes ó acciones lastimen ia moral pública.
+Art. 79 Los quo contraviniendo estas disposiciones alteren el orden y la tranquilidad, serán puestos á disposición do esto Gobierno para proceder contra ellos en la forma que haya lugar.
+Los funcionarios de Policía y «gantes de protección y- Seguí i lad pública, volarán por el cumplimiento de lo quo anteriormente so previene, dardo me conocimiento inmediatamente do cualquier infracción que se cometa.
+Habana 20 de Febrero do 1879.—José Arderius
+Capitanía O eneral déla siempre fUl IGa de Cuba.	-*
+ESTADO MAYOR.
+Sección 19.
+Ei soldado que ftié del regimiento Infantería de Milicias blancas de la Habana, Francisco Alvarez Carril!*, se presentará en la 19 Seeeion del ÏÏ. M. de la Capitanía General, coa objeto de enterarle do un asunto que le interesa. -	_	.. ....
+Habana 19 de Febrero do 1879,—El Brigadier Jefe de E. M., Pedro de Cuenca,
+Nogociado 29—Policía Uiban».
+D. Manuel Carracedo, vecino de esta y dueño del Hotel «La Navarra;» ha acudido á esto Gobierno en solicitud de permiso para establecer una máquina de vapor de caballo y medio d9 fuerza, para la instalación de unoB baños en il cita lo Hotel.
+Lo quo so publica en la Gaceta y Bo’.etin oficial de esta Provincia, á fin do que los individuos que se consideren perjudicados con esto permiso presenten sus solicitudes en esto Gobierno dentro de! térm no de diez dias, pasado el cual no se oirá reclamación alguna.
+.Habana 8 do Febrero do 1879,—ArJcrius. Administración Económica de la Trovi » cía.
+Consumo de ganados.
+Debiendo procederse á la subasta del consumo de gauados de la jurisdicción Municipal que se ex-
+presa, bajo ti UrO que se indica y con sujeción al pliego general de coqdioiones publicado en la Gaceta del dia diez de Marzo de 1878, qúe estará de manifiesto en la Administración Económica de esta Pi ovinria y en la Colecturía de Rentas de Bejucal, lo hago sabor por medio de este anuncio para la debida publicidad.
+Dicha subasta tendrá lugar el dia que so determina á las doco eu punto de la mañana, siendo si-mul ánea en la expresada Administración y en la Colecturía resp1 ctiva á que poitenece el eonsum*
+i < r el cual se abre licitación.
+Distrito Municipal.	Tipo parala subasta.
+Sábsclo 19 de Marzo de 1879.
+Bejucal.„.............. $6115 50 oro ul año.
+Habana Fobroro 19 de 1879.— El Jefe Eoonóm;-
+to.—P. O , Ctlsn Garda déla Riega.
+Cftí ibucion del 25 />-§ —Hincas Urbanas.
+Sección 1?—Capítulo 1?—Artículo 3?
+Relación, de recibos de contribuyentes por dicho concepto, cobrados en el dia de la fecha.
+Contribución del 25 p^—Industria y Comercio,
+Sección 1?—Capítulo 1?—Artículo 5?
+Relación de recibos de contribuyentes por dicho concepto, cobrados en el dia de la fecha.
+•a A
+o
+<4 í-i
+*>{ ?.. '3 ' $ o	S011BPES.	SÜBGOKEPIO.		Importe del , recibo.	
+1878	D. Ambrosio G. del				
+		Lamparilla		31	29	25
+2802	Idem idoni		O’Rcilly		12	56	25
+13969	Dì Àureliana Lopez...	Trocadcro		19	14	06
+13071	Idem idem		Idem		21	16	87
+700O	Fabian Gonzalez		Esperanza		116	9	85
+7013	Idem idem		Idem		130	11	81
+7811	Rosa Sotelo		Florida		6	7	04
+10169	D. José Carbajal.......	Marina.....		1C	19	79
+1018!	Idem idem.."		Idem		42	13	75
+10182		Idem		44	S	34
+10183		Idem		40	15	42
+12502	Idem idem		Salud		185	28	12
+12135	D. Manuel Alegría...	San Miguel		156	43	¡04
+9256	Idem idem		Manrique ..;		160	11	2-5
+2163	Idem idem. 			Obrapía		90	19	¡69
+7964	Dì Ursula Morriña...	Gervasio		43	19	69
+7966	Idem idem		Idem		4-5	16	88
+7312	ídem idem		Escobar		110	9 85	
+4873	Idem idem		A. del Norte...	376	16 88	
+4872		Idem		374	i 6 ¡88	
+14202	Medina y Compañlá..	Moreno		23	7	04
+14198			19	16	87
+4734	D. Francisco M. y Gar				
+	«fa		A. del Norte....	213	28	12
+8513	... Francisco Medina.	Hornors		7	4	91
+8798	... José Medina		J. Peregrino		74	8 ¡44	
+10177	Dì Claudia Ferrer		Marina		34	9	21
+10178	Idem idem		Idem...		36	9120	
+9992	D. José de A linas		Monte		292	212	,50
+10089	idem idem		Idem		340	8 42	
+12804	Idem idem		San Ramón		2	844	
+4498	D. Bériiárdiño Gücn.	Apodaea		43	12 67	
+4496			41	/	04
+11606		Snn Nióolíís		151	• 5	62
+11004	Idem idem		Idem		149	5	62
+10716	Idem idem		Perseverancia...	64	7 87	
+10718	Idem idem		Idem			60	13 27	
+.5145	idem idem..........'		Cárdenas		81	11 98	
+1 1 784			37	13 79	
+5949			53	9 56	
+6137		Concordia		104	14 35	
+12868	D. Bernardino Giron.	San José		G5	11 81	
+9400	... Bernardino Giicn.	Maloja		58	8 42	
+11294	... Bernardo Güeii....	Refugio		37	10 69	
+0216	Dì Merced Güen y				
+	hermano		Manrique		109	28	12
+11364	.... Socorro Gücn		Suarez		34	23 93	
+1105o	¡Idem idem..,				Revillagigedo...	109	8 42	
+3891	Archicofradia Desam-	!			
+	'parados			Aguila		139	33 48	
+8681	D. Juan B. Cueto		I ndustria		106	14 07	
+	... Bernardo .1. Her-			1	
+		Tdem		112	42	19
+11785	Dì Mariana Ñuño		Somefuelos			39	10 99	
+911!	D. Francisco García..	Manrique		3	14 06	
+6109 606-,	Ideili idem		Couoordin		75 25	17... 5i¡...	
+6-145			10	27 67	
+5161	Idem idem		Blanco			44	5 95	
+5159			42	5	92
+3168	Idem idem		Santa Clara		8	33	75
+8339	Idem idem		¡Gloria		59	. \ 7	03
+592)		Cienfuegos 		26	14 35	
+9399	Dì Adela Carbajal		Maloja			50	8 4	
+6059	Idem idem		Concordia		24	53 52	
+2136			102	1687	
+12149	Idem idem			ljSan Miguel		170	11 ¡25	
+8553	Idem idem.		¡Indio		24	7	02
+4640	Isidoro ltuiz		A. del Norte		118	6 62	
+6514	Francisco .1 del Barrio	Colon 		34	23 92	
+13550	José Que vedo		Zanja 		48	1436	
+13854	Francisco Morales		Cerro		486	1317	
+1 1 1			JO	O	81
+3281	Bernardo Hernandez.	Sol		88	47	86
+1303	Herederos de Teresa				
+	Entralgo			Empedrado		54	: 30;64	
+1325	Idem idem		Idem		77	i 36 56	
+7914	CTirios Romaguera....	Gervasio		22	9 56	
+12244	;Estébaii D. Garcia....	S. Luis Gonzaga	51	! 23,92	
+567S	Bárbara Garcia		Campanario		81	í 19 15	
+6090	Cárlos Pereira			Concordia.		55	1350	
+6092	Esteban García		Idem		57	23,92	
+10694	Idem idem			Perseverancia...	-43	9 56	
+10692			41	11	1*5
+10690	idem idem		Idem		39	11	25
+7295	Ramon Miranda		Escobar		92	7	01
+7264	Bárbara Barbón			Idem		63	14 33	
+9129	Esteban García.		Manrique		21	14¡0G	
+9Ò14	José Ferrera		Maloja		173	9	
+9404	Rafaela Miranda			I. deí Monte		468	i 14 06	
+9127	Esté ban García		Manrique		19	! 1350	
+1-5996	Rafaela Miranda		Maloja ..... 		56	9 56	
+8991	Idem idem		Lealtad		77	1271	
+8939	Idem idem		Idem		75	1271	
+424	Luis Fernandez		Aguacate		120	52	62
+9782	Dolores Trcvejo		Monte 		69	191 25	
+1437	Francisco Ricota		Habana		14	19	12
+1610 Félix Cubría			Sol 		36	23,93	
+3230iFélix Cabré			Habana		183	4247	
+3665; Pedro de la (’antera..		I nquisidor		11	62 60	
+3697	Andrés Cubría		Villegas		92	55 04	
+1058 Idem idem			Cuba 		125	39 37	
+4321	Francisco Zampena...	Angeles		62	7	04
+7717	Francisco Sopeña		Figuras		10'	4 ¡06	
+8146	Vidal Morales		Gaíiano		47	66 63	
+1348	Idem ídem......		Egido		u	162	44
+1-18-33	Mariano Torres		Luyanó		14	14 06:	
+148)6	Idem idem		Tdem Ídem			4 79	
+14859				4 79	
+1485$	ídem idem	 Idem .dem				9 86	
+1485*7	Idem ídem		Tdem idem			4 79	
+14855	Idem idem		 Idem idem				817	
+14854	Idem idem	Idem idem				8 42	
+14863				7 01	
+14804	Idem idem		Idem idem			SO 90	
+14861		Tdfvm idem			3 37	
+14862	Idem idem		Idem idem,			479	
+14860	Idem idem				Idem idem			4 79	
+458.7	Idem idem...		Ancha del Norte			7	04
+955	Joaquin Puentes		Cuba 		23	43 ¡04	
+2306	D. Joaquin Fuentes...	Obispo		40	17G 92	
+6386	Rosario Rivanoba		Cádiz		46	5	36
+7530	Bernabé Rivanoba		Esté vez		125	4	79
+6585	Rosario Itivanoba		Cádiz		41 ;	5	36
+8533	Di Josefa Q uesada		Indio		4¡	8	44
+7053	... Dolores V. Hernán-		1		
+	dez		Estrelia		28'	22	50
+0270	... Marfa J. Herndz...	Manrique		165 i	11	25
+9094	i). Agustín Quesada..	Lealtad		183!	0	...
+9412	Di Dolores Herndz....	Maloja		Gl!	14	06
+9357	... Carolina Quesada.	Idem		«S i	19	12
+15207	... María J. Herndz...	Santos Suarez...	31 i	12	67
+11590	... Quilina Infante...	San Nicolás		135	4	79
+13166	D. Quirino Enfante ..	Virtudes		122:	33	49
+2106	Dì Lugarda Leal de la				
+	Guerra		Merced		72	30	91
+12160	Fralieisca del Cast i 1 lo.	San Miguel		184	25	31
+L 260.	Adelaida del Castillo.	Aguiar 		65	19	12
+3946	María Rosa Gómez....	Aguila		194	14	06
+.6439	D. Francisco Tejada y				
+	Martim z		Corrales		277	6	75
+8407	,. Rafael Manresa		Gloria		130	4	80
+14875	.. Domingo Cabrera..	Luyanó			33 ¡75	
+4339	Di Concepcion Delga-				
+	do		Angeles		SO,	7,04	
+3048	... Rosa I. Martinez...	Sari Isidro		4	1294	
+217,	.. Monserrate Martz.	Obrapía		88	11	25
+1033c	idem idem		Paseo Tacón		181!	9	
+1248f	ídem idem	-		106''	14 Ofi	
+12387	D. Bernardo Cardevi-11a 	:		Ran .Tosá		Sol	.mJ	93
+157;	D.Ì Monserraté Martz	Habana		145Í	14|19	
+7917	D. Bernardo Cadavit..	Gervasio		L ¿ 1	17.74	
+10531	Di Monserrate Martz	Paseo Tacón		183	7 i 87	
+7919	D. Bernardo Cadavit	Gervasio		4¡	18	
+9699	Di Monserrate Martz.	Marq. González	54 !	6 ! 75	
+9156	... Virginia Aubert...	Manrique		491	26	73
+6082	D. Juan M. Cayon		Concordia		471	30 ¡20	
+’ 6074	tdem idem.,	 		[dem		39	31 09	
+6076'Idem idem			Idem		41	26|59	
+10297	rdem idem		Neptuno		101	23 49	
+49S3,	Idem idem				Animas		79 !	Aa na	
+4984	Idem idem		Idem		81 :	35	73
+17;	D Ernesto Gueringer	San Nicolás		50	D	33
+-6069	.. Agustiu Meireles..	Concordia		34	18	25
+9138	Mno, Antonio Barro-				
+	so					03	6	57
+					
+		Total			3257	—
+2375 2 95 3113
+707
+3610
+3740
+475
+3619
+3418
+976
+3560
+23
+165
+NOMBRES-
+Sres. Alemafiy y C?......
+D. Pedro M? Salcedo.,..,.
+Sre3. Saj'on y Cî........
+D. Juau Lorenzo Pinos....
+Ses. Argumosa. RobadoyCÎ José Melendez......-.....
+Antonio Garcia Robel.....
+Francisco Diaz...........
+Joaquin Alvarez y Cl.....
+Antonio Franco..'....
+José Hurtado y CI...
+T. M. Zangroniz......
+Fargas, Gili y C?....
+Spbconcept »•
+610 Sres. Gonzalez Rueuesy Ci.
+Café y cantina. Quincallería ... Barbería sjpe-
+luquería....
+Bodega ......
+Camisería.....
+DepOsito tabacos..........
+Casa de Baños.
+Camisería ....
+Bodegón.......
+Bodega........
+Almacén ropa. Comerciante. Almacén víveres no importador .......
+Sombrerería....
+Ul
+Sa.9
+31125 J 4 ;59
+14159 140:63 123 96
+I
+57 30 93 ¡75 75 84 38 52 51 ¡05 520184 468 75
+410 67 62|50
+2110 24
+Habana 18 de Febrero de 1870.—F. Prado.
+Alcaldía Municipal de la Habana-
+Sección di—Licencias.
+D. José Becerra y L'flan, ha solicitado permiso do esta A'caldía Municipal para establecer una alboiteríaen ia callo de San José esquina á Escobar.
+Lo quo do orden del Sr. Alcalde Municipal so anuncia por medio do la Gaceta oficial, á fin do que los vecinos ó personas queso croan perjudicados, ocurran á esta Secretaría a presentar sus reclamaciones on el proeiso término do ocho dias á contar dosdo la fecha de esta publicación.
+Habana Febrero 12 do 1879.—El Secretario, R. de Echaran ía.
+Por esta mi primera carta do odicto, cito, llamo y emplazo porel téimino de uuevediasá conturdesdo la fecha, á Cárlos de los Santos Royes natural de Manila, provincia de Filipinas, de 28 años do odad y marmoto qne fué en Enero último del bergantín goleta español "Ventura,” para que so presente en la cárcel ¡ ubliea do esta ciudad a descargarse do la culpa quo le resulta en U causa que se le sfoue como desertor del cüado buqiu: seguro quo si asi lo hiciere so ¡o oifá y administrará justicia, y do no verificarlo so lo declarará en rebeldía.
+Habana Febrero 10 do 1879.—José Guerra.
+Prr esta mi primera carta do edicto, cito, llamo y emplazo por el término do nueve dias coutudos desdo la fecho, á D. i’edro Roy y Diequos, natural do Moaldo provincia do Pontevedra, do estado soltero, do 25 «ños do odad y caujacero qtio fué en Noviembro último del vapor correo «Ciudad Condal,» para quo so presente on la cárcel pública de esta ciudad á descargarse do la culpa quo le resulta en la causa quo so lo sigue como d.osertor del citado buque: seguro quo ai así lo hiciere se lo oirá y administrará justicia, y lo no verificarlo se le di olarará en rebeldía.
+Habana Febrero 10 do 1879.—José Guerra.
+Szcmo. Ayuntamiento de la HaDnv
+Secretaría.
+ANUNCIO OFICIAL.
+Do conformidad con lo que prescribe el artículo 65 de la Ley Municipal, el Excmo Ayuntamiento se reunirá en sesión pública el Juéves 27 del que rige á la tina de la tarde con el objeto -de proceder al sorteo de los contribuyentes que en representación de cada riqueza y grémio han de formar parte, como vocales Asociados de la Junta municipal del Término con arreglo al artículo 63 de la misma.
+Lo que de orden del Sr. Alcalde Presidente se hace público en la Gaceta Oficial y demás periódicos de la localidad para general inteligencia.
+Habana Febrero 22 de 1879.—Ramón Echa-v arria.
+l’or osta mi primera do edicto, cito, Hamo y emplazo por el término de nuovo dias contados des. de la focha á D. Joaquín do la Rosa, natural do Cádiz, do oslado casado, de 34 años do edad y íógone-io quo íuó en ol mes de Julio último del vapor correo «Puerto Rico,» para quo so presente en la cár-col pública do esta ciudad á dc.-cargarao do la culpa quo lo resulta on la causa quo se lo siguo como desertor del citado buque; seguro quo si así lo hiciere so lo oirá y administrará justicia y do no verificarlo so lo doclnraiá on rebeldía.
+Habana Febrero 11 do 1879.—Josb Guerra.
+D. Antonio Sauscloni y Moroy y D. Juan Zorrilla y Fernandez, lian ocurrido á la Presidencial de este Excmo. Ayuntam ento pidiendo permiso para establecer un ldosko arrimado al ángulo de la fachada de huecos do la casa Egido núm. 2, esquina á Príncipe’ Alfonso, cuyo puesto semejante al que está colocado en ia casa de enfrente y en homologa situación, se dedicará á la venta de tabacos, fósforos, etc. ele.
+A fin de que los que se consideren agraviados con esta instalación ocurran á hacer valer sus derechos ante S. S. I. en el término de ocho dias á contar desdo el de la primera publicación del presente, se iuser’a en la Gaceta para general conocimiento.
+Habana Febrero G de 1879.—El Secretario, Ramón de Echavarría.
+Aáminist' ación Local c’e Aduanas,
+No habiéndose hecho la declaración oportuna do una caja marca C. P. P. consignada á D^ Carolina Pérez y Perez conteniendo ropa do uso, importada por el vapor-corroo «Mondez Nufiez» entrado oí 18 de Octubre del oño último, se convoca por este modio á los interesados para quo dentro do quinto día lo verifiquen, pues do lo contrario se procederá á lo quo correspondo.
+Habana Febrero 15 de 1879.—P. O., Celestino Barca.
+Habana y Febrero 18 de 1879,—F. Prado.
+Real Academia de ciencias meditas, físicas y natura les de la Habana.
+El domingo 23 del corriente, á las doce, celebra esta Academia sesión pública ordinaria on su local alto, callo do Cuba (ex-conveuto do San Agustín.)
+Orden del dia.-—19 Informo sobre una herida penetrante de pacho; por el Dr. Rival—29 Informe acerca do un caso de responsabilidad módica; por ol Dr. II. Cóivley.—39 Informe rolativo á .a'mocion del Sr. Arantavo sobre ol estudio de la producción ó ín-dnstiia dol tabaco; por ol Sr. Montejo.--49 Dii.g-nóstioo diforcncial -lo las hipermegalias «piréticas del hígado; continuación, por el Dr. Beyes.—59 Discusión sobre el mismo asunto; por oi Dr, Rodríguez.
+Va tuna.—Se administra grátis tolos los miér-oolcs y sábados, de once á doce.
+Habana y Fcbroro 21 de 1879.—El Sccrotario genoi al, Antonio Mes're.
+Por esta mi primorr carta de odicto, cito, llamo y emplazo por el tónnino do nuevo dias contados des lo la fecha, á D. Ramón Estrada Zuzbito, natural de lluelva, do estado soltero, do 28 años do edad, y camarero que fué en ol mos do Noviembre último del vapor oorreo "Ciudad Cenia1,” para quo se presente en la cárcel pública de esta ciudad, á doscar-so do la culpa quo le resulta 'en la causa quo so lo siguo como desertor del citado buque: seguro quo s ntí lo hiciere so lo oirá y administrará justicia, y do no verificarlo so lo declara!á on robeldía.
+Habana Febrero 13 do 1879—José Guerra.
+Por esto mi tercer y último anuncio so convoca á D!} Ana Irán], cuyas generales so ignoran, y vecina quo fué de la callo de la Bomba, para quo dentro do nueve diss á contar desdo la fecha, comparezca en esta Fiscalía para un acto de justicia.
+Habana Febrero 14 de 1879.—José Guirra.
+Ignorándose el actual paradero de los individuos que componían la dotación del balandro «María Habana,» en la fecha en que los mismos salvaron ol vivero «Galicia,» so les cita por tercera y última vez, y por término do r.ucvo dins á contar do8->o la fecha para que to presenten en esta Fiscalía, á fin do instruirlos en la resolución reca'da en ei expediento quo so formó en la Ayudantía do Marina de Sagua la Grande, con motivo do dicho salvamento.
+Habana Febroro 14.do 1879.—José Guerra.
+Instituto Provincial de Segunda .Enseñanza de la Isla de Cuba.
+Secretaría.
+Por ignorarso el domicilio del padre ó encargado dol alumno D. José M,aría Ferreiro y Rivero, se le hace saber por este medio que dicho escolar lia sido borrado do la asignatura del segundo año de Gramática latina, por haber cometido el número de fallas do asistencia que pormito él Reglamenta, según parte dado por al Catedrático respoctivo.
+Habana 19 de Febrero do 1879.—Dr. Paulino Almirez Aguíñi.ga.
+E! Gobierno General de la Isla se ha servido aprobar las alteraciones ocurridas en el euadro de I rolesores de! colegio «Gasa de Educación,» en la A D. Juan A. Moreno, para que explique las asignaturas de 19 y 29 años do Gramática latina quo desempeñaba 1). Rufino Vidal.
+A D. Juan Vilaró para las do Geografía ó Historia general y de España y principio i y ejercicios de Aritmética que estaban á cargo do D. Tomas Plaser cin respectivamente.
+A D. Josa*Marti, para las de primer año de Gramática castellana y R tórica y Poética que desempefiuba el referido Govin.
+Habana 21 de Febrero do 1879.—Dr. Paulino
+TERCERA SECCION.
+Comandancia Militar de Marina.
+Fiscalía de causas.
+Por esto mi tercer y último odioto, cito, llamo
+Ayudantía Militar de Marina del distrito de Casa Blanca.
+D. Antonio de Pazos y Santos, Capitán de Fragata honorario y Ayudante Militar de Marina de este distrito etc.
+Por estq mi segundo edicto, cito, llamo y emplazo al manilo Anastasio Marcelino, natural de Manila, de estado soltero, de profesión marinero, de 84 anos de edad y vecino del pueblo de Regla, para quo en el término de 9 dias contrdos desde esta fecha se presento en la Cárcel pública de esta Capital á descargarse eu la causa seguida por hurto en el guáiro «Nemesio,» cierto y seguro que so le administrará justicia y de no verificarlo se lo declarará en rebeldía.
+Casa Blanca Febrero 17 de 1879.— Antoni> de lazos.
+Orden de la Plaza del dia 22 de Febrero de 1879. Servicio para el 23.
+Jefe de dia.—El Excmo. 8r. Coroniá del 1er. Batallón do Ligeros Voluntarios D. Bonifacio B. Jiménez.
+Visita de Hospital.—El Capitán del Regimiento Infantería de Cuba D. Emilio Eseartin.
+Capitanía General —ler. Batallón de Ligeros Voluntarios.
+Principal.—Batallen Cazadores de San Quintín. Hospital Militar.—Regimiento Infantería de Cuba.
+HSüddepM^”'::::r::::} In^iiieroB BJercita
+Cárcel exterior........ i*»*H
+Castillo de la Punta......
+Aduana....................
+Gobierno Militar............(ler. Batallón de Lige-
+Monte de Piedad............. | ros Voluntarios.
+Banco Español.............
+Administración Económica y
+Prevención de Voluntarios...,
+Capitanía del Puerto.—Batallón Escribientes y Ordenanzas.
+Batería de la Reina.—Artillería á pié de Ejército. Ayudante de guardia en el Gobierno Militar.-El 3? de la Plaza D. Juan Aymat.
+Imaginaria en Ídem.—El 3? de la misma D. Tomás Mansilla.
+Nota.—El iúnes 24 del actual habrá retreta en el Parque Central por la míisica del Regimiento Infantería de Cuba.
+El Coronel Sargento Mayor.—Itecaflo.
+Hospital Militar de San Ambrosio.
+Junta Ecouómic:).
+En virtud do lo dispuesto por el Excmo. Sr. Capitán General do esta Isla on primero del corriente se ha do procedor á contratar en remate público el suministro de los artículos siguientes: carne de vac», ternera y carneros, aves, huevos, lecha de vaca, iíiem do butra, \ívercs, panatelas, bizcochos, leña y carbón quo sean necesarios paralas atenciones do los Hospitales Militares do esta Plaza, desdo la aprobación do la subasta hasta fin do Junio cuyo acto tendrá lugar á las doco do la mañana del dia diez jet mos próximo.
+Lo que se anuncia al público ¡tara qne puedan presontarso como lidiadores, las personas á quienes convénga, siempro quo lo verifiquen bajo Iuh basc»; quo marca el phogo de condiciones y modelo deprc--posicion quo a continuación so expresan y precios límites que obran en la Soci etaria do esta Junto.
+Habana 6 do Febrero de 1879.—El Secretario, Antonio Pardillas.
+Pliego do condiciones bajo el cual so saca ú pública subasta la contratación do los artículos do ccr-sumo necesarios á los Hospitales Militares de esta Plaza eu virtud de lo dispuesto por <1 Excmo. Sr. Capitán General en 19 del corriente.
+1.	«s ]ja subasta so celebrará antela Junta Económica de este Hospital la quo se constituirá como Tribunal en la Dirección del mismo en el dia y hora fijados cu los anuncios publicados en la Gaceta oficial de esta capital, observándose en dicho acto ol órdon quo establoco ¡a instrucoion formada on cumplimiento do la Roal orden do 29 de Selieinbro de 1856 cd quo so hace extensivo á estos dominios-el Real Decreto de 27 do Febrero de 1852 para la celebración do subastas do todos los servicios dol ramo do guerra.
+2.	“ Se admitirán proposiciones generales por el conjunto del. suministro ó particulares para cada uno do los ramos, prefiriéndose la quo ofrezca mayor ventaja á los intereses del Estado, con el bien entendido que para la comparación, puja y demás formalidades del acto, se considerará mas ventajo-
