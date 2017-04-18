@@ -1,0 +1,1281 @@
+﻿
+
+
+
+
+
+
+
+
+
+NUMEROS.
+Tlnr?
+Recibo.
+Importe del recibo.
+NOMBRES.
+180
+180
+108
+61
+61
+28
+120
+124 112
+81
+51 81 81 47 47
+177
+52
+125 128
+2
+2
+19 15 15 23
+3
+47 44 56
+174
+133
+137
+140
+5
+55
+73
+176 154
+52
+52
+52
+10
+131
+131
+40
+4 10 11 21
+106
+81
+181
+52
+52
+107 00 00 58
+177 129
+11
+21
+22
+20 B 8
+19
+19
+73
+75
+117
+118
+48 48
+127
+108 108 108 115
+85
+83
+83
+8
+176
+94 21
+162
+7
+125
+125 62 60
+146
+146
+146
+146
+146
+140
+146
+146
+29
+188
+80
+34
+34
+140
+91
+58
+58
+98
+75
+75
+75
+12
+32
+129
+85
+126 22
+166
+18
+90
+95 93 77
+4
+188
+110
+2851
+2849
+9237
+11577
+Ricardo y A. Lloren*.,,
+Idem idem...........
+Mariano Hernandez.....
+Francisco Franchi Alfaro.......
+SU CONCEPTO.
+Primer
+Tercer
+ssemestre, trimestre.
+
+115521 Ramon de la Maza..............................¡ Idem
+Picota.........
+Idem.........
+Manrique.......
+San Nicolás....
+10317lAntonio Padefia 12522Juan L. Ariosa.
+12915
+1031
+8700
+8702
+8704
+8700
+5506
+5567
+2527
+Idem idem.........
+Idem idem.........
+Idem idem........
+idem............
+idem............
+idem............
+idem...........
+idem............
+idem...........
+Idem Idem Idem Idem Idem Idem
+10685; Ana Brfl.......................
+5879 Francisco Bru...................
+5877 Idem idem.......................
+119 Bernardo	Gallot.................
+114	Idem	idem..................
+1889!	Idem	idem..................
+1£46	Idem	idem..................
+1450	Idem	idem..................
+2908 Pablo Canales...................
+230 Bernardo Gallot.................
+5538;Dolores Segura..................
+1150 Pablo Campos....................
+1099 Ramon Sanchez...................
+68241 Idem idem......................
+6825 Josefa S. Soria.................
+6S07Í Ramon Osorio...................
+7045;	Idem idem....................
+443	Idem idem....................
+10915	Idem idem....................
+7997!lnés de Sotolongo..............
+2451 i O. Próspero Garmendia.........
+16006 Juan A. de Rojo ....... ........
+10690! Estéban 1). Garcia.............
+10697	Idem idem.....................
+10694	Idem idem....................
+1523|Juan N Entralgo.................
+6156	Idem idem....................
+61541	Idem idem.....................
+4902,Juan de C. Norofla...............
+394	Idem idem....................
+1555! Archicofradia del Espíritu Santo.,
+1045! Idem idem......................
+2019. Ana Rosain.....................
+90191 Andtós Noroña.................
+2907 Salvador Neira.................
+2963!	Idem idem....................
+10633 Juana Reinaud...................
+10636 Arisela Jaquieren...............
+9168 Francisco Baniano...............
+120241 Juana Reinaud.................
+120251Francisco Reinaud..............
+11299|Maria do A. Sanchez............
+2007; End l.o Ponton................
+59241 Francisco Avila...............
+11029 ! J listo Echa va iría.........
+2101;	Idem idem....................
+2115!	Idem idem....................
+1978' Idem idem...........v.........
+807 Francisco Fernandez............
+
+809 1871 1873 8180 8182 12240 12270 5709 5709 5753 9251 9253 9220 9901 13432 13173 13181 738 2439 14371 2013 16741 610 13020 13022 11064 11409 7659
+7661
+7662 7661 7666
+7668
+7669 7671 3834!
+Neptuno.........
+San Rafael......
+San José........
+Cuba............
+Industria...7.;........
+Idem...........
+Idem......
+Idem...........
+Consulado.......
+Idem..................
+Oñcios.................
+Perseverancia..........
+Crespo.................
+Idem....J......;......
+Amargura...............
+ídem..................
+Lamparilla........•....
+Habana.................
+Idem..................
+Obispo.................
+Aguiar..............'..
+Consulado..............
+Blanco.................
+Rayo...................
+Dragones...............
+Idem..................
+Idem .................
+EArella................
+Bomba..................
+Pefialver............\.
+Gervasio...............
+Obrapía............  ....
+Jesns del Monte.......
+Perseverancia..........
+Idem..................
+Idem..................
+Habana.................
+Concordia..............
+Idem..................
+Arsenal................
+Aguacate...............
+Habana.................
+Cuba...................
+Luz....................
+Lealtad................
+Riela..................
+Idem..................
+Prado .................
+Idem..................
+Manrique...............
+San Miguel.............
+Idem .................
+Refugio ...............
+O'Reilly...............
+Cien fuegos............
+Cuba...................
+Merced.................
+Idem..................
+Luz....................
+Compos tela............
+Idem..................
+Lamparilla.............
+.....	24
+.......	22
+.....	130
+..... 122
+.....	95
+.....	121
+.....	1
+.....	O
+.....	95
+......r	173
+.....	127
+.....	129
+.....	131
+....14	y 16
+.....	148
+28
+145
+21
+28
+239
+4
+80
+44
+(0
+80
+76
+32
+23
+35 í-2
+78 10
+5
+42
+23 27
+31J 34 97
+36 17 56 58 36 21
+5
+811 60 ¡
+66
+481
+49
+41
+43 101 123 121
+42 64
+109
+109
+79 104
+24 32
+61
+49
+49
+47
+45
+25
+93
+70
+81
+37
+117
+15
+10
+9
+30
+08
+36
+Idem idem..........
+Francisco de Cárdenas..
+Idem idem........................| Idem...................
+Justo de Cárdenas..................  iGallano.................
+Idem Idem.........................! Idem..................
+Idem idem........................¡San Luis Gonzaga........
+Idem idem............................ Idem.................
+Andrea Sánchez.......................¡Campanario .............
+Rosa Rosales..........................   Idem.................
+Justo Echavarria.....................! Idem...................
+Idem id m.........................Manrique.............*...
+Idem idem.;.......................1 Idem...................
+Micaela Urrutia......................i Idem...................
+Justo Echavarria.....................Monte....................
+Idem idem........................ Virtudes................
+José Maria Vela/quez.................Universidad..............
+Justo Echavarria..................... Vapor...................
+Micaela Barrada....-,................Compostela...............
+Merced M. de Caro.................... Obrapia ................
+Herederos de Hoyo.................... San Salvador............
+Tomás y D. Mendiola.................. Luz ....................
+José Jiménez.........................¡Puentes Grandes Real.......
+Francisco y M. López................. Conde...................
+Francisco Sainz..................... ¡Tenerife................
+Idem idem......................... ¡ Idem .................
+'San Nicolás............
+Suarez..................
+Figuras........
+i dem..................
+Figuras ................
+Idem...................
+Idem...................
+Idem...................
+81
+1IÍ
+Idem idem.......
+Juan Suaiez.......
+Felipe Sainz........
+Idem idem.......
+Felipe Sainz.......
+Idem............
+Idem............
+Idem............
+Idem...........
+Idem............
+. Idem............
+36821 Juan Sainz.......
+6636 Felipe A fio de Ajo.
+14 f 19
+2
+38
+180
+42
+4f
+32
+244
+113
+96
+110
+182
+16
+5
+12
+18
+5
+30
+24
+18
+45
+21
+26
+15
+10
+4
+20
+21
+53
+72
+40
+88
+16
+54
+45
+84
+20
+40
+80
+22
+57
+16
+48
+07
+40
+24
+36
+40
+60
+48
+42
+72
+30
+80
+50
+70
+54
+ATRASOS.		
+,	*	1		
+B rfá to B w K> p • 0 cñ tí (D O«		tí O 05
+(T> O 'S		a _ *
+» 2.00 3 2.00	? 2.0°	3 'j5
+3c.5BO.iBoa.: e o ä;
+~ ‘	2 «Tg • S ?
+afiæ *
+œ Ss '
+4342:
+4343
+7117
+14057
+11256
+11258
+14728
+8149
+8150 9151 4539 4127 5941
+13387
+13072
+2121
+17094
+1754
+13911
+María J. Martinez, francisco Gutierrez.
+Francisco Lopez.....
+Jado, Sarazûa y CL
+Jésus B. Galvez.....
+Luis de V. Solallo.
+Idem .... Idem ....
+Aguila....
+Villegas ...
+......¡Industria.
+....... Angeles ...
+...... Idem....
+....... Estrella...
+.......Cerro.....
+.......Befugio....
+Idem.
+José y M. González.....................'J. Monte
+Concepción Becerra.........
+Emilio Becerra..............
+Ignacio Becerra............
+Lorenzo D. González........
+Ricardo Bravo..............
+Camilo Calleja..............
+Concepción Becerra..........
+Justa Posen.................
+Dolores Mendoza............
+Justa Pose................
+Dolores Mendoza............
+Mariano» Hernández.........
+144601José Soroa................
+12398 Francisco Q. Bolívar......
+8519
+6427
+3677
+9438
+Serafín Mantilla.......
+Francisco María Cruz....
+Fraucisco Caleal ......
+Maria Antonia Barroso,
+Galiano.
+Idem...................
+Idem...................
+A. Norte................
+Amistad..................
+Cienfuegos..............
+Virtudes................
+Trocadero...............
+Merced..................
+Quemados de Marianao....
+J. Maria................
+Cerro...................
+Tulipán.................
+Salud...................
+Gloria..................
+Corrales................
+Villegas.................
+Maloja,.,...............
+!	Total.
+Habana 12 de Abril de 1880.—El Oficial del Negociado, José de Navas.
+		9	
+14	40	7	20
+14	40	7	20
+12	24	6	12
+27	54	13	77
+10	80	5	4O
+60	60	15	
+32	í>6	16	28
+22	74	11	37
+18	06	09	03
+12	24	6	12
+12	21	6	12
+12	21	6	12
+		39	78
+		18	
+73	44		
+45	36		
+12	24		
+14	40		
+14	40		
+12	21		
+		45	40
+	...	7	20
+		30	60
+		18	36
+		22	95
+		9	
+		21	42
+		18	36
+...		10	8,1
+		10	80
+		30	72
+.		ot>	72
+		9	
+		61	20
+		12	£-1
+		24	48
+	...	36	72
+		9	
+		4	50
+		27	54
+		24	48
+		11	65
+		30	60
+		4	35
+...		22	95
+...		32	13
+		4	59
+		9	
+		12	24
+11	52		
+28	66	Í4	So
+22	54	11	27
+16	20	8	10
+44	64	‘>2 htht	32
+...		7	33
+		5	8
+...		6	52
+	...	7	24
+		4	72
+		1C	80
+		5	40
+		9	• i.
+)		36	
+...	...	17	13
+	...	27	
+	...	6	48
+	...	7	20
+12	24		
+67	32		
+52	7-1		
+52	02		...
+14	40		. -.
+...		Í7	35
+	...	17	35
+		17	35
+	...	12	21
+...	...	14	92
+	...	6	
+	...	8	24
+	...	18	36
+	...	10	80
+		12	20
+	...	5	40
+)	...	36	
+)	...	21	43
+1		42	84
+l 7	36	3	68
+		12	24
+		17	10
+Ì 8	64	4	32
+$ 3993	48	5447	09
+INDUSTRIA Y COMERCIO.
+¡Sección l1.1—Capitulo 1?—Articulo 5?
+RELACION uominal por conceptos de los recibos cobrados hoy 12 de Abril de 1880.
+NUMEROS.
+Tlnr?	Recibo.	NOMBRES.
+15 2	1417 178	
+		Maria Diaz			
+17 . 36 14 14 34 52 35 14 12 9	1649	
+	3574	
+	1396	
+	1331	
+	3311	
+	1521	
+	3439	
+	1392	JoftÆ fî. Gonzalez	
+	1106	
+	817	Ricardo Fernandez y H?		
+9	816	Antonio R. Aguirre	
+12	1189	
+17 15	1700	José Tarno			
+	1138	
+	3416 1020	Francisco Riera	
+17		
+12	1184	Sera fin Foncueva				
+9	890	
+11	1050	Francisco Gago			
+11	1022	
+51	1306	El mismo						
+17	1683	Juan Catalft	
+18	1787	Manuel C'ueto 	
+42	4172	Eduardo Vazquez					
+10	919	José Luanas.fi	
+11	1079	Manuel Menendez	
+36 * 2?	3584	Romaguera v Medina	
+	2169	Miguel Valls	
+13 21	1227	
+	2095 114 1-24 3767 790 4820	Andres Puente Lopez	
+2 18 38 8		José Martinez	
+		
+		
+49		
+19	1879	
+11 12	1031 1187	Aldao y Ilermanos	,	
+13	1267	
+42 8	4135	Cândido Junquera.			
+	757	Joaquin Rodriguez		
+35	3495	Arnalio Perlasia y Sierra	-	
+29	2690	J. M. Zangroniz	
+27 22	2685	J. F. Berndes v < !a			
+	2188 Mauricio Miranda		
+	447 Manuel Cuevas		
+28	2740iDiego Gonzalez Lopez		
+30 42	■'968 (labrisas v C?			
+	4152	Camino y C?	
+5	448	Fernandez y Sobrino	
+SUBCONCEPTO.
+Bodega................
+Carbonería............
+Bodega................
+Peletería.............
+Bodega................
+Idem.................
+Locería...............
+Bodega................
+Panadería.............
+Bodega................
+Idem.................
+Idem.................
+Idem.................
+Idem.................
+Idem ................
+I dem............-..
+Mueblería.............
+Bodega................
+Idem.................
+Idem.................
+Idem.................
+Idem................
+Idem................
+Idem................
+Bodegón...............
+Sombrerería...........
+Bodega................
+Idem................
+Panadería.............
+Café..................
+Bodega ...............
+Café..................
+Carbonería............
+Bodega................
+Puesto frutas.........
+Bodega................
+Hojalatería...........
+Botica................
+Bodega................
+Idem ..... ..........
+Idem.................
+Sombrerería...........
+Barbería..............
+Panadería.............
+Comerciante importador ,
+Idem..................
+Café..................
+Azucarería............
+Comerciante importador.,
+Fábrica de jabón......
+Sombrerería...........
+Azucarería............
+Totales...
+Habana 12 de Abril de 1880.—Frangine Dam.
+Totales..
+__e+, ÖD öc ££. c* M B.
+O « S.’ÎB O 3 fi
+» oo — -
+o ■
+aog-ï.SQg'iEglS'Jgg.g-<4 S § o'X B B'< § g-g^ f g S
+; S3>: 1
+p A t-i rP
+(T> O
+o :
+CT s-1 •
+sai
+u>: ►e- :
+co : 05 :
+3 g
+CD P*
+crB
+o •
+Cn •
+rfà ; •
+42* ce s-t »£*• OC —* CD 1+^
+MCD^Om-L^OOMWH
+I!
+en 00 : o *-* • o o :
+m to
+t—i CO ot
+»-à to CO CO o to CO
+CÛCOMCOOCOCOOt^^;
+CDCOsts-CnOiCOlO^-^^tO
+H -d -1 Cl	^>1—*051—*CO
+5 ÍO 05 *-J1 ►fc* CO	CO
+j^OCD4>.OtOW
+13
+H-* CD CO IO
+j-jà.	i—i H CD W CD 05
+h-*qOGDOiCnfcCl4àCOCDCOCD
+,
+I pS
+sB
+en co :
+O H* »
+o o :
+h-* to
+i—I CD 05 V-r dà» CD CO tO tO IO COCO»—‘Cn	^ 2 ? t* Ê
+CD dà. Oí ‘ 05 —T 05 Oí ^ (-KIP^COtoWHOiHOS
+
+•O dr H4 d-* CO - dà. Cn io s-1
+dà
+co'
+£
+co
+1
+O >-3 O O 2 *“9
+id
+æ
+d
+g
+a
+3
+o
+CD
+4
+CD
+CD
+P
+H
+o
+»
+o
+0
+•d
+o
+4
+P-
+o
+F
+p
+m
+CD
+O
+o
+M»
+0
+V
+P
+m
+c+
+p
+CD
+i—i
+P*
+H-
+P
+Pi
+CD
+i—i
+P
+£5
+CD
+0
+F
+P
+dencia y certificados do uno á otro conductor, no verifiquen anto el Administrador de aqael.as onci
+. /i 1	r	. „ .3 »»Awf i fi onv oD ft! HÍÍ.RÍ1 Id O !' ■
+tí
+5 ,
+>3
+. pj
+CD »
+*4
+o
+B
+O' -S
+O
+no
+OfJ0 p P' H-i
+B p * g S 5
+Jig-
+hrj .. ^ m M ^ ®
+^ B* 8® "
+X ^ so H
+»er*
+* g 3 Ss.® fi
+Qj w p *
+m (t.
+•< o.?.®
+k;® ® co
+r* p
+affi n ir
+0D§
+rr CO » p
+• a-
+OP
+P da P 0
+cn o
+O
+hH
+H
+O
+>
+Ö
+M
+OD
+>
+%
+o
+a
+>
+02
+H
+ss
+öS
+ss
+>
+cC
+to
+CD
+00
+00
+o
+h
+!•
+C5
+ss
+o»
+Ss
+to — to to to co to H4 m cn o co to ^	0
+JL ÇTCTQ Ä g. P - ^ Q
+cr hi • -z
+•-s s .
+, cr ^
+,CD
+r CD rD O • *. ce * 00 , IO O <1 o CD -, CD *
+
+ce
+4 l-ià
+M tO <1 “
+3 < _
+®	-I »	«	S O	>
+q	JD y	fi-	N X
+O	• g	-og cr,;
+O	00 OD	CO D*	:
+:	b»0-'	"
+ÍD
+oc:
+b
+tì
+b
+o
+Whj
+m2
+«§*
+Qg
+W
+tí
+CD
+o
+CD
+■••"•“»■JS Cv		oT
+tí BS»,»'S. »»¿g CA		bC O
+	Pagó )> )) )) ))	GO O
+	Pagó » »	rfà O
+o
+S"3
+SO 2.
+»3
+w*
+C12 c+-
+b3
+O“
+Oes tí c
+^(D
+to	^ dà
+coococo<rco<rcooo
+O to -I Di O) H H CD CD LO Oí O 05 CO CD I—1 CD dà 05 CC CO QQ to Ol to to -a
+o
+GO dà.
+o
+s?
+o
+cr
+to
+o
+50
+2.
+o’
+tí
+CD
+w
+tì
+p>
+o
+hH
+o
+ÖS
+p-
+CD
+¡. CO o
+I -a oa
+co
+p
+r-i
+OD ®
+Ss
+m
+B a
+*0 CD
+" tb ss ¡3
+0 ttí
+là S
+L_L O
+CD
+cn
+05 ;
+o
+*1
+cn
+w o o o
+H-* CD
+2 &
+P
+O
+cn
+> a o>
+3
+B
+p
+cn
+pà
+p
+^0
+o
+*-t
+c
+o
+p
+o
+o
+►o
+O p
+o.g
+CD ©
+M © P ^ Pj P
+Ö Pi
+OD O e-t-
+2. © ^ o
+c|
+? 8
+Importe del reell.0.			
+Primer semestre.		Tercer trimestr-.	
+	66	19	33
+17	32		
+33	32	16	66
+80			
+38	66	Í9	33
+38	66		
+173	32		
+38	66	19	33
+161	321		
+38	66	...	33
+45	32		
+117	32	58	
+117	32	58	66
+45	32		
+38	66		
+38	66		
+40			
+33	32		
+45	32		
+65	32	32	66
+45	32		
+45	32		
+38	66		
+33	32		
+33	32	16	66
+2C		10	
+4£	32		
+45	32		
+66	67		
+4C		20	
+41	32	20	66
+40		20	
+21	32		
+		20	
+20		10	
+133	32	66	66
+...		9	33
+	...	117	34
+	...	22	66
+	...	22	66
+	• . .	20	66
+		36	66
+		13	33
+	...	50	
+		266	66
+	...	266	66
+	...	17	33
+		38	
+	...	166	66
+...	...	133	331
+...		20	
+...		38	
+1958	35	1647	891
+Administración. Central de Correos.
+El Exorno Sr, Gobernador General se ha serví do disponer qao e! dia 30 del actual so saquo por segunda vez á pública subasta el servicio de conducción de correspondencia entro Alvarez y Sierra Mona bajo ti siguiento pliego de condiciones cuyo acto tondrá lugar en oí local que ocupa esta Administración y simultáneamente cn los Gobiernos Civiles de Matanzas y Santa C’ara á las 12 de la mañana dol expresado dia 30.
+Habana 9 de Abril de 1880. — Carlos de Hojas.
+Pliego do condiciones bajo las cuales debe subas
+tarso el servicio do conducción de la oorrespon
+dencia entro Alvarez, Sierra Morena, Corrali.
+lio y Palma Sola.
+1? E¡ contratista so obligará á conducir diariamente de ida y vuelta desdo Alvarez ó soa Cascajal á Palma Seia, la correspondencia y periódicos que le fueren entregados, sin excepción de ninguna clase, distribuyendo on su tránsito los paquetes dinjidos á cada Administración de Correos y recc-jiondo los que de ella partan para otros destinos.
+2? La distancia que comprendo la línea posta), el tiempo en que debe ser recorrida y las horas do entrada y salida on las Administraciones do ámboe extremos y las dol tránsito, será ol señalado on el itinerario que a continuación so expresa.
+3X Por los retrasos cuyas causas no so justifiquen debidamente, se exijiiá al contratista en el papel correspondiente, la multa do cinco pesos por bora, abonando además los porjuicios que se originen al Estado.
+4a Para ol desompeño de esto sorvieio deberá tener ol contratista los caballos necesarios al mejor y reas exacto cumplimiento.
+Sí Los caballos destinados á esto servicio se emplearán exclusivamente en é1, y en los viajes que conduzcan correspondencia, no podrán llevar efectos ni oncargo alguno para particulares.
+6? El contratista deberá poner los serones y tapas noco3arias para la conducción do la correspondencia y resguardo d ) las balijas, conforme al sistema dol pais, recayendo sobro aquel la responsabilidad á que bubiore lugar, si por descuido ó falta do otra especio, sufriere deterioro la correspondencia que conduzca. Les aperos mencionados serán do cuenta dol contratista en toda la linoa de su oargo.
+7¡j. El contratista deberá poner por su cuenta los conductores necesarios para el servicio, en ol concepto do que éstos serán de la elaso do hombres blancos que sepan leer y oscribir para que puedan distribuir ios paquet s que se le entreguen y firmar ol recioo de la correspondencia y certificados.
+84 La responsabilidad de la ontrega de las balijas de correspondencia y pliegos certificados será del contratista, sin que pueda resignarla cn ninguno do sus dependientes
+9g, Los conductores se harán mutuamente la entrega 4o la correspondencia y certificados ante el Administrador de la oficina en donde terminen los trames, haciendo éste constar on el vaya la entrega que únte é' se hubiese verificado, la que firmarán aquellos en prueba do stf conformidad, y dando en Otro caso cuenta da las fu tas que notare.
+10. Los conductores no podrán relevarse sino en los puntos donde huya Administradores de Correos, pues «un cuando en los intermodios existiesen paradas de relevos, serán para las caballerías, re-
+de tres á cinco leguas.
+11. El objeto de que el relevo de conductores aga en punto donde baya Administración de
+ñas, á fin deque éste pueda certificar on ol pasapor te el número de paquetes que so entrega y ol ®8t,a o en que se encuentran éstos do bion ó mal tratados, para que do este modo pueda, on caso do extravio o averías, exijirso al conductor en quion recayóse a falto, la responsabilidad á que hubiere lugar, y p01 consiguiente al contratista legítimamente responsable.	L
+12.	No será causa bastante que un conductor de los nombrados por ol contratista so enferme ai tiempo de salir á viajo para que ésto se demore, por que en tal caso os obligación' de dicho contratista reemplazarlo con otro que llene las circunstancies que expresa la condición sétimo, de lo cual dara eonocim’ento a! Administrador do la oficina donde parta.
+13.	Cuando por ouslquior motivo no llegasen I03 conductores á los horas señaladas cu ol itinerario y fuese necesario despachar otro cn su lugar, será este gusto de cuenta dol contratista.
+14.	Los conductores on los actos del servicio usarán las insignias que por la ordenanza general de! ramoso les conoode,con el fin do darlos el carácter de tales conductores de Correos, para que sean respetados y auxiliados encaso necesario por lf s Autoridades locales do los partidos por donde transiten.
+15.	El contratista dará conocimiento a los Administradores do Correos situados en la línea poñtal de las personas á quienes nombre para conductores á fin de que dichos Administradores lo hagan al Sr. Gobernador ó Autoridad del distrito, para que instruidos de los antecedentes y circunstancias de los nombrados, puedan éstos sor ó no admitidos al servicio para que se les destina,
+16.	Si por convenir al mejor servicio se establecieren los conductores por cuenta del Estado, quedarán sin efecto, como parte integrante del contrato las condiciones desde la sétima hasta la quince inclusivo, estipulándose convencionalmento entre la Autoridad respectiva y el contratista las cláusulas consiguientes á dicha variación.
+17.	Será obligación dei contratista correr los extraordinarios del servicio que ocurran abonándoselo las cuotas establecidas en la tajifa vigente
+18.	Si durante ol tiempo de este contrato fuese necesario aumentar ó disminuir ¡as expediciones, variar ó suspender on parto la líuea designada ó di-rijir la correspondencia ; or otro ú otros puntos, serán do cuenta del contratista los gastos de estas variaciones sin derecho á indemnización alguna; pero si do la variación resultare aumento do disíancia, el Gobierno determinará el abono, por cuenta dol Es tado, de lo que corresponda á prorata. Si la línea so variase del todo, el contratista deberá contestar dentro de! término do loa quince dias siguientes al en quo so dé el aviso, si conviene ó rió en continuar el servicio por la nueva línea que se adopte.
+19.	Los Administradores de Corfeos, en uso de sus facultades, harán cumplirá los contratistas y conductores sus obligaciones, celarán el buen desempeño do ésto», é impedirán que so conduzcan clandestinamente cartas y pliegos y que se cometan fraudes de cualesquiera otros.
+20.	La subasta del servicio de la línea postal á que so refiero esto pliego de condiciones, se anunciará en la Gaceta Oficial y Bole'in de la Habana, y los periódicos do los distritos de Matanzas y Santa Clara, como también por carteles en los paraji s públicos en que so convenga, y tondrá lugar simultáneamente ante el limo. Sr. Secretario del Gobier-uo General y Gobernadores Civiles do Matanzas y Santa Clara, con asistoncia de los administradores de Correos respectivos y en los locales que indiquen dichas autoridades.
+21.	El tipo máximo para ol remato será el do dos mil cuatrocientos pesos oro, no pudiondo admitirse proposición que exceda de esta sumo.
+22.	Para presentarse como licitador será condición precisa depositar on la Administración Económica de la Habana ó on cualquiera do la Isla, la cantidad de doscientos cuarenta pisos, on metálico, ó on su defecto presentar una obligación do arraigo que garantice legalmento dicha suma. Tanto aquella cantidad como este documento serán devueltos á los respectivos licitadores que qned ren fuera del compromiso del remate, reteniéndose en calidad de depósito la del nirjor postor hastaiqu« se otorgue la correspondiente escritura y presto en su consecuencia la fianza que previene la condición 30. En el caso do que el mejor postor hubiese presentado una garantía personal, la reducirá áimetálico y si la subasta resultase per menor suma que la prefijada, disminuirá su depósito á la cantidad necesaria para quo exista la proporción de ciento por mil entre ésta y aquella.
+23 Las proposiciones se harán en pliegos cerrados y en olla se fijará la cantidad porque el licitador so comprometed prestar el servicio deque se trata. Estas proposiciones se presentarán durante el tiempo señalado para la subasta del distrito on quo so publiquen los anunoios ó aquel quo baya de autorizar el remate y también a este on el acto de la subasta, acredilando al mismo tiempo ol depósito de que habla la condición anterior.
+24.	Para exLender las proposiciones se observará la fórmula siguiente:—«Mo obligo á desempeñar la conducción dol Correo por la línea postal establocida entro Alvaroz ó soa Cascajal y Palma
+Sola, por ia suma do........... anuales, bajo las
+condiciones contenidas en ol pliego publicado.»— Toda proposición que no se bailo redactada en estos términos y firmada por el ptoponento, ó que contenga modificación ó cláusulas condicionales será desechada.
+25.	Abiertos los pliegos y leídos públicamente se extenderá ol acta del remate, declarándose éste á favor del mejor postor, sin perjuicio do la aprobación Superior, para lo cual so remitirá á la posible brevedad el expediento al G.ibiorno Gonera).
+26.	Si de la comparación do las proposiciones resultasen igualmente beneficiosas dos ó mas, se abrirá on el acto una nueva licitaoion verbal quo no excederá fíe media hora, en la cual serán solo ad mitidos los autores do las proposiciones estampadas ó sus representantes. Los Imitadores que en caso de empate no estén presentes ó representados en el acto de la subasta, se entenderá que desisten do la licitación.
+27.	Hecha la adjudicación por la Superioridad se elevará el contrato á escritura pública, siendo de cuenta del remaianto los gastos do olla y de dos copias, una paraol Gobierno del Departamento y otra para la Administración General do Correos de la Isla.
+28.	Bq la escritura que so otorgue para el exacto cumplimiento de esta contrata, so insertaré íntegro d presente pliego de condiciones con el itinerario que lo acompaña.
+29.	La contidad cn quo quedo rematada la conducción, se satisfará por mensualidades vencidas, on la Administración do Correos que dosigne el contratista.
+30.	Para respondor del cumplimiento de la presente contiata prestará ol rematante una fianza que podrá consistir on dinero ó en fincas en la f r-ma y por las cantidades ó valores que á continuación so expresan. Cuando la fianza so preste endinero, ingresará el contratista oó Tesorería la cuarta parte de la cantidad anual en que se hubiese rematado ol servicio. Cuando consista en fincas urbanas deberá ascender su valor por lo ménos á la mitad de la cantidad anuai que el contratista dota percibir. Cuando se hipotequen fincas rústicas deberá ascender su valor al setenta y oinco por ciento de la cantidad anual en quo se hubiese rematado la posta. Tantos las fincas rústicas como las urbanas se justipreciarán por peritos en forma loaral antes do ser admitidas como fianza. No so di " contratista la fianza pn stada cn dinero ni celai¡¿iíi las fianzas que se hayan prestado en fincas rústicas ó urbanas, hasta quo la Administración do. claro bien hecho el servicio quo garantizan y que no existe por resultado de él ninguna reclamación pendiente contra el empresario.
+31.	El contrato durará cuatro años contados desde el dia en que dé principio el servicio. Esta fecha se fijará al comunicar la aprobación suporior
+remate.
+respectiva y ésta á la General, á fin de que con opoVtunidad pueda procedorso á nueva subasta; poro si en esta órooa existiesen causas que impidiesen verificar el remate, el contratista tendrá la obligación do continuar por la tácita tros meses más, bajo ol mi-mo precio y condiciones.
+33.	Contratado el servicio do la expresada línea no so podrá subarrendar, ceder ni traspasar todo ó parte de él sin previo permiso do la Autoridad Superior.
+34.	Si por faltar ol contratista á cualquiera do bis condiciones extipularlas so irrogasen perjuicios á la Administración, ésta por el lesarciniieuto podrá ejercer su acción comea l:v fianza y bienes de aquel con arreglo á ia Instrucción de 8 de Noviembie fíe 1859.
+35.	La acción do la Administración para cora-¡.oler á los contratistas al cumplimiento del contrato será ejecutiva, siendo reciainables las providencias de aquellas en la vía eontenciosf -adminisirati-va después de agotada la gubernativa por su orden gerárquico, con arreglo á la Real cofín1 a de 30 fío Enero de 1855.
+36.	Ei itinerario á que se refiere ¡a condición segunda será e' que so esthmpa á continuación, el cual habrá de observarse con exactitud, siempre que no ocurran acoidenlos que alteren su cumplimiento en cuyo caso será preciso justificar en el vaya quo corresponda á la expedición, el motivo do la demora.
+37.	No so extenderá ninguna escritura sin acreditar ántes haber satisfecho á la Imprenta de la Gaceta el importo do la publicación do 'este pliego.
+Habana 8 fío Enero do 1380.— Gárlos de Rojas.
+?
+«
+<¡
+tí
+tí
+tí
+H
+O
+t>
+M
+X
+sá
+13
+Ö
+O
+Sí
+M
+OT
+!_ tí 3- O » < < H g M E0 P S U B
+3 3 88 =» N-N ?5=od
+B|P: :
+a £- ! :
+Ä O : : :
+*	r-“ -J (D
+2-j si o
+i : o 3:
+! : foi
+o i¡*
+o Cu
+2B
+*3 s-
+3 B-
+D %
+u.
+P o — 3
+'D .0
+ri à—:
+H3
+o
+B
+-	- - o
+-	- - p.
+fi 3
+to P. p~ O
+8 ® 5>tí
+o ■** œ {J
+. p
+Cu
+P
+Cu
+CD
+e*tí F-o tí(g
+O tí p
+• p UJ
+cr
+o
+3 « -■s
+i-sd
+B tí B>
+e
+o’
+00	05 O»
+a 3 h»
+g g O«
+g o -
+P <T> Q-
+0	• 2
+p g
+1 ------ —■ i
+CD'ïMiUtî
+P Oí p
+0 X
+m. — fi — £■ p.ftPa?
+CD CD CD CD
+B B ‘ B
+tr
+o
+3
+j» tí
+-g
+CD
+E?m g- H
+<Tt-
+o
+I—I h-* co fco
+t- 05 ^
+-C'3
+Í B S -l-
+B I ê-g*? FÎ-* B 3.
+• CD
+tí
+mcs ic
+M tí»..*» B tí B»'1
+»g 8 S
+g & a
+F o
+oc
+H
+H
+S
+tí
+tí
+>
+tí
+UH
+SSO 2 ®
+* s»
+*2
+UH fi
+c a ® pi
+a o
+S»
+X*
+13
+8
+h
+P O 8fc$f
+CJ
+a
+c
+o
+o
+3
+Ö
+a
+<T>
+B
+G.
+p
+p-
+CD
+Alcaldía Municipal.
+Dispuesto por el Excmo, Sr. Gobernador (Jivil de esta Provincia que los establecimientos de Farmacia existentes on esta capital, se provean do la correspondiente licencia para el ejercicio do su industria como todos los demas establecimientos de corr-i-rcio, so anuncia por este medio á los interesados para quo dentro del preciso término de veinte lias á contar des l-- iu fecha del presente núraoro acudan á proveerse de eso dócum uto er¡ esta Alcaldía prévia presentación de una instancia, informada leí Inspector da policía de! distrito y Alcalde do barrio respectivos, on la inteligencia do que el que deje Je verificarlo so le exljirá la muir- que señala el artículo 62 do las Ordenai zas Muni< míos.
+Habana Abril 5 do 1880.—Pedro Balboa.
+Administración Sncal de Aduanas.
+Refechos liquidados en el dia de ayer.
+Dopart&mento de mucllos...............8	25534	81
+Idem ídem almacenos... .............. 13906 28
+Total......$	394H	09
+Contraido en esta fecha.
+Por importación......................-8	37529	35
+Idem exportación..................... 8121	81
+Idem multas............................. 2380	51
+Idem derechos de navegación............. 1262	21
+Idem comises....................................
+Idem depósito mercantil.........................
+Idem intereses do pagarés.......	.......
+'	Total.....	44293	88
+Recaudado en esta fecha.
+Por importación.......................8 31454 13
+Idem exportación......................... 3465	23
+Idem multas............................   2014	18
+Idem derechos do	navegación ............. 1262	21
+Idem comisos......................................
+Idem depósito mercantil..................... •	•••
+Idem intereses de pagarés.........................
+Total......8 38195 75
+Habana 13 Víctor de Pagés.-
+do Abril de 1880. —El Contador, -V? B?—El Administrador, Barca.
+El Jueves 15 del actual á los doce de su mañana se rematarán en el almacén de averías 50 barriles ha ina de trigo americano caídos en pena de comiso por haberlos importado fuera de manifiesto el vapor americano «Santiago do Cuba,” llenándose en el acto las formalidades provenidas, y valorados en total en 700 peso3 oro.
+Habana Abril 10 de 1880.—C. Barca.
+del
+32. Tres meses ántes de finalizar dicho plazo' avisará el contratista á la Administración Principal
+¿Tunta Central Prot clora de £ barios,
+Vice-Pre8idencia.
+En vista de que por algunas Juntas Protectoras de Libertos no se observa con la debida exactitud lo prevenido en el artículo 14 del Reglamento de*5 de Junio de 1877, y de la indiferencia con que parece mirarse por los funcionarios públicos el artículo 11 del mismo Reglamento, con grave perjuicio de dueños y esclavos : que confian su gestión á dichas Juntas, 1 e dis-No so devolverá al j puesto en el incidente promovido por la orena *" so can-¡ Lucía Bien, recomendar á las referidas J u;as la mas rigurosa observancia del artículo 1 y quo á la vez so sirvan aquellas recordar á lo - empleados aludidos, siempre que su interv lición sea necesaria, el estrito cumplimiento del artículo 11.
+Y á fin de que llegue á ronocimiento de dichas Corporaciones á los fines consiguientes, so inserta en la Gaceta oficial.
+Habana Abril 9 de 1880.—El Vice-Presi-dente, José Maria Avendaño.

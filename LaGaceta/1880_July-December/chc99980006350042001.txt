@@ -1,0 +1,717 @@
+﻿mtrn
+1(11	539
+102	540
+103	511
+104	542
+105	543
+106	54 i
+107	545
+108	546
+109	599
+110	606
+111	610
+112	611
+113	612
+114	614
+115	615
+116	C27
+117	643
+118	644
+119	645
+120	497
+121	498
+122	499
+123	500
+124	501
+125	502
+126	503
+127	504
+128	505
+129	506
+130	507
+131	503
+132	548
+133	549
+134	550
+135	551
+136	552
+137	553
+138	554
+139	555
+140	556
+141	557
+142	558
+143	559
+144	560
+145	561
+146	562
+147	563
+148	564
+149	565
+150	566
+151	567
+152	568
+153	569
+154	570
+155	571
+156	572
+157	573
+158	574
+159	575
+160	576
+161	577
+162	578
+163	579
+164	580
+165	581
+166	582
+167	583
+168	584
+169	587
+170	588
+171	589
+172	590
+173	591
+174	592
+175	593
+176	594
+177	600
+178	601
+179	602
+180	603
+181	604
+182	391
+183	607
+184	608
+185	609
+186	547
+187	
+188	
+189	
+190	
+191	
+192	
+193	
+194	
+195	
+196	
+197	
+198	
+199	
+200	
+201	
+202	
+203	
+204	
+205	
+206	
+207	
+208	
+209	
+210	
+211	
+212	
+213
+214
+215
+216 217
+218
+219
+220 221 222
+223
+224
+225
+226
+227
+228
+229
+230
+231
+232
+233
+214
+235
+236
+237
+238
+239
+240
+241
+242
+243
+244
+245
+246
+247
+248
+249 »50
+11.
+Juan B-. Pirales', Caballería de Milicias de Güines ...
+,Jacob» Rodrigue/., Bandas y furrieles de Voluntarios...
+Gregorio Tiedra, Comisiones activas.................. '*
+El mismo, Reemplazo...............•..................
+Severo López, Kspectacion de embarque ..................
+llamón García, Personal eclesiástico de hospitales......
+Ramón García, Hermanas de la Caridad de id..............
+Antonio Jordán, Parque Sanitario.......................
+José Puga, 2.° Batallón de Orden Público................
+José Gómez Pardo, Embarcaciones menores................
+Francisco Bosque, Cruces de San Hermenegildo............
+GregorioTiedra, id. pensionadas.........................
+Bernabé Sainz, id. id ............. ...................
+Juan Alvarez, Pagas de marcha á Oficiales de Ingeuieros
+Ildefonso López, Cuerpo Administrativo del Ejército....
+Alberto Mauteiga, Establecimiento de Artillería........
+Gregorio Tiedra, Reservas de Santo Domingo.............
+El mismo, id........................................*
+El mismo, id.........................................
+Material.
+D.
+José Gómez Pardo, Comandancias generales y brigadas....
+Gustavo Ruiz, Ídem....................................
+Pascual Izuel, Sub-inspecciones de las armas.........
+Alberto Manteiga, Ídem.................................
+Juan Alvarez, ídem..................................—
+Tomás Sanz, Ídem.......................................
+José Román de Luz, Capitanía General y E. M............
+Bernabé Sainz, B. M. de Plazas.........................
+José R. de Luz, Cuerpo jurídico....... ................
+Ildefonso López, ídem administrativo........... .......
+Antonio Jordán, Ídem de sanidad........................
+Pablo Velez, Clero Castrense...........................
+Felipe Alvarez, Subsistencias militares, Puerto Padre.
+Alfredo Jullethz, Ídem Gibara..........................
+Arturo Bascuñana, idem Holguin.........................
+Faustino Cantos, idem Cauto............................
+Félix Seguí, idem Victoria de las Tunas................
+Valentín Ocio, idem Bayamo............................
+Ruperto Gascueña, idem Jiguaní.........................
+Gustavo Ruiz, idem Nueva Gerona........................
+Eduardo Marcos, idem Manzanillo.......................
+Ildefonso López, Subsistencias militares...............
+Antonio Jordán, Pluses de campaña......................
+Juan Alvarez, idem.............................. ......
+José R. de Luz, idem...................................
+Alberto Manteiga, idem ...............................
+José Gómez Pardo, Utensilios ..........................
+Gustavo Ruiz, idem.....................................
+Eduardo Marcos, idem...................................
+Arturo Bascuñana, idem...............*.................
+Valentín Ocio, idem...................................
+Alfredo Jullethz, idem.................................
+Félix Seguí, idem......................................
+José R. de Luz, Pienso..............................
+Alberto Manteiga, idem............ ...................
+Juan Alvarez, idem.....................................
+Ildefonso López, idem.................................
+Pascual Izuel, idem ...................................
+Gregorio Tiedra, idem..................................
+José R. de Luz, Montura...............................
+Gregorio Tiedra, idem..................................
+Ramón García, material de Hospitales..................
+Pascual Bascuñana, idem Holguin........................
+Alfredo Jullethz, idem Gibara..........................
+Felipe Alvarez, idem Holguin —.........................
+Eduardo Marcos, idem Manzanillo........................
+Félix Seguí, idem Victoria de las Tunas,........-......
+Valentín Ocio, idem Bayamo.............................
+Ruperto Gascueña, idem Jiguaní.........................
+Antonio Yero, idem Guanajay............................
+Jaime Ardebol, idem Bahía-Honda........................
+Casimiro Aced, idem Casa general de dementes,..........
+Valentín Ocio, trasportes, Bayamo.....................
+Eduardo Marcos, idem Manzanillo........................
+Alfredo Jullethz, idem Gibara..........................
+Arturo Bascuñana, idem Holguin........................
+José Gómez Pardo, idem Habana.........................
+Manuel Vargas, Maestranza de Artillería..............
+El mismo, Fuertes exteriores......... ................
+Manuel López Funes, Pirotecnia,.....................
+Julio de la Vallina, fortalezas de la Cabaña y Morro...
+Manuel López Bago, Comandancia general de Ingenieros.
+El mismo, idem (por Agosto)...........................
+José Gómez Pardo, Buques menores.......................
+El mismo, idem.......................................
+El mismo, idem........................................
+José Sanz de Santa María, Subsistencias militares.....
+MARINA.
+D. Francisco Painceyra, Plana Mayor................................
+El mismo, id........................................................
+D. Francisco de P. Rodríguez, Artillería de la Armada...................
+... Rodrigo S. Román, Maestranza del Arsenal............................
+El mismo, idem......................................................
+D. Isidoro Bocio, Depósito del Arsenal..................................
+El mismo, idem.................... .................................
+D. José García Alvarez; Compañía de Depósito..........................
+... Adolfo Lafuente, Fragata Almansa...,................................
+... Fulgencio Cerón, Vapor Bazan......................................
+... Luis Berdellans, idem Guadalquivir..................................
+El mismo, idem Fernando el Católico,...............................
+D. Narciso Medina, Goleta Favorita.....................................
+... Agustín M? Pol, Ponton Guadiana.............................
+... Isidoro Bocio, Cañoneros de la Capital.............................
+El mismo, idem......................................................
+El mismo, Cañonero Vigía .................... ......................
+D. Antonio M. Alvarez, Estación Naval de Gibara........................
+... Norberto Balboa, Idem de Nuevitas..................................
+El mismo, idem id ........ .......................................
+D. Manuel Amor, Atenciones diversas....................................
+... Manuel Vargas, Importe de pólvora faci itada por la Maestranza de Artillería............................................
+Sres.^Zorrilla y Compì1, Letra girada al Ordenador de Marina de Sagua.
+mismos, Idem idem al Jefe de la Comisión de Marina en Lóndres..
+D. Agustín M? Pol, Ponton Guadiana...................................
+... Norberto Bglbpa, Lancha Zaragoza.................................
+OBLIGACIONES CIVILES.
+Obligaciones generales.
+D. Augusto Figueroa, Consignación del Duque de Veraguas.
+GRACIA Y JUSTICIA.
+D. Gregorio Solís, Real Audiencia................................Personal.
+Al mismo, idem............................ ......................Idem.
+Al miemo, idem Febrero á Junio últimos...........................-Idem.
+Al mismo, idem.......—........................................Materia1."
+HACIENDA.
+D. José Pellicer, Dirección genera'................................Persona'.
+El mismo, idem.................................................Material!
+El mismo, Inspección general de Hacienda.......................Personal.
+El mismo, Sección de Estadística,...........................   Personal.
+El mismo, idem.................................................Material!
+D. Pedro Barros, Ordenación general de	Pagos.....................Personal.
+El mismo, idem................................................ Material.
+D. José de Pazos, Coutaduria general.............................  Personal.
+El mismo, idem.................................................Material!
+D. Francisco Puente Aliaga, Tcsoreria	general......................Personal.
+El mismo, idem................................................ Material.
+D. Antolm Portocarrero, Administración general de Loterías.........Personal.
+El mismo, idem................................................ Material.
+El mismo, Gratificación á los niños y morenos en cada sorteo.-B[B. 49 16 Sr. Cónsul Inglés, por alquiler de la casa Tribunal mixto.......B[B. 119 00
+GOBERNACION CENTRAL.
+D. Filomeno Muñoz, Gobierno General y Secretaría.................*. Personal
+El mismo, idem.............................................. Material".
+D. Juan Pereva, Consejo de Administración .........................Personal
+_	idem ................................................Material!
+D. Serafín Romeu, Central de Correos...............................Personal.
+El mismo, idem .............................................. Material!
+D. Domingo Marín, Sanidad..........................................Personal!
+n mi|Sn¡10i’	    Material.
+D. Manuel del Rey, Presidio........................................Personal.
+El mismo, idem............................................    Materia1.
+El mismo, Casa de Gobierno y Quinta de los Molinos............Personal.
+El mismo, ídem..............................................  Material.
+D. tiregono Sons, Subcomisión de arbitrage.........................Personal.
+El mismo, idem ........................................... ...Material!
+... Manuel Martínez, Escribanía de Gobierno........................Personal!
+••• R- de Luz, Gastos reservados.....................................
+... Emiliano Nuñez, Hospitalidades.........................................”
+Leopoldo Carvajal, Alquiler de la casa Consejo de Adiuiaistracioa..-..-..
+1400 ...	251
+185JO ...	252
+23000 ...	253
+15000 ...	251
+100 ...	255
+954 15	256
+300 ...	
+50 ...	
+22500 ...	
+4000 ...	257
+200 ...	258
+100 ...	259
+10 41 697 ... 470 ... 8000 ... 170 ... 180 ... 320 ...
+1000 •. 60 . 290 , 62 , 62 , 62 , 500 , 100 300 416 100 37 200 2500 2000 500 .1000 2500 600 225 3000 600
+25 200 200
+50
+700
+•15
+30
+40
+100
+10
+30
+100
+40
+30
+300
+26 700
+50
+100
+30000
+3800
+4000
+500
+4500
+500
+2000
+3500
+87	90
+385	20
+367	12
+2683	11
+5000	t • •
+1799	, ,
+2000	,,,
+6000	■ >
+7466	97
+18	• • •
+1888 ... 128 16 658 ... 10166 66 1000 ... 100 ... 6 ...
+100000 ...
+6444	92
+28307	51
+1551	05
+29762	41
+2752	32
+39	, • ■
+3722	14
+7361	05
+11178	75
+2529	65
+3052	64
+2231	67
+3197	81
+500	...
+1757	68
+8393	26
+1579	75
+7832	26
+11624	60
+9254	11
+9091	70
+3675	
+6000	• • •
+13750	...
+114
+6
+1333 33
+9790 15 424 98 514 42
+461 65
+11753 90 875 ... 2549 96 366 66 116 66 3187 40 133 33 5474 82 266 66 1908 28 100 ...
+91
+10967 03 500 ... 2814 04 166 66 1971 59 333 33 906 88 66 66 9677 06 370 15 127 50 250 ... 790 ... 141 ... 166 66 2250 ... 1084 50 170 ...
+260
+261
+262
+263
+264 205 266
+267
+268 2C9
+270
+271
+272
+273
+274
+275
+276
+277
+278
+279
+280 281 282
+283
+284
+285
+286
+287
+288
+289
+290
+291
+292
+293
+294
+295
+296
+297
+298
+299
+300
+301
+302
+303
+304
+305
+306
+D. Tomás Sanz, Alquiler de la casa de la Guardia Civil...... BjB. $175 25
+... Tomás Rodríguez, Idem del Orden Público................................
+... Manuel Ubiña, Telegramas oficiales.—Setiembre.........................
+El mismo, idem del mes de Abril.........................*........ ....
+... Manuel del Rey, sombreros para los penados, según contrato ............
+El misino, vestuario para los brigadas, escoltas y penados..........
+FOMENTO.
+D.
+D.
+D.
+D.
+D.
+D
+D.
+D.
+D.
+D
+D.
+Antonio Ma Gordon, Universidad ...............................  Personal.
+El mismo, idem ...... *........... .....,...................Material.
+Paulino Alvarez, Instituto......................................Personal.
+El mismo, idem................................y,............Material.
+Fraucisco Barrena, Escuela profesional........................  Personal.
+El mismo, idem.............................t................Material.
+El mismo,’Observatorio físico.............................  Personal.
+El mismo, idem..............................................Material.
+Ramón Perez, Escuela de pintura.................................Personal.
+El mismo, idem..............................................Material.
+Gabriel M? García, Academia	de Ciencias.........................Material.
+Filomeno Muñoz, Negociado de Obras públicas ....................Personal.
+El mismo, idem...................................... Indemnizaciones.
+José Irio y Oliva, Obras públicas..............................Personal.
+El mismo, puertos...........................................Material.
+Antonio Calduch, puertos......................................  Personal.
+El mismo, idem............................................  Material.
+El mismo, Faros...... ......................................Personal.
+El mismo, idem..............................................Material.
+El m'smo, Obras públicas.............................Indemnizaciones.
+El mismo, idem...........................................   Material.
+. Antonio Valdés Amorsso, Telégrafos.........’.....- ............Personal.
+El mismo, idem...........................................   Material.
+El mismo, idem...................................    Indemnizaciones.
+. Nicasio Alvarez, Montes .....................................  Personal.
+El mismo, idem............................................  Material.
+El mismo, idem.....................................  Indemnizaciones.
+El mismo, Minas.........................................    Personal.
+El mismo, idem........................................  ....Material.
+. Eduardo G. Campos, Telégrafos.—Comisión especial, por indemnizaciones
+de Julio, Agosto y Setiembre....................................... .
+, José de Echevarría, Obras públicas.—Idefti idem Setiembre...............
+, Francisco Barrena, Escuela profesional.—Haberes de Julio de 1879 á
+Junio último........ ........ .......................... ............
+- Antonio Calduch, gratificación á los ingenieros Jefes de caminos........
+. Nicasio Alvarez, idem idem á los de montes..............................
+, Antonio Valdés Amoroso, haberes de D. José M? Vázquez.—Febrero 1879. 121 mismo, idem por indemnizaciones, Octubre 1878 y Febrero 1879.....' El mismo, gratificación al personal de Telégrafos en Agosto último ....
+‘ El mismo, indemnizaciones de idem Ju}io último .......................
+El mismo, idem idem Agosto....................... ••••...............
+. Serafín Gallardo, Universidad.—Junio, Julio y Agosto últimos,...........
+. José Toribio de Arazoza, impresiones para el ramo de Telégrafos.........
+CLASES PASIVAS.
+D. Pelayo González de los Riós, lo Julio de 1878 á fin de Junio del 79 D? Elvira Calvo de la Torre, lo Abril á fin de Juuio del 79.....
+DEPOSITOS JUDICIALES.
+D. Agustín Saavedra, Testamentaría de D. Francisco Mas.—7 Mayo último.
+... Leandro Prieto, idem de I). Manuel Bouza.—19 Agosto 1878.....
+... Enrique Rondilo, Autos de D. Gregorio González.—25 Setiembre del 78,
+DEPOSITOS VARIOS.
+D. Vicente Estenoz, garantía por D. José Ma Cortés.B[B. 1048 46
+FIANZAS.
+D. Manuel Romano, Administrador general de Loterías....Bonos. 12000
+... Gerónimo’Acosta, Interventor de idem..............Acciones 3000
+... Anselmo González, acopio de piedra..............................
+Contratistas de servicios.
+307	3614
+308	3623
+309	585
+’ 310	586
+311	595
+312
+313
+314
+315
+316
+317
+318
+319
+320
+321
+322
+323
+324
+325
+326
+327
+328
+329
+330
+331
+332
+333
+334
+335
+336
+337
+338
+339
+340
+341
+342
+343
+344
+345
+346
+347
+348
+349
+350
+351
+352
+353
+354
+355
+596
+597
+598 613
+Sres. Lobé y Compañía, Medicinas para los hospitales militares de la Isla..
+D. Juan Pueyo, Trasportes militares por la Costa Sur.......................
+Sres. Lobé y Compañía, Medicinas para los hospitales militares de la Isla.
+Sres. Aders y Compañía, Instrumentos quirúrgicos para el Hospital militar de
+esta plaza..... .....................................................
+Sres. M. Calvo y Compañía, Trasportes Militares en los Vapores trasatlánticos,
+Setiembre ..............................................................
+Los mismos, idem idem Agosto.........................................
+D. Juan Pueyo, idem idem por la costa Sur, Setiembre.....„ ,..............
+El mismo, idem idem, Agosto.........................................
+... Francisco González, Limpieza de letrinas de esta plaza...............
+Sres. A. Gassol y Compañía, Víveres para la Marina, Julio.................
+Los mismos, idem, Setiembre..........................................
+D. Pablo Garniz, Carbones para ídem-, Junio........ ,........,, .........
+El nfsmo, idem, Julio y Setiembre....................................
+El mismo, idem, Julio y Set'embre....................................
+... B. Ortoll, Materiales para idem, Agosto y Setiembre ........... ......
+... Cayetano Aguilera, Medicinas para idem, Mayo.........................
+El mismo, idem, Junió................................................
+El mismo, idem, Julio y Agosto.......................................
+... Miguel Saiz y Compañía, Tejidos para idem, Agosto....................
+El mismo, idem, Setiembre....................1.. ....................
+... M. Abad y Compañía, Efectos para idem, Setiembre.......................
+... José María Arteta, Maderas para la Marina, Setiembre............. ....
+El mismo, idem idem..................................................
+... Antonio Dorta, Víveres para idem, Setiembre...........................
+Sres. Soto y Compañía, Ferretería para idem, Agosto.......................
+Los mismos, idem idem..... ..........................................
+Los mismos, idem, Setiembre................................... .......
+Los mismos, idem, Setiembre............................. ............
+... Zulueta y Sobrino, Estancias causadas en el dique por el Vapor Jorge Juan.
+... H. Upmann y Compañía, Pasajes de confinados..........................
+D. Juan Pueyo, Idem.......................................................
+Sres. M. Calvo y Compañía, Idem y pobres'de solemnidad....................
+Los mismos, Gastos reservados... ....................................
+Los mismos, pasages de individuos de Marina.........................
+Los mismos, idem de empleados........................................
+... A. López y Compañía, Subvención de los Vapores correos.................
+D. Ramón Herrera, idem.......... ........................................
+Sres. M. Calvo y Compañía, Flete de cuatro cajones de libros,............
+... Rodríguez y Compañía, Ferretería.......................................
+Los mismos, Idem.....................................................
+... Ibarra y Compañía, Suministro de maiz................................
+Los mismos, Idem.....................................................
+... Rodríguez y Compañía, Ferretería...........»....................... ...
+D. Miguel Estevan, acopio de piedra......................................
+El mismo, machaqueo de idem idem.............. ......................
+... Francisco Diaz, acopio de idem........................................
+El mismo, idem.......................................................
+El mismo, suministro de maíz.........................................
+El mismo, idem......... .............................................
+Las cantidades señaladas en esta relación se abonarán en el órden siguiente:
+Diciembre 16		J uéves	del núm.	1	al 25.
+>7	17	Viérues	7}	53	al 74.
+■* 77	18	Sábado	f>	187	al 194.
+77	20	Lunes	77	213	al 217 y 233 al 244.
+77	21	Mártes	77	26	al 52.
+77	22	Miércoles	77	75	al 96 y 281 al 286.
+77	23	Juéves	)7	195	al 204 y 218 al 232.
+77	24	Viernes	77	97	al 109 y 259 al 271.
+7)	27	Lunes	77	110	al 119 y 161 al 171.
+. Ji *	28	M artes	77	205	al 212 y 120 al 130,
+77	29	Miércoles	77	272	al 280.
+77	30	Juéves	77	131	al 152.
+77	31	Viérnes	79	153	al 160 y 172 al 186.
+Enero	4	Mártes	77	245	al 258 y 287 al 297.
+77	5	.Miércoles	77	298	al 306.
+77	7	Viérnes	77	307	al 317.
+77	8	Sábado	77	318	al 329.
+77	10	Lúues	77	330	al 340.
+77	11	Mártes	77	341	al 348.
+' 77	12	Miérco'es	77	349	al 355.
+3074 75 973 ... 1711 36 2590 17 1208 ... 21028 ...
+Administración Económica de la provincia de la Habana.	0
+Negociado de Bienes del Estado.
+Acordado por el Exorno. Sr. Director general de
+».íanrífl. sp.fin.mip á niililip.o. fin ha ata. Via i A «1 ,-.1:_ %
+7064 80 279 16 1870 77 108 33 1095 82 66 66 83 33 50 ... 508 31 91 66 41 66 441 66 75 ... 4589 06 134 66 175 ... 1547 26 1174 95 335 80 449 79 433 32 12664 97 8798 97 2196 33 966 66 235 33 187 66 266 CG 100
+general de
+Hacmnda se saque á pública subasta, bajo el pliego de condiciones que á continuación se inserta, el solar 5 de la manzana 15 de los terrenos de las Murallas, cuy0
+ae ia mituza.ua. jl» ue tus lenunus ue tas murallas cuvo acto tendrá lugar en esta Económica ante la Junta de Subastas, se ha dispuesto su remate el dia 21 del co-niente á las 12 de su mañana.
+Habana y Diciembre de 1880,—Manuel Becerra.
+623 199 98
+03 fl 03 N	OS	Superficie.		Valor del metro cuadrado.		Valor del acotamiento.	
+OS g	02	Mlrs.	Dts	Pesos.	Cts.	Pesos.	Cts.
+15	5	734	80	35	...	76	24
+Valor
+del
+solar.
+Pesos
+CU.
+25718
+Pliego de condiciones.
+2543 34 286 64 150 ... 50 ... 6 .. 64 58 620 10 182 35 141 66 17825 ...
+750
+89
+51
+962
+1000
+74
+104 82
+1. p	Las proposiciones se harán en pliegos ce. rrados y no se admitirá ninguna que lio cubra la ta. saeion.
+2.	p El importe de 1a, subasta y el depósito del 5p.§ para tomar parte en ella se ingresará precisa-mente en oro.
+3.	p Para que puedan ser admitidas las proposi. eiones contenidas en los pliegos, habrá de incluirse en los mismos la carta de pago que acredite haber deposi. lado en esta Administración una cantidad equivalente al cinco por ciento de la tasación. También podrá pre-sentarse dicha carta de pago con posterioridad á la presentación del pliego ó en el acto de abrirse la subasta.
+4.	p Constituida la Junta para la subasta en el lugar prefijado y en el dia y hora señalados, el Sr. Presidente declarará abierta la subasta, pero no se procederá á la apeitura de pliegos, hasta que haya trascurrido media hora, la cual se destinará á recibir estos y las cartas de pago del prévio depósito, y facili. tar á I03 licitadores las noticias que convengan; pasado este tiempo no se admitirán más proposiciones, procediendo á la apertura de cuantos pliegos se hubiesen presentado y rechazando los defectuosos, se examinarán por la Junta los demás, adjudicándose provisional-mente al autor de la proposición mas ventajosa.
+5.83 En el caso que resulten dos ó más proposiciones iguales y no hubiera otra mas Ventajosa, se abrirá otra licitación por pujas á la llana que no excederá de quince minutos y solamente entre los autores de las mismas, haciendo la adjudicación en favor del que más ventajas ofrezca.
+6. 05 El primer plazo del importe del remate caso de no pagar al contado, se abonará en el término de ocho cíias siguientes al en que se apruebe el remate por el Excmo Sr. Director General de Hacienda, y los nueve restantes en iguales dias de los años siguientes mediante la formalizac on de pagarés que suscriba el comprador, quedando hipotecados á la responsabilidad de los pagos respectivos, los solares y las obras que en ellos se ejecuten en cumplimiento de lo prevenido.
+7.05 Los gastos que se originen por este remate serán de cuenta del rematador, y los anuncios los abonará en la Dirección de la Gaceta oficial.
+84 12 120 1000
+2128 87 1495 30 19260 51
+12696 45
+Modelo de proposición.
+D. N...........N..,...vecino de.....calle de.....número.....enterado del anuncio publicado en la Gaceta
+oficial del dia...y de las condiciones establecidas en
+el pliego de las mismas, hace proposición para el remate del....en la cantidad de.....(en letra) pesos oro,
+obligándose á cumplir, aprobado que sea, las condiciones expresadas y demás que fija el Reglamento con los gastos de escritura, anuncios y otros que se originen.
+10000 5698 50 4000 1950 £2 140 119 86 5712 49 798 75
+17613 60 1813 50 458 79 29 30 121 90 647 50 2419 60 3257 79 166 45 3135 05 2191 06 7943 47 951 14 6275 80 9403 35 847 15 1753 80 10 70 225 ... 236 80 34 ... 2207 ... 505 ...
+60000 ... 9000 ...
+19 89 396 39 52 99 426 87 631 83 112 29 377 40 1521 65 1220 68 874 04 858 40 81 10
+NOTA—De órden del Excmo. Sr. Director General de Hacienda, se suplica á los señores habilitados que cobren por el ramo de Guerra, presenten en la Ordenación de Pagos los talones correspondientes á los libramientos que en la semana deben hacer efectivos con la debida anticipación para que puedan efectuarse las operaciones necesarias, haciendo presente que los que teniendo asignado algún pago de cualquiera naturaleza y no se hubiesen presentado para su cobro en el dia respectivo, perderán el derecho, procedióndose á un nuevo señalamiento.
+NOTA.—El Exorno. Sr. Director General, ruega álos interesados y al público en general, que si advierten algún error ó irregularidad en los señalamientos ó en los pagos, lo pongan al instante en su conocimiento, podiendo además, si gustan, tomar cuantos antecedentes deseen acerca de las condiciones y fechas de los pagos que se tfectúen.
+OTRA.—Los interesados por devoluciones de fianzas y depósitos, presentarán con tres dias de anticipación al señalado las cartas de pago correspondientes, para que puedap practicarse las operaciones necesarias para los pagos.
+Habana 13 de Noviembre de 1880,—Luis Gabaldon,
+Acordado por el Excmo, Sr. Director GeneTal de Hacienda se saque á pública subasta bajo el pliego de condioiones que á continuación so inserta, el solar cuatro de la manzana quince de los terrenos de las murallas, cuyo acto tendrá lugar en esta Económica ante la Junta de subastas, se ha dispuesto su remate el dia veinte del corriente á las doce de su mañano.
+Habana de Noviembre de 1880.—Manuel Becerra.
+15
+Superficie.
+Mtrs. Dts
+734
+80
+Valor del metro cuadrado.
+Pesos. Cts.
+35
+Valor del acotamiento.
+Pesos. Cts
+76
+24
+Valor
+del
+Solar.
+Pesos Cts.
+25718
+Pliego de condiciones.
+1. * Las proposiciones se harán en pliegos oerrados y no se admitirá ninguna que no cubra la tasación.
+2.50 El importe de la subasta y el depósito del 5 por 100 para tomar parte en ella se ingresará pre-
+oisamente en oro.
+3.	p Para que puedan ser admitidas las proposiciones contenidas en los pliegos, habrá de incluirse en los mismos la carta de pago que acredite haber depositado en esta Administración una cantidad equivalente al cinco por ciento de la tasación. También podrá presentarse dicha carta de pago con posterioridad á la presentación del pliego ó en el acto de abrirse la subasta.
+4.	p Constituida la Junta para la subasta en el lugar prefijado y en el dia y hora señalados, el Sr. Presidente declarará abiorta la subasta, pero no se procederá á la apertura do pliegos hasta que haya trascurrido media hora, 1» cual se destinará ft recibir estos y las cartas de pago del prévio depósito y faoilitar á los licitadoreH las noticias que convengan; pasado este tiempo no se admitirán más proposiciones, procediendo á la apertura de cuantos pliegos se hubiesen presentado y rechazando loa defectuosos se examinarán por la J unta los demás, adjudicándose provisionalmente al autor de la proposición más ventajosa.
+5.	En el caso que resulten dos ó más proposiciones iguales y no hubiera otra más ventajosa, se abrirá otra licitación por pujas á la llana que no •*-cederá de quince minutos y solamente entre los autores de las mismas, haciendo la adjudicación en fr* vor del que más ventajas tfrezoa.
+6.86 El primer plazo del importe del remate caso de no pagar al contado, se abonará en el término de ocho dias siguientes al en que se apruebe el remate por el Excmo. Sr. Director General de Hacienda, y loa nueve restantes en iguales dias de los años siguientes, mediante la formalizaclon de pagarés que suscriba el comprador, quedando hipotecados á la responsabilidad de los pagos respectivos, los solares y las obras que en ellos se ejecuten en cumplimiento de lo prevenido.
+7. p Los gastos que se originen por este remete, serán de cuenta del rematador, y los anuncios los abonará eu la Dirección de la Gaceta Oficial.,
+Modelo de proposicioD.
+D. N....N....... vecino de....... calle de.... i
+núm, ....... enterado del anuncio publicado en 1»
+Gaceta Oficial del dia...y de las condiciones esta-
+blecidas en el pliego de las mismas, bam proposiciones para el remate de.......... .en la cantidad
+de......(en letra) pesos oro, obligándose á cum-
+plir, aprobado que sea, las condiciones expresadas y demás que fij.i el Reglamento con los gastos do escritura, anuncios y otros que se originen.
+Negociado de Efectos Timbrados.
+•
+Aprobado por la Dirección General de Haciendo, el can ge de los efectos timbrados, presentados p°r ® público en esta Administración Económica, tendrá lu-; gar este en los dias del catorce al veinte y >res del co-rr’ente mes, ámbos inclusive, á cuyo efecto deber presentar los interesados, las facturas que con tal obj to les fueron devueltas.	-
+Habana 11 de Diciembre de 1880.—El Jefe ** nórtico, Manuel Becerra.
+i

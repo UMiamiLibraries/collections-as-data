@@ -1,0 +1,657 @@
+﻿NUMEROS.
+Tlnr?
+61
+111
+26
+186
+138
+60
+59 143
+281
+51
+51
+51
+51
+58
+58 84
+143
+93
+41
+60 185
+77
+79
+59 32
+132 48 48
+133 154 154 152 152 127 127
+91
+91
+91
+38
+38
+41
+44
+127
+23
+44
+132
+133 31 90
+43 127 154 154 154
+44 127
+89
+89
+90
+90
+91 133
+48
+Recibo
+I
+NOMBRES.
+11569| Idem idem................
+94211 Idem idem....................
+10101 Heredero de Miguel Govantes.,
+Idem idem...................
+Idem idem.....................
+Idem idem...,............
+fnes Nuñez...................
+Tomás M. Govantej.............
+Maria O. Camero...............
+Herederos de R. Martínez......
+Idem idem........:....-,..
+Idem idem.................
+Idem idem..... ...........
+Idem idem.................
+Idem idem.................
+Idem idem.................
+Idem idem....;.............
+Manuel Garcia.................
+Francisco González............
+Idem idem_________________
+Santiago Almirall.
+3416
+6826
+11390
+11392
+7380
+10367
+10549
+10551
+10553
+10555
+11273
+11265
+13249
+7382
+14196
+4957
+11433
+3341
+8417
+8541
+11318
+4126
+SU CONCEPTO.
+San Nicoiá'
+Maloja.....
+Monte......
+San Ignacio.. Dragones ....
+Suarez.....
+Idem....
+Escobar....
+Neptuno....
+Prado ......
+Idem......
+Idem......
+Idem......
+Refugio.....
+Idem......
+Virtudes....
+Escobar....
+C. Moreno...
+Animas.....
+Suarez
+Heredero de M. Feruaudez...........¡Gloria
+San Ignacio.,
+Idem idem.
+Idem idem.........
+Encarnación Izquierdo.
+6229;Domingo Sañudo______
+5668¡José Pio Mazori'a...
+5680¡ Raimundo Alonso.
+6382 Francisca García Pola......................
+15981	Aurelio Real.........................
+15982	Idem idem.............
+15746 José María Aya.............7!!!.!!!!!!!..!!!
+15768 Herederos de Teresa García................
+5722 Fraucisco y Oármen Tliomis..................
+5724	Idem	idem............................
+13979	Tomás Fernandez...........................
+13980	Idem	idem...................
+13981	Fortunato Hipert.........!.!!!..!.!!!!!!!!!!!!!!!!!
+4695 Rosalía Va!< .i......... .......!.!!!!.!!!!!!!
+4721 Viuda de Ti ja.......'..7.7.7.!!!!!!!!.'!!!!
+5229 Juan Sánchez Miranda.........777.7!!!!!!!!.!!!
+5276 Antonio Cuelo...............................
+5760 Luz García................777.7!!!!!!!!!!!!!
+38¡5 Francisco Bastida..........................
+5312 Francisco González y García......!.. !!!!!
+6295 Herederos de Andrés Fernandez..............
+6353	Idem idem...............................
+4009 Benito Mantecón...................77.77!!!!!
+13901 Rafael Orozco...............................
+5193 Gerónimo Saenz y Montes....................
+5762 Francisco Betaneourt........................
+15966 Rosa Sardá................................
+15965	Idem	idem............................
+159 45 Rosa T. de la Peire........................
+5322 Antonio Canuto Valdés.............!....!.!!!
+5811	Idem idem..............................¡
+18841 Herederos dé Miguel Govantes ...............
+13842 Tomás María Govantes .......................
+13900 Herederos de Miguel Govantes................
+13908	» Brígida Valdés...................
+140261	» Miguel Govantes.................
+6332iTomás M. Govantes...........................
+56S9 Elena Fernaddez,............................
+Indio............
+Reunión..... ....
+Amistad..........
+Corrales.........
+Campanario.......
+Idem............
+Corrales.........
+Jesus del Monte ....
+Idem............
+Idem............
+Idem............
+Campanario.......
+Idem............
+Cerro............
+Idem...........
+Idem ...........
+Ancha del Norte..
+Idem.............
+Belascoain.......
+Idem............
+Campanario.......
+Aguila...........
+Bernal.........
+Corrales.........
+Idem............
+Aguila...........
+Cerro............
+Belascoain......
+Campanario.......
+Jesus del Monte..
+Idem............
+Idem............
+Cármen...........
+Campanario.......
+Cerro............
+Idem...........
+Idem...........
+Idem...........
+Idem............
+Corrales.........
+Campanario.......
+Totales.
+	Importe del recibo.			
+O.	Primer		Tercer	
+	semestre.		trimestre..	
+.... 114	21 60		10 80	
+	19 80		9	90
+.... 408	• 39	26	19	63
+87	85	68	42	84
+60	54		27	
+	14	40	7	20
+63	21	36	10	68
+	42	48	21	24
+.... 171	18	36	9	18
+18			9	
+4	24	48	12	24
+6	36	72	18	36
+8	45	94	22	97
+14	21	60	10	60
+16	18	36	9	18
+6	52	24	20	12
+... 178	18	36	9	18
+... 17,	12	24	6	12
+50			12	24
+... 105	24	48	12	21
+15			30	60
+141			V	70
+12				20
+3	7	20	8	60
+54			16	83
+12	10	80		
+71	10	80					
+84				....	7	20
+.... 1Í)0 aso	21 lí)	60 80	10	80
+.... 450$	14	40	•• •••«•	
+.... 191	16	56	8	28
+.. . 213	7	92	3	46
+... 125	61	20	30	60
+.... 127	14	40	7	20
+649	18		9	
+.... 651	.16	20	8	10
+.... 665	8	64	4	32
+176			17	88
+202			3	06
+61			3	06
+61			54	
+... 163	4	68		
+61	. .......	......	12	96
+29	17	54	8	77
+81			9	48
+151			6	
+260			5	40
+... 549	36	72	18	36
+23			8	10
+165			3	60
+. . 438	12	20	6	12
+437		1		22	50
+412	1 .		22	50
+8			12	24
+... 229	14	40	7	20
+... 446	61	20	30	60
+... 448	12	24	6	12
+... 556	73	44	36	72
+... 5 6	61	20	30	60
+... 759	73	44	36	72
+... 127	24	48	12	24
+93			9	78
+				
+	$ 6365	14|$ 3610		v98
+Habana 26 de Abril de IS80.—El Oficial, Jesús Rodríguez.
+FINCAS RUSTICAS.
+Seceion 1?—Capíttulo 1”—Articulo 41’
+Relación nominal por conceptos de lo > recibos cobrados boy 26 de Abril de 1880.
+NUMEROS.		NOMBRES.	SU CONCEPTO.	m			
+Tlnr?	Recibo.			Primer semestre.		Tercer trimestre.	
+3	217					18	56
+1	12	Agustín Vnlfirin,	Ld. Dos Hermanas				6	
+5	493	Juan dfì la fl Mnfírv/.	Id. Requena					16	32
+2	172		Id. Catiilina				9	40
+2	373					40	
+2	187					3	56
+2	187	Tdp.m ídfirn.	Id. Quinta						4	50
+2	189	Idem idem. ..	Id. Zanja 				6	12
+2	191	Idem id°m	Id. Palmas				5	10
+2	192	Idem idem .	Id. Palmar 				7	64
+2	190	Idi in idem		Id. Coco					4	18
+4	382		Id. Leal						38	
+4	392		Id. Santa Catalina		80		40	
+6	172					4	
+1	46	Santiago Fontanals		Id. Beatriz				10	88
+			Totales		$ 80	"	$ 214	26
+Imporle del recibo.
+Habana Abril 26 de 1880.—El Oficial, Jesús Rodríguez.
+INDUSTRIA Y COMERCIO.
+Sección l1!—Capitulo 1”—Articulo 59
+Relación nominal por conceptos de los recibos cobrados hoy 26 de Abril do 1880^
+NUMEROS.
+Tlnr? Recibo.
+10
+52
+17
+17
+17
+47
+41 11
+30 28
+2
+7
+1
+42 44 11
+20
+33
+10
+51
+21
+31 4 2
+27
+27
+44
+£0
+2
+22
+15
+9
+15
+11
+27
+40
+913
+326
+1612
+1616
+1G67
+4662
+4094
+1078 1975 3764
+138
+689
+1
+4170
+4379
+1077
+1918
+3204
+933
+1324
+2060
+3026
+323
+155
+2703
+2679
+4386
+1928
+185
+2138
+1421
+466
+IfrOO
+1079 2664 4001
+NOMBRES.
+SU CONCEPTO.
+D. Manuel Castro............
+Sres. Gutit rrez Sobrino y CL.
+D. Paulino Martínez.........
+El mismo................
+... Ramón Prieto...........
+... Francisco D. Pedregal... .
+... Domingo Cag;gas.........
+... Ramón Capdevila,.......
+Sra. Viuda de Martínezé hija.
+D. Rafael B. Pegudo........
+... Manuel Silva...........
+... Estéban Lloret.........
+... Ramón Guillot..........
+¡.. Manuei Martínez Perez...
+... Pedid Malilla..........
+... Ignacio Puente..........
+... Ricardo FinaMaruri.....
+... José Jaime y Rachl......
+... Francisco Suarez.......
+... Joaquín Roura..........
+... José García Fernandez....
+... Francisco González.....
+Sres. Casamitjana y C?.......
+D. Vicente Iglesias........
+... A. Bacallao............
+Ramón Arguelles........
+E. Porrua y Blanco.....
+Cleto Mejía............
+José Penalba...........
+Manuel Alvarez.........
+Jaime Vives....,.......
+José García y García...
+Herederos de P. de 11 Campa..
+D. Manuel Mendez...........
+Sres. J. H. Durruty y O?....
+... Miguel Muneré y Oí.....
+Sres.
+D.
+Bodega.....................
+Almacén de ropa............
+Bodega.....................
+Idem.......................
+Tdem.......................
+Venta de semillas............
+Sedería..*.................
+Bodega....................
+Ferretería.................
+Comerciante importador.....
+Carbonería................
+Barbería..................
+Agencia fuueraria... ......
+Sombrerería...............
+Tienda de ropa, con sastrería.
+Bodega....................
+Botica....................
+Juego de bolos............
+Bodega....................
+Idem......................
+Café......................
+Ferretería.................
+Almacén de ropa............
+Carbonería.................
+Comerciante importador.....
+Idem......................
+Tienda de ropa con sastrería
+Botica...................  1
+Camoneria...................
+Cafó........................
+Idem.......................!
+Idem»....................  j
+Comerciante importador.....I
+Sastrería..................'
+Importe del recibo.
+Prin seme^	ier tre.
+49	32
+366	66
+33	32
+93	32
+33	32
+20	
+53	32
+45	32
+333	33
+133	32
+2-	66
+Totales...........$ 1123	89
+Tercer trimestre.	
+24	66
+183	33
+	
+	
+ió	
+26	6Ö
+66	"¿g"
+h	33
+36	
+133	33
+10	
+50	......
+22	66
+26	66
+23	33$
+24	6G
+19	33
+33	33
+21	33
+233	34
+11	33
+266	60
+400	
+46	66
+18	66
+8	66
+20	
+191 33	
+3.	66
+19 33	
+22 60	
+400 !		
+33 33	
+TFKCERA SECCION.
+Orden de la Plaza del día 29 de Abril de 1880. Servicio para ol 30.
+Jefe do día.— El Sr. Tomento Corouel dol 7.® Batallón deVoluntarios D. Francisco Viñal?.
+Visita do Hospita1....... Batallón de Escribientes.
+Capitanía General......... ) 7. ° Batallón de Volun-
+Parads................... f tarios.
+Hospital Militar interior. Reglo, do Orden Público.
+Castillo del Principo....1 Regimiento Ingenieros
+Barracones de idem......j de Ejército.
+Bateria de la Reina..... Artillería á pié.
+Retreta en el Parque Central, Artillería de pió.
+Ayudante de guardia on el Gobierno Miiilar.--El 3o do la Plaza, D. Tomás Mansilla.
+Imaginaria en id.-EI 39 de ¡a misma D. José Martínez.
+El Corouel Sargento Mayor, Recaño.
+Dirección Subinspeccion de Sanidad militar.
+Anuncio.
+Debiendo celebrarse el 6(1) de Mayo próximo la segunda subasta para contratar las ropas de cama necesarias on los Hospitales Militare' de esta Isla y que detalladamente se expresan en la relación que acompaña al expediente, celebrándose el reraats oi dia antes citado á las doce de su mañana en el local que ocupa la Dirección de Sanidad.
+Se anuncia al público para que purdan presentarse como Imitadores las personas á quienes convenga, siempre que lo vorifiquen bajo ¡as bases que marca el pli.go de condicione', relación de precios límites y modelo do proposición que so hallan de manifiesto para las personas que lo interesen en la Secretaría de la Junla Superior, sita en ol mismo local.
+Habana 23 de Abril de 1880.—El Secretario, Laureano Peray.—Vt9 Bn?—El Director Subinspector, López de Ochoa.
+(1) Posteriormente se ha señalado el dia siete para la celebración de la subasta, por ser feriado el seis.
+(NOTA.) Véase el pliego de condiciones ru blicaio en la Gaceta de 28 de Febrero último.
+Banco Español de la Habana.
+No habiendo concurrido el número suficiente de señores accionistas para que pudiera constituirse la Junta general extraordinaria anunciada para hoy, se convoca á la misma para el dia tres del entrante mes de Mayo á las doce de su m ñaña; advirtiéndose que se efectuará esta y se tendráu por válidos los acuerdos que en ella se tomen, cualquiera que sea el número de los accionistas que concurran, según dispone el artículo 54 de los Estatutos.
+Habana 12 de Abril do 1880.—El Gobernador, José Cánovas del (¿astillo.
+En la Junta general ordin aria de acco'iistís ce lebrada en esto Establecimiento el dia 20 de! actual, han sido electos para formar la terna de prmer Sub-gobernndor los Sres D. José Ramón do Haro, D. Guillermo de Z*ldo y D. José Gener; y para la de segundo Subgobernadcr, lo' Sres. D. Emilio M/iyaoo, D. Joé SarTchnga y D. Manuel Vandrell, Y en la segunda sesión de dicha Junta celebrada en ol dia de hoy, han sido reelectos vocales del Consejo de Dirección do dicho Establecimiento los Sre'. D. An tonio Vázquez Queipo, D. Miguel Antonio de Herrera y D. Juan Alvarez Baidoncdo, y electos suplentes dol propio Cons j > los Sres. D.~ José Saru-clraga y D. Manuel R. del Val.
+Lo que por este medio so anuncia al público para su conocimiento.
+Habana 23 do Abril do 1880.—El Gobornador,
+José Cánovas del Castillo.
+Dispuesto por ol Sr. Juez do primora instancia del distrito del Cerro, do esta Cajital, se proceda á la venta por medio de notario Comercnl de las diez aeoiones de esto Banco números 14206,14340, 14341, 15379, 15385, 15389, 15390,15392, 15393 y 15394, do la propiedad del Sr. D. Francisco de Paula Gay, y dispuesto, í la vez, por diebo Juzgado so inutilice el título número 15208 que, comprensivo de dichas acciones so expidió en 3 Je J nlio de 1877, por haborso negado ol citado Gay á entregarlo en el Tribunal y se expida otro nuevo en sustitución de aquel á fin de poder realizar la venta indicada, ha acordado el Exorno. Sr. Gobernador del Establecimiento, de conformidad con lo preceptuado en el arlículo 39 del Reglamento quo por nueve números consecutivos de la Gacela oficial se convoco á las personas quo puedan conceptuarse con derecho para impugnar aquella lisposieion, en la inteligencia de que si dentro dol término de quinto dia despaisdel último anuncio no se estableciese reclamación cu contrario, se accederá á la misma, quedando nulo y de ningún valor ei documento expedido anteriomento.
+Habana 23 do Abril do 1880.—El Secretario, Pastor de Elizarde.
+$ 2255 89$
+Celeglo ISTotari i de la Hab na.
+Secretaría.
+E! limo. Sr. Presidonto de la,Real Audiencia, se ha servido disponer, que la cuenta del «ño de 1879 y presupuesto do gas.os del presente, so pongan do manifiesto en esia Secretaría, y so dé cuenta en la primera Junta Gonora!; por si algún Colegial quiero hacer alguna manifestación.
+Y de orden del Sr. Decano accidental; se publica para conocimiento de aquellos que desdo esta fecha quedan de manifiesto dicha cuenta y presupuesto, en esta citada Secretaría constituida en !a casa número 5, plaza de la Cátedra’.
+Habana 28 do Abril de 1880.—Antonio Mendoza, Secretario.
+Cotizaciones del Colegio de Corredores.
+Habana 26 de Abril de 1880.—Francisco Dans.
+PROFESIONES Y ARFES.
+Sección 1?—Capitulo l.°—Artículo 69
+Re’acion nominal por conceptos do los recibos cobrados hoy 26 do Abril de 1880.
+CONCEPTO.
+Abogado
+Importe del recibo.
+Primer
+semestre.
+Tercer
+trimestre.
+.!$ 41	47
+Habana 26 de Abril de 1880.—Francisco Dans.
+RESUMEN de lo recaudado por dicha sección hasta el dia de la fecha.
+10 por 100. primer semestre.
+16 por 100. tercer trimestre.
+r25 Pg. 3er trimestre,
+(Fincas urbanas... i ... rústicas j Indurti y come;
+( Profesiones y ar f Fincas
+1
+rústica.,
+( Fincas urbanas.
+25 Pg. I 4? tri-I tnestre.
+RECAUDADO HOY 26.			RECAUDADO ANTERIORMENTE.			TOTAL GENERAL. j			TOTAL POR CONCEPTOS.	
+Núm.			Nlím.			Núm.		!		
+de recibos.	Pesos.	Cts.	de recibos.	Posos.	cts.	do recibos.	Pesos.	Cts. 1	Pesos.	cts.
+272	3665	14	9057	305652	55	9329	309317	69	]	
+2	80		112	3200		114	3280		1518134	98
+11	1123	89	1433	199188	44	1444	200312	23		
+				48	5224	96	48	5224	96	J	
+218	3610	98	?093	60031	49	3311	63642	47	i	
+15	214	26	44	682	68	59	896	94	l 95095	ni
+31	2255	89 A	301	27331	69	332	29587	58$		
+1	41	47	19	926	65	20	968	12	J	
+			101	2841	58	101	2841	58	1	
+			97	1932	96	97	1932	96		
+			•J	183	33	2	183	33		
+			o	18	48	2	18	48	13621	51
+			74	4035	13	74	4035	13		
+			151	4511	38	151	4511	38		
+				2	101	65	2	101	65		
+550	10991	63$	14536	615862	97	15086	026854	60$		
+Habana 26 de Abril de 1880.—Sixto Budrea.
+CAMBIOS.
+Inglaterra............. j5^ájU>$ P. 60 d[v
+Francia...........
+f 2 P. 60 d)V.
+\2¡
+Estados Unidos..*..
+Oro del cuño español. .. Descuento mercantil—
+2$ P. 3 dpv.
+/ 4 4 4} P. 60 div.
+• t 5 á 5$ P. 3 d[v.
+131 i P. á_132 á las 3 j 6 á 8 p.g anual B|B,
+DK FKUTO?.
+D. Genaro Vazquez,
+D. José María Montai van.
+Habana 29 de Abrrl de ,1880.—El Síndico. At. Nuñez.
+Quinfa Tenencia de Alcaldía de la Habana.
+Habiéndote denunciado como ruinosa una casa en construcción situada en la calzada Real del poblado de Arroyo Naranjo, y propiedad do 1). Fabiun Garcia, se ha dispuesto prévio informo dol arquitecto del Distr ito, que en el térrnin < do octavo dia se quite el techo del portal y se cierren mas on firme los huecos, E ignorándose ol domicilio del mencionado D. Fabian (Jarcia, se le hace saber por este medio lo mandado, en ei conceplo de que trascurrido el término concedido para su cumplimiento, se procederá por el ramo de Obras Municipales como medida do seguridad pública.
+Habana 14 de Abril do 1880.—J. Bruzon.
+Inspección de vigilancia del tercer distrito.
+Don José Trujillo y Monugas, condecorado con el Escudo do Sufrimiento por la Pálria, Caballero do la Real Orden Americana do Isabel la Católica, Inspector de primera clase del tercer distrito de esta capital y Fiscal en comisión.
+Por el presente, convoco y emplazo á todas hrs personas que se opongan á la exactitud de los mérito» contraidos ñor los guardias, D. Juan Vázquez y Fuentes y 1). Clemente Royo en los incendios que ocurreron en las calles do la Maloja y del Morro, al extremo do que ol primero, con peligro de eu vida, salvó de muerte inminente á una anciana y ol segundo con su arrojo y heró'eos esfuerzos los edificios contiguos á la casa incenciad» que iban á ser pasto de las llamas, a fin de que en el término de veinte dias so presenteu en esia Fiécalia, callo do Crespo esquina á Trocadero, á declarar ia oposición y motivos de su fundamento, ó en pro de aquella boné-merita conducta.
+habana Abril 15 de 1880.—José Trujillo.—Por eu mandado, Joaquín Prieto y Solie.—José Fojo y González.
+Don José Trujólo y Monagas, condecorado con el Escudo de Sufrimiento por la Pàtria, Caballero de la Real Orden Americana do Isabel la Católica, Inspector do primera clase dol tercer dis trito do esta capital y Fiscal en comisión.
+Por ol presento convoco, cito y llamo á los guardias quo fueron D. Juan Vázquez y Fuentes y D. Clemente Royo, quo contrajeron méritos en los incendios ocurridos en lar calles rio la Maloja y Morro, para que dentro de quince dias so presenten en esta Fiscalía calle de Crespo esquina á Trocadero á evacuar un acto de justicia en el juicio ubierto al efecto de orden superior.
+Habana Abril 15 do I880.--Joeé Trují’lo.—Por su mandado, Jiaquin Prieto Solía.—José Fojo González.
+publique en la Gaceta y Boletín oficial, la providencia ue conformidad que apruebe este acuerdo y que se le dé copra certificada del acta y de la providencia que le recayó al interesado que la solicite lodo sin perjuicio de exijir tas cuentas que no lia rendido D. Vicente García y García. Con lo que concluyó el acto que terminó A las tres y citarlo de la tarde, que firmo 8. Sria. con todos los concurrentes y que se diera cuenta con ella á primera audiencia.—Doy fé, Martínez Ayala.—Ldo. José Manuel Pascual.—Ldo. José Agustín Recio.—IJr. Fernando naavedra.—Juan Martí.—Wenceslao Calvez.—Francisco P. Sánchez y Heijus.— Fernando Tariche.—
+Ldo. Manuel López Silveru.—José Nicolás de Ortega. —A cuyo acuerdo recayó el auto que copio & la letra y dice así.—Habana Abril ocho de mil ochocientos ochenta.—Se aprueba cuanto ha lugar en derecho el acuerdo tenido entre los interesados y á quese contrae el acta de f. quinientos tres.—Publique.se en la Gaceta y Boletín oficial, dicho acuerdo, y verificado dese cuenta.
+Martínez Avala.—José Nicolás de Ortega.—Que así lo tengo mandado en la testamentaría concursada del Ldo. D. José Fresneda.—Habana Abril23 de 1880.—Martínez AyaJa.—Por mandado de 8. Sria., José Nicolás de Ortega.	A O 30
+En el juicio verbal de faltas áque ha quedado reducida la causa seguida contra los asiáticos Nicolás López, Antonio Sánchez y Antonio Asunción Rubio por lesiones en riña, ha dispuesto e) Sr. Ldo. D. Enrique López Villalonga, Juez municipal primer suplente del distrito de Jesús María, se les notifique á diohos asiáticos por este medio y en su rebe día la sentencia dictada en los autos que en su liarte dispositiva dice: «y apareciendo justificado de lo actuado y de las declaraciones de los procesados que tuvieron una riña de la cual salieron lesionados, dijo su Sria. que debía imponer é impone á cada uno de ellos ocho dias de arrestos y las costas de lo actuado en este Juzgado por terceras partes declarando las demás de oficio.—Enrique López Villalonga.—Francisco J. Bibefio.»—Y para su publicación según está mandado libro la presente en la Habana á veinte de Marzo de mil ochocientos ochenta.—Vto. Bno. Enrique López Villalonga.—Francisco J. Briseño, Secreiario. A O 27
+amesos.
+UUARTA SECCION.
+»XIX. XaiTXÜSLAQIi
+Junta Local de Instrucción Pública de Matanzas.
+Secretaría.
+Vacante la plaza do Ayudanto de la Escuela Elemental Superior de esto término municipal, el Sr. Alcalde Presidente de la Junta Local de Instrucción Pública, en virtud de’ acuerdo teuiiio por dicha Junta en la última sesión celebrada, y on consonancia con lo resuelto por la Superioridad, so ha servido ordonar que se convoquo á los quo teniendo título de maestros de instrucción primaria elemental, aspiren ai desempeño de la referida plaza dotada con ol haber anual do 750 pesos on oro, á fin do que presenten tus instancias documentadas para prc-veorla por concurso entre los aspirantes; en el concepto que las instancias se recibirán en oatu Secretaría hasta las 4 de la tardo del dia 24 dol corriente.
+Y do orden del S'-. Presidente se insería este anuncio en el Bo'etin oficial de la Provincia y Gaceta de la Habana para general conocimiento.—Matanzas Abril cuatro do mil ochocientos ochenta.— Manuel de Novel1 a.
+Ayuntamiento de Guayabal.
+Secrolaría.
+Acordada por ol Ayuntamiento y Junta Municipal, la creación do una plaza de Mélico forense on el término dotada con quinientos pesos anuales, y que on primero de Julio inmediato debe quedar definitiva monte establecido, so hace público por este medio para Icsqnoá rervirlaso interesen ocurran en forma á esta Secretaría antes del dia 5 do Junio próximo á gestionar sus aspiraciones.
+Caimito 14 do AbriF do 1880.—FJ Secretario, Bartolomé Sariol.
+10 á 12 id. ore.
+ACCIONES.
+Se han vendido 15 de la Compañía de Almacenes de Hacendados á 4 P¡c. oro, artizadas por el auxiliar de corredor D. A. Angelet y Rojas.
+MERCADO NACIONAL.
+AZUCAKES.
+Blanco trenes de Derosre y Rellieux, bueno á supt-
+ñor................. 14 á 14$ rs. arroba.
+Id. id id. id. florete.. 15 rs. arroba.
+Quebrado inferior á regular nüm. 12 á 14, (T. H.) .. 10 á 10$ rs. arroba.
+MERCADO EXTRANJERO.
+ARICARES.
+N? 12 9$ á 9$ rs. @
+CENTRÍFUGAS DE GUARAPO.
+9 á 9} rs Seguu envas«, polarización y número.
+azuíar de miel.
+De 7$ á 8 rs. ©. Idem
+AZUOlR MASCABA DO.
+De 7$ & 8 rs. © ; segtn clase y polarización.
+SRES. CORRI DORES DE SEMANA.
+DE OAIBIO Y ACCIONES.
+D. Meliton Lopiz Cuervo, auxiliar de corredor. D. Juan B. MoÉ, idem idem.
+* Registro de la propiedad de Matanzas.
+Anuncio.
+Con arreglo a! artículo 275 dol Reglamento general para la ejecución en esta Isla do la Ley Jipóte caria del 16 de Vayo de 1879, ptév¡a la aprobación del Sr. .! uez de primera instancia del Distrito Sur de esta ciudad De’egado dol limo. Sr. Presidente de la Real Au iiencia do la Habana, he señalado para ol despacho público on esta oficina, do las diez de la mañana á cuatro do la tarde de todos los días que no «oan feriados, y lo anuncio al público en la Gaceta oficial de la Habana prra couoeimiiuito general.
+Matanzas Abril 23 do 1880.—Juan A. Retan-court.
+
+AUTOS.
+Dr. D. Augusto Martínez Ayala, Juez de primera instancia interino del distrito del Cerro.
+Por el presente que se insertará en tres números consecutivos de la < aceta oficia!, se hace sabor á todos los interesados en la testamentaría concursada del Ldo. D. José Fresneda el acuerdo celebrado por los q'ue concurrieron á le junta cehbrada en este Juzgado el dia veinte y cinco de Febrero del corriente, cuyo tr mor es como sigue:—En la ciudad de la Habana en ve inte y cinco de Febrero de mil ochocientos ochenta, me constituí en el Juzgado para el acto dispuerto y sien tío ia una de la tar.le hallándose presentes el Ldo. D. José M nuel Pascual como curador ad boua de D. Francisco y D. EmilioFiesueda, y apoderado de D? María de Je sús Fresneda con su procurador I). Francisco de Paula Sánchez y Seijas, el Ldo. D. José Agustín Recio con el procurador D. Wenceslao Galvez apoderado de D. Enrique García García, el Dr. D. Fernando Saavedra, ap -dtrado de la viuda Di María de Jesús Cabrera con su procurador D. Fernán to Tariche y el Ldo D. Manuel López Milvera con su procurador D. Juan Martí apoderado ile D José Fresneda, siendo la hora señalada dispuso 8- Sria. dar por constituida la junta, y después de una larga discusión en que tomaron parte todos loa concurrentes, se acordó:—Primero. Dar por aprobadas las cuentas vendidas por D. José García Capote y que eu este acto presenta el procurador Galvez, por haberlas examinado privadamente los interesados y además, por estar aprobadas ya desde diez y sets de Enero de mil ochocientos setenta y tres, por Di María de Jesús Cabrt-ra viuda de D. José Fresneda y curadora al bonado sus menores hiios t or escri! ura públic i otorgada ante D. Fram i-co de Castro.—Segunda. lJá por compensado el crédito de doce mil quinientos pesos que repro9enta en esta testamentaría concursada D. Enrique García y García, con el que aparece conlra D. Juan García Capote en eí incidente á estos autos promovidos por c-1 Ldo. D. José Manuel Pascual como curador ad liona délos menores D. Franciscoy D. Emilio Fresneda, ascendiendo el importe de los pagarés referidos á doce mil pesos sin que por una y otra liarte tengan derecho á reclamación alguna en lo sucesivo.—Y tercero. Que en consecuencia de no haberse presentado más acreedores que el i< nrique García y Garcia, procede que se rte-
+Don Severlno Prieto y Pereira, Juez de nrimera instancia del distrito Sur de esta ciudad etc.
+Por el presente se hace saber, que ha sido admitida ia cesión de bienes que á favor de sus acreedores ha hecho D. Fernando Hernández; hacendado y vecino de esta ciudad, y que secita, llama y emplaza á aquellos, para que dentro del término de veinte dias presenten en dicho juicio los títulos justificativos de sus créditos. Que así lo he dispuesto á consecuencia del concurso de D. Fernando Hernández.—Matanzas Abril veinte y seis de 1880.—Severino Prieto.—Federico R sado. E 28 Don Antonio Romero Vasquez, Jttezde primera instau-cia de este partido.
+Habiéndose ausentado de su domicilio en el mes de Noviembre del año pasado, mil ochocientos setenta y ocho, Miguel García Delgado (á) Baraña, natural y vecino de esta villa, provincia de Málaga, hijo de Miguel, de diez y ocho años de edad, soltero, de oficio armero y cerrajero, de estatura alta, color moreno, sin barba, enjuto de carnes, que entóneos podía vestir pantalón y cazadora color ceniza, chaleco negro y sombrero hongo, aderezado también negro, contra el cual instruyo causa sobre robo de setecientas cincuenta pesetas á su padre Miguel García Porra (a) Baraña, por el presente edicto requisitoria, cito llamo y emplazo al Miguel García Delgado, para que dentro del término de sesenta dia9 á contar desde el siguiente al de su inserción én a Gaceta de la Habana y periódicos oficiales de las islas de Cuba y Puerto Rico, de esta provincia y la de Jaén, y Gaceta de Madnd.se presente eu la cárcel pública do esta villa para oír los cargos que le resultan en la expresada causa, najo apercibimiento de que en otro caso será declarado rebelde y le parará el perjuicio á que lrnbiere lvtgar con arreglo á la Ley.—Al mismo tiempo ruego y encargo á las autoridades civiles y militares y agentes de policía judicial, te sirvan proceder á la busca y captura del referido Miguel García Delgado, cuyo paradero se ignora, y uua vez conseguida, remitirlo á la cárcel pública de esta villa á disposición de este Juzgado.—Dado en Coín á 27 de Enero de 1880.—Antonio Romero.—Por mandado de S. Sria., Diego Huerta.	E O 30
+Dotr Federico Galbis y Abella, Juez de primera instancia interino del distrito de ia Catedral.
+Por este mi primer edicto y pregón, cito, llamo y emplazo á D. Florencio del Valley Darnuy; natural de esta, vecino de Guanabacoa, soltero, propietario y de treinta afl03, y á D. Mariano Guerrero y Tercero, natural de Albacete, vecino de esla, casado, del comercio y de cuarenta y tres años, para que en término de nueve dias se presenten en la cárcel de esta ciudad á descargarse de la culpa que les resulta en la causa que se les sigue por estafa á la Caja de Ahorros, seguros de que si asilo hicieren, se les oirá y administrará justicia, y de lo contrarióse les declarará rebeldes y contumáces y por bastantes loa estrados del Juzgado, con quienes s-i entenderán las notificaciones y demás trámites de la causa.—Habana y Abril 20 de 1889.—Federico Galbis.—Por mandado de su Sria., Francisco de Castro.	E O 30
+D. Alejandro Laurel y Rodríguez. Juez de primera instancia de esta vilia y su partido.
+Por este mi primer edicto, cito, llamo y emplazo á D. Salvador Quintero natural de Asturias, vecino que fué de esta villa, soltero de veinte y do3 años do edad, hijo de D? María del Socorro Fernandez y su padre incógnito, )>ara que en ti término de nueve dias á contar desde la última publicación, se presente en este Juzgado á fin de evacuar un acto de justicia en la causa seguida por robo frustado, cierto y seguro de que si así lo hiciere sadministrará.rectay cumplida justicia y en caso contrario se le declarará rebelde y conturnáz é incurso en las penas déla ley, y por bastante ios estrados del Juzgado para las notificaciones y demás trámites que ocurran.—Güines y Abrí! 15 de 1880.—Laurel.—Por su mandado, Francisco Muñoz.	E O 30
+Dr. D. Guillermo Bernal y Bernal, Juez de primera instancia de esta villa y su jurisdicción.
+Por este mi tercero.v último edictoy pregón, cito, 11a-moyemplazoá D. Emiliano Mernuy y Corrales, natural de Canarias, soltero y de diez y siete años y á D. Salvador Tosca, natural de Santander, soltero y de diez y siete años, vecinos que fueron de la Habana, en la calle de Arango número tres, pura que dentro de nueve dias contados desde esta fecha, comparezcan en la escribanía del actuarioánctificarse del fallo dictadoen la causare se les sigue por hurto de coles á D. Salvador Masip; ciertos y seguros que da no verificarlo se les declarará rebel-dcs'y contumaces é incursos en las penas de la Ley.— Guanabacoa y Abril 26 de 1880.—Guillermo Bernal.— Por mandado de S. S., Luis J. Marin.—José Guillou.—
+Y	para su publicación libramos la presente en la m stna
+fecha.—Luis J. Marin.—José Guillou	E O 30
+I). Mariano de Quesada y Correa, Juez de primera instancia interino del distrito de Jesús María.
+Por este mi tercer edicto, ci'o, llamo y emplazo á D. Manuel Díaz Pardo, natural de! Ferrol, soltero, mecánico y ile veintidós años, para que dentro de nueve dias comparezcaft contestar el traslado de ia acusación fiscal encausa por atentado á un agente de la Autoridad; apercibido de declarársele rebelde entendiéndose con los estrados del Juzgado dicho trámite y loderuás que ocurran.—Habana Abril 22 de 1880.—Mariano de Quesada.
+__Por su mandado. Antonio González. E O 30
+D. Antonio Romero Torrado, Abogado del Ilustre Colegio de Madrid, Comendador déla Orden de Isabel la Católica y Juez de primera instancia del distrito de Belen.
+Por este mi primer edicto y pregón, cito, Hamo y emplazo á D. Manuel Fernandez, de quien se dice ser naturaljde Madrid, eonro de cuarenta y tres añosde edad, de estatura baja, nariz corva, piernas torcidas, pelo rubio y barba poca; para que en e] término de nueve dias se presente en la cárcel de esta ciudad á descargarse de la culpa que le resulta en la causa que se le sigue por estafa A D. Manuel Barba; cierto y seguro de que si así lo hiciere se le admtuistrará cumplida justicia é de lo contrario se le declarará rebelde y contumaz, incurso en las penas de la ley y por bastantes los estrados del Juzgado para los trámites ulteriores del procedimiento.— Habana 17 de Abril de 1880.—Romero.--Por mandado de su señoría, Joaquín Lañéis.	E O 30
+D. Alejandro Laurel y Rodríguez, Juez de primera
+instancia de esta villa y su partido.
+Por este mi tercer edicto, cito, llamo y emplazo á D. D miel Vázquez, hijo de I>. Severo y como de veintitrés años de edad, cuyas demás generales s8 ignoran, para que dentro del término de nueve dias á contar desde la Ultima publicación, se presente en la cárcel pública de
+esta villa á descargarse de la culpa que le resulta en la
+cau'-a seguida por lesiones á D. Manuel González; cierto
+V	seguro de quesi así lo hiciere se le administrará recta y cumplida justiciu y en caso contrarióse le d. clarará rebelde v contumaz incurso en las penas de Ja bey y por
+k estantes ios estrados del Juzgado para las .notificaciones
+v demás trámites que ocurran.—Güines Abril «lile I86t).
+—lbaurel.—Por su mandado, Francisco	^
+Dori Augusto Martínez Ayala, Juez de primera instancia tlel distrito del Cerro.
+For esta mi primera carta de edicto, cito, llamo y em plazo á D. Juan P’ernandez Cab era, natural de esta, cas ado, labrador, de treinta y clnco años, para que dentro fie nueve días del último anuncio, comparezca en el
+tro ílo II íl tí ve Umo --- ,	.	<
+l uz gado para un acto de justicia en la causa que se le ^ue por hurto; cierto y seguro de oue si así lo hiciere se le o rá y administrará justicia y de lo contrario se le 1V rarA rebelde y contumaz é incurso en las penas de U^ev -HabTna Abril 23 de 18S0.-Martinez Ayala— Por n «sudado de su señoría, José Nicol's de Ortega.
+i j. i) Federico Galbis y Abella, Juez Municipal y de primera instancia accidental del distrito de la Cal edral de rsta ciudad.
+por este mi tercer edicto, cito, llamo y cmpla-A D. Antonio González Sarmiento, natura! de Má-i„ „„ veo no de esta, soltero, hijo de D. Franciscoy de iú Dolores, de treinta y cinco años y escribiente que fué de la Administración Económica de esta ciudad, á fin de que en el término de nueve días contados desde la fecha, se presente en este Juzgado á notificarse de la
+referido D. .< nrique García y torcia, procene que se fie- ia ^^-^.Uadaen lacausaque se le siguió en unión clare terminada teta testamentaria concursada y qua sq sentencia dictada en Ja causa que se 6
