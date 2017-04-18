@@ -1,0 +1,39 @@
+﻿Audiencia de
+ESTADO NUM. ^ENAJENACION DE BIENES INMUEBLES
+SECCION 1’—NUMERO, VALOR Y FORMA DE LAS ENAJENACIONES
+I Número total de fincas enajenadas.		2 Enajenadas por actos de última voluntad.						3 Enajenadas por actos ó contratos en que media precio.						4 Enajenados por actos ó contratos en que no media precio.				5 CANTIDADES devengadas por el impuesto de derechos reales y transmisión de bienes.		6 HONORARIOS devengados por el Registrador.	
+Rústicas.	Urbanas.	NUMEBO DE FINCAS.		VALOE 0 ESTIMACION.				HUMERO DE FINCAS.		IMPORTE del precio pagado al contado		IMPORTE del precio que se ha de entregar á plazo.		NUMERO DE FINCAS.		Valor ó estimación.					
+		Rústicas.	Urbanas.	Rústicas.		Urbanas.		Rústicas.	Urbanas.					Rústicas.	Urbanas.						
+				Pesos.	Cts.	Pesos.	Cts.			Pesos.	Cts.	Pesos.	Cts.			Pesos.	Cts.	Pesos.	Cts.	Pesos.	Cts.
+					1																
+SECCION T- CLASIFICACION DE LAS FINCAS ENAJENADAS SEGUN EL VALOR O PRECIO.
+7 De 300 pesos ó menos		8 De -301 á 1500 pesos.		9 De 1501 á 3000 pesos.		10 De 3001 á 7500 pesos.		11 De 7501 á 15000 pesos.		12 De 15001 á 30000 pesos.		*3 De 30001 à 60000 pesos.		14 De 60001 á 150000 pasos.		»5 De más de 150000 pesos.		16 Fincas cuyo precio ó valor no consta individualmente		17 Fincas cuyo precio ó valor no consta de modo alguno		1$ TOTAL DE FINCAS.	
+Rústicas.	Urbanas.	Rústicas	Urbanas.	Rústicas.	Urbanas.	Rústicas.	Urbanas.	Rústicas.	Urbanas.	Rústicas.	Urbanas.	Rústicas.	Urbanas.	Rústicas.	Urbanas.	Rústicas.	Urbanas.	Rústicas.	Urbanas.	Rústicas.	Urbanas.	Rústicas.	Urbanas.
+																							
+SECCION 3-—CLASIFICACION DE LAS FINCAS RUSTICAS SEGUN LA EXTENSION SUPERFICIAL.
+l9		20		21		22		23		24		25		26		27		28		29		30	
+De menos de 20 áreas.		De 21 á	50 áreas.	De 51 á 99 áreas.		De i à 2 hectáreas.		De 2 à 5 hectáreas.		De 5 á 10	hectáreas.	De 10 á 20 hectáreas.		De 20 à 50 hectáreas.		De 50 á 100 hectáreas.		De más de 100 hectáreas.		De extensión desconocida.		TOTAL	
+Por última voluntad.	Por contrato.	Por última voluntad.	Por contrato.	Por última voluntad.	Por contrato.	Por última voluntad.	Por contrato.	Por última voluntad.	Por contrato.	Por última voluntad.	Por contrato.	Por última voluntad.	Por contrato.	Por última voluntad.	Por contrato.	Por última voluntad.	Por contrato.	Por última voluntad.	Por contrato.	Por última voluntad.	Por contra tro.	Por última voluntad.	Por contrato.
+																							
+SECCION 4?—CLASIFICACION DE LAS FINCAS URBANAS SEGUN LA EXTENSION SUPERFICIAL.
+31 . De menos de 100 metros cuadrados superficiales.		3*2 De 100 á 200 metros.		33 De 200 á 500 metros.		34 De 500 á 1000 metros.		35 De 1000 á 5000 metros.		36 De 5000 á 10000 metros.		37 De 10000 á 25000 metros.		3« De más de 25000 metros.		39 De extensión desconocida.		40 TOTAL	
+Por ùltima voluntad.	Por conti ato.	Por última voluntad.	Por contrato.	Por última voluntad.	Por contrato.	Por última voluntad.	Por contrato.	Por última voluntad.	Por contrato.	Por última voluntad.	Por contrató.	Por última voluntad.	Por contrato.	Por última voluntad.	Por contrato.	Por última voluntad.	Por contrato.	Por última voluntad.	Por contrato.
+																			
+de
+de 18 . . .
+El Registrador,
+Observaciones referentes al estado nrimerò I.
+la La casilla número I comprenderá el número total de fincas que por cualquier concepto se hayan enajenado.
+2a La casilla número 2 comprende las enajenaciones por herencia testada, intestada, legado y donación mor tis causa.
+3a Todas las fincas enajenadas que no lo hayan sido por actos de última voluntad, se considerará que lo fueron por contrato.
+4a La casilla número 3 comprende los datos referentes á la inscripción de contratos de venta, aunque sean con pacto de retrocesión, permutas, adjudicaciones en pago de deudas, cesiones, etc.
+5a La casilla número 4 comprende las enajenaciones por dote, donaciones in e- wvos, Sociedades, concesiones dé obras públicas, ferrocarriles, etc.
+6a	La suma de fincas comprendidas en las casillas 7 á la 17, que debe figurar en la 18, ha de ser idéntica á los datos de la casilla número I.
+7¿	Cuando apareciese contundido en una sola cifra el valor de diferentes fincas rústicas y urbanas, se consignarán, no obstante, todas ellas en	las casillas	2a,	3a ó	4a,	como	también	el	valor que	los	interesados manifiesten corresponderles.	En defecto de esta	manifestación	aproximada, f si por lo	que resulte del	Registro
+tampoco puede venirse en conocimiento del dato que se pretende, se dividirá la cantidad ó precio en dos partes iguales, adjudicándose una de éstas á-las fincas rústicas y otra á las urbanas.
+8a Las fincas á que hace referencia la observación anterior se incluyen también en la casilla número 16.	.....
+9a	Las secciones 3a y 4a de este estado clasifican, según la extensión respectiva, las fincas enajenadas; en su consecuencia, las cifras de las casillas	30 y	40	sen siempre	idénticas á	las de la	la	y	18.	Dentro	de	cada	casilla	de	estas	dos	secciones	se	distinguen	las	fincas,	según	que se hallen enajenadas	por	última
+voluntad ó	por contrato, debiendo convenir los totales (casillas 30 y 40) con los datos consignados en la sección la del estado, casillas 2a, 3a y 4a
+Oí
+zo
+BACETA »K LA FTABAVA.
