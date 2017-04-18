@@ -1,0 +1,101 @@
+﻿2
+Núm. de orden.	NOMBRES Y APELLIDOS.	DESTINOS QUE DESEMPEÑAN.	Focha de la antigüedad en la clase.			Tiempo de servicio en la clase.			Tiempo total de servicios.			OBSER V ACIONES
+			Día.	Mes.	Ano.	Años.	Meses.	Días.	Años.	Meses.	Dias.	
+	JEFES DE ADMINISTRACIÓN I)E 3“ CLASE.											
+I		Administrador de Hacienda de la Habana		9	Diciembre...	1874	4	6	18	4	6	18	Ha sido de primera i
+												meses y 20 dias.
+2	D. Alejandro Bermúdez Reina		Intendencia general de Hacienda de Cuba.. 			16	Noviembre...	1883	1	4		26	9	3	Id. id. de id. tres meses „ 20 dias.
+3	D. José Mendo de Figueroa		Secretario del Consejo de Administración de										
+			3		1876	9	5	20	20	6	7	
+4		Inspector de Hacienda en Filipinas		5	Abril		187*	7	2	9	8	7	20	
+‘ 5			24	Mayo 		1877	6	2	8	9		14	
+6		Tesorero general do Hacienda de Filipinas		17	Agosto		1881	3	9		34	7	17	
+7		r. ° r	21	Octubre		1881	3	4	29	18	3	2	
+8		Administrador de la Aduana de la Habana		8	Octubre		1875	1	8	3	14	2	21	
+9		Administrador de la Aduana de Manila		28	Enero			1884	1	3	7	18	5	21	
+10	D. Francisco de Paula Galván		Jefe de Sección en la Administración civil de Fi-										
+			23	Mayo		1884	1			11	11	24	
+11		Cesante			17	Agosto... ..*...	1883		9	10	15	5	26	
+12			2	Mayo		1884		7	23	3	10	29	
+13			26		1873		6	20	36	11	8	
+14			24	Diciembre		1866		5	12	33	4	26	
+	JEFES DE ADMINISTRACIÓN DE 4? CLASE.											”
+1			29		1878	7	9	4	25	9	9	Ha sido de 2? 11 meses
+2		Jefe de Sección del Gobierno general de Cuba		6	Diciembre		1881	3	5		12	10	7	Id. id. de tercera dos aBm,!
+3		Administrador de la Aduana de Puerto-Rico		8	Octubre		1880	4	4	7	38	6	2	„
+4		Administrador general ue ( orreos de Filipinas......	9	Mayo		1884	1	1		30	1	5	))
+5			Iq		1884		11		22	10	25	))
+6		Administrador central de Loterías de Filipinas....	16	Julio		1884		8			8		))
+7			6		1884			4	4	3	6	))
+8		Jefe de Sección en el Gobierno general de Cuba ...	4	Diciembre....	1884		6	21	30	3	20	»
+9			29		1884		4	4	15	4	24	»
+	JEFES DE NEGOCIADO DE 1? CLASE.											
+1			21	Enero		1863	3	2	11	16		16	»
+2			20	Mayo 		1879	6		16	8	10	27	»
+3			3	Enero		1880	5	4	20	11		29	))
+4	IX Manuel Romero González			24	Setiembre....	1870	5		16	20	5	25	))
+5	D. Ramón Montalvo Mantilla		Interventor de Loterías de Cuba		15	Abril 		1878	4	3	20	6	10	27	
+6	D. Manuel Martínez Escalera			Cesante			26	Octubre		1870	3	4	10	12	4	3	
+7	D. Teodoro Robles y Vázquez				inspector de Hacienda de Filipinas		20	Enero		1882	3	3	13	11	6	29	))
+8			12		18*1	3	1	7	13	6		»
+9	D. Emilio Cautier	,			13	Diciembre.. .*.	1864	2	9	23	29	7	16	»
+10	IX Antonio del Castillo Olivares		Intendencia peñera) de Hacienda de Cuba		13	Enero		1874	2	6	24	5	4	24	))
+11	IX »Tose María, Rolívar v Girón			28	Julio		1883	1	10		25	9	17	))
+12	. D. Angel María Carvajal		Contador de la Administración de Hacienda de la										
+			31	Octubre		1888	1	8	26	21	9	22	))
+13	I). «losé María Guaxardo vEaxardo			20	Febrero		1874	1	4	27	27	11	24	»
+14	D. Francisco Ramos Villa		Interventor de la Ordenación de Pagos de Filipi-										
+			27		1883	1	■ 4		15	1		))
+15			4		1883	1	4		2	4		»
+16	D. Eugenio de Saz Orozco.		Secretario del Consejo de Administración de Fili-										
+			17		1884	1	O	26	15	10	i	)) ■
+17	I). Juan Pacheco González			28		1884	1	1	23	18	10		))
+18	IX ' andido Cabello Echenique		Contaduría General de Hacienda de Cuba		28		1884	1	1	22	12		22'	»
+19	IX Manuel Vida y Eraña			30		1866	1		29	11	1	4	))
+20	D. Carlos Vega Verdugo		Administrador de Hacienda de Santiago de Cuba..	29	Febrero 			18w4	1		24	13	5	6	»
+21	D Alfonso Rustos y Saldaña			19		1884	1		21	9	4	28	»
+22	O. Regino Escalera	«.			1#		18*4		8	10	15	3	22	))
+23	TX «Tosé del Rey y González			5		1*84		7	11	26	10	16	»
+24	IX Ramón Chaperón			20		1872		7	7	21	11	13	))
+25	TX Manuel P lvarez Osor i o					6		1881		(]	16	17		3	
+26	IX Antonio Abudo				6		1884		6	9	31	11	26	))
+27	D. Francisco Parra		Tesorería General de Hacienda de Filipinas		15		1884		6	7		6	7	, »
+28	D. Abelardo Merello 	 		Cesante			15	Abril		1875		5	15	18	2	29	))
+29	I). Feliciano Ruiz Novoa		Cesante	 			24		1878		5	2	21	11	9	))
+30	D. Rosendo García López		Interventor de la General de Pagos de Filipinas...	29		1884		5			5		»
+31	D. Dionisio Molina Galindo		Cesante				11	Marzo ..	1881		2	24	6	4	Í0	))
+	JEFES DE NEGOCIADO DE 21* CLASE.											
+1	D. José Sedaño Usatorres		Tesorero de la Administración de Hacienda de la										
+		Habana	 		25	Octubre		1878	6	8	6	36	9	17	
+												de primera.
+2	D. Antonio Pérez Kioja			1q	Febrero		1883		11	9	10	5	21	
+3	D. Claudio F. Bermav		Cesante	, 		10	Marzo		1876	8	5		35	1	25	
+4	D. Cárlos Pineda Apistegui		Administrador de Hacienda de Puerto Príncipe....	12	Enero		1877	7	6	21	22	10	23	
+5	D. Marcos Melero			30		1878	6	8	3	6	8	3	
+6	D. Tomás Alonso Zaba!a		Letrado de la Secretaría del Consejo de Adminis-										
+		tración de Cuba 		11	Marzo		1881	4	1	28	10	6	23	
+7	D. José A. Moreno Curiel		Contador de la Aduana de Manila		6	Abril	1881	4	1	13	10	3	23	
+8	D. Florentino Montejo y Robledo		Interventor de la Administración de Rentas de Fi-										
+			21	«I unió		1881	3	7	14	30	6	13	
+9	D. Cárlos Peñaranda Escudero	,	Administrador de la Aduana, de Mayagiiez			24	Noviembre...	1881	3	5	28	14	1	9	
+10	D. Evaristo Homero			8	Octubre		1865	3	4	22	32	1	13	¡)
+11	D. Antonia Diaz González		( esante 		7	Enero		1879	2	6	16	24	1	4	
+12	D. Pedro López Trigo			2		1872	2	6	6	21	]	20	
+13	D. Vicente Martínez Carvajal		Cesante ...		13	M ayo		1870	2	4	17	16	2	18	
+14	D. Alonso de Ojeda		Secretario Letrado de la Intendencia de Puerto										
+		Rico....'.	 		6	Enero			1883	9	4		11	2	25	
+15	D. Isidro Gutiérrez y Rodríguez 		Cesante		26	Enero		1876	2	L	26	15	2	11	
+16	D. Victoriano Ruiz Martínez			24	Abril		18a3	2		11	2	10	7	
+17	D. José Aragón y Huertas				i esante			13	Octubre		1870	1	10	4	26	2	26	
+18	D. Julián Rodríguez Salvadores		Interventor de la Central de Impuestos de Fili-										
+			30	«Junio		1*83	1	10		24	2	5	
+19	D. Aurelio Arias			24		1883	1	s	1	11		14	
+20	D. José Antonio Daubón	 		Cesante 	 		1q	Diciembre. ..	1880	1	7	14	28	i	12	
+21	D. Francisco Petisme Burgos		Dirección de Administración civil de Filipinas		29	Diciembre....	1883	1	6	21»	22	5	2	))
+22	D. Francisco López de Haro		Administrador de Hacienda de Santa Clara, Cuba	6	Diciembre....	1883	1	5	10	15	9	15	))
+23	TX Venancio Aldama		Administración de Hacienda de la Habana			15	Enero		1884	1	4	23	5	3	5	
+24	D. Victoriano Valdenebro		Cesante	*.		5	Diciembre...	1879	1	4	1	22	8	12	
+25	D. José Polo de Bernabé		Secretario del Gobierno civil de Manila		17		1884	1	• 4		8	9	22	
+26	D. Hermenegildo Herrero		Interventor de la Central de Comunicaciones de										
+			17		1883	1	3		34	6	3	
+27	D. Pedro Sedaño y Cruzat		Administrador de Hacienda de Matanzas		28	Febrero		1884	1	. 2	24	4	ii	7	))

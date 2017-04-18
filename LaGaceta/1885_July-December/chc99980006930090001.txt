@@ -1,0 +1,111 @@
+﻿
+
+, -
+eá -E O *3-* r~r=s 3	NOMBRES Y APELLIDOS.	DESTINOS QUE DESEMPEÑAN.	Fecha de la antigüedad en la clase.			Tiempo de servicio en la clase.			Tiempo total de servicios.		
+			Dia.	Mes.	Año.	Años.	Meses.	Dias.	Años.	Meses.	Dias.
+326		Cesante				27	Agosto		1878		7		30	4	4
+327		Cesante 		29		1870		7		3	11	17
+328		Administración de Hacienda de Bataán		9		1884		7			7	
+32b		Administración ele Correos de Huinacao		13	Octubre		1884		7			7	
+330		Administración de Hacienda de la Habana		14	Octubre		1884		7			7	
+331		Administración de Hacienda de Bulacán		30	Octubre		1884		7			7	
+332		Administración de Hacienda de Santa Clara		7		1884		6	25	1	8	17
+333		Cesante	 ...	24	Julio		1876		6	11	7	11	27
+334		Cesante		18	Marzo		1884		G	8		10	26
+335		Subdelegación de Hacienda de La Unión		4		1884		6			6	
+336		Dirección y A dministración civil de Filipinas		11	Octubre		1884		6			6	
+337		Administración do Hacienda de llocos Sur		17	Noviembre .	1S84		6			6	
+338		Cesante				27	Junio		1883		5	26	9	5	17
+339		Gobierno oí vil Jo Santiago de Cuba		7	Diciembre ...	1884		5	17		5	17
+340	D. Marcelino Pujol Oamps			Cesante		9	Marzo ... ...	1870		5	16	2		10
+341		Administración de Hacienda de Manila		28	Noviembre...	1884		5	16		5	16
+342		Gobierno civil de Santaclara				7	Noviembre...	1884		5	8		5	8
+343		Vista Farmacéutico de Santiago de Cuba		5	Noviembre..	1884		5	1		5	1
+344		Celador del Resguardo de Cuba		21	Diciembre...	1884		5	1		5	1
+345		Administración de Hacienda de Matánzas		16	Diciembre ...	1884		5			5	
+I 346		Dirección Administración civil de Filipinas		14	Enero		1885		5			5	
+S 347		Secretaría del Gobierno general de Puerto-Rico...	7	Ffebrero		1885		4	22	9		26
+348	D. »losé do ’Bastardo Cisnoros		~ o Cesante		7	Agosto		1884		4	21		4	21
+349	D. Miguel fípolins		Contaduría general de Cuba		5	Diciembre ...	1884		4	19		4	19
+350	D. Juan Pardo Andrade		Secretaría del Gobierno general de Cuba		20	Diciembre ...	1884		4	16		4	16
+351	I). Ildefonso Ales 		Celador de Comunicaciones de Cuba		5	Diciembre....	1884		4	12		4	12
+152	D. Miguel Oarhftllo		Cesante 		19	Marzo		1883		3	24	10	9	11
+353	D. Federico Fópez Zambrano			Gobierno civil de Puerto-Príncipe		2	Marzo		1885		3	21		3	21
+354	D. Ricardo Tudela		Cesante 				15	Junio		1878		3	17	8	5	11
+355	D. Manuel Gonzálcsz Pringas	 		Cesante 		12	P ebrfe.ro		1879		3	3	21	9	
+356	D. Justo Taladrid		Cesante		11	Marzo		1881		3	2	10	9	6
+■157	D. Manuel Aeostn, Ojedo . Tt 		Contaduría general de Filipinas		30		1884		3			3	
+358	I). Félix Fatorre Bel i o		Administración subalterna de Trinidad		6	Abril		1885		2	4		2	4
+359	D. Cristóbal de Rivas		Dirección general de Administración civil de Fili-									
+			28	Noviembre...	1881		1			1	
+360			25		1877						
+361			6		1884						
+362			le		1884						
+363	D. Rosendo León		Administrador de la subalterna de Guanabacoa,									
+		Cuba	 		lo		1884						
+364			ip		1884						
+365		Depositario Clavero de Nnevitas		1q		1884						
+366	D. Domingo Muñoz		Administrador de la de las Tunas.. 	 		lo		1884						
+367	D. Octavio Pórtela			19		1884						
+368	I). Hipólito Blanco Pablo		Secretario del Gobierno político militar de Basi-									
+			16		1884						
+369	D. Inocencio Montaña			20	Marzo		1885						
+370	D. José Ruiz. (Jaitero			Contador de la subalterna de Zaza			26	Marzo		18H5						
+371	D. Angel Figueredo			lo	Abril		1885						
+372	D. Juan Ramón Colón			28	Abril		1885						
+373	I). Alejandro Bofill		Secretario del Gobierno político militar de Misa-									
+			7	Mayo		1»85						
+374	D. Merchor Ortíz y Ortíz			5	Mayo		1885						
+375	D. Fortunato Vizcarrondo			Aduana, de Puerto-Rico		18	Mayo		1885						
+376	D. José Losada Quirós				Celador del Resguardo de Cuba		lo	Julio		1885						
+377	D. Miguel Pascual y Sin			lo	Junio		1885						
+378	D. Antonio Mazorra Ortíz			9	Junio		1885						
+379	D. Gil Alvarez Prida		Administración subalterna de Baracoa	 		11	Junio		1885						
+380	D. Manuel Varela Redondo		Contaduría general de Cuba		17	Junio		1885			4			
+No consta la toma de posesión ni los servicios dees-tos funcionarios.
+ADICION.
+Empleados que en el dia de la fecha, y después de cerrado el Escalafón, han presentado sus hojas de servicios.
+NOMBRES.
+D. Alfredo Marquerie............
+I). Eduardo Botella y Gamarra...
+1). Antonio Guerrero y Esparducer
+I). Antonio Becerra y Lavina....
+D. Francisco Gómez Erruz........
+1). Casto Alvarez y Enriquez....
+D. José Fernández de la Cancela...
+D. Valero Bercile y Frechina......
+D. Isidoro Bocio y Conesa.......
+CATEGORIAS.
+Jefe de Negociado de segunda, cesante...
+Jefe de Negociado de tercera, cesante......
+Jefe de Negociado de tercera, cesante......
+Oficial primero de Administración, cesante.
+Oficial segundo de idem, cesante..........
+Oficial tercero de idem, cesante... ......
+Oficial quinto de idem, cesante...........
+Oficial quinto de idem, cesante...........
+Administrador de caudales que fué de Fernando Póo é Interventor que fué también de la esta, ción naval......... ........................
+Fecha de la antigüedad			Tiempo de servicio				Tiempc		
+	en la clase.		en	la clase.		total de servicios.			OBSERV ACIONPS — I
+									
+Dia.	Mes.	Año.	Años.	Beses.	Dias.	Años.	Meses.	Días.	
+o	Diciembre...	1884		7	1	14	1	26	Le corresponde lugar ente el numero 36 y 37 de 1*
+									de su clase.
+14	Marzo		1869	3	11	28	16	6	23	Le corresponde entre el!
+									y 9 de los de su dase.
+1*9	Julio		1874		11	20	17		13	Idem idem entre el !ü>
+									39 de idem. Idem idem entre el 1“'
+23	Marzo		1875	6	1	19	8	4	1	
+									13 de idem.
+2	Abril		1875	5	'4	11	14	1	17	Idem idem entro el 2?
+									21 de idem.
+14	Agosto		1872	1	6	4	5	10	26	Idem idem entre el <V
+									88 de idem.
+4	Julio		1873	3	5	21	3	5	21	Idem idem entre el 137J
+									138 de idem. ¿fi
+16	Febrero		1881	3	2	23	3	2	23	Idem idem entre el 11*!
+									144 de idem.
+7		1873	1	2	25	25	7	26	Es Comisario de Guerrs
+									Contador de navio.
+Madrid, 30 de Junio de 1885.—El Subsecretario interino, ./. Gr arcía Liópez.
+

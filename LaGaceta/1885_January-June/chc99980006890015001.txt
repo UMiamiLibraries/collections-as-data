@@ -1,0 +1,356 @@
+﻿ambas Castillas. Idem ídem do Estremadura y Andalucía.
+1‘J. Idem id. de los Reinos de Murcia, Va- ' lencia, Principado de Cataluña, Reinos de Ara-j gón y Navarra, provincias Vascongadas, Principado do Astucias y Reino de León y Galicia.
+20.	Idem de la República de Andorra y de las Islas Baleares y Canarias.
+21.	Portugal-. Límites y Fronteras. Pro-1 duccioncs. Razas. Lengua. Estadística. Islas adyacentes. Italia. Análogo estudio al anterior.
+22.	Grecia, Turquía de Europa y Asiática, Principados de Bulgaria, Montenegro, Rumania y Reino de Servia. Región del Noroeste. Francia. Monaco.
+23.	Inglaterra. Bél gica. Holanda. Luxcm-'
+burgo.	j
+24.	Región del Centro. Suecia. Alemania.1 Austria Hungría. Lisehtenstein.
+25.	Región del Nordeste. Rusia de Europa y Asia. Región del Norte. Dinamarca. Suecia y Noruega.
+26.	Asia. Geografía general. Grandes divisiones.
+27.	China. Japón. Indo China. Indostan.
+28.	India inglesa. India feudataria. India independiente. Posesiones Portuguesas y Francesas. Islas del Indostan. Turquestan. Irán. Arabia.
+29.	Africa. Geografía general. Grandes divisiones. Marruecos. Presidios Españoles.
+3C. Argelia. Túnez. Trípoli. Egipto. Nubla. Abisinia. Sencgarnbia. Guinea. Posesiones Españolas.
+31.	Congo. Colonia del Cabo. Cafrería. Colonia do Natal. Africa Oriental. Idem interior. Islas del Africa.
+32.	América. Geografía general. Grandes divisiones de la América del Norte. Tierras Articas y Groenlandia. Nueva Bretaña. Confederación del Canadá.
+33.	Terranova. Labrador. Islas Bermudas. Estados Unidos. Méjico. América Central.
+34.	Las Antillas. Cuba. Puerto Rico y Santo Domingo.
+35.	América del Sur. Generalidades. Grandes dimensiones. Estados Unidos de Colombia. Ecuador. Venezuela, Guaynna. Brasil.
+36.	Paraguay. Uruguay. República Argentina. Perú. Bolívia. Chile. Patagonia.
+37.	Oeecanía. Geografía general. Grandes divisiones. Malaria. Posesiones Españolas.
+38.	Melanesia. Micronesia. Polinesia.
+Dirección general de la Guardia Civil.
+Anuncio.
+Debiendo procederse á la subasta para la construcción de las prendas de vestuario y equipo que puedan necesitar los individuos de las Comandancias de la Isla en el período de dos años, se anuncia por este medio para que los señores que daseen hacer propoposiciones puedan efectuarlo en la forma y modo que previene el pliego de condicionas y tipos que se hallan de manifiesto en casa del Sr. Coronel Subinspector, cuartel de Be-laEconin, todos los días no festivos do 11 a 4 de la tarde; en la inteligencia que el acto de la subasta tendrá lugar ante la Junta Económica del Cuerpo que presidirá dicho Señor, el día 17 dolos corrientes, a las 12 de su mañana, á laque, los que hagan proposiciones, entreguen el pliego y documentos.
+Habana, 1? de Junio do 1885.—I)o orden de S. E.—El Coronel Teniente Coronel Jefe de la Sección., P. S., Fernando Navarro.
+señalado para el remate reservándose solamente el de j aquel cuya proposición fuese admitida hasta que se obtenga la aprobación del Gobierno General y se formalice el contrato.
+Art. 59 Tan pronto como lecaiga la aprobación á que se refiere el artículo anterior, el que resultare contratista deberá presentar la fianza que se fija para
+Intendencia General de Hacienda.
+Sección de 'amortización.
+A la una do la tarde del dia cinco del actual serán amortizados y quemados por el Banco Español de la Isla de Cuba, en su propio edificio $249304 en billetes cuyo valor le será entregado al expresado Banco con este objeto por la Hacienda Pública como producto de los recursos destinados al pago gradual de la denda que representan, cumpliéndose así el R. D. de 30 Agosto último.
+Lo que se anuncia para general conocimiento.
+Habana y Junio 2 de 1885.
+El Intendente general,
+Lucas Garda Ruis.
+íibnsiita eu páginas.
+Aritmética, Texto Penitez y Salinas.
+Algoritmo Aritmético.
+l.°—Numeración.
+___A Formación, nomenclatura y escritura de
+( los números.
+2.°—Números enteros.
+( Operaciones fundamentales.
+1 Adición, sustracción, multiplicación y 21—^	división.
+1 Consecuencias y pruebas de estas opc-P raciones.
+Propiedades.
+Divisibilidad en general y en particular para alguuos números.
+Máximo común divisor; su determinación y propiedades.
+Mínimo común múltiplo; su determinación y propiedades.
+Números primos; 6us aplicaciones.
+SO—
+6
+8
+13—
+N úmcros fraccionarios.
+( Fracciones ordinarias.
+I Propiedades.
+15—\ Simplificación y reducción.
+| Igualdades fraccionarias. Teoremas que P do ollas se desprenden.
+Í Operaciones.
+Adición, sustracción, multiplicación y división.
+f Fracciones continuas, j Reducidas y sus propiedades.
+“J Cálenlo del valor de una fracción con-L tirina.
+[ Fracciones decimales.
+) Sus propiedades.
+j Adición, sustracción, multiplicación y división.
+f Reducción de un número fraccionario a otro fracccion«rio.
+Reducción do fracción ordinaria y decimal ó fracción continua.
+Reducción de fracción ordinaria á decimal y decimal á ordinaria.
+Caso de imposibilidad; solución aproximada por la fracción contúuia; noción de la cantidad inconmensurable.
+4.°—Potencias y raicee.
+Potencias: cuadrados de un número.
+fRaiz cuadrada do números enteros y | fraccionarios.
+£0— <¡ Carácter do irracionalidad; origen del núircro conmensurable. ^Aproximación de la miz cuadrada.
+5.°—Números inconmensmables.
+é Definición.
+6— / Operaciones con los números ¡neonmen-( sumirlos.
+6."—C Jcnlo de números aproximados.
+í Errores relativo y absoluto.
+13—< Adición, sustracción, multiplicación, di-( visión, potencias y raíces.
+Explicaciones usuales del algoritmo aritmético.
+l.°—Medidas do los números concretos.
+f Sistema métrico decimal, j Unidades legales, de longitud, superficie, 5~ j capacidad, peso, numerario y de tiempo. UMúltiplos y submúltiplos.
+" Relación cic las nuevas unidades con las
+El Excmo. Sr. Gobernador General oida la Junta de Autoridades lia tenido á bien resolver, que el cambio á que deben admitirse y entregarse por el Tesoro los billetes del Banco Español de la Habana durante el presento mes de Junio para cumplir con el artículo tercero dé la Ley ele 7 de J ulio de 1882, sea el de doscientos treinta y seis por dentó, cuyo cambio servirá para las operaciones de contabilidad á que también se contrae el texto de la mencionada Ley, sin perjuicio de lo que se sirva acordar al Excmo. Sr. Ministro de Ultramar i cuya aprobación se 6omote dicho acuerdo.
+Lo que se publica para general couociiuiento.
+Habana 2 de Junio do 18-85.
+El Intendente general,
+Lucas Garda Ruiz.
+Sub-Intendencia.
+Amortización.
+El dia 8 del actual en el sitio y á la hora de costumbre tendrá lugar la trigésima tercera subasta de 25,000 pesos oro que prescribe el Real Decreto de 30 de Agosto último sobre amortización de Billetes del Banco Español de la Habana.
+Las proposiciones que so presenten se ajustarán eh un todo al pliego de condiciones y modelo publicados en la Gaceta de 27 do Setiembre próximo pasado, salvo las modificaciones acordadas por el Gobierno General, insertas en la de 11 de Octubre último.
+Lo que se anuncia para goncral conocimiento.
+Habana Junio 3 de 1885.—El Sub-Intenden-te general.—Juan Miguel Ortiz.
+Administración General de Comunicaciones de la Isla de Cuba.
+Sección de Correos.—Negociado Internacional.
+Habiendo terminado en 31 de Mayo próximo pasado el periodo estadístico del año 1885 que marca el Reglamento General de orden y detalle del Conveuio Postal Internacional; se hace público por este medio que en lo sucesivo, rejirár. para el cierre de los buzones de esta Administración General, eu los dias de salida de vapores extranjeros, las mismas horas que antes del lo do Mayo del corriente año.
+Habana I o de Junio de 1885.—Joaquín B. Valdés.
+Contaduría General de Hacienda de la Isla de Cuba.
+Sección de Atrasos.—Negociado de Reparos.
+Número 174.—Folio 1.—Convocatoria.
+D. Camilo Gelaberte, su apoderado ó herederos caso de que hubiese fallecido se servirán presentarse en esta Contaduría general en hora y día hábil y término de quince á recoger un pliego de reparos de su 'solvencia deducidos por el Tribunal de Cuentas del Reino en la del Tesoro por ingresos y pagos de la Administración de Pinar del Rio del mes de Julio de 187 1; en la inteligencia que de no presentarse se le irrogarán lo< perjuicios consiguientes.
+I • Habana 23 de Mayo de 1885.—El Contador
+antiguas.
+Operaciones con los números concretos 4—■(' y complejos.
+Adición, sustracción, multiplicación división y reducción de números métricos.
+29—Cantidades proporcionales
+Reglas do tres, simple y compuesta.
+3.u—Cuestiones do Aritmética Mercantil.
+Intciés simple y compuesto.
+Desmonto.
+Fondos públicos.
+Anualidades y rentas vitalicias.
+Reglas de sociedad, aligación y conjunta.
+11 abara 16 de Mayo de 1885.
+Fajardo.
+nera!.—P. S., Luis Izquierdo y Soldán.
+ge.
+Administración Principal de Hacienda Pública de la Provincia de la Habana.
+Censos.
+Encontrándose al cobro lo* recibos de réditos de
+censos de regulares, vencidos en el mes de Mayo pró-¡ ---------------i----------------— -i— -- -j- ,...
+ximo pasado, se avisa á los censataiios para que pro-! cada remate, y de no hacerlo dentro del término de cedan á ingresar su importe en ¡a Recaudación de ‘quince días perderá el depósito, quedando nulos los Bienes del Estado, entiesuelos de esta Administración, efectos de la subasta.
+en el concepto de que, desde el 22 del corriente incu-| -fH. Vencido el tiempo del contrato que será rrirán en el 2 p.§ de recargo por morosidad y se pro-i el treinta de Junio del próximo año de 18S6 queda-cederá al cobro por la via de apremio, con arreglo á ob ¡gados los rematadores á continuar prestando el Instrucción.	¡servicio bajo las mismas condiciones hasta que la nue-
+Los censatarios por finoas urbanas de esta Ciudad, va contrata que se celebre esté aprobada, no excedien-deberán presentar los recibos de la contribución del úo esta proroga de tres meses.
+16 p.g del 4? trimestre de 1883-84 y 19, 29 y 3q de' Art. La Junta Económica del Establecimien-1884-85, para hacerles la baja correspondiente.	jto reconocerá los efectos que hubieren de suministrar-
+Habana lo de Junio de 1885.—El Administiador, se y si encontrase que no rtune las condiciones fijadas G. Ferinat.	para cada servicio lo manifestará al contratista para
+_______	que inmediatamente los reponga sin exceder del tieru-
+Negodado di clases pasivos.	I)0 íija(io Para ca,,a servicio.—Para el reconocimiento
+de losarlículo3 ó efectos de suministros diarios, la
+Abiertos por el Excmo. Sr. Intendente General Juuta llegará en el Director y eu el Mayordomo lude Hacienda los pagos de clases pasivas, correspon- i terventor.	....
+dientes al mes de Diciembre del año próximo pasado,! Art. 8- -i el contratista dejase de suministrar ó se verificarán de 11 de la mañana á 2 de la tarde en ' rcP°Dt'^ e ,0d° o parto de .os electos quo hubiere de la Tesorería de esta Administración en la forma si- Petj1!® , dentro del termino que se exige, estará obh-
+en ta iorma s
+guante:
+Del 2 al 6 del raes de Junio próximo*
+Cesantes y jubilados de todos los ramos.
+Del 8 al 13.—Retirados de Guerra, Marina, inu tilizados en Campaña y pensimistas de cruz.
+gado á abonar por su cuenta las diferencias de precios á que el Establecimiento tenga que adquirirlos, siendo gualmente de su cuenta el pago de todos los fletes ó cionducciones.
+Art. 9«? Cuantas cuestiones se susciten entre el Del 15 al 2Ó.-M'ontepío Civil, Militar, Pensiones' rematador y la Junta Económica del Establecimiento de Gracia y Exc'austrados	1° sus delegados sobre cumplimiento, rescisión y demas
+Habana 30 de‘Mayo‘de 1885.—El Administra-' efectos de las subastas serán resueltas por el Excmo.
+dor, Guillermo Ferinat.
+Administración Gene ral de Loterías de la Isla de Cuba.
+NKGOciAdo de Intervención.— Convocatoria.
+Sr. Gobernador General, y el contratista no tendrá derecho á reclamar indemnización de ningún género por casos fortuitos que no pueda evitar la citada Junta Económica.
+Art. 10. El pago de cada servicio se hará en oro ó su equivalenle en billetes al tipo Ge plaza ó al que señale'el Gobierno y tendrá Jugar durante el año económico ó su semestre de ampliación.
+Art. 11. Cada rematador estará obligado á faci-D. Blas Rodríguez Ojea, Administrador General ! litar dos pliegos de papel del sello onceno para la roque fue de esta Renta, sus apoderados ó herederos ca- ¡dacción del contrato y además satisfacer el importe de so de haber fallecido, se servirán presentarse en esta los anuncios del presente pliego en la Gaceta y Bole-Dependencia en dia y hora hábil y término de 15 dias tin oficial que les cotresponde proporcionalmente. á recojer un pliego de reparos deducidos por el 'Iribú- ¡ Art. 12. La fianza que prestase el contratista no nal de Cuentas del Reino en la del Tesoro de la expre-j le será devuelta hasta que termino por completo su sada Administración correspondiente al mes de Octu-! respectivo servicio y lo acuerde así la Junta Econó-bre de 1873, en la inteligencia que de no presentarse mica en vista del buen cumplimiento del contrato, á recojer aquel se lo irrogarán ios perjuicios consi- Habana 28 de Mayo de 1885,—El Mayordomo guíenle«.	j Interventor, Francisco Bauza.—Vto. Bno..—El Di-
+Habana, Junio 19 de 1885.—El Administrador rector Administrador, F>r. Emiliano Núñez. general, El Marqués de Gaviria.
+Administración de la Aduana de la Habana*
+pliego de condiciones.
+NEGOCIADO DK TENEDURIA DE LIBEOS.
+RECAUDACION EN ESTE DIA.
+POR 1.03 CONCEPTOS ARANCELARIOS.
+ESPECIES.	Pesos. Cs.
+SUMINISTRO DE POLLOS Y HUEVOS.
+Condiciones especiales de este servicio.
+1? Para ser postor al servicio de estos artículos so requiere ei depósito prévio de la cantidad de trescientos veinte y cinco pesos ó sea ¡a dozava parte del presupuesto precisaineiue en metálico y la fianza para responder al cumplimiento de la contrata será la de seiscientos cincuenta pesos en metálico ó por carta de abono á satisfacción de la Juuta Económica del Establecimiento.
+24 El sumin stro se hará mediante un vale que expedirá el Mayordomo Interventor dd establecimiento entregándose el pedido antes de las seis de la mañana, advirtiéndose que bajo niugúu concepto podrá modificarse la hora de la entrega ni tampoco servir mayor ni menor cautidad de la que se necesitu.
+34 Requerido el contratista por la falta de cumplimiento ó por habérsele rechazado algún artículo, queda obligado á reponerlo inmediatamente y de no hacerlo así sufrirá los perjuicios que se le irroguen por la diferencia de precios á que e! Establecimiento tenga que adquirirlos comprándolos en cualquier parte por cuenta del rematador.
+Precio limite mayor á que abonera el Hospital.
+Los pollos de 18 onzas de peso á 35 cts.. oro.
+Los huevos clase frescos á 30 cts. oro la docena.
+Cálculo aproximado de los pollos y hueves que conducirá el Hospital dorante el año económico de 1885 á 86, sirvieudo de base los consumidos eu ei ejercicio anterior.
+Pollos.....
+Huevos.....
+2985
+28230
+Habana 28 de Mayo de 1885.—El Mayordomo Interventor, Francisco Bauzá.—Vto. Bno.—El Director Administrador, Dr. Emiliano Núñez.
+Aprobado por el Excmo. Sr. Gobernador General, el actual pliego de condiciones en 23 del actual y quo ha de regiren el año económico de 1885 á 86 en dicha subasta, con la modificación de que la garantía que han de prestar los contratistas para el cumplimiento de su compromiso, ha de ser precisamente en metálico. — Habana 25 de Mayo de 1885.—El Secretario del Gobierno General,—Francisco Gassá,—Hay una rúbrica.—El Mayordomo Interventor.—Francisco Bauzá. —Hay una rúbrica.—Vto'. Bno.—El Director.—Emiliano Núñez.—Hay una rúbrica.
+En oro			 13114 61
+., plata				395 45
+„ B(B			 3831 27
+Total			 17341 33
+POR IMPUESTOS.	
+CONCEPTOS.	
+Sobrebebidas		14 74
+„ toneladas		36 47
+,, carnes frescas		
+„ cabotaje				8 12
+,, 10 por 100 pasages				.
+Total		
+COMPARACÍÚN.	
+EPOCAS.	
+Recaudado hasta la fecha en este mes por	
+los conceptos arancelarios		.. 51383 76
+Id. id, hasta igual dia del año anterior...	... 24725 35
+De más en 1885			... 26658 41
+Habana 3 de Junio de 1385.— E	Tenedor de
+Suministro de víveres y efectos de lavado.
+Condiciones especiales de este servido.
+1? Para ser postor al remate de este artículo se requiere el depósito previo de la cantidad de mil cien; pesos ó sea la dozava parte del presupuesto precisa- ¡ mente en metálico y la fianza será de dos mil pesos ó sea la sextante porte bien en metálico ó por carta de 1 abono á satisfacción de la Junta Económica del Hos-¡ 1 pital.
+2¡> Los víveres y efectos habrán de ser de la clase [ y condiciones que se detallan, 1« s cuales entregará el rematador dentro-de las veinte y cuatro horas de he-' cho el pedido por medio de uu vale que expedirá el Mayordomo del Establecimiento.
+3* Requerido el contratista por la falta de entrega del pedido dentro del término fijado ó bien porque le fuese rechazado algún artículo y no reponiéu-1 dolos inmediatamente estará obligado á pasar por los precios á que el Hospital teuga que adquirirlos comprándolos eu cualquier parte por cuenta del contratista.
+Precio limite mayor d que abonará el Hospital, los efectos siguientes:
+PESOS CTS
+Aceite vegetal, un litro.....
+Aguadiente de caña, garrafón.
+Ajos, manojo.................
+Arroz semilla, un kilo ....•.
+Azafrán flor, uu ídem...........
+Azúcar blanca polvo, ua idem-Cebollas del país, un ídem...
+30
+Libros, M. Martínez.— El Contador, Castañon.—Visto Bueno, El Administrador, Fernández.
+Número 171.—Fólio 1.
+D. Camilo Gelabert, su apoderado ó herederos cas > de haber fallecido, se servirán presentarse en esta Contaduría General en hora y día hábil y término de quince á recoger un pliego de primera censura de reparos de su solvencia deducidos’por el Tribunal de Cuentas del Reiuo en la de operaciones del Tesoro de la Administración de Pinar del Río del mes de Julio de 1871, eu la inteligencia que de no presentarse se le irrogarán los perjuicios consiguientes.
+Habana 28 de Mayo de 18S5.— El Contador Ge-ueral.—F. S, Luis Izquierdo g Itoldán.
+Número 142.—Fólio 1.
+D. Tclesforc de Neda, Contador que fué de la Administración Económica de Puerto Príncipe, su apoderado ó herederos caso de que hubiese fallecido se servirán presentarse en esta Contaduría General en hora y día hábil y témiino de quince á recoger un pliego de reparos deducido por el Tribunal de Cuentas de. Beino eu la de operaciones del Tesoro de la expresada Administración correspondiente al mes de Julio de 186!', en la inteligencia que de no presentarse á recoger el’expresado pliego se le ocasiouarán los perjui-
+eios consiguientes.	~
+Habana 23 de Mayo de 188.>—E1 Contador Ge-
+neral,—P. S., Luís Izquierdo y Boldá».
+Negociado de compulsas.
+Doña Juana Paula Arias y González, huérfana de D Anselmo del mismo apellido, Administrador do , Reutas que fué de Pinar del Rio, ó persona que la re- j presente se servirá presentarse eu esta Contaduría ge-neral en día hábil, para enterarle de un asunto que le
+concierne.	,
+Habana 26 de Mayo do 18c5.-El Contador general— P. S., Luis Izquierdo y Hdd&n.	¡
+Junta Económica del Hospital Civil de San Felipe y Santiago.
+Debiéndose contratarse en licitación pública el suministro de los Víveres, Pan y Panetela, Carne y Choquezuela, Pollos y Huevos, Leche, Medicinas y Efectos Quirúrgicos, Combutiblcs, Ropas y Géneros y Utensilios, que se necesitan en esto Hospital, durante el año económico de 1885 á 86, se ha señalado la hora de las 12 del dia30 de Junio próximo, para la celebra cióu de dicho acto, el cual tendrá lugar ante esta Juuta, en las oficinas del mismo Establecimiento y con sujecióu á las condiciones expresadas en los pliegos respectivos que se publican á continuación y se hallarán además de manifiesto en la citada oficina todos los dias hábiles desde las 6 de la mañana á las 5 de la tarde á fin do que las personas que deseen tomar parte en la licitación puedan examinarlos y adquirir los datos que necesiten.	...
+Los depósitos en metálico sólo se admitirán en la Caja del Establecimiento hasta una hora antes de la fijada para el remato.
+Las proposiciones se presentarán á esta Junta á la hora de la subasta en pliego cerrado acompañando la carta de pago del depósito prévio y si resultasen dos ó más proposiciones igual» s para cualquiera de los artículos se admitirán pojas á la llana entre los igualados durante 10 minutos.
+Habana 28 de Mayo do 1885.—El Secretario, Francisco Bauzá.
+Pliegos de condiciones que han de regir en el remate
+de los suministros que necesite el hospital de San
+Felipe y Santiago de la Habana durante el año
+económico de 1885 á 86.
+Articulóle Los remates se harán por separado en la forma siguiente:
+Pan y Panetela.
+Carne y Choquezuela.
+Víveres y efectos para lavado.
+Pollas y huevos.
+Leche de vaca.
+Utensilios.
+Medicinas y efectos de Botica.
+Ropas y géneros.
+Art. 2«? Para ser postor de caci a ¡un o de los servicies expresados se requiere el depósito prévio en la Caja del Establecimiento de la cantidad que para cada servicio se señala en la relación de precios límites mayor á que abouará el Establecimiento y que se inserta á continuación.
+Art. 3q Las proposiciones se harán en pliegos cerrados separadamente para cada servicio y deberán acompañarse con la oportuna carta de pago entregándola en el acto de remate á la Comisión que lo presida y la pioposición será ajustada al modelo que se inserta á continuación sin que exceda del precio á que el hospital abona les artículos. Estos precios deberán expresarse eu letras sin enmieudas, reservas ni ambigüedades de ningún géuero.	,
+Ari. lo A les que no obtengan el remato ó íes fuera rechazada tu proposición les será devuelto el depósito que hubieseu hecho, eu todo el día siguiente del
+Cerveza Jorenger ó P P, docena............
+Chocolate de Mestro, un kilo..............• •
+Café de Puerto Rico, un ídem ..........
+Garbanzos, un Ídem........................
+Harina de Castilla, un Ídem...............
+Idem de Sagú, uu Ídem.....................
+Manteca en tercerola, un idem ............
+Pasta ó fideos del país, un idem..........
+Patatas, un idem.............. .... ......
+Pimentón, un idem.........................
+Sal espuma, un idem...........-...........
+Idem en grano, un idem....................
+Sémola francesa, un idem..................
+Tocineta, un idem............. ...........
+Velas de esperma, una libra...............
+Vico tinto marca corriente clase buena, litro
+Vino generoso, barril 39 litros, idem.....
+Vino seco, idem 45 idem, idem.............
+Vinagre, garrafón.........................
+Pimienta, un kilo...................... •••
+Clavos especias, un idem..................
+Almidón, un idem................... ......
+Jabón de castilla marca Boscli y Volent, un
+idem...................................
+Idem amarillo, un idem....................
+Leche coudeusada, djeena latas............
+Té negro, un kilo.........................
+30
+50
+50'
+10,
+19
+’.5¡
+75
+45
+42
+19
+42
+52
+36
+22
+08
+55
+10
+08
+40
+23
+15
+50
+50
+50
+60
+60
+10
+I
+25
+13
+SUMINISTRO DE LECHE DE VACA.
+Condiciones especiales de este servicio.
+14 Para ser postor de este artículo so requiere el depósito prévio de la cantidad de ciento setenta pesos ó sea la dozava parte del presupuesto precisamente en metálico y la fianza para responder al cumplimiento de la contrata será la de trescientos cuarenta pesos, bien en metálico ó por carta de abono á satisfacción de la Junta Económica del Hospital,
+24 La leche habrá do ser pura sin mezcla ni adulteración y el contratista estará obligado á suministrarla de la manera siguiente.—Entregará antes de las cinco de la mañana las dos terceras partes del pedido ó vale del dia anterior, y el resto hasta el completo del vale que doriamente se le expedirá lo entregará ántes de las doce del dia en que recojerá aquel, «lo modo que al efecto deberá traer lá cantidad «le leche que sea necetaria y si así no lo verificase, el Establecimiento lo adquirirá por cuenta del contratista la diferencia que eutregue de menos. Tampoco se le admitirá ni tomará en cuenta io sobrante al completar el pedido, advirtiénduse que también será de cuenta del rematador reponer iumeJiatamente la leche que so cortare eu el acto de cocerse.
+3* Como quiera que son muchas las dificultades que surgen para encontrar de momento el artículo de que so trata, máxime en la cantidad que exije este servicio, queda entendido que si el contratista iucurriese en falta por seis veces consecutivas durante un mes, se precederá á la rescisión del contrato con pérdida de la fianza que tenga depositada, previo acuerdo de la Junía Económica y competente áut rización del Gobierno General sin cuyo requisito no tendrá valor esto artículo.
+Precio limite mayor & que abonará el Hospital.
+El litro de leche pura á 8 centavos oro.
+Cálculo aproximado de la cantidad do lecho de vaca que consumirá el Hospital durante el presente año económico, sirviendo de base la consumida en el ejercicio anterior.
+Leche............. 26419 litros.
+Habana 28 de Mayo «le 1885.—El Mayordomo Interventor; Francisco Bauzá.—Vto. Bno.—El Director Administrador, Dr. Emiliano Núñez.
+Aprobado por el Excmo. Sr. Gobernador General el actual pliego de condiciones en 23 del actual y que ha de rejir en el año económico de 1885 á 86 eu dicha subasta con la modificación de que- la garantía que han de prestar los contratistas para el cumplimiento de su compromiso, ba de ser precisamente en metálico. —Habana 25 de Mayo de 1885.—El Secretario del Gobierno General.—Francisco Cassá.—Hay una rúbrica.—El Mayordomo Interventor-Francisco Bauzá. —Hay una rúbrica.— Vto. Buo.--El Director Administrador.—Emiliano Núñez.—Hay una rúbrica.
+3
+Relación aproximada de los víveres y efectos que deberá consumir este Hospital durautcel ejercicio económico de 18S5 á 86.
+Aceite vegetal, 152 litros.
+Aguardiente de caña, 2,466 litros.
+Ajos 233 mancuernas.
+Arroz, 14,426 kilos.
+Azúcar, 6,952 idem.
+Azafrán, 5 idem.
+Almidón, 13 idem.
+Cebollas, mancuerna, 227 ídem.
+Coñac Lr.ferrier, 11 litros.
+Cerveza P. P., 167 idem.
+Chocolate café, 31 kilos.
+Café, 1,313 idem.
+Garbanzos, 2159 idem.
+Harina de Castilla, 134 ídem.
+Idem de sagú, 11 idem.
+.Manteca, 3325 idem.
+Fideos, 1429 idem.
+Papas, 18,884 idem.
+Pimenlón, 121 idem.
+Sal, 2350 idem.
+Eémola, 3 ideo).
+Tocino, 6i'0 idem.
+Velas de esperma, 30 idem.
+Vino tinto, 22714 litros.
+Idem generoso, 1,494 idem.
+Idem seco, 3,128 idem.
+Vinagre, 290 idem.
+Jabón blanco, 3,975 kilos.
+Leche condensada, latas 183.
+Té negro, 11 kilos.
+Habana 30 de Junio de 1885.—El Mayordomo Interventor, Francisco Bauzá.—El Director Administrador, Dr. Emiliano Núñez.
+Aprobado por el Excmo. Sr. Gobernador General el actual pliego de condiciones en 23 del actual y que ha de regir en el año eccnómico de J8S5 á 86 en dicha subasta cou la modificación de quo la garantía que han de prestar los contratistas para el cumplimiento de su compromiso, ha de ser precisamente en metáii-CÜ._U abana 25 de Mayo de 1835.—El Sccrelario del Gobierno General, Francisco Cassá.- Hay una rúbri-, a.—El Mayordomo Iut« rventor, Francisco Bauzá.— Hay una rúbrica.—Vto. Bno.—El Director Admiuit-trador.—¿uiiJiauo Núñez.—Hay una rúbrica.
+Comandancia de Marina y Capitanía del Puerto de la Rabana.
+Comisión fiscal.
+Don Manuel González y Gutiérrez, Teniente de Infantería de Marina, Ayudante y Fiscal eu comisión de esta Gomándancia.
+Por este mi primer edicto, cito, llamo y emplazo, por término de 15 dias á Dg. María de las Mercedes Arias y Suarez de Ruiz, vecina que fué de la calle de la Industria esquina á Trocadero y Crespo r>9 1, para que se presente en esta Fiscalía, á fin de hacerle una notificación en causa que instruyo con motivo «le la pérdida de la cachucha “Vicenta” del varadero de la Punta.
+Habana 21 de Mayo de 1885.—El Teniente Fiscal, Manuel González.
+Don Manuel González y Gutiérrez, Teniente de Infantería de Marina y Fiscal en comisión de esta Comandancia.
+Por esto mi 1er y único edicto y término de 10 din», cito, llamo y emplazo á las personasque puedan informar lo que les constare acerca de la aparici<>u en aguas del muelle de Carnineti, á la una de la tarde del 16 del corriente, del cadáver de un individuo de raza asiaticaal parecer, el cual vestía pantalón de dril rayadillo azul, cjmisa listado á cuadros rosados, un eirturón lana floreado «le color rosa y llevaba en c-1 bolsillo del patalea un p' ñuelo blamo tino usado con las iniciales bordadas J L y las orillas á cuadros rosados, con un zapato en el pié izquierdo; en el concepto que de verificarlo obsequiarán la administración de justicia.
+Habana 18 de Mayo de 1885.—El Teuiento Fiscal, Manuel González.
+Orden de la Plaza del dia 3 de Junio de 1885.
+Servicio para el día 4.
+Jefe de dia.— El Comandante del primer Batallón Voluntarios, D. Ignacio Vargas.
+Visita de Hospital.—Comandancia Occidental de Artillería.
+Capitanía General y Parada.—Primer Batallón Voluntarios.
+Hospital Militar.—Ingenieros de Ejército.
+Batería de la Reina.—Artillería de Ejército. Ayudante de Guardia en el Gobierno Militar.— El 3? déla Plaza, D. Manuel Fernández.
+Imaginaria en ídem.—El W! de la misma don Francisco Sobredo.
+Retreta en el Parquo Central.—Por lat músicas de Isabel II é Ingenieros.
+El Coronel Sargento Mayor, Becario,

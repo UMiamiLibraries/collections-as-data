@@ -1,0 +1,106 @@
+﻿*— • s> «> '-CS a *=3	NOMBRES Y APELLIDOS.	DESTINOS QUE DESEMPEÑAN.	Fecha de la antigüedad en la clase.			Tiempo de servicio en la clase.			Tiempo total de servicios.			OBSERVACIONES
+			Dia.	Mes.	Año.	Años.	Meses.	Diai.	Años.	Meses.	Dias.	
+(4			15	Abril 		1858	7	1 !	•si	31	9	3	»
+If.		Vista farmacéutico de la Aduana de la Habana.	7	Octubre		1878	6	9	28	7	3	24	»
+11	D. Saudalio ( harb'.nier		Intendencia general de Puerto Rico		13	Diciembre...	187«	6	5	15	18	2	19	
+12		Administración principal de Loterías de Cuba...	27	•1 unió		1879	6	i	29	25	9	2	»
+13		Cesante. . 		 		19	Setiembre... .	187«	5	8	3	18	3	i	»
+14			27	Mayo 			1876	4	10	6	32	10	6	
+15	D. José Mecena y Marino. 	 		Contador de la Aduana de Santiago de Cuba		9	Julio.....	1878	4	9	14	4	9	14	■i
+L6					1¿81	4	8	5	44		23	» 18
+17					1878	4	7	25	21		25	»
+18	D. Sebastián Martínez Goñi	 		Secretaría del Gobierno general de Cuba		4	Diciembre....	18s0	4	6		2”	11	6	))
+19			11		1867	4	3	6	26	8	9	»
+20	L>. Manuel Aliacar Zumeta			Administrador de Hacienda de Bulacán		15	Febrero. ...	1«S1	4	V •j		9	2	27	))
+•n			19	Febrero, ...	188!	4	2		4			))
+22	D. Francisco Halván Sánchez 	 		Administración central de impuestos de Pili-										
+			20	Abril		1881	4	1		4	1		))
+23			11		1881	4		15	«1	9	•3	»
+24			8	Febrero. .	1864	8	11	26	42	V		»
+25			17	Junio		1881	3	10	22	11	9	2	»
+26	D. Manuel Sánchez Iñiguez		Secretaría del Gobierno general de Cuba		4	Noviembre...	1881	3	7	11	12		11	»
+27	D. Joaquín Arangoiz Arrieta			Idem del Cons jode Administración de Cuba		3	Noviembre:.	1881	3	6	18	5	2	19	»
+28			13		1881	3	4	13	9	4	20	»
+29			9	Octubre. .	1878	3	n	28	21	9	5	»
+30			1ó		1866	3	1	26	21	1	18	))
+31			15		1877	3		15	28	10	10	»
+32	D. José Santam trina	:		 		Secretaría del Gobierno general de Filipinas		3	Marzo		1882	2	¡1	28	9	7	9	))
+13			18		186«	2	10	6	4	10	11	))
+34			26		1882	2			7	1	rr t	))
+35			17		1876	‘>	5	■21	12	6	6	»
+86	D. Emilio Carnearte y Medina 		esante		19	Setiembre....	1878	2	4	27	2	4	27	• ))
+37	D. Jesús Polattco	 ... 			Administrador de Hacienda de Ilo-Ilo, Filipinas..	22	Noviembre..	1882	2	4	22	3	4	22	»
+38	D. Santos Aguilera y Martínez		Administración central de Contribuciones de Puer										
+			12		1*79	2	4	18	8	7		))
+39			15		1878	Q	3	18	4	6	v	»
+40			29		1833	2	3'		3		24	))
+41		Administración de Hacienda de Cápiz, Filipinas..	24	Abril		1883	2	1					»
+42	L>. Venancio Quevedo Ramos ... ....	Cesante			 .• —	5	Diciembre....	1881	2	1		2	1		))
+43			26		1881	2		4	39	8	11	))
+44		Administración de Hacienda de la Habana		6	FVbrero		1883	i	11		5	7	10	J)
+45			25	Noviembre...	1874	i	10	18	9	7	26	»
+46	D. José Vindes y Girón			Administrador de Hacienda de Cebú en Fiü-										
+			24		1883	i	10		8	8	23	))
+47	D. Isidro Ferrer y Checa		Aduana de la Habana		 			17		1883	.i	8	11	t °	6	17	))
+48		Secretaría del Gobierno general de Filipinas		8		1883	i	8	rr i	19	1		))
+49	D. José García Sanz		Administrador de Hacienda de Cavite, Filipinas..	20	Setiembre		1883	i	8		9	8	1	))
+50			3		1883	i	7	23	5	9	9	))
+51	D. Ramón Rubio y Amor		1 ontaduría general de Fi ipinas • 		8	Octubre		1»83	i	t	4	16	10	7	»
+52	i) Jcgé Luis Maury y Urive		Dirección de Administración Civil de Filipinas		12	■Setiembre		1883	i	7		4	7	6	))
+53	D. Enrique Sánchez Gallego		Administrador de Hacienda de la Pampanga, Fili										
+			24		1375	i	()					))
+54			4		1883	i	6		1	6		»
+55	D. Saturnino González Rivera		Administrador déla Aduanad« Humacao, t’nerto										
+			27		¡883	i	5	25	10	8	8	)>
+56	D. Antonio Mico y Muñoz. 	 			Administrador de Haciend t de Pangasinán, Fili										
+		pinas				3	Enero		1883	i	5	25	3	10	15	))
+57			3		1883	i	5	13	6	3	5	»
+58	D. Agustín Alvare' Sotomayor 		Cesante		26	Marzo 		1877	i	5	1	6		20	))
+59	D. Bernabé Muñoz Cobo.,	 		Administración central de rentas de Filipinas		4		IS84	i	5		1	5		))
+60	D. Francisco Picón y Rey . 	 . •	Cesante. 		7	Febrero. •	1873	i	4	17	28	10	24	))
+61	D. Asrustíu Lasqueti 		 		Administrador de Hacienda de Albay, Filipinas...	4	Diciembre. •	1883	i	4	.....	16	7	24	))
+62			14		1-84	i	4		10		1	))
+63	D Eduardo Cribell y Cañó	 ...	Cesante	 	 	 		14	Noviembre .	1881	i ■	3	20	6	4	2	))
+64	D. Di nisio Diez Delgado			Secretaría del Gobierno General de Cuba		15		1884	i	3	16	12	11	lo	»
+65	D. Enrique Mellado	 ...	Dirección de Administración civil de Filipinas....	21	Diciembre ...	1883	i	3	10	A	5		))
+66	I). Santiago Infante Palacio			Administración central de Contribuciones de la										
+		Habana 			29	Febrero. •	U81	i	2	24	8	6	21	
+67	D. Manuel Girón y López... . .. .. .	Administración general Je Correos de Filipinas		28		1882	i	2	10		3	29	»
+68	D. Julio Torrado y Llórente			29		1884	n	P	6	3	2	9	))
+69	D. Guillermo Herrera 			27		1831	i			4	8	4	))
+70	D. Francisco Illa y Pujoba	:		Cesante		6	»1 ulio		1'70	i			19	9	9	))
+71	D Joaquín del Alcázar		Administración Central de Rentas de Filipinas	10		1884	i			9	6		))
+72	D Crisanto Espiga		Secretaría del Gobierno general de Cuba.	21		1875	i						))
+73	D José Domínguez Artola....		Aduana de la Habana		7	Noviembre .	1883		11	19	5	11	2*	»
+74	D. Eduardo Guseme y Morodo.....		Gobierno Civil de la Habana		lp	AgOStO		1884		11		14	1	11	))
+75	D, Tomás Arredondo Calamache		Cesante		3	Enero		1884		11		• 9	8	25	)) ÍÉ|
+76	D. Antonio Calvetó		Intendencia general de Cuba		f)	Enero		1884		11			11		)>
+77	D. Juan Michelena y Sequera		< esante		29	Diciembre....	1873		10	2!	13		14	»
+78	D José de Goicoechea		Intendencia ceneral de Puerto-Rico 		8	A"OSto		D*84		10	• 7	3	11	9	)>
+79	D. José Aldemira y González	 ..	Cesante		3	Febrero		1879		9	28	11	O O	26	w
+80	D José Méndez Cardona		Administrador de la Aduana de Guayama, Puerto-										
+		Rico				6	Octubre		1884		8	23	9	6	9	
+81	D. Ramón Baeza Sarabia		Contaduría general de Puerto-Rico .	8		1884		8	6	4			)>
+82	D. Eduardo Muller	 			Intendencia general de Cuba		11	Octubre		1884		7	25		7	25	»
+83	D. Fernando de Cárdenas		Vista de la Aduana de la Habana		6	Noviembre...	1884		7	11	20	6	-13	»
+84	D. Manuel Muñoz Repiso		Aduana de la Habana		6	Noviembre...	1884		6	2t	21	11	22	
+85	D. José Alvarez Falcón		Contador de Hacienda de Santa Clara Cuba	11	Octubre		1884		6	19	O O	3	18	»
+86	D Rafael Paehecho y González		Vista de la Aduana de la Habana		6		1884		6	13	15-	• 3	26	»
+87	D. Guillermo Castelví		Administrador de Hacienda de la Laguna, Fili-										
+		pinas • -•			4		1884		6			6		»
+88	D. Pedro Osorio		Contaduría general de Cuba ..	17		1883		5	21	1			# » i
+89	D. Antonio ( henel y Pérez			Contador de Hacienda de Matánzas	15	Diciembre....	1884		5	*21		5	21	» j
+90	D. José Buerén		Administrador de Hacienda de Patangas,. Fili-										
+		pinas		28	Noviembre.,	1884		5	12	10		28	»
+91	D. Emilio Bravo Moltó		Administración Central de Impuestos de Fili-										
+		pin s 		29		1885		4					n
+92	I). Galchico Ordax		Aduana de Manila		31		1*84		3					))
+93	D. José Baladrón		Cesante		9		18*3		2	5	9	10	20	»
+94	D. Maximiano Jarque Arainburu..		Contador de Hacienda de Puerto-Príncipe...	21		1*85				23	8	28	Electo.
+95	D. Macario Domenech	 		Contador de Hacienda de Pinar del Rio...	1q		1385				25	6	14	Idem.
+96	D. José María Gutiérrez		Letrado de la Intendencia de Filipinas ..	4	MavO		1885				i	3	23	Idem.
+97	D, Matías Maffioti		Administración de Hacienda de Manila	4		1885				10	11	6	Idem.
+	OFICIALES SEGUNDOS DE ADMINISTRACIÓN.											
+1	D. Antonio M Campo				Letrado de Administración de Hacienda de Santa										
+		Clara			 		3		1875	6		6	10	8	7	Ha sido Jefe de Negociado)
+												de segunda.

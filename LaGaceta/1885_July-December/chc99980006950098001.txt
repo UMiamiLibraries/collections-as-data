@@ -1,0 +1,796 @@
+﻿2
+I
+NOMBRE DE LA DEPENDENCIA.
+Instituto del Cardenal Cisneros.
+Instituto de San Isidro.
+CLASE DEL DESTINO.
+Universidad de Barcelona.
+Profesor do. Taquigrafía.......
+Idem de Dibujo.................
+Catedráticos supernumerarios, ...
+Idem auxiliares..............
+Idem supernumerarios..........
+Mozo jardinero ................
+Ayudante de Historia Natural...
+1 Idem de Física y Química......
+Profesores clínicos............
+Director de Museos anatómicos...
+Ayudante de Ídem ídem.........
+Director de trabajos anatómicos.
+Escultor de Ídem Ídem..........
+Ayudante de id. id.............
+Idem de clases prácticas.......
+Idem de clases prácticas.......
+Alumnos internos..............
+Universidad de Granada.
+Ayudantes de Farmacia.........
+Jardineros para el Botánico...
+j Ayudante de id..............
+i Instrumentista..............
+'Ayudante de la Facultad de Ciencias.
+Idem id. de Química y Física...
+Profesores clínicos............
+Director de Museos anatómicos...
+lAyudante de id. id.............
+(Director de trabajos anatómicos...
+/Escultor de id id..............
+Ayudante de id. id............
+Ildein de clases prácticas.....
+(Alumnos internos..............
+Núrn. ti e desliaos	Sueldos 4 Pesetas.
+i	1500
+i	1500
+2	1500
+Ï	1500
+2	1500 \
+1	750 \
+1	1500 )
+3	1250 (
+o ó	15-0 )
+1	1500 (
+1	1000 \
+1	1500 1
+1	1000 /
+1	750
+2	1000
+1	750
+. 10	462*50
+2	íooo \
+1	1500 )
+1	750
+1	825
+Ft''LAMENTO DE LA EXCEPTION.
+Se necesitan requisito» especiales.
+Universidad de Madrid.
+Ayudantes de Farmacia.............
+.Jardinero.........................
+VInstrumentista....................
+Profesor de Dibujo Lineal..........
+(Ayudantes de Física, Química ó Historia natural......................
+(Idem de la Facultad de Farmacia.... Id. del Director de Museos anatómicos
+Ayudante de Escultor de id.........
+Ayudantes de clases prácticas......
+tEncargado del Museo instrumental...
+Ayudantes.........................
+Alumnos internos..................
+Hospital Clínico.
+Museo de Ciencias Naturales. Jardin Botánico..............
+Universidad de Santiago.
+Universidad de Sevilla.
+Universidad de Cádiz.
+Idem id ......................"....
+Practicantes topiqueros............
+Jardinero para el Botánico.........
+Idem de la Facultad de Medicina....
+Idem de Farmacia...................
+Mozos de laboratorio para la facultad
+de Ciencias......................
+Idem para el de Farmacia...........
+Instrumentista.....................
+Ayudantes segundos.................
+1 Mozos, incluso el del laboratorio..
+i Ayudantes jardineros primeros......
+\ Idem id. segundos.................
+i Idem id. terceros................
+a Ayudante de la Facultad de Ciencias.
+'Idem de Física.....................
+Idem de Farmacia...................
+Profesores clínicos................
+Director de Museos anatómicos......
+Ayudante de id.....................
+/Director de trabajos anatómicos...
+(Escultor............................
+'Ayudante do id.............. ........
+¡Idem de clases prácticas...........
+/ Alumnos internos...................
+I Instrumentista.................
+1 Jardinero......................
+.'Ayudante de la Facultad de Ciencias | Idem id. Física y Química......
+v Profesores clínicos............
+1 Director do Museos anatómicos....
+Ayndante de id.................
+i Director de trabajos anatómicos.
+(Escultor.......*...............
+' Ayudante de id.................
+(Idem de clases prácticas.......
+[Idem de id. id..................
+Alumnos internos...............
+1
+1
+3 1 1 1 1
+1
+O
+0 10
+2
+1 1 1
+5
+4 1 1 7 1 f>
+20
+40
+3 1 1 1
+2
+4 1
+4
+2
+2
+2
+4
+1
+1
+2
+1500 1250 1500 1500 1000 1500 1000 750 750 462*50
+1000
+1000
+825
+1500
+1500
+1500
+1500
+1000
+1500
+1500
+1500
+730
+Para optar á estas plazas se necesita prévio examen de materias médicas.
+Se necesitan estudios especiales.
+Se exigen conocimientos en jardinería.
+Idem id. en instrumentos.
+Se necesitan estudios especiales.
+NOMBRE DE LA DEPENDENCIA.
+CLASE DEL DESTINO.
+Biblioteca Nacional ................. Restaurador.
+Museo Arqueológico Nacional........ Jardinero.
+Depósito de libros y propiedad intelectual ................. .. ...• •
+Observatorio Astronómico de Madrid.
+Calcografía Nacional ..............
+Ordenanza carpintero.......
+Auxiliares terceros.......
+Ayndante de estampación.. Idem de id
+,,	« .	.	,	,	• i, r l Peritos agrícolas, Ayudantes de gran-
+Gonsejo superior de Agricultura, lu- 1 jas, modelos y estaciones vitícolas y dustria y Comercio	1 J -
+enológicas Profesor de Alemán é Inglés. Conserje capataz agrícola ....
+Idem del campo experimental Instituto agrícola de Alfonso XII...( Maestro carpintero...........
+Para optar á estas plazas se necesita examen de mate l ias médicas.
+Se necesitan estudios especiales
+previo
+500
+750
+1500
+1000
+1750
+Se exigen conocimientos de Dibujo anatómico
+Se exigén conocimientos de Física y Química Se exigen estudios especiales.
+) Para optar á estas plazas se necesita previo ^ examen de materias médicas.
+1
+i
+¡- Se exigen estudios especiales.
+i
+J
+10
+Universidad de Valencia,
+Instrumentista.................
+(Jardinero .....................
+| Ayudante de Historia Natural....
+I Idem de Física y Química......
+(Profesores clínicos..........
+Director de Museos anatómicos
+lAyudante de id.................
+(Director de trabajos anatómicos...
+/Escultor.......................
+^Ayudante de id..................
+Idem de clases prácticas........
+/Alumnos internos................
+Universidad de Valladolid.
+1 Instrumentista.................
+¡ Jardinero segundo..............
+i Ayudantes de la Facultad de Ciencias
+Profesores clínicos...............
+Director de Museos anatómicos.....
+lAyudante de id....................
+\Director de trabajos anatómicos......
+/Escultor ........................
+/Ayudante de id...................
+\I(fem de clases prácticas........
+/Idem de Física y Química.........
+fAlumnos internos.................
+Universidad de Zaragoza.
+Jardinero........................
+Instrumentista...-...............
+r Ayudantes de la Facultad de Ciencias.
+Idem id de Física y Qímica.......
+/Profesores clínicos..............
+Director de Muscos anatómicos....
+1 Ayudante de id..................
+(Director de trabajos anatómicos...,
+/Escultor..........................
+Ayudante do id...................
+^Ayudantes de clases prácticas.....
+Alumnos internos..................
+Escuela especial de Pintura, Escultura y Grabado..........................
+VInstrumentista
+1
+1
+1
+1
+2
+1
+10
+1
+1
+1
+1
+3
+1
+1
+1
+1
+1
+3
+10
+1
+1
+1
+3
+1
+1
+1
+1
+1
+O
+0
+1
+10
+1
+J
+2
+1
+3
+1
+1
+1
+1
+1
+3
+10
+1000 1000 1000 1500 1 <>00 1500 1250 1125 1500 ' 1250 1000 1500 15"0 1000 1500 1000 750 750 462*50
+825
+750
+1500
+1250
+1000
+1500
+1500
+1000
+1500
+1000
+750
+1000
+750
+462*50
+825 ' 825 1500 1250 1500 1500 1000 1500 000 750 750 482*50
+)se exigen conocimientos teórico-prácticos de ^ aparatos
+1
+Se exigen conocimientos especiales en Botánica.
+Se exigen estudios especiales.
+Para optar á estas plazas se necesita examen de materias médicas Conocimiento de aparatos.
+Idem especiales.de Botánica.
+| Se necesitan conocimientos especiales.
+Idem id. en Botánica.
+- Idem id. especiales
+previo
+Escuela especial de Ingenieros de
+I Montes....... -...................
+Servicio especial y de guardería de
+Montes...........................
+Idem................................
+Escuela de ingenieros de Minas......
+Cuerpo de Ingenieros de Caminos, Canales y Puertos."..................
+Ferrocarriles. —Inspección administrativa .................... .......
+Canal de Isabel II .................
+Faros ...............
+Cuerpo de topógrafos. Idem do estadística ...
+1 dem mecánico
+Capataz mayor ..................
+Jardinero mayor............... •
+k Capataz de industrias pecuarias.
+Sobrestante del campo forestal...
+Ayudantes segundos.............
+Capataces de cultivo ... . ..... ■ Preparador de ensayos analíticos Sobrestantes segundos de O. públ Idem terceros de id'...........
+Comisarios de tercera Jardinero arbolistas... Torreros segundos . .
+Idem terceros..........
+'Topógrafos terceros . Auxiliares segundos.
+Total.
+Número do destili os.	r" í Sueldo i Pesetas.
+i	i íooo i
+2	1500 ;
+1	1250
+1	1500 j"
+2	1500
+1	1500
+2	1250 -
+9	1500
+1	1500
+1	1500
+i 1	1250
+1	1250
+1	1250
+1	1750
+1	1500
+1	1500
+1	1250
+1	1000
+35	1500
+. 400	1000
+1	1250
+s 185	1500
+: 278	1250
+. 80	1500
+5	900
+130	1500
+100	1000 .
+. 65	1 >00
+39	1500
+1742	
+FUNDAMENTO DE LA EXCtPeí,'-
+¡>So exigen conocimientos especiales.
+Título de perito agrícola.
+D
+Certificado de aptitud.
+»
+»
+»
+Conocimiento de agricultura.
+Título de perito agrícola ó Agrimensor.
+Se proveen por examen.
+Conocimientos científicos.
+Por formar pai te de un Cuerpo de escala
+rrnda, é ingresan previo examen. Ce‘
+Real decreto de 30 de Junio de 1877, Aptitud profesional.
+Por formar parte de un Cuerpo de escalio, i rada, é ingresan previo exumen,
+MINISTERIO DE HACIENDA.
+DEPENDENCIA O SERVICIO.
+CLASE DEL DESTINO.
+Nfirn.
+de
+destinos.
+í
+j Oficiales de quinta clase ...
+Tribunal de (Mentas del Reino....... ( Aspirantes de primera id.
+| Idem de segunda id ------
+(' Cobradores de letras.,
+j Idem id..........
+Idem id
+Dirección general del Tesoro.-Sección , «icm .......... ..............
+de Caía.............,........... j Comprobadores de libranza de Giro.
+Intervención general de la
+tración del Estado.............. ...
+Contaduría Central de ídem..........
+Dirección general de la Deuda pública. — Contaduría........................
+I Idem ídem ídem...... ....
+Adminis-
+Oficiales de quinta clase.. Idem ídem........... ... •
+Comisión de Londres....
+Idem ídem.. ( Idem ídem.
+I
+Hacienda en París y > Portero9
+l
+Temporeros
+Junta de clases pasivas.—Contaduría....
+Oficiales de quinta clase
+Para optar á estas plazas se examen de materias médicas.
+necesita previo
+Numerador aspirante á Oficial de primera clase...................i....
+Idem ídem de segunda clase........
+Follador ídem de primera id.......
+Idem ídem de segunda ídem.........
+Revisor ídem de primera ídem......
+Idem ídem de segunda ídem.........
+Sellador ídem de primera ídem....
+Idem ídem de segunda ídem........
+Oficial de quinta ídem...........
+Corrector aspirante á Oficial de 1? id.
+Idem ídem de segunda id...........
+í Oficial de quinta clase...........
+Loterías.—Bolas.................. -] Aspirante á Oficial de primera id.. ..
+( Aspirante á Oficial de segunda id.
+Loterías.—Numeración.
+Loterías.—Sel 1 o.
+Loterías.—Corrección.
+•Se necesitan conocimientos especiales.
+Dirección general de Rentas Estancadas.
+Caja general de Depósitos.—Contaduría.
+Administraciones de Loterías.
+Oficiales de quinta clase.
+25
+39
+54
+1
+1
+1
+10
+30
+8
+15
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+49
+Sneldos.
+Pesetas.
+1500
+1250
+1000
+1500
+1250
+1000
+3 ptas. diarias 2-íi id, id.
+1500
+1500
+FUNDAMENTO de la EXCEPCIÓN.
+Ley de 25 de Junio de 1870 y Reglamento i,r. gáuico de 8 de Noviembre de 1871, que exigen conocimientos especiales probados tn oposición según instrucción y programa dic. tado en 22 de Febrero de 1884.
+j Por ser nombrados por los Tesoreros, jiersn.
+I lias de su confianza y bajo sn responaabi-¡- lidad, según los artículos 72 y 85 del re-|	glamento de la Administración provincial
+j	de 24 Junio último.
+j Ley de 25 de Junio de 1870 y art 68 del re-I glamento de 24 de Junio último, quedispo-¡- nen que senil nombrados y removidos eu | propuesta fundada de la Intervención gene-' j ral.
+1500
+ir,M r m ó Necesidad de *niAwm \ que residen.
+conocer el idioma del país en
+1500
+y
+1250 1000 1250 1000 1250 1000 1250 1000 1500 1250 1000 1500 1250 1000
+Prèmio -I
+(Porque el presupuesto expresa que han de ser ( naturales del país.
+¡ Ley de 25 de Junio de 1870y art. 69 del regla-) mentó de 24 de Junio últmo, que dispo-j nen que sean nombrados y removidos en pro-( puesta fundadu de la Intervención general.
+Por destinarse á operaciones mecánico- facultativas para loterías, que constituyen arla ú oficio.
+Escuela Nacional de Música y Declamación ...........................
+Escuela de Comercio.............
+Escuela de Veterinaria de Madrid.,
+Idem id. de Córdoba
+Idem id. de León.
+Idem id. de Santiago.
+Idem id. de Zaragoza.
+Academia Española...................
+Idem de Ciencias exactas, iisicas y
+naturales........................
+Idem de id. morales y políticas.....
+Museo Nacional de Pintura y Escultura -¡
+Alhambra de Granada ..............
+Cuerpo de Bibliotecas, Archivos y Museos............................
+Archivo Central de Alcalá deHeuaros
+Modelos.............................
+I rofesores auxiliares.............
+Escribientes para copiar música ....
+Bibliotecario......................
+"¡ Afinador de - piano...............
+j Mozo para cuidar el órgano, bombas
+( y aparatos del gas..................
+I Ayudaute de clases prácticas........
+f Idem id. id.................. ......
+J Jefe de caballerizas.................
+¡ Palafreneros........................
+(^Capataz para la huerta...........
+i Profesores auxiliares...............
+•j Ayudantes de clases prácticas......
+t Profesores auxiliares..............
+j Ayudante de clases prácticas .......
+í Profesores auxiliares .... .........
+-j Ayudante de clases prácticas.......
+( Palafreneros........................
+( J-rofesores auxiliares..............
+■s Ayudante de clases prácticas.......
+_ Palafreneros......................
+Encargado de la venta de libros......
+Conserje encargado de id. id.
+Idem id. id...............
+Forrador..................
+Moledor...................
+Cantero... ...............
+( Carpintero................
+Sobrestante................
+Jardinero..................
+1
+Aspirantes............
+Mozo bombero..........
+Portero encuadernador,
+4
+18
+1
+1
+1
+1
+1
+2
+1
+3
+1
+2
+1
+2
+2
+1
+2
+2
+1
+2
+2
+1
+2
+1
+1
+1
+1
+i
+JL
+I
+1
+1
+1
+40
+1
+1
+825 1500 1500 15u0 1500 1000 1500 1000 750 750 1250 462*50
+1000 '
+825
+500
+250
+1500
+500
+1000
+1500
+1000
+750
+750
+462,50
+Para optar á estas plazas se necesita previo ¡ examen de materias médicas.
+Ayudantes 3os., Oficiales de quinta... Aspirantes á Oficial de primera clase
+Idem.*—Cajas........................ /Cobrador primero, Oficial de quinta.
+Id. 2os., aspirantesá Oficial de primera Auxiliares de Cuja, id. id. desegunda.
+previo
+725
+375 1500 1250 1000 1500
+1000
+1500
+1250
+823
+730
+913
+1500
+1250
+639
+1500
+125(1
+639
+1500
+1250
+639
+1500
+1250
+639
+1000
+1500 1500 500 1000 1500 1250 250 1000
+000
+1375
+1000
+I
+(-Se necesitan conocimientos especiales.
+Para optar á estas plazas se necesita examen de materias médicas.
+¡-Se necesitan conocimientos especiales.
+Para optar á estas plazas se necesita previo examen de materias médicas.
+Se necesitan conocimientos especiales.
+Deben reunir condiciones naturales p> el objeto Ingresan por oposición.
+Conocimientos musicales.
+Idem y mecánicos.
+Ordenación de pagos por obligaciones
+del Ministerio de Estado.........
+Idem id. del Ministerio de Gracia y
+Justicia...........................
+Idem id. del id. de Gobernación......
+Idem id. del id. de Fomento..........
+Quince Administraciones.—Depositarías. Contadurías de Hacienda.—Ocho provincias do primera clase.........
+Idem.—Ocho id. de segunda id.....
+Idem.—-Treinta y tres id. de tercera id..
+Oficiales de quinta.
+Oficiales de quinta..................
+Oficiales de quinta...................
+Oficiales de quinta..................
+Oficiales Interventores de quinta clase.
+Administraciones de Aduanas.
+Depositarías de Hacienda de Cartagena, Ferrol y Ceuta........................
+Oficiales de quinta.................
+Oficiales de quinta..................
+Oficiales de quinta.................
+¡Oficiales...........................
+(Idem de la clase de periciales de Adua
+lias en Lisboa y Oporto...........
+Oficial..............................
+Oficial guarda-almacén.............
+Interventores Vistas..............
+Auxiliares Vistas.................
+Vistas............................
+Administradores....................
+Auxiliares de Caja................
+Ayudantes de id...................
+Auxiliar recaudador...............
+Ayudante recaudador...............
+Fábrica
+Contaduría....
+nacional del Umbre.
+Interventores de quinta clase,..
+Personal facultativo mecánico..
+í
+')■ Conocimientos especiales.
+Oficiales de quinta ....
+{Grabador quinto........
+Aprendiz del grabado.,
+Fábricas de tabacos.—Contaduría.
+Oficiales de quinta.
+4
+5 2
+15
+37
+24
+122
+47
+2
+1
+1
+57
+56
+4
+2
+1
+1
+1
+1
+1500
+1500
+1250
+1500
+1250
+1000
+1500
+1500
+1500
+1500
+1500
+1500
+1500
+1500
+1500
+1500 r 1000 gratificación.
+1250
+1500
+1500
+1500
+1500
+150(1
+1250
+1250
+1250
+1000
+1500 J.
+Porque no se consideran equivalente« á un -! destino de 1500 pesetas en razón del pre-( mió que obtienen. f Ley de 25 do Junio de 1870 y art. 63 del re-1 glamento de 24 de Junio último, quedixpo j nen que sean nombrados y removidos en pro-i puesta iundada de la Intervención general. El reglamento de esta Caja de 19 de Enero de 1874 en su artículo 67 determina que el Jefe de Caja proponga al Director las personal en quienes deban recaer los nombramiento» para ol servicio especial de aquélla, y adeínfc nombre bajo su responsabilidad los que hayan de firmar cartas de pago y cargaremes cuando él no pueda verificarlo.--Son los que ¡>erelacionan.
+Ley (le 25 de Junio de 1870 y art. 68 del reglamento de 24 de Junio último, que disponen que sean nombrados y removidos en propuesta fuudadadelu Intervención gepersl
+Por constituir cuerpo y carrera especial regid» por el reglamento de 30 de Setiembre de 1884, que exige oposición.
+Idem.- -Administraciones taifas..................
+Depasi- f Porteras. { Maestras.
+-Se exige título profesional.
+¡-Se exige título profesional.
+j Se exigen conocimientos especiales.
+Salinas de Torrevieja. — Contaduría.
+Casa de moneda de Madrid.
+Administración..........{ fuñador 2o, Oficial de quinta clase.
+( Idem tercero id. id..............
+Oficiales de quinta.
+Dirección
+(Grabador tercero de quinta clase
+Sección del grabado..............I Oficial de quinta id.........
+(Grabador cuarto de id. id. id. id.
+Minas de Almadén.—Contaduría Idem.—Hospital y Capilla...
+Idem Ramo práctico.
+Ingresan por concurso.
+Se exigen conocimientos especiales.
+Oficiales de quinta..............
+Capellán.........................
+/Oficiales segundos de minas......
+Oficiales terceros de id.........
+Ayudantes........................
+Maestros primeros de Obras.......
+Idem segundos de id........... ...
+'Oficiales de mina de tercera clase.
+Auxiliar.........................
+Maestro herrero maquinista.......
+/-Idem carpintero..... ............
+TJ	, , ...	1 Oficiales primeros.
+Idem cerco de destilación.............i Ta._.....í.
+Idem. -Cerco de San Teodoro.
+Idem segundos. Idem terceros.
+Intervención de las minas de Linares.
+Oficial de quinta clase.
+10
+37
+319
+1
+1
+1
+1
+2
+1
+2
+4 12
+2
+2
+1
+1
+1
+1
+2
+3
+5
+1500
+1500
+1000
+| Por ser nombrados por los Recaudadores y j bajo su personal responsabilidad.
+j Ley de 25 de Junio de 1870 y art. 68 del reglamento de 24 de Junio último que dispv-nen (jue sean nombrados y removidos en propuesta fundada de la Intervención general.
+Se necesitan conocimientos especiales.
+1500
+750
+625
+1500
+1500
+1500
+1500
+1500
+1500
+1000
+1500
+1250
+1000
+1250
+1000
+1250
+750
+1250
+1250
+1500
+1250
+1000
+1500
+f Ley de 25 de Junio de 1870 y art. 68 del re-! glamento de 24 de Junio último,quedispo* ¡ nen que sean nombrados y removidos en ( propuesta fundada de la Intervención.
+| Por razón de sexo.
+Ley de 25 de Junio de 1870 y nrt- 68 del reglamento de 24 de Junio último, quedispo-i nen que sean nombrados y removidos en ( propuesta fundada de la Intervención, f Por ser mecánicos lacultativosdelttC»“» "e .* j Moneda, previo certificado de laAcadenus J de Bellas Artes con examen y forna»11'0 ( cuerpo.
+j Ley de 25 de Junio do 1870 y art. 68 del re-¡ glamento de 24 de Junio último, quo dispo-I nen que sean nombrudos y removidos e J propuesta fundada de la Intervención-
+Por los sagrados cánones.
+Por ser personal facultativo práctico para minas de Almadén,sujetoá reglnineuto esp*^ cial aprobado jior Real Orden de / de AgoM*-' de 1876.
+Ley de 25 de Junio de 1870 y art. 68 de r glamento de 24 de Junio último,qul; UP°‘ neu que sean nombrados y removidos en propuesta fundada de la Intervención-
