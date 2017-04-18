@@ -1,0 +1,825 @@
+﻿439
+440
+441
+442
+443
+444
+445
+446
+447
+448
+449
+450
+451
+452
+453
+454
+455
+456
+457
+458
+459
+460
+461
+462
+463
+464
+465
+466
+467
+468
+469
+470
+471
+472
+473
+474
+475
+476
+477
+478
+479
+480 4SI
+482
+483 4S4
+485
+486
+487
+488
+489
+490
+491
+492
+493
+494
+495
+496
+497
+498
+499
+500
+501
+502
+503
+504
+505
+506
+507
+508
+509
+510
+511
+512	'
+513
+514
+515
+516
+517
+518
+519
+520
+521
+522
+523
+524
+525
+526
+527
+528
+529
+530
+531
+532
+533
+534
+535
+536
+537
+538
+539
+540
+541
+542
+543
+544
+545
+546
+547
+548
+549
+550
+551
+552
+553
+554
+555
+556	•
+557
+558
+559
+560
+561
+562
+563
+564
+565
+566
+567
+568
+569
+570
+571
+572
+573
+574
+575
+576
+577
+578
+579
+580
+581
+582
+583
+584
+585
+586
+587
+588
+589
+Majo
+2 Se-
+Sr.
+Sr.
+3V
+íSr.
+Sr.
+33
+Sr
+Sr. Canónigo Dr. D Mariano Hernandez Guillen.
+„ D. Manuel Grasses Sellent.
+„ „ Francisco Cepeda.
+„ Canónigo Dr. D. Bernardo Andrés Garcia.
+Excino. Sr. D. Mariano Cancio Villaamil. Sr. Dr. D. Antonio Rojo y Sojo.
+„ D. Manuel Gomez Petit.
+„ „ José E. Bernal.
+Ld. D. Antonio P. Govin, 7 Febrero 1879. „ D. Luis Plutarco Valdés.
+„ „ Wenceslao Galvez.
+„ D. Manuel Francisco Lamar.
+„ „ Pedro Armenteros Castillo.
+„ 'Ldo.. D. José García Montes.
+„ D. Manuel Montes de Oca.
+„ „ Matías Marquez.
+Sr. Ldo. D. José Maria Aguirre.
+Sr. Ldo. D. José Luna y Parra.
+Sr. D. Francisco de P. Gay.
+Sr. Ldo. D. Demetrio Perez de la Riva.
+Sr. D. Adolfo Sanchez Arcilla.
+„ Ldo. D. Juau P. Touarely.
+„ Dr. D. José de Cárdenas y Gassie.
+„ D. Ignacio de la Puente.
+„ Ldo. D. Antonio Mesa y Dominguez.
+„ D. Antonio Mendoza Aranda.
+Sr. Ldo. D. Antouio Sotolongo.
+Sr. D. José Gabriel Carranza, 13
+1879.
+Sr. Ldo. D. Baldomero Rato.
+Si*. Ldo. I). Rafael R. Torices Jenks, tiembre 1879.
+Sr. Dr. D. José A. Cueto Pazos, limo. Sr. D. Manuel Romano.
+Sr. Dr. D. José Valdés Fauli y Lanz.
+„	„	„	Fernando Cortina, 21	Enero 1880.
+„	„	„	Enrique Porto.
+„	„	„	Juan Almirall.
+„	„	,,	Antouio Rodriguez	Ecay.
+Sr. Ldo. D. Julio Cisneros.
+Sr. Dr. D. Felipe Francisco Rodriguez.
+Sr. D. Valentin Casaus.
+„ „ Casimiro Delmonte.
+„ „ Pablo Gamiz y Zulueta.
+„ „ Baltasar Otamendi,
+„ „ Antonio Fernandez Criado.
+„ „ José Antonio Toscano.
+„ „ José Joaquin Toscano.
+„ „ Joaquín V. O-Farril.
+Sr. Ldo. D. Juan José Romay.
+Sr. D. Ramon Suarez Inclan.
+„ „ Buenaventura Vargas Machuca.
+„	,. Herminio Leiva.
+Ldo. D. Raimundo Cabrera.
+„	„ Plácido Dominguez.
+Sr. Dr. D. Augusto Martinez Ayala.
+Dr. D. Carlos Carnearte.
+„	„ César Martinez Cadrana.
+„	„ Francisco Casuso.
+Sr. Ldo. D. Francisco Calvo Chenard.
+„	,, „ Anselmo Castellas.
+Sr. D. Quintín Valdés Castillo.
+„	„ Manuel Marnri.
+Sr. D. Aniceto Mendizabal.
+Sr. Ldo. D. Gonzalo Jorrin y Moliner.
+Sr. D. Tomás Romay y Carreras.
+Sr. Ldo. D. José Romay y Carreras.
+Dr. D. Elíseo Giberga.
+D. Francisco Valdé3 Veliz.
+„ „ Benito Pasada,
+„	„ Luis Zúñiga.
+„	, José Xenes y Xenes.
+Sr. Ldo. D. José Hernandez Abren.
+Sr. D. Fernando Lopez Gomez.
+„ „ Evaristo Iduate.
+Sr. Ldo. D. León Brocli.
+„ „ „ Cárlos Scull.
+„	„	„ Miguel Viondi.
+„	„	„ Julio de Cárdenas.
+„ D. Joaquin Limendoux.
+„ „ Antonio Valverdo.
+Excmo. Sr. D. Emilio Calleja.
+Si-. D. José Fernandez Blanco.
+„ „ Antonio Medina Nuñez, 9 Abril
+1880.
+„ „ Juan Gonzé.
+Sr. Dr. D. Federico Mora.
+„ D. Rafael Mateo de Acosta.
+Sr. Ldo. D. Mariano Hernández Lícvia.
+Sr. Dr. D. Benito Vidal Gregori.
+Sr. D. Cárlos Diaz Argüolles.
+„	„ Gonzalo Alfonso Aljama.
+„ Ldo. D. Rafal Maydagan.
+Sr. D. Francisco García Zúñiga.
+„ „ José García Bayllores.
+„ Ldo. D. Cárlos Saladrigas.
+„ D. Angel Tomás Cowley.
+„ „ Joaquin Borges.
+„	„ Lorenzo Carbonell.
+„ „ Ramon Ledon.
+„	„ José Manuel Casuso.
+„	„ Andrés Novoa.
+„ Marqués de Prado Ameno.
+Exorno. Sr. D. Pedro Estéban G. Larrinaga, 6 Agosto 1880.
+Sr. Ldo. D. Nicolás de la Cova.
+„ D. Ramon Zubizarreta,
+„ „ Antonio Gonzalez Lopez.
+„	„ Cristóbal Madan y Madan.
+Sr. Ldo. D. Manuel N. Hernández.
+„ D. J uan Orús.
+„	„ Lino Martinez.
+„	„ Francisco Palacios.
+Excmo. Sr. D. Ricardo Morales.
+Excmo. Sr. Conde de las Almenas.
+Sr. D. Francisco Abarzuza.
+Sr. Dr. D. Francisco Lastres.
+Excmo. Sr. Marqués de Peña Plata.
+Sr. D. Ricardo Quintiliano García.
+„ „ Nicolás de Cárdenas Herrera.
+„ „ Emilio Lezcano.
+Excmo. Sr. Marqués de Almeiras.
+Sr. D' Arcadio Zequeira.
+„	„ Juan Ealo.
+„ Ldo. D. Pedro Armenteros y Ovando.
+„	„	„ Ricardo Armenteros y Ovando.
+„ D. Rafael Moutero.
+„ Dr, D. Gustavo Aragon.
+Ldo. D. Francisco Roldan.
+Sr. Conde de Casa Barreto.
+Ldo. D Joaquin Zuazo.
+„	„	„ José Frias.
+„	„ „ Cárlos Párrnga.
+„	„	„ Benigno Delmonte.
+Sr. D. Ignacio Plasencia.
+Sr. Dr. D. Gabriel Casuso.
+Sr. D. José Pío Mazorra.
+„ Gabriel María García.
+Ldo. D. Eduardo Echarte y Alfonso,
+D. Vicente Benito Valdés.
+„ Federico Cardona.
+„ Plácido Castroverde.
+Ldo. D. Ramon de Ayala y Zayas.
+D. Juan José Ariosa.
+D. José Estéban Gonzalez Larrinaga.
+„	„ Manuel Fresneda.
+„	„ Eduardo Carreras.
+„ Ldo. D. José Luis Meireles.
+„ D. Miguel Ñuño Santa María.
+„	„ Francisco Arozarena.
+Excmo. Sr. Conde de Casa Moré.
+Sr. D. Pedro Gonzalez Larrinaga.
+„	„ Francisco Duquesne.
+„	„ Andrés Cobreiro.
+„	„ Jacinto Sigarroa.
+590
+591
+592
+593
+594
+595
+596
+597
+598
+599
+600 601 602
+603
+604
+605
+606
+607
+608
+609
+610 611 612
+613
+614
+615
+616
+617
+618
+619
+620 621 622
+623
+624
+625
+626
+627
+628
+629
+630
+631
+632
+633
+634
+635
+636
+637
+638
+639
+640
+641
+642
+643
+644
+645
+646
+647
+648
+649
+650
+651
+652
+653
+654
+655
+656
+657
+658
+659
+660 661 662
+663
+664
+665
+666
+667
+668
+669
+670
+671
+672
+673
+674
+675
+676
+677
+678
+679
+680 681 6S2
+683
+684
+685
+686
+687
+688
+689
+690
+691
+692
+693
+694
+695
+696
+697
+698
+699
+700
+701
+702
+703
+704
+705
+706
+707
+708
+709
+710
+711
+712
+713
+714
+715
+716
+717
+718
+719
+720
+721 723
+723
+724
+725
+726
+727
+728
+729
+730
+731
+732
+733
+734
+735
+736
+737
+738
+739
+740
+7*1
+Sr. D. José M. Otero.
+,.	„ Dario Gonzalez del Valle.
+„	„ Ricardo Lands.
+„ Aniceto Perez Calzadilla.
+„ „ Francisco P. Odero.
+Excmo. Sr. D. Agustín Pascual.
+Sr. D. José Tro y Moxo.
+Excmo. Sr. D. Nicolás Diaz y Perez.
+Sr. D. José María Hoyos.
+„ „ Manuel G. Zarzuela.
+„ „ Felipe Malpica.
+„ „ Emeterio Zorrilla.
+„ „ Manuel Marzan.
+„ „ Domingo Sola.
+„	„ Joaquin Jinerés.
+„	,, Francisco Noroña.
+,.	„ Luciano Ruiz.
+„	„ José Garcia Barbon.
+„ „ Cláudio Iglesias.
+„	„ Enrique José Varona.
+Excmo. Sr. Conde de Galarza.
+„	„ D. José de Rojas.
+Sr. 1). Manuel Rodríguez Embil.
+„	„ Gaspar Lambea.
+„	„ Rafael Fernandez Cabrera.
+„	„ Julio Durege.
+„	„ Federico Carreras.
+Sr. Ldo. D. Ramon Córdovés.
+Sr. Dr. D. Luis Rstévez Romero.
+„ D. Luis Mazon.
+„ Ldo. D. Antonio E. Flores.
+„ „ „ Juan O’Farril y Montalvo.
+„ Dr. D. Antonio María Tagle. limo. Sr. D. Francisco de P. Portuot.do. Sr. Ldo. D. Pedro Ravell.
+„ Dr. D. José María Panzano.
+,f- D. Andrés Rico Mata.
+„ „ Joaquin Ferratges Mesa.
+Excmo. é limo. Sr. Obispo D. Ramon -de Piérda.
+Sr. D. Eduardo León Llerenas.
+„	„ Vicente Romero.
+„	„ Salvador Badía.
+„	,. Gonzalo Peralta Boroto.
+Excmo. Sr. D. Tomás de Reina.
+Sr. Dr. D. Ramon Galvez.
+Sr. Ldo. D. Eloy Espejo.
+„ D. Francisco Diaz Piedra.
+„	„ Pedro Becali.
+„	„ Juan Arizabalaga.
+„	„ Manuel Larios.
+Sr. Pbro. Dr. D. Teófilo Martinez Escobar. Ldo. D. Ramon Carbonoll.
+D. Ramón Barígana.
+„	„ Manuel L. Izquierdo.
+„ Ldo. D. Tomás de la Hoya.
+„ D. Bernardino Güen.
+„	„ Adolfo Saez y Yañez.
+,, „ José Rafecas.
+Excmo. Sr. D. Antonio Rodriguez Cepeda. „ „	„ Salvador Gavila.
+33
+Sr
+33 -■ 33
+Sr. D,
+„ Mariano Sancho Chia. Juan Padilla.
+>>	JÎ
+5)	>>
+	>5
+5»	»
+	»
+>)	5)
+	V
+JJ	35
+	>3
+»	33
+	33
+J>	33
+)J	33
+5)	33
+Sr.	D.
+»	33
+	33
+>5	Ld. 1
+»	Dr.
+»	33
+„	,, Antonio Dominguez.
+„	„ Ildefonso Maffiote.
+„	„ Luis Diaz Cruz.
+„	„ Isidoro Osorio.
+„	„ Francisco Barreta.
+„	„ Ramón Valdés.
+„ „ José Oriol Combilles.
+„	„ José Murillo Rouse.
+„	„ Manuel Vazquez Lopez.
+„	„ Francisco Hernandez Quintera.
+„	„ limo. Sr. D. Salvador Parga.
+„	„ Sr. D. José Vazquez.
+Excmo. Sr. Dr. D. José Güell y Renté.
+Sr. D. Ricardo Narganez, 31 de Agosto. Julio Zúñiga.
+Jorge Vilar.
+José M. Espinosa.
+José P. Sirgado.
+Juan Valdés Pages.
+Jorge Dionisio Suarez Cruz.
+José Maria Morales Martin. Wenceslao Sotolongo.
+Francisco L. Valle.
+José Maria Triana.
+Pablo Hernandez.
+Francisco Marquez.
+Eligió Natalio Villavicencio.
+Juan Castaño.
+Manuel L. Angulo.
+Manuel S. Jonshon.
+Luis Altm Cisneros.
+5. D. Francisco Quesada, 27 Enero 1882.
+D. Rafael Fernandez de Oastro.
+, Emiliano Núñez de V illavicencio.
+Excmo. Sr. Condo de Fornandina.
+Sr. D. Andrée Valdés Chacon.
+„	„ Cárlos Granados.
+„ Ldo. D. Fermín Mendiola.
+„ Ldo. D. Enrique Vigne.
+„ Ldo. D. Anastasio Orosco.
+Excmo. Sr. D. Martin Sa.nchez Chavez.
+Sr. D. José Garcia Tejad,».
+„ Ldo. D. Alvaro Caballero.
+„	„	„ Isidoro Fer nandez de los Rios.
+„	„	„ Belisario Galcerán.
+„	„	„ José Secundo Navia.
+Excmo. Sr. Conde de Villanueva,
+Sr. D. Sebastian S. Benitez y Galan.
+„ „ Felipe Carbonell.
+Sr. Dr. D, Casimiro Roure.
+„ „	„ Antonio Jover.
+„ Ldo. D. José Delgado Carabot.
+Dr. D. Anacleto Redondo.
+Sr. Ldo. D. Cristóbal de la Guardia.
+Sr. D. Julian de la Guardia.
+Sr. D. Joaquin Freixas.
+„	„ Francisco Plâ y Picabia.
+Sr. Dr. D. Antonio Gonzalez Curquejo,
+„ D. Juan B. Moré.
+„ Ldo. D. Adolfo Gallet Duplessis.
+„ D. Nicolás Ruiz Espadero.
+„ „ Pablo Tapia.
+„ Luis Rafael Muñoz.
+Ldo. D. Pablo Campos y Corvo.
+„ D. Eduardo de Cárdenas y Rodriguez. „	„ Isidoro Jimenez Rojo.
+„	„ José Montalvo y Langa.
+Sr. Dr. D. José María Montalvo de Leon.
+Sr. Dr. D. Antonio López Bota, 2D de Enero de 1883.
+„	v‘„	„ J usto Baibas.
+„	„ Miguel Nuñez Rosw.
+„ Ldo. „ Hilario Cisneros.
+„	„ „ José Novo García.
+„	„ „ Miguel V. Chacón.
+„	„ „ Narciso Gelate.
+„	„ „ José Rodríguez Correa.
+„	„ „ Juan F. Saavedra.
+„	„ „ Manuel L. Cárdenas.
+„ D. Cárlos Theye.
+Excmo. é limo. Sv. D. Juan Facundo Riaño. „ Dr. D. Francisco X. Castro.
+„	„	„ Pedro A. Auber.
+Sr. D. Bernardo Portuondo.
+„	„ Rafael M.a Labra.
+„ Marqués de la Real Proclamación.
+„ Ldo. D. José Sebastian Morales.
+„ D. Nicomedes P. Adnn.
+„ „ Manuel Arroyo C/ornez.
+„ „ Juan Reed.
+„ „ Emilio Gonaé,
+742
+743 74 4
+745
+746
+747
+748
+749
+750
+751
+752
+tmmmm ■—imfln
+Sr. Ldo. D. Rafael Cowley y Odero.
+,,	„ Fernando Gonzalez Ruiz.
+„	„ Estanislao Rartorneu.
+„	Nieo'á Cai-icru.
+D. Ci a bo 1 >élgado.
+,, José Ciáli'ac.
+„ Francisco S. Pedro.
+„ R-iimundo Castro.
+„ Pedro L. Cámara.
+Manuel Oliveira.
+Enrique Gonsé.
+Dr.
+D.
+TERCERA SECCION.
+Comandancia general de la provincia de la Habana.
+Comisión Liquidadora de Infantería.'—Detall.
+Siendo necesaria la presentación para un asunto que interesa del Alférez que fué de la guerrilla de Sa-gua de Tánamo residente cuesta Capital Donjuán Francisco Marsilla, se le hace saber para que se presente en horas de oficina en todos los dias hábiles, en esta Comisión Liquidadora sita en los bajos deí cuartel de la fuerza.
+Habana 28 de Diciembre de 1883.—El Comandante Jefe del Detall. —Eliodoro Moneada.
+Don Santos Cortina Granja, Comandante tercer Jefe del Batallón Cazadores Isabel 2» nQ 3 y fiscal del mismo.
+En uso de las facultades que las ordenanzas generales del Ejército me conceden como Fiscal de la sumaria que por deserción y usurpación de estado civil me hallo instruyendo contra eDoldado Tomás) Martínez Domínguez, por este mi primer edicto, cito llamo y emplazo al referido individuo, para que en el término de treinta dias, contados desde el de la publicación de este anuncio se presente en la guardia de Prevención del Cuerpo sita en la fortaleza de la Cabaña, á dar sus descargos y de no efectuarlo se le continuará dicha causa.
+Castillo de la Cabaña 6 de Diciembre de 1882.-Santos Cortina.
+Comandancia Militar de Marina de la Provincia de la Habana.
+Fiscalía de causas.
+Don José María Car* y Fernandez, Comandante de Artillería de la Armada en la Escala de Reserva, y Fiscal de Causas de la Comandancia de Marina de esta Provinéia.
+Por esta mi primera y únic t carta de edicto, y pregón, cito, llamo y emplazo á D. Antonio García Viña, natural de Luarca, provincia de Oviedo, de 35 años de edad, casado, y Comisionista en agua y víveres de los buques extranjeros, vecino de la calle del Inquisidor número 7 en esta Capital, para que en el término de cinco dias contados desde la 14 publicación, se presente en esta Fiscalía en hora hábil, á evacuar un acto de justicia, en el concepto que de no hacerlo, sin mas llamarle ni emplazarle se procederá á lo que haya lugar.
+Habana 24 de Diciembre de 1883.—El Comandante Fiscal, José Mari*, Caro.
+Don José María Caro y Fernandez, Comandante de Artillería de la Armada en la Escala de Reserva, y Fiscal de Causas de la Comandancia de Marina de esta Provincia.
+Por la presente mi segunda carta de edicto, cito, llamo y emplazo á D. Benigno López, Carpintero que fué del vapor Carolina en 2 de Agosto del presente año, para que en el término de diez dias contados desde la 14 publicación se presente en esta Fiscalía en dia y hora hábil, á evacuar un acto de justicia; en el concepto que de no hacerlo, sin mas llamarle ni emplazarle, se procederá á lo que hay* lugar.
+Habana 24 de Diciembre de 1883.—El Comandante Fiscal, José María Caro.
+Orden de la Plaza del dia 31 de Diciembre de 1883 Servicio para el 19 de Enero de 1884,
+Jefe de dia.—El Sr. Comandaute del 1er. Batallón de Artillería de Voluntarios Lamingueiro.
+Visita de Hospital: Batallón de Orden Público.
+Capitanía General y parada ler Batallón Artillería Voluntarios.
+Hospital Militar, Compañía Cazadores San Quintín.
+Castillo del Príncipe Regimiento Ingenieros.
+Batería de la Reina, Artillería de Ejército.
+Ayudante de -uardia en el Gobierno Militar;
+3? de la Plaza, D. Tomás Mausilla,
+Imaginaria en Ídem: El 19 de la misma, Francisco Oerveró.
+El Coronel Sargento Mayor, Recaño.
+El
+Don
+Cotizaciones de la Bolsa el 31 de Diciembre de 1883.
+ORO DEL CUÑO ESPAÑOL.
+Abrió A 226f P-§ y cierra de 226 á 226f p'g á las 2. FONDOS PUBLICOS.
+Esru£S«»'»a .i1..? y»»>»p-s a «•.
+Idem id. y 2 id........ Nominal.
+Idem de anualidades.... 69 & 70 p.g D. oro.
+Billetes hipotecarios.. Nominal.
+Bonos del Tesoro....... Sin operaciones.
+Idem del Ayuntamiento.. 63 & 62 p. gD.
+ACCIONES.
+p.gP.
+D.
+oro.
+d
+Sr,
+Banco Español de la Isla de
+Cuba..................... 17 4 18
+Banco Industrial.......... 20 4 19 p
+Banco y Compañía de Al macones de Regla y del Comercio....................... 29 á 28 p.g D.
+Banco y Almacenes de Santa
+Catalina................ Nominal.
+Banco Agrícola............ Nominal.
+Caja de Ahorros, Descuentos y Depósitos de la Habana... 33 & 34 p.g P. Crédito Territorial Hipotecario de la Isla de Cuba... A la par oro.
+Empresa de Fomento y Navegación del Sur......... 58 á 57 p.g D.
+x>rimera Compañía de Vapores de la Bahía.......... Sin operación.
+Compañía de almacenes de
+Uaoeudados~............. 25 á 24 p.?	D.
+Compañía de Almacenes de
+Depósitos de la Habana.. 34 á 33 p.g D.
+Compañía española de alum-
+brado de Gas—........... 47* 4 404 p.f D.
+Compañía Cubana de alum-	____
+brado de Gas............ 20 á 19 p.g	D.
+Compañía Española de *lum-brado de Gas de Matanzas... 47 4 46 p.g D. Nueva Compañía de Gas de la 1 75 ¿ 74 p. 2 D
+Habana................. i
+Compañía de Caminos de
+Hierro de la Habana.....	45
+Idem de Matanzas 4 Sabanl-
+*	........................ 35 4 31 p.g D.
+j Idem de Cárdenas y Júcaro... 17 4 18 p.g P. » ¡ Idem de Cienfuegos y Villa-
+clsrft«- #*•••••» ••••••• •••••«••	20	o	19	p«2	-O.
+ídem de Sagua la Grande... 19	4	18	p.g	D.
+i Id. de Caibarien 4 Sancti Spí-	____
+ritus................... 41	&	40	p.g	D.
+Idem del Oeste............ 9¿>	4,	94	p.g	D.
+Idem de la Babia de la Habana 4 Matanzas............. Liquidación.
+Idem Urbano............... 28 4 27 p.g D.
+Idem del Obre............. 78 4 77 p. g D.
+Idem de Cuba..............1
+Id. de 8. Cayetano 4 Vifiales. 1 Nominal. Refinería de C4rdenas.....J
+VENTAS DE VALORES HOY-
+18 acciones de la Compañía de almacenes de Hacendados, 4 2o p.g D. oro C.
+10 accione» d*i Ferro-carril de la Habana, 4 4o p.0 1 D. oro C.
+4 44p.§ E.
+Cotizaciones del Colegio de Corredores.
+CAMBIO«.
+España................ 3j 4 5j p.g P. s[p. f. ye.
+Inglaterra........... 18} 419 p.g P. 60 div.
+Francia...«...........{ a! Vi!
+1 4j 4 4} p. g P. civ.
+Alemania.............. 2} 3 p.g P. 60 div.
+Estados-Unidos........•(	& P-S ~"-í0 d[v-
+„	1 9j 4 9J p.g 1 cjv.
+Descuento mercantil...	8 y 10 anual oro y B¡B.
+MERCADO NACIONAL.
+AZUCARES.
+Blanco trenes de Derosne y
+Rillieux, bajo 4 regular. 14} 4 16 rs. @ oro!
+Idem id. id. id. bueno 4 superior .................... 16}	4 17}	rs. id.
+Idem id. id. id. florete. 18	4 18}	rs. id.
+Cogucho inferior á regular n limero 8 4 9 (T H.) .......í
+Id. bueno 4 superior número }■ 9} 4 10 rs. id.
+10 4 11................J
+Quebrado Inferior 4 regular
+número 12 4 14......... 10}	4 11}	rs. id.
+Id. bueno n? 15 4 16 id.. 11}	4 12	rs. id.
+Id. superior n? 17 4 18.. 12}	4 13	rs. id.
+Id. florete n? 19 4 20... 13}	4 14	rs. id.
+MERCADO EXTRANJERO.
+Número 12.—Nominal.
+t
+CENTRIFUGAS DB GUARAPO.
+Don Pedro Barbosa y González, Teniente de la cuarta Compañía del primer Batallón del Regimiento Infantería de la Habana número seis y Fiscal nombrado por el Señor Coronel Jefe principal del Regimiento para conocer en la sumaria que poc el delito de deserción se instruye contra el Soldado Juan Estadella Prats.
+Habiéndose ausentado de su Compañía el Soldado de la primera del primer Batallón del Regimiento Infantería de la Habana número seis Juan Estadelht Prats á quien estoy sumariando por el delito referido y usando de las facultades que conceden las Reales ordenanzas á los Oficiales del Ejército, por este mi primer edicto, cito, llamo y emplazo al mencionado Juan Estadella para que se presente en la guardia de Prevención del cuartel que ocupa la fuerza de este Regimiento donde deberá verificarlo en el término de treinta días á contar desde esta fecha á dar sus descargos y defensas en el concepto que de no verificarlo|se seguirá la causa por los trámites prevenidos y si lo hiciere su le oirá y administrará justicia.
+Y para que llegue á noticia de todos se publica este edicto en la Gaceta Oficial de la Habana y periódico también Oficial dá la Provincia, suplicando que el que sepa su paradero ó pueda dar razón dol referido Juan Estadella Prats lo haga, bien por escrito ó de palabra al Oficial Comandante de la Guardia de Prevención ó en esta fiscalía sita en la calle de Santiago esquina á la del Calvario; en la inteligencia que el que» le ocultare ó protegiere eu su fuga se hará acreedor á la pena marcada en diferentes Reales disposiciones. Dado en Ho'guin á los veinte y seis días del mes de Noviembre de 1883.—Pedro Barbosa.
+De 7 número.
+4 7} rs. @ oro, según envase, polarizaoion y
+De 5} 4 6 rs. número.
+AZUCAR DE MIEL.
+(ó} oro, según euvase polarizaoion y
+AZÚCAR HASCABADO.
+Sin operaciones.
+CONCENTRADO.
+Si* operaciones.
+8RES. CORREDORES DE SEMANA.
+DE CAMBIOS.
+D. Jogé Soto N avarro.
+D. Darío Gonzalez del Valle.
+DE FRUTOS.
+D. Jaoobo Patterson,
+D. Ramon J ul¡4.
+Habana 31 de Diciembre de 1883.—El Sí.* dico, Nufiez
+Don Dionisio Muñiz Zapatero, Capitán fiscal del segundo Batallón del Regimiento Infantería de la
+Habana número seis.
+En uso de las facultades que las Ordenanzas Generales del Ejército me conceden, como Juez Fiscal del expediente instruido en averiguación del paradero del soldado del prímer Batallón de este Cuerpo Francisco Ferrer Suarez que desapareció en Marzo mil ochocientos setenta y dos, por el presente primer edicto, cito, llamo y emplazo al referido soldado, para que eu «1 término de treinta dias á contar desde la publicación del presente edicto, se presente eu el cuartel que ocupa la fuerza de este Batallón resi lente en esta plaza á responder en los cargos que en dicho expediente le resultan: pues de no verificarlo, se le seguirá en rebeldía. Y par* que este edicto tenga la debida publicidad, so fijará en los sitios de costumbre, y se insertará cola -Gaceta Oficial de la Habana y en el Boletín Oficial da -esta provincia. Dado en Holguin á 11 de Diciembre de 1883.—Dionisio Muñiz.
+M
+Obsequiándolo dispuesto p®r la Sindicatura, se convoca 4 los Sres. Colegiales, para la Junta general de elecciones, que tendrá efecto en éste Colegio, 4 las doce del día 6 de] entrante Enero.
+Habana 31 de Diciembre de 18S3.—EL Secretad Contador, Pedro C, López.
+Comandancia General de las Y illas.
+Don Julián Fernandez Manzanares, Teniente Coronel Capitán Ayudante del primer Batallón del Regimiento Infantería de la Habana número seis y Juez Fiscal del mismo.
+Habiendo desaparecido del servicio el Soldado de la i'exta Compañía del segundo Batallón Vicente San/. Aria« ú quien me hallo instruyendo expediente por ol referido delito, y usando de las facultades que conceden las ordenanzas á los Oficiales del Ejército, por el presente primer edicto,, cito, llamo y emplazo al referido Soldado Vicente Sanz Arias para que en el término de treinta días se presente en el Cuartel que ocupa la fuerza de este Regimiento á prestar sus descargos y defensas y de no comparecer en el referido plazo seje seguirá la causa y sentenciará en rebeldía.
+Y para que conste y llegue á noticia de todos se publica el presente edicto en la Ciudad de Holguin á treinta y uno de Octubre de 1883. Por su mandato. --Rogelio Rodríguez Guido.
+Don M.aximino Alonso Huertas, Teuiento Fiscal del segunda Batallón del Regimiento Infantería de la Habana número seis.
+En uso de las facultades que las Ordenanzas generales del Ejército me conceden como fiscal del ex-
+lWP?.March C.rb.11, Alférez* la tereer.W	“*T.
+pama del segundo Batallón del Regimiento de ^ou juan Guerrero Mateo que dejó de justificar su larragona numero ocho de Iufanteira, y Juez existencia desde Julio de mil ochocientos setenta y lusca nombrado por el Señor Teniente Coronel, twatr0i por este segundo edicto, cito, llamo y emplazo primei Jefe del mismo, para actuar en este expe- .mencionado Soldado para que eu el término de veinte
+men e,	,	^ ,	'• dia« comparezca eu la guardia de prevención del Cuer-
+En uso de las facultades que las Ordenanzas Ge-!	¿ dé a‘otida á ]a autoridad donde se encuentre, pues
+□erales del Ejército me conceden como Juea Fiscal en | £ efectuado se procederá con arreglo á ordenanzas, el expediente que ins ruyo al Soldado que fué de este I y a „ue este edicto tenga la debida publicidad Ba al on y Regimiento José Angol Cortes, por el delito j ¡	^ eu tíaceta eu la Habana Bojet¡n (,e lft
+de haber dejado de justificar su existencia eu el mes de , provinc¡a. Dado en Holguin á los y diez ocho dias del Enero de 1873, y el cual consta eu autos cumplió en el i d Noviembre do 1883,-Máxiínino Alonso. Presidio de Puerto Principe el 9 de Octubre de 1878 |	______
+eu cuya fecha fijó su residencia en esta Isla; por el pre- ¡	Comandancia General de Pto Príncipe.
+sente primer edicto cito, llamo y emplazo al referido, [
+hoy paisano, (ó persona que pueda dar antecedente de I D Manuel 0rtiz CMeda Capitán graduado Te su actual residencia;) para que en el termino de treinta D¡eüte de Est/do Mayor de i-lazas y Fiscal de
+dias, á contar desde la publicación de este, comparezca eu esta Fiscalía. Cuartel que ocupa la fuerza de este segundo Batallón de Tarragona, en esta Plaza, á res-
+causas de la de Puerto Príncipe.
+Hallándome instruyendo causa criminal contra los Soldados agregados al Regimiento Infantería de la
+ponder á las resultas que en dicho expediente, aparecen:,	KTy j”e la Cr ¡
+pues de no verificarlo se le juzgara en rebeldía	¿	^	.
+v-	i	r Ti* *	*	»	3	, j-González acusados de sustracción y veuta de un caba-
+Y nara que el presente edicto tenga la debida {J perteneciente á la disuelta tercena Guerrilla Volan-pubhcidad se fijara eu los sitios de costumbre, y se m-,	/ j Centro en la 8ervían el veinte y se¡3 de 8e.
+sertará en la Gaceta Oficial y Diarios de la Habana. < .______,____.	.............u/	,
+y
+Dado en Trinidad á ios catorce diss del Diciembre de mil ochocientos ochenta y tres.-March.
+mes de -Pedro
+itiembre de mil ochocientos setenta y ocho habiéndose 1 fugado dichos individuos del Fuerte Punta Diamante j -donde guardaban prisión la noche del ocho al nueye 'I Je Julio ultimo^á todas las Autoridades tanto Civiles | como Militares, suplico que, por cuantos medios estén á su alcance procedan.á la busca y captura del citado i .Eustaquio Guillen Almansa cuya media filiación es adjunta, y si fuese habido lo pongan á mi disposición | con toda seguridad en el mencionado Fuerte Punta | Diamante de esta Plaza, pues así lo tengo mandado en en auto de esta fecha.
+Y para que la presente requisitoria tenga la debi-
+Comandancia General de Matanzas.
+Don Juan Jimeno Acosta, Alférez del Batallón Cazadores de la Union número dos y Juez Fiscal de mismo.
+Ingnorándose el paradero del Soldado de este Batallón Santiago del Cauto Hidalgo, y usando de las facul- ! ¿a publicidad', insértese en la Gaceta de la'Habana y tades que en estos casos conceden las Ordenanzas á los ¡ Boietin Oficial de esta Provincia. Dado en Puerto Oficiales del Ejército, por el presente segundo edicto,) prínc¡pe á los quince dias del mes de Diciembre de cito, llamo y emplazo al referido Soldado para que en ; 1883.—Manuel Ortiz y Castañeda, el término de veinte dias contados desde la publicación | Filiación que se cita del Soldado Eustaquio Gui-del presente en la Gaceta de la Habana se presente j¡eu Almansa, hijo de Francisco y María, natural de en esta. Fiscalía, sita en el Cuartel «Santa Cristina» puerto Príncipe, provincia de ídem, de oficio del Cara-de esta plaza, previniéndole que de no comparecer se • p0i de veinte y tres años de edad,sus señas—Pelo cas— le juzgará en rebeldía.	‘
+Matanzas 10 de Noviembre de 1883.—El Alférez Fiscal,—Juan Jimeno,
+Don Miguel Celaya Arroniz, Comandante graduado Capitán del Batalbn Cazadores de la Union y Fiscal del mismo.
+En uso de las facultades que me conceden la« Reales Ordenanzas del Ejército como Juez Fiscal del mismo, por el presente mi segundo edicto, cito, llamo y emplazo á la morena Anastasia Sausa y á sus hijos Ramón y Felicia Valdés para que en el término de veinte dias contados desde la inserción del presente en la Gaceta Oficial de la Habana, comparezcan en esta Fiscalía, sita en el Cuartel de “Santa Cristina» de esta Ciudad, con objeto de que puedan ratificarse en las declaraciones que tienen prestadas en causa seguida por esta Fiscalía con motivo de las lesiones inferidas al referido Ramón Valdés por una pareja de Orden Público.
+Para que tenga la debida publicidad doy el presente en Matanzas á quince de Noviembre de mil ochocientos ochenta y tres,—Miguel Celaya.
+Comandancia General de Holguin.
+Don Tomás Alonso Martínez, Alférez de la quinta Compañía del 29 Batallón del Regimiento de la Habana número 6 de Infantería y fiscal del mismo.
+Habiendo desertado del servicio é ignorándose su paradero, José Moró y Ferrer, Cabo primero de este Batalloa á quien instruyo expediente por dicho delito, y usando de las facultades que conceden las ordenanzas á los oficiales del Ejército; por el presente tercer edicto, cito, llamo y emplazo al referido Cabo, señalándole el cuartel que ocupa la fuerza del Regimiento de guarnición en esta plaza donde deberá presentarse personalmente dentro del término de diez dias contados de esta fecha, á fin de que pueda dar sus descargos y defensas; en el conoepto que de no presentarse en el plazo prefijado se le seguirá la causa y sentenciará en rebeldía por consejo de Guerra competente sin más llamarle ni emplazarle por estar así mandado por S. M. Y para que llegue á noticia de todos, se publica este edicto en Holguin á los dos dias del mes de Noviembre de 1883.Alonso Por mandado del señor fiscal, el escribano de la causa. Francisco Centeno.
+taño, cejas al pelo, ojos pardos, nariz regular, barba poea, cara regular, color trigueño, frente espaciosa, producción buena, señas particulares ninguna. Fué Voluntario para servir en la Compañía montada del prímer Batallón del Regimiento Infantería de Andalucía en 12 de Julio de mil ochocientos ochenta y uno, alta como agregado en el Regimiento Infantería de la Reina en 20 de Junio de 1883.
+Registro de la Propiedad de Cienfuegos.
+Don José Gregorio Verdaguer y Kiernan, Registrador de la Propiedad del partido judicial de Cien-
+fuegos.
+Hago saber: que-el día 18 del corriente me han sido presentadas por D. Serafín Ros y Cárdenas una solicitud y relación pretendiendo la inscripción en este Registro de la Propiedad de una finca rústica cuya descripción es como sigue: Potrero titulado «Constancia» que hubo de D. Sotero Escarza por escritura de diez y ocho de Setiembre de mil ochocientos ochenta y tres ante el notario de esta ciudad, D. José Jooqniii Verdaguer, situado en el término municipal de Cartagena y en el Corral de Cartagena, comprendiendo un total de cuarenta y cinco caballerías de tierra, equivalente á seiscientas tres hectáreas, noventa áreas y noventa y tres centiáreas, conteniendo las fábricas y cercas necesarias en esta clase de fincas; y lindando por el Norte con terreno de la sucesión de Rurubau y con el Callejón de los Cantiles; por el Sur con el demolido Ingenio “Las Glorias” de ia sucesión de D. José Ignacio Hernández y con terrenos de D. Serafín Rosy Utri-lia; por el Este con el camino de Cartagena á Congojas y por el Oeste con el rio Damují.
+Y como dicha finca se halla enclavada en el Corral de Cartagena, lo hago público á fin de que si algún comunero ó partícipe eu el citado Corral se considera perjudicado con la inscripción que se solicita, ocurra á usar de su derecho dentro del término de treinta dias, si residiere en la Isla, y en el de noventa si fuera de ella ó careciese de representación en la forma prevenida en la regla quinta dol artículo ciento veinte del Reglamento para la ejecución de la Ley Hipotecaria. Y para publicar en la Gaceta Oficial de la Habana, libro el presente en Cienfuegos á diez y nueve de Diciembre de mil ochocientos ochenta y tres.—José Giu-gorio Verdaguer y Kieri»»u.
+• «A
+
+
+•aaSBÉS1
