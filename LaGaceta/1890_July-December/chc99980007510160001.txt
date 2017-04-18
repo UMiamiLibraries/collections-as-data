@@ -1,0 +1,108 @@
+﻿384
+GACETA DE LA HABANA
+214,	Manuel Pena Baena, 1875, Madrid, Madrid.
+62, Ramón Adrián Várela, 1875, Santa María del Prado, Pontevedra.
+232, Tomás González García, 1875, Toro de la Vega, Patencia.
+41, Juan Triterio Gómez 1875, Carmona, Sevilla.
+68, Francisco Rodríguez Vázquez, 1875, Morón, Sevilla.
+72, Gavino Eladio Espósito, 1875, Sevilla, Sevilla.
+79, Alejandro Miralles Julián, 1875, Sevilla, Sevilla.
+68, Eulogio Torres Sánchez, 1875, Sevilla, Sevilla.
+101, Francisco Borrego Salas, 1875, Coria del Río, Sevilla.
+112, José Villa Riva, 1875, D3 la Roda, Sevilla.
+163,Florencio Castro^Alfonso, 1875, Santauder, Santander.
+188, Julián Mendoza Uralde, 1875, Sautander, Santander.
+211,	Manuel Suarez Rodríguez, 1875, Santander, Santander.
+212,	Manual Sordo Canal, 1875, Santander, Santander.
+218,	Miguel Vicins Monaga, 1875, Santander, Santander.
+219,	Mauuel Fernández Riereo, 1875, Santander, Santan-der.
+141, Antonio Zeluya Sánchez, 1875, San Sebastián, San Sebastián.
+191, José Rivera Arechana, 1875, Caranargos, Valencia.
+239,	Alejo Pérez Terrero, 1875, Bocarente, Valencia.
+246,	Juan Hernández Devesa, 1875, Limafc, Valencia.
+249, Manuel Peí ver Fayos, 1875, Alcira, Valencia.
+MUMERO 2.
+Relación nominal de los individuos fallecidos, según antecedentes en el expediente de su razóa que creyéndose sus sucesores tener intereses en este asunto por virtud de testamento ó abin tes tato pueden hacer valer mediante prueba testifical, sus derechos en la forma que se fija en el edicto que le acompaña.
+-jNúmero.—Nombres.—Lugares donde probablemente tendrán parientes.—Reemplazo4 A que pertenecieron.— Naturaleza.
+225, Pedro Martínez Santa María, Alegría , Alava, 1875, Alegría, Alava.
+65, Victoriano Cañas Díaz, Val verde, Badajoz, 1875, Val verde, Badajoz.
+240,	Diego Mezquita Torteballe, Mahon, Baleares, 1875, Mahon, Baleares.
+166, Francisco Miguel Garrido, Barrio Luro, Búrgos, 1875, Barrio Luro, Búrgos.
+20, Poücarpo Roy Incógnito, Coruña, Coruña, 1875, Col Rafia, Coruña.
+f23, Ramón Rodríguez Leige*, Cereceda, Coruña, 1875, Cereceda, Coruña.
+24, Ramón Fontán Rodríguez, Lergenda, Coruña, 1875, Lerganda, Cerufía.
+458, Manuel Mosquera Mata, Chaan, Coruña, 1875, Chaan Coruña.
+153, Constantino O ea Sondeira, Santiago, Coruñ?, 1875, Santiago, Coruña.
+190, JuaoSuárez Vela, Santa Maria, Coruña, 1875, Sariga María, Coruña.
+17, Luís Muñoz Cuesta, Calenzuela, Cáceres, 1875, Calen-zuela, Cáceres.
+26, Anselmo Muñóz Serrano, Lamembrilla, Ciudad Real, 1875, Lamembrilla, Ciudad Real.
+97, Federico Carrera Andrade, Valenzuda, Córdova, 1875, V&lenzuela, Córdova.
+247,	Juan Tarazona Orive, Lueca, Castellón de la Piaña, 1875, Lueca, Castellón de la Plana.
+132, Pedro Gamboa Sánchez, Jeréz, Cádiz, 1875, Jeréz Cádiz.
+.59, Nicolás Domínguez González, San Cristóbal, Cáliz 1875, San Cristóbal, Cádiz.
+71, Francisco Ruiz Oarbonell, Juajar Farraget, Granada, 1875, Juajar Farraget, Granada.
+75, Mariano Castañares Royes, Granada, Granada, 1875, Granada, Granada.
+J95, Fernando Vallejo Rodríguez, Guadir, Granada, 1875, Guadir, Granada.
+1197, José Lares Monategui, Sin Sebastián, Guipúzcua, 1875, San Sebastian, Guipúzcoa.
+;224, Ramón Castañeda Oriva, San Sobastian, Guipúzcoa, 1875, San Sebastián, Guipúzcua.
+226., Miguel Oran Imar, San Sebastian Guipúzcoa 1875, San Sebastián, Guipúzcoa.
+*66, Antonio de la Fuente Delgado, Torre de Limene, Jaén, 1375, Torre de Limene, Jaén.
+116, Juan Bautiata Sierra, Villagorda, Jaén, 1872,JVilla-gorda, Jaén.
+24, José Vila Castro, Camiño, Lugo, 1875, Camiño, Lugo.
+67, Angel Fuente Olivares, Espinosa, León, 1875, Espinosa, León.
+165, Faustino Mancilla Juan, León, León, 1875, León, León.
+$3, Félix Martín Bueno, Torres, Málaga, 1875, Turres, Málaga.
+100, Francisco Gómez Reyes, Málaga, Málaga, 1875, Málaga, Málaga.
+120, José Cabello García, Antequera, Málaga, 1875, Antequera, Málaga.
+120, Miguel García García, Antequera, Málaga, 1875 Antequera, Málaga.
+215,	Mariano Raposo González, A^ete, Madrid, 1875, Al-gete, Madrid.
+35, Rafael Olea Martín, Málaga, Málaga 1875, Málaga, Málaga.
+219, Miguel Lituriagó Caballero, Pamplona, Navarra,
+2 . 1875, Pamplona, Navarra.
+.216, Marcelino Martín Curiel, Hornillos de T orrata, Patencia, 1875. Hornillos de Torrata, Patencia.
+€9, Francisco Murtín Mateo, Molanes, Sevilla, 1875, Mojanes, Sevilla
+87, Eugenio Crespo Herrero, Remeses Lira, Santander, 1875 Remeses Lara, Santander.
+180, Gregorio Gutiérrez Zamora, Escalante, Sautander, 1375, Escalante, Santander.
+189, Ignacio Suana Donaveita, Zorno, Santander, 1875, Zomosa, Santander.
+137, Tomás Márcos Ventura, Lueca, Valencia, 1875, Lueca, Valencia.
+248,	José López Arozin, Bevridon, Valencia, 1766, Bavri-don, Valencia.
+161, Francisco Castro Hernández, Nava del Rey, Valla-dolid, 1875, Nava del Rey, Valladolid.
+150, Braulio Bilbao Esperite, Lupia; Viszcaya, 1375, Lupia, Vizcaya.
+221 Manuel Limón Barzar, Bilbao, Vizcaya, 1875, Bilbao Vizcaya.
+164, Félix Gregorio Sánchez; Almunio, Zaragoza, 1875, Almunio, Zaragoza.
+185, José Zapatero Bellido, A!perqué, Zaragoza, 1874, Al-perque, Zaragoza.
+160, Emilio Domínguez Sánchez, Val de Fijas, Zamora, 1975, Val de Fejas Zamora.
+Puerto Rico, 2 de Julio de 1390.—El Comandante, Antonio Ibañez.	480
+ARANJUEZ.
+Don José Riu Lluchis, Comandante de Infantería y Fiscal de la Comisión Liquidadora de Cuerpos disueltos del Ejército de Cuba.
+Hallándome instruyendo expediente en averiguación de la legalidad de dos recibos autorizados, al parecer, por el Capitán que fué del Batallón Voluntarios Francos de la Mancha, D. Félix Navas Pardo, cuyo paradero se ignora, el cual quedó de paisano en fin de Marzo del año 1874, por disolución del expresado Batallón; en usó de las facultades que me concede la Ley de Enjuiciamiento Militar vigente, por este mi primer y único edicto, cito, llamo y emplazo al mencionado Navas, para que en el término de treinta días, contados desde la fecha de su inserción, en la Gaceta de la Habana, dé conocimiento de su existencia á la autoridad local ó militar más próxima de donde se encuentre, expresando su residencia y domicilio, coa el fin de que llegue á noticia de esta fiscalía, y pueia ser interrogado acerca de aquel extremo.
+Dado en Aranjuéz á los 19 dias de Junio de 1890.
+José Riu.	491
+Jnzgados de Primera Instancia.
+HABAN A.—ESTE.
+Don Francisco Naval y Marti, Juez de primera instanoia del distrito Este de esta Ciudad.
+Por el presente se hace saber que por providencia dictada el día doce del actual, se ha dispuesto en los autos del juicio ejecutivo que sigue el Colector del ramo de Capellanías de este Obispado, contra la representación del concurso de Ton José Rafael Ugarte, sacar á pública subasta por tórmino de veinte dias el ingenio demolido titulado Nuestra Sra. de Aranzazu állas *\El Plátano,” situado en esta provincia, término Municipal de Managua, compuesto de treinta Caballerías de tierra, con sus fábricas, tasado en la cantidad de quince mil seiscientos cuarenta pesos en oro, cuyo acto de remate tendrá lugar á las nueve de la mañana del día veinte del entrrante mes de Septiembre en la Sala de Audiencia de este Juzgado, situado en la calle Ancha del Norte número doscientos veinte y siete, advirtiendo, que dicha finca, se saca á remate sin haberse suplido previamente la falta de los títulos de propiedad, que no se admitirán proposiciones que no cubran los dos tercios de su avalúo, que para ser admitido como licltador es condición indispensable consignar en la mesa del Juzgado, una cantidad igual por lo ménos al importe del diez por ciento del avalúo. Do que por este medio se hace público para los quo quieran interesarse en la subasta. Habana ocho de Agosto de mil ochocientos noventa.—Francisco Noval y Marti.—Ante mí, Zacarías Brésmes.	663 P 22
+Don Francisco Noval y Martí, Juez de primera instancia del distrito Este de esta Ciudad.
+Por el presente hago saber: que á oonsecaencia del juicio ejecutivo seguido por D. Francisca Comesafia, contra Don Joaquín Polledo, y continuado contra la sucesión de este en cobro de pesos, he dispuesto se saque á pública subasta la Isla de Tiriguauó, compuesta de mil trescientas cuarenta caballerías de tierra ó sean diez i siete mil novecientas ochenta y tres hectáreas, siete áreas, sesenta y seis cen-tiáreas y noventa y seis centímetros cuadrados, situada en costa Norte de la Isla de Cuba, frente á Moróu, á cuyo Municipio y distrito judicial, pertenece y corresponde á la Provincia de Puerto Príncipe, tasada en cuarenta y ocho mil doscientos cincuenta y tres pesos veinte y ocho centavos oro, para cuyo acto se ha señalado la ora de las ocho de la mañana del día primero de Octubre próximo venidero, en el local del Juzgado, situado hoy en la calle Ancha del Norte número doscientos veinte y siete, ad virtiéndose que no se admitirán proposiciones que no cubrau los dos tercios de la tasación, que los títulos de dominio se encuentran agregados al juicio al principio referido, con los cuales deberán conformarse los licitauore9 sin que tengan derecho á exigir ninguno otro. Y que para tomar parte en la subasta, deberá consignarse eu la mesa del Juzgado, el diez por ciento por lo ménos del expresado avalúo. Y
+fiara su publicación por tres números de la Gaceta oficial, ibro el presente. Habana 8 de Agosto de 1890.—Francisco Noval y Marti.—Ante mi., Francisco de Castro.
+633 P 20
+Don Francisco Noval y Martí, Juez de primera instancia del distrito del Este.
+Por el presente y á consecuencia de los autos declarativos de mayor cuantía promovidos por D? Rita de Córdova y Valdivielso, como curadora de sus hijos D* Cármen, D. Rafael, D? Rita, D. Gonzalo y D? María de las Mercedes Riquelme y Córdova, contra D. Manuel Pérez Cabral, como fiador principal pagador de D. Patricio J. Greok, en cobro de pesos, he dispuesto se haga saber por este medio á los acreedores hipotecarios del ingenio «Elisa» y que aparecen de la certificación del Registro de la Propiedad; 8res. Pi fiera y Tapias, D. Joóé M* Moráo y Muiña, la existencia del resente juicio, por si quieren intervenir en el avalúo y su-&8ta de la exprsada finca. Y para su publicación por tres números de la Gaceta oficial, libro el presente. Habana, Agosto 13 de 1890.—Prancisco Noval y Martí.—Ante mí Eligió Bonachea.	635 T 20
+HABANA.—CE NTRO.
+Don Vicente Pardoy Bonanza, Juez de primera instancia dei distrito del Centro de esta Ciudad.
+Por ei presente se convoca por segunda vez á los que se consideren con derecho á la herencia de D. Francisco Alonso y Cardínzó, tengan noticias de su testamento, para que dentro dei término de treinta días comparezcan á deducirlo ó presentarlo en este Juzgado, situado en la calle de Tacón, número 2; ad virtiéndoles que de no hacerlo les parará el perjuicio á que hubiere lugar en derecho, que los bienes de la herencia consiste en varias piezas de ropa de mucho uso y que hasta la fecha no se ha presentado persona alguna deduciendo derecho á la referida hereoeia. Que así eetá dispuesto on los autos del intestado de D. Francisco Alonso. Habana, Julio 22 de 1890.—Vicente Pardo.— Ante mí, Br. Bernardo del Junco.	644 T 21
+Don Vicente Pardo y Bonanza, Juez de primera instancia del distrito del Centro de esta capital.
+Por el presente, se convoca por segunda vez á los que se crean con derecho á la harencia de D. Manuel López Martínez ó tengan noticias de su testamento, para que comparezcan á deducirlo ó prestar dichas noticias en este Juzgado, sitó en la calle de Tacón, número 2, dentro del término de treinta día9, apercibidos en su defecto de pararles el peajuicio á que hubiere lugar en derecho, ad virtiéndoles que los bienes consisten eu varios efectos de una fonda en muy mal estado, así como que hasta hora nadie se ha presentado deduciendo derecho á la herencia. Que así está dispuesto en los autos del intestado del ultramarino D. Manuel López Martínez. Habana, Julio 17 de 1890.—Vicente Pardo.—Ante mí, Br. Bernardo del Junco.
+643 T 21
+D. Vicente Pardo y Bonanza, Juez de primera instancia del distrito del Centro y Decano de los de esta ciudad. Por el presente se convoca á los parientes del presunto enajenado D. José de Jesús Roldan, para que en el término de 80 días ocurran á usar de su derecno, eu el caso de que quieran oponerse á la reclusión de justicia del mismo. Y para que se publique en tres números consecutivos de la Gaceta oficial, se libra el presente. Habana, 16 de Agosto de 1890.—Vicente PardOi—Ante mí. Pedro Rodríguez Perez.
+670 22
+HABAN A-OESTE.
+Don Guillermo Bernaly Bernal, Magistrado de Audiencia Territorial de las de fuera de la Habana y Juez de primera instancia en propiedad del distrito^del Oeste de la misma.
+Por el presente edicto, se anuncia al público, estar señalado las doce del día veinte y cinco de Septiembre próximo, en el Juzgado, situado en la calle de los Cuarteles número cuarenta y dos, para el remate de la vega, uEl Carril,” situada en el término Manicipal de Consolación del Sur, jurisdicción y provincia de Pinar del Río; compuesta de nueve y tres cuartos Caballerías de tierra; tasa la con sus aguadas, cercas, arbolado y fábricass en seis mil trescientos trece pesos veinte y cinc > centavos oro; á fin de que, el que quiera hacerle proposición, ocurra á verificarlo que se le admitirá, pues se ha de rematar en dicho día, en favor de quien más diere. Debiendo hacer paesente, que en los autos constan los títulos de propiedad, de la vega que se remata, de los que podráu enterarse en la Escribanía, los que quieran tomar parte en la subasta, con las que deberáu conformarse y no tendrán derecho á exigir otros: que no se admitirán proposiciones, que no cubran los dos tercios del avalúo y que es requisito indispensable, la consignación por parte del postor; del diez por ciento del precio que sirve de base á "la subasta, en la mesa del Juzgado. Que asi lo he dispuesto, en los seguidos por D. Ramón Somoano cesionario de Don Manuel Sánchez, contra Don Francisco, Don Leonardo, D* Marta y D? Paulina Rieumont, sobre pesos. Dado en la Habana á diez y nueve de Agosto de mil ochocientos noventa.—Guillermo Bernal.—Ante mi.— Luís Blanco. Y para su publicación en tres números consecutivos de la Gacela oficial, libro esta ea su fecha.— Luís Blanco.	636 P 22
+En virtud de lo mandado por el Sr. Juez de primera instancia del distrito Oeste de e*ta Ciudad, en provi lencia de nueve de Diciembre y trece de agosto del año anterior, y del presente respectivamente, dictadas en la demanda de menor cuantía, - seguido en este Juzgado, por Don Miguel Roura y Font, como cesionario de Don Emilio Marill y Solar, contra Don Narciso Fernández de Castro, en cobro de pesos, que se encuentran en la vía de apremio y periodo de avalúo y subasta, de la finca embargada, ó sea el ingenio, demolido, denominado Meteoro, situado Guamutas, se cita por medio de la presente cédula, que se insertará en la Gaceta y Boletín oficial de esta Capital á Don Tomás Mo-rejón y Noriega, hoy sus herederos, para que intervengan en el avalúo y subasta de los bienes referidos si le conviniere, en la inteligencia que si transcurren diez días, sin comparecer, seguiría su curso el procedimiento de apremio sin hacerles ninguna otra notificación, parándole el perjuicio á que hubiere lugar en derecho.—Habana 20 de Agosto de 1690. Ldo. Romón Portocarrero.	671 P 22
+CARDENAS.
+En virtud de los autos seguidos por la sociedad de Pedemonte y compañía, contra D® Rosa Ortiz y Sánchez, en cobro de pesos, ha dispuesto el Sr. Juez de primera instancia, en providencia fecha nueve de Mayo de mil ochocientos ochenta y nueve, se instruya á Don Antonio del Mazo en eoneepto de acreedor, hipotecario posterior del ingenio Chilena y potrero San Julián, propiedad de la ejecutada, y embargados en dicho juicio, que el procedimiento se encuentra en el período de apremio, tratándose del avalúo y subasta de las fincas, álfin de que intervenga eu dichas operaciones si le conviniere. Y para que tenga efecto la instrucción dispuesta á dicho del Mazo, que no tiene domicilio conocido, libro la presente que se insertará en la Gaceta oficial de la Habana, en Cárdenas J ulio cuatro de mil ochocientos noventa.—Domingo Pérez Manso.
+647 P 22
+MATANZAS.
+Don Cecilio de Vera y Gómez, juez municipal del distrito Norte de esta ciudad, en funciones de primeraJnstan-cia del mismo y su j urisdicción.
+Por el presente edicto se hace saber: que á instancia del Procurador don Wenceslao Morejón, á nombre de la Real Casa de Hospital de Sao Lázaro de la Habana, se ha despachado mandamiento de ejecución en forma, contra los herederos de don Buenaventura y don Ricardo Cairo, por la cantidad de mil ochocientos pesos en oro, en concepto de réditos vencidos del capital á censo impuesto y reconocido á favor del indicado Establecimiento de Caridad y costas causadas y que se causen hasta su efectivo pago, con el cual, á instancias del actor se ha prooedido á embargar los bienes, potreros Cairo Grande ó Resolución y Nueva Empresa, como bienes proindivisos quedados á su fallecimiento, con sus fábricas, rentas, frutos y demás per.
