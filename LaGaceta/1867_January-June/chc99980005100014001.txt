@@ -1,0 +1,300 @@
+﻿
+da. Tangente, definición y propiedad.» d* ella. D«» paralela» intercepta!» en la circunferencia uno» iR'i» j " Proporciones relativa» á arco» »ubteudido» porcn»r.!a» iguale» ó desiguale».
+l'árrufo*.—Desdeel 76 al 97.
+6	Circunferencias tárjente» y secantes. i roposicio-Be» oue se derivan. Medida de ángulos, ya tengan »u» vórtice» en el oentro de una circunferencia dada 6 bieu o niien re»pecio á esta una posición cualquiera.
+Párrafo».— Desde el 97 al 128«
+7	Protile‘3 sobre la linea recta y circunferencia. Tr .za lo de perpendiculares, ángulos, recta») paiulel.» y circunferencia». CucsAouea relativa» al cttntaclo entre aquel'a» Ho» liueas.
+Párrafo«.—Desde el 129 al 1G5.
+S- Polígonos. Definiciones; clasificación. Triángulas. Hacer ver cuánto vale la suma de lo» tres ángulo» de un triángulo; consecuencia». Demostrar que en todo triangulo á mayor lado se opone mayor ángulo, y recíprocamente. Igualilidde ti ¡ángulo».
+Párrafos.—«Desde el 165 al 193.
+9. Cita triláteros. Clasificación; propiedades del parale lógrame) en general y la» característica» del rombo, rectángulo y cuadiado. Coudicioncs para que un cuadrilátero s<*a inscriptilile ó circunecriptible.
+Párrafos.—Desdo el 193 al 218.
+10.	Polígonos en general. Valor de la suma de los ángulos interiore» y exteriores de cualquier pnlígouo. Igualdad de polígonos y número de condiciones para que tenga lugar. Problemas tobreconstrucción de triángulo» y polígono».
+Párrafo».-—Desde el 218 al 240.
+11.	Lineas proporcionales. Definición. Propis'iadr» que gozan la» metas corta las por palslclas, y la bisectriz de un ángulo interior ó exterior de un triáugulo. H icer ver que dos triángulo» equiángulo» tienen su» l»Jos homólogos proporcionales. Demostrar que.^ las rectas que parten desde el vértice de un triángulo á su ludo opuesto, dividen é este y »u» paralelas limitada» por los otro» do» lados eu pai te» proporcional«», quedando eli is divididas del misino modo. Propiedad que gosan do- ángulos que tengan su» lados proporciona les, paralelos y dirigidos ú no en el mismo sentido; consecuencia». Propiedades de la» secante* y cueida» que cruzan rn el círculo.
+Párrafos.—Desde el 240 al 260.
+12 Propiedades del triángulo rectángulo-, consecuen-cli.s. Relación éntrelo» lado» de un triángulo oblicuángulo; consecuencia«. Demostrar que en todo cuadriláte-i% inscripto, el producto de las diagonales es igual á la suma do los productos de los lado» opuesto*.
+Párrafo».—Desde el 260 al 269 ma» el 27 4.
+13.	Poligono! semejantes. Definición de triángulos semejantes, Demostrar que, toda recta tirada paralelamente á uno de los lados de un triángulo, determina otro semejante á ente. Dos triángulo» semejante» son cquiái guio». Semejanza de triángulos. Definición
+pu igonoi semejantes. Demostrar que do» polígono# semejantes tienen sus ángulo» iguales uno á uno, y su» lado» proporcionales. Semejanza d» polígonos y número de condiciones para que tenga lugar. Definir los punto» r ree.as homólogo». D mostrar lu proporcionalidad etí do» polígonos semejante», de las líneas homologas lados homólogo» y perímetro».
+Párrafos.— Desde el 275 al 295.
+14.	Problemas relativos á las lineas proporcionales y polígonos semejantes. Dividir una recta en partes pru-porc órnales á otras dadas. Encontrar cuarta», tercera» y mediti» proporcionales. Dividir una recta en media y extrema razón. Problema* de contacto entre circunferencia* y rectas. Construcción de triángulos y polígonos semejantes. Construcción de escalas.
+Párrafo».—Desde el 295 al 315.
+15.	Polígonos regulares. Definición. Demostrar que todo polígono regular es á la vez inscriptible y circuns-criptible en la circunferencia; que dos polígonos regulares lie igual númsro de lados son semejantes y su» perímetro» proporcionales á los radios de lo» círculos ina criptos y circunscriptos. Dado uu polígono regular inscripto en un círculo, circunscribir otro semejante ó inscribir el do duplo número de lados, calculando lo* de los nuevo» polígonos en función del primitivo y ràdi# del círculo.
+Párrafos.—Desde el 315 al 329.
+16.	Dados los perímetros de dos polígonos regulases semejante*, uno inscripto y otro circunscripto á un misino círculo, calcular los perímetros de los regulares inscripto y circunscripto de duplo número do lados. Inscribir el cuadrado, exágono, pentágono y pentadecàgono regulares cu un circulo dado. Cálculo de sus lados en función del ràdio.
+Párrafos.—Desde el 329 al 344.
+17.	Relación, de la circunferencia al diámetro — Consideraciones Bobre el circulo en su comparaciou con los polígonos regulares. Hacer ver que las circunferencias Bon proporcionales á sus rádios. Hallar la razón de la circunferencia al diámetro.
+Párrafos.— Desde «1 344 ni 357.
+18.	Areas de las superficies planas. Qué se entiende por medir ó valorar uua área dada. Comparación sntre las áreas'de dos rectángulos, deduciendo sn expresión formular. Demostrar que, dos paralelógramos de Ja misma base y altura, son equivalentes. Expresiones formulare» de las áreas del paialelógramo, triángulo, trapecio y polígono reguUr. Aplicaciones.
+Parra ios.— Desde el 3 57 al 379.
+19.	Expresiones formulares de las áreas del círculo, sector, s-ginentoa circulares y polígonos irregulares. Encontrar la de una snpeilioie cualquiera. Aplicar ione».
+Párrafos.—Desde el 379 al 392.
+20.	Comparación de áreas. Relaciones entre las de los cuadrado» construido» sobre los lados de un trián-lo rectángulo, y las de dos triángulos quo tienen un ángulo común. Comparación de área» de triángulo» y polígonos semejante», círculo», sectores y segmeuto» circulares semejantes.
+Párrafos.—Desde el 393 al 406.
+21.	Problemas de ureas. Trasformar uu polígono cualquiera en un cuadrado, y un triángulo en otro que tenga por vértice un puuto dado. Dados dos polígonos semejantes, construir otro tercero que les sea semejante v su superficie la suma ó diferencia de la» de aquellos. Construir un polígouo semejante ú otro dado, y cuya aren guarde con la (le este una relación dada. Dado un políguno, construir otros cuatro que le sean semejantes, qne tengan sus áreas proporcionales á cuatro magnitudes dada-1, y que la suma de ellos sea igual á la área del propuesto. Trasformar un polígono eu otro semejante a uno dado. Aplicaciones; problemas numéricos, cous-truq-endo gráficamente los valores de las incógnitas.
+Párrafos.—Desde el 4U6 «il 410 y desde el 411 al 423.
+GEOMETRIA DEL ESPACIO.
+22.	Generaciones del plano. Principales propiedades relativas á las perpendiculares y oblicuas á un plano. Hacerv-.tr que las perpendiculares á uu mismo plano son paralela» y recíprocamente, consecuencia». Definir la proyección del punto y linea sobre un pl »no.
+Párrafos,—Desde el 428 al 453.
+23.	Teoría do planos paralelos, incluyendo la proposición referente á los átigulos cuyo» lados lo sem. Por un punto, hacer p isar una perpendicular á un plano 6 recta dados. Hallar la menor distancia entre dos rectas no situadas en un m snio plano Angulo de una recta con uu plano. Como aplicación, teoremas para demostrar ó problemas para resolver, cuyo fun lamento inmediato estriba en las teorías de Geometría dei espacio indicadas hast i aquí.
+Párraf s.—Desde el 453 al 474.
+24.	Angulos diedros. Demostrar que dos ángu'os diedros son iguales, cuando lo son sus rectilíneos correspondientes y recíprocamente. Hacer ver que el rectilíneo correspondiente á un diedro recto, e» igualmente recto; recíproc » de esta proposición. Teoremas principales relativos á planos perpendiculares entre sí. Si tina recta es perpendicular á un plano, su proyección sobre uu segundo plano sera perpendicular á la traza del primero sobre este último, recíproca. Medida d»l ángulo diedro; ángulos poliedro». Proposición relativa á los triedro» suplementario*. En todo triedro una cara e» ■menor que ia suma y mayor que la diferencia de las ■otea» dos.
+Párrafos.—Desde el 474 al 497.
+25- Limite de la suma de los diedros de un triedri) y do las caras do todo ángulo poliedro convexo. Hacer ver que dos triedros que tengan sus ángulos planos iguales uno ú uno, sus diedro» homólogo» son iguales. Igualdad de triedros. Triedros y ángulos polle Iros simétricos. Condiciones para la construcciou de un triedro, dados tre» ángulos planos. Equivalencia de los triedros
+simé tria o*. Medida del ángit'o t’n dro y del poliedro. Como via de aplicación, teorema para demostrar cuyo tuu-: (lamento inmediato estriba en la teoría (eferente á los i ángulo» diedros y poliedro».
+Párrafo(.—De» <e el 497 si 513.
+26.	Superficies curvas. Gene»ación y clasificación. Definir el plano tangente y m do de construirlo, lndi-
+! car alguna» d.-la* propiedad«» mas genérale» y característica* de las »operfieie» antedichas. Superficies cónica» y cilindrica»
+Párrafo*.—Desde el 51o al 550.
+27.	Superficies esféricas. Definición y generación ¡ de la» parte» principales quq en ella »e consideran. De-I mo»trarque cuatro puuto» no s'tuado» <m el ursino pln-
+’ no la determinan: cano» particu'are». Intersección de una | esfera con uii plano; polo», círculo», máximo» y rain.* mo». Compá» t slérco. Piopiedad caracterist ea del plano tangente. Intersección y contacto de do» esfera». 1 ('¡ángulo esférico, relación entre su» lados; límites de la suma de esto* y de la (le »ni tres ángulo». Igualdad de triángulo» esféricos.
+Párrafos. — Desde el 550 al 57 9.
+29.	Proposición relativa á lo» triángulos polares. Mínima distancia entre dos punto» situado* sobre una esfera. Problema sobre la esfera.
+Párrafo*.— Desde el 579 al 689, suprimiendo la segunda demostración del 592.
+29.	Poliedros; definición y clasificación. Igualdad de tetraedro». Pirámide»; conos inscriptos y circunscriptos ú una regular. Intersección (le una pirámide con un plano paralelo é su base. Propiedades principales del paralrdipípe lo. Prisma», cilindros inscriptos y cu-cunscriptos á uno regular. Igualdad de prismas. Descomposición ó igualdad de poliedro». Relación que exiot« entre las caras vértices y aristas de estos; corolario*.
+Párrafo»___Desde el 589 al 620 mas el 621.
+30.	Semejanza de tetraedros. Demostrar que dos poliedros semejantes tienen car»» homologas semejantes y sil» ángulos diedros y poliedros iguales uno á uno. Si una pirámide *e corta por un plano paralelo A la liase, hacer ver que la qne resulta es semejante á la total. Semejanza de poliedros. Poliedros simétricos; propiedades de que go/an.
+Párrafos.—Desdo el 622 al 638.
+31.	Definir los poliedros regulares; demostrar que son inscriptible» y eireunscriptibles á una esfera, y determinar las distintas clases que puede haber construyendo «no cualquiera, dada la arista, área de uu poliedro en general; expresiones formulares correspondientes á las totales ó laterales de la piiúmide regular, cono y tronco de cono circular reoto, prisma, cilindro y tronco de cilindro circular recto. Aplicaciones.
+Párrafos.—Desde el 639 al 653.
+32.	Dadas dos rectas situadas en uu misino plano, encontrar la superficie enge airada poruña de cí as girando alrededor de la otrn, y consiguientemente, lu producida por una línea poligonal regular quo gira también ni rededor de uno de los diámi tros de la circuufe -reneia inscripta. Areas del casquete, zona, esfera, huso, triángulo y pe ligo nos esféricos, demostrando la equivalencia de los triángulo» esféricos simétricos. Comparación de áreas Aplicaciones.
+Párrafos.—Desde el 653 al 668,
+33.	Medida de volúmenes. Relación entre los de do» pa-ralelipípedns rectángulos, expresión formular de la medida de estos. Volumen del paralelepípedo oblicuo con l'>s teoremas que sirven de base para encontrarlo. Volú-men del prisma triangulary poligonal, delcilindro y tronco de uno reoto. Demostrar la equivalencia de lo- tetrao» dros de btses equivalentes y alturas iguale». Doscom-po»ieion (leun tronoo de prisma triangular en tres tetraedros, deduciendo los x-olumeues del tetraeiro, pirámide, tronco de prisma triangular y los correspondientes al cono, y tronco» de pirámide y cono de beses paralelas. Aplicaciones.
+Párrafos.— l)e»de el 668 al 696.
+34.	Volumen del tronoo de paralelipípedo. Modo de encontrar el de un po iedro en general, medida del engendrado por la revolución de un tr ángulo, qu» girando al rededor de un eje situado en su plano, pasase por uno de los vértices: fundado en esto, hallar la expresión formular del volumen del sector esférico, y consiguientemente, la de la esfera, cuña esféidl i del producido por un segmonto de círculo girando alrededor de un diámetro exterior á él, y rabanada esférica. Volú-men de un tronco de pirámide cuyas bases no sean paralelas. Aplicaciones.
+Párrafos.—Desde el 696 al 70b.
+35 Volumen engendrado por las figuras planas simétricas respecto á un eje, en el supuosto de girar alrededor de una paralela á este, situada en el plano de ellas. Encontrar el volumen de un cuerpo por irregular que se ( y el ái ea de una superficie cualquiera. Comparación de volúmenes. Aplicaciones; problemas numérico», construyendo gráficamente los valores de las incógnitas.
+Párrafos.—Desde el 709 al 723 inclusive.
+Programa de la segunda parte de Algebra. TESTO.—CIRODDE.
+1.	Calcular la suma de las potencias semejantes do los términos He una progresión por diferencia. Aplicación ú las pilas de balas, comprendiendo la cuestiou inversa.
+Párrafos.—Desde el 387 al 369.
+2.	8éries. Condiciones generales de convergencia. Cases particulares de séries convergentes. Procedimientos elementales para desarrollar eu série una función algébrica.
+Párrafos.—Desde 376 al 3S9.
+3.	Funciones derivadas. Definiciones preliminares-Derivada de tina función de función. La derivada de una constante es nula y recíprocamente; consecuencias.
+Párrafos.—Desde «,1468 al 481.
+4.	Fórmula de Taylor. Derivada de una función racional y entera. Modo de variar una función racional v entera, cuando la variable de quien depende lo hace de uua manera continua.
+Párrafos.—Desde el 481 al 498.
+5.	Derivadas de. una suma; producto; potencia y cociente. Derivadas (le las funciones compuestas de variables que dependan de una sola de las funciones implícitas y de las funciones inversas.
+Párrafos.—Desde el 490 al 495.
+6.	Derivadas de las funciones exponenciales, logarítmica y circulares directas ó inversas.
+Párrafos.—Desde el 495 al 500.
+7.	Desarrollos en série de las funciones Log. (I—x). Log. (l+x) y are. tang. X.
+Párrafos.—Desde el 500 al 506.
+8.	Teoría general de ecuaciones. Nociones eletnen-tale». Número de raíces de una ecuación algébrica. Propiedades de las raíces imaginarias en laB ecuaciones de coeficientes reales, y de las raicé» inconmensurables en las que, teniendo á la unidad por coeficiente del primer término, son enteros los (lemas coeficientes. Relacione» entre los coeficientes y las raíces, consecuencias.
+Párrafos.—Desde el 514 al 516 y 517 al 533.
+9.	Regla de signos de Descartes. Límite inferior del número de raíces imaginarias.
+Párrafos.—Desde el 533 al 538 y 541.
+10.	Si dos números sustituidos sucesivamente en el primer miembro de una ecuación, dan resultados de signos contrarios, comprenden al menos una raiz real. Signos de los resultados quo so obtengan sustituyendo dos números sucesivamente en lugar do la incógnita en ei primer miembro de una ecuación, según comprendan un número impar ó par de raicé». Recíproca de esta proposición. Teorema sobre el número de raicé» reales en las ecuaciones de grado impar; y en las de grado par y último término negativo. Condiciones para que una ecuación solo tenga r«iees imaginarias.
+Párrafos.—Desde el542 al550.
+11.	Eliminación entre dos ecuaciones de cualquier grudo ton dos incógnitas. Descomposición de las dos ecuaciones propuestas en varios sistemas de ecu.ciones. Ecuación final.
+Párrafos.—Desde el 553 al 562.
+12.	Resolución de dos ecuaciones con dos incógnita-, cuyos pritn -ros miembros son primas entre sí y no tienen ningún factor, que sea función de una solí de la» dos incógnitas. Separación de las solucione» extrañas. Resolución d - tres ecuaciones con tras incógnitas.
+Párrafos—Desde el 572 al 577.
+13.	Trasformacion de las ecuaciones. Trasformar una ecuación en otra, cuyas raíces estén ligada» con la» de las propuestas por las relaciones y=k x, y=x—h.
+Párrafos—De-de el 581 al 593.
+14- -I corín de las ralees iguales do las ecuaciones.
+Párrafo».—Desde el 602 al 609.
+15.	Cálcalo do las ralees c (mensurables. Líinit*» de las raicé», procedimiento» para determinarlos.
+Párrafos—Desde el 674 al 691.
+16.	Método de los divisores ooiueu-urablea de primer grado. R--gla de exc uaion de B.-zout.
+Párrafos —Desde el 691 al 698.
+17.	T. orema de Stunn para conocer cuantas raíces reales de una" ecuación comprenden dos números dado». Teorema de Rolle.
+Pa rifo*.—üesd • el 703 al 713 y 717 nt 721.
+18.	Cálculo de las raíces inconmensurables. Separación de las ra ces. Métodos de aproximación de btuim, Lugrauge y Newtou.
+Párrafos.—Desde el 723 al 737.
+19.	Cálcalo de las ra¡c--s imaginarias. Resolusion de las ecuaciones trascendentes.
+Párrafos.—Desde el 740 al 746.
+20.	Resolución algébrica de las ecuaciones biuo-mia-.
+Párrafos.—Desde el 746 al 754.
+21 ■ Descomposición de una fracción racioual en otras mas simples.
+Párrafo».—Desde el 775 al fin.
+Programa de Trigonometría.
+TEXTO—CIRODDE, [TRADUCCION DE BARBERY.]
+Trigonometría rectilínea,
+1.	O jeto de la Trigonometría. Definiciones de la* lincas trigonométric is y c invenios respecto de sus signos. Relaciones qne existen entre Lis lineas trigonométricas de dos áreos, ign ilesy d ; sig ios contrarios.
+Párrafos.—Desde el 1 al 13.
+2.	Variaciones que expsrime ítiau las líneas trigonométricas de un arco, cuando este creoe do una manera continua desde cero hasta infinito. Fórmulas que comprenden lo lo» lo» are n corres,ion tientes á uu seno ó coseno dado*. R daciones entre las línea» trigonométricas de do» áreos qu« difieren en un múltiplo cualquiera (le la semicircunferencia. Relacione» entre las lineas trigonométricas do dosarcoi suplementarios. II icer depender las lineas trigonométricas de un arco, de las de otro menor que el cuadrante.
+Párrafo».—Desde el 13 al 21.
+3.	Formulasen que se establecen las relacionesque-ligan entre sí á las lineas trigonométricas de un misino arco. Restablecer el ni lio en las fórmula* qu; »’ hayan obtenido suponiéndole igual á la unida 1,
+Párrafo».— Desde el 21 al 28
+4.	Funciones circulares.—Determinar el seno ó coseno de unarco en función de su tang inte. Fórmulas del seno ó coseno, de la sumí ó ilif;reneia de dos arcos, en función de los senos y cosenos de estoi araos: ha;er ver su generalid id.
+Párrafos.—Desde el 28 al 32.
+5.	Tra-form ir en un producto de dos factores, la »urna ó diferencia de dos senos ó dos cosenos. Relación entre la suma de los senos de dos arcos y ia diferencia de estos mismos senos. Fórmulas relativas á la multiplicación y divis on de los arcos.
+Párrafos.— Desde el 32 al 46.
+6.	Teorema de M >ivre. Oa'oilar la tangente de la suma ó diferencia de dos arcos, en función de las t ingentes de estos arcos.
+Párrafos—Desde el 46 al 53.
+7.	Construcciou y uso de las tablas trigonométricas de Oallet.
+Párrafos. — Desde el 63 al 54.
+8.	Fórmulas pira la reso ueion d los triángulos rectilíneos, tinco rectángulos como oblicuiugul>s.
+Párrafos.—Desde el 54 al 66.
+9.	Resolución (11 lo» tná ignlos rs;tilíaso(. Calcular el área de u i tri í igaio en fa isio i d i oí oiem intos que lo determinan. Aplicaciones.
+Párrafos.—Desde el(ió ai 82.
+TRIGONOMBTRIA ESFERI JA.
+1.	Fórmulas para 11 resolución de lo» triángulos esféricos.
+Párrafos.—Des le el 82 al 94.
+2.	Resolución de los triá igu'.os esféricos recta i-gu os.
+Párrafos.—Desde el 94 al ll*0.
+3.	R ¡solución d.e los triángulos esféricos oblicuángulos.
+Párrafos.—Desdeel 100 al 103.
+4.	Analogías de Nepar. Aplicaciones.
+Párrafo».—Desde el 106 alón.
+CLxlSE DE HISTORIA.
+Papeletas de preguntas para el exámen de dicha clase.
+1.	d Definición de la Historia en general, partes eu que se divide la España, épocas que comprende cada una: sus primeros pobladores según la opinión mas admitida, y diversas gentes que viuierou hasta el período Cartaginés,
+2. a Cuando y con qué motivos vinieron los cartagineses á España, sus principales caudillos: que he-ctio iiay i-n dicho tiempo que como heró.co haya formado época en nuestra historia: su reseña.
+3. ''*	Cuando principió la dominac on romana en España, quien fué el caudillo que puesto al frente de los españolea para sacudir el yugo de aquella dominación impuso á la orgullosa Roma: reseña de este período hasta la guerra de Numaucia.
+4.	Cuales fueron los principios de la guerra de Namancia: Generales que la ase liaron; reseña de este a mutecimiento.
+5.	^ Después de la catástrofe de Numanc a, quien fué el que se puso al frente de los españ des para sacudir el yugo romano: reseña desde la citada época h asta la irrupción de los go ios; cual el mayor acontecimiento eu tiempo de Augusto.
+6.	* (Ju m lo ocurrió la irrupción de lo» god >s en España, cuáles fueron su* R-yes has:a Leovigd io inclusive; y hacer mérito especial de los que de estj» »e distinguieron mas.
+7.	" Cronologí a de los Reyes godos desde Ileeare-do hasta el último de esta Monarquía inclusive: reseña histórica de los que mas se distinguieron en este período, uó ide concluyó tu monarquía goda y tiempo que duró.
+* Cuándo ocurrió la irrupción de Ls sarraceno«: |UÍen principió la res-
+8. ;
+reseña da esta acontéaim.e it tauracion.
+9.	* Cronología délos Reyes de Asturias, hasta el primero que se tituló también de León, y de estos los que mas se distinguieron por sus hechos,
+10.	Cronología de los Reyes desdo el primero de Le m hasta el primero de Castida, y hechos mas nota» bles de los que mas se distinguieron.
+11.	En qué tiempo tuvieron origen los Condes de Castilla, si tenias dependencia de alguien, quién entre ellos se distinguió mas.
+12.	Cronología de los Reyes desde el primero de Castiíla hasta la unión definitiva de las Coronas de Castilla y de León, y reseña de 1 >s reina los de Alfonso VI, Doña Urraca y Alfonso VIL
+13.	Cuándo tuvieron origen las órdenes militares de Alcántara, Calatava y Santiago; cuando ocurrió la batalla délas Navas de Tolosa y su reseña.
+1 4. Cronología de los Reyes des le la unión definitiva de las Coronal de Castilla y de León hasta la unión déla* Coronas de C astilla y Aragón: reseña del remalo do Fernando el Santo.
+15.	Reseña del reinado He Alfonso el Sabio.
+16.	Cuándo ocurrió la famosa batalla del Salado: reseña dei reinado de Alfonso XI.
+17.	Reseña de las ocurrencias mas notables del reinado de Don Pedro I de Castilla.
+IS.	R -señ a de lo mas notable de los reinados de Enrique II, Juan I, Enrique III y Juan II,
+19.	Cuales fueron las ocurrencias mas notables en el reinado de Enrique IV: su reseña.
+20.	Cuándo y con qué morivo se unieron las Coro
+ñas de Castilla y de Araron y hechos mas notables de este período.
+21.	Cuándo tuvo origen la dinastía de la casa de Austria: cronología de estos Reyes, quien se encargó del Gobierno de la Nación al fallec miento de Fernando V.: breve biografía del Cardenal Cisueros,
+22.	Cuándo ocurrió U guerra de las comunidades de Castilla: reseña de ese tiouips.
+23.	Riseñ.i histórica del reinado de Carlos 1 Je España desde la batalla de Pavía en adelante.
+24.	Reseña de los acontecimientos mas notables del reinado de Felipe II.
+2-5. Acontecimiento* mas singulares «leí reinado de Felipe 111 y reseñarle Felipe IV.
+26.	Reseñ i del reinado de Carlos 11.
+27.	En quiéu dió principio la dinastía de la casa de Borbon; cronología de esto» Reyes, cuando ocutrie ron la* guerras liani nía.» do sucesión, tiempo-que durar0" y en virtud de qué tratado terminaron: reseña d<> e*tn peí iodo.
+29. Rescñi del reinado de Carlos II f.
+29.	Quiéu fué el favorito do Oárlos IV; consecuencias de este favoritismo; resefi i de este tiempo.
+30.	Cóma priuclp ó a reinar Femando Sil; acontecimientos mas notable» hasta su r< greso de Francia-
+31.	Acontecimiento» mis singulares del reinado de Fernando Vil d ;sde su regles i ile Francia hasta su fallecimiento.
+32.	Acontecimientos mas notables en la minoría de Doña Isabel II: ideal después de ser declarada mayor de cdid.
+Programa de ge mu-tria descriptica,
+Texto. — A lix.
+Preliminares.
+1.	Necesidad, importancia y objeto de la Geometría descriptiva; su definición. Medio elegido para llenar aquel. Trazas de una recta y uu plano. Desdo el iiúui. 1 al cap. 3. 3 del 12.
+2.	Convenio» p ira la representación del punt«, recta v plano. Alfabeto de estos tres elementos. Horizontales, verticales y lincas de máxima pendiente, Tirar por uu pujío un pía io parilelo u otro. Desde el cap. 3. 3 del iiú'U. 12 al núm. 37.
+3.	Cambio de planos de proyección respecto á los elemento», punto, recta y plano. Desde el núm, 37 al 51.
+4.	Como aplicación del cambio de planos de pro yeceiuti, dar á estos posiciones determina.las respecto á una reout ó plano cualesquiera. Desdo el ¡iú¡n. 51 al 60-
+5.	Giros de un pumo, recta y plano alreledorde ejes que tengan uua inclinación cualquiera respecto de los pianos de proyección. Desde el uu.n. 60 al 69'
+6.	Determinar las trozas de uu plano dado por dos rectas que se cortan, una rcct i y un punto y por su línea da máxima pendiente. Ejerció.os cuyo fun,lamento inmediato estriba eu estos ú t ni is problom i» y en principios anteriormente expuesto». Desde el núm. 69 al 73.
+7.	llepreseutacio i de u i p dig no c inlquiera por sus proyceeiones. Probl anas que se desprenden de la combinación de estas y el plano de aquel, tomando dos coimo datos y la indetermina la restante como incógnita. Desde el níun. 73 al 7 i.
+PRIMERA PARTE.
+Rectas y planos.
+8.	Rectas y planos perpendicü'ares.—Por uu punto Jado tirar una recta perpendicular á un piano y recíprocamente. Hallar la proyección de un puuto sobre uu plano. Por na pu aao tur ir uua recti perpendicular á otra. Por una recta dada trazar un plano perpendicular á otro. Desde el nú n. 7 i al problema 6. 3 del número SO.
+y. Minimis distanci is.— Encontrar ia que existe entre des pinito-; u i punto y uu i recti; uu punto y uu plano, y entre dos r mías. Desde el problema 5. 3 del núm, 80 al núm. 83.
+10.	Intersec a n:s.—.Mito 1 > ge icral para resolver los problemas s >bre i utriseeoi iues. Haller la ¡le dos plauos darlos por sus trazas, tomando en cu nta las distintas poíiciones que estas pueden ofrecer. D ¡ale el uúhi. 83 al 100,
+11.	Encontrar la i a tai succión de dos planos .males-quiera, dados por rectas que se curtan: por irna recta y un punto; por incas de máx m a pendiente, ó ó en por el conocimiento de sus trazas h ■ rizo uta les ó verticales con los ángulos qne forma; sise dan aquellas, con el plano horizontal; y si las segundas, con el vertical. Deslíe el nú tn. ¡00 ai problema 20 del 103.
+12.	Intersección de una recta con un plano. Hacer pasar por uu punto, una recta que cortea otras doi dadas, ó b en que corte á otra fija.de posición, á uua distancia determina la. Des e ,-í problein i 20 dei núm. 103 al núm. 108.
+13.	Angulos di rectas y planos. — Encontr ir ei ángulo de dos rectas y su bisectriz, y ei de una recta con los planos de proyección, Situ idos sobre uu plano una recta y uu pumo, tirar por este otra que forme con aquella uu ángulo dado. Desde el núm- 103 «1 126.
+14.	Angulo de uua recta cju uu plano. Angulos Je u i plano con ios de pr.iyecc on. Con una reota nacer pus trun plano que forme el áug ilo a con uno de los de proyección. A ¡guio de ifos p anos. Problein as diversos. Desde el núm. 126 al 136.
+15.	Re olucion del ángulo triedro.—Dados tras planosquese corta i en un pu no constituyendo un triedro determ mar las otras y ángulos planos correspondientes á los triedros. Designando por A, B, C, a, b, a los elementos de uu ángulo triedro reso ver los casos quo indican las combinaciones A B O, A Be. Abe. Desde el núm 136 al 141.
+16.	Re-iolocion de los casoi del ángulo triedro expresados en las combinaciones A B b,a B b, abe. Reducir un ángulo al horizonte. Triedro y rectáno-ulo. Desde el núm. 141 al 152.
+17.	Representación de poliedros y problemas diversos «obre los mismas. Desde el núm. 152 al 165.
+SEGUNDA PARTE.
+Líneas y superficies.
+18.	Lineas en general. — Nociones preliminares R ¡presentación gráfica de uii cu- va, Dependencia eu-tre las proyecciones sobre un plano, de una recta y una curva tangentes en el espacio. Curvas de error: su aplicación ¡iltr za l > de t-ngente». In erseccion de un plano con una curva. Supirficies, nociones preliminares. Modo de determinaren general el plano tangente á uua superficie cualquiera. Denle el número 1 al 26.
+19.	Superficies desenvolvióles6 desarrollables.__
+Generación y repretent cion de las cóuic is y cilindrica-: propiedad del pl mo t ingente ú ell i». Pianos tangentes il cotio, sujeto» á condiciones dadas. Desde el número 26 al 43.
+20.	Plmos tangentes al cilindro. Problemas sobre planos tangentes comunes á dos cilind os, dos conos ó á un cilindro y uñ cono. Desarrollo. Trasformada de una curva. Desde el número 43 al 45,
+21.	Superficies gauchió,—•Víétolosde generación. Hiperboiói le de tina hoja: generaciones rectilíneas: centro y cono asiutólieo. Desde el número 55 al 65.
+22.	Generación curvilín \-a del hiperbo'óide de una hoja. Ilentidal entre las superficies producidas por «sti y la» generaciones rectilíneas, dan lo á conocer otm método para generarla. Desde ei númsro 65al 74.
+23.	Parabolóid hiperbólico.—Generaciones rectilíneas. Propied ule» importantes de esta superficie. Desde el nú ñero 74 al 86.
+24.	Generación curvilíne i del paraboloide hiperbólico. Demostrar que esta y las rectilíneas dan lugar á superficies i léutic is- E -present iciou gráfica del hiperboloide de un a hoja y paraboloide hiperbólico. Planos tnn°; uites á estas superficies. Dos le el número 86 al 91.
+25.	Oilinlróide y conóidi.—Jo iói le recto. Condición p ara que d is superficies g i iclias que tienen común una generatriz, lo sean también sus planos tangentes en toda la extensión de esta. Método general para determinar el plano tangíate á cualquiera superficie gaucha. Lugar geométrico de las normales á una superficie gnudia en to los los puntos de una ursina generatriz. Planos t angentes á las supercies gauchas determinados por condiciones dadas. D ;»de el número 91 al 104
+Jo. Superficies de reoolw-.ioá, Geueric on y pro-pt -da les de los planos tangentes y meri líanos. Plano ta ig sute. Supe- fic e de revolución deje ¡erado i rectilínea y luperbolóide He rfevo ueion. Das le el número 10 tal !24.
+2 7. Superficie de revolución generad >n curvilínea
+— Estera. Piano tangente. Do ule el número 124 al 134.
+28.	Elipsóide de revoludon, representación. Tra-z ir un plano tange ote á esaa superficie por ni punto t un ido sobre ella ó p >r uno fuera; en este último supuesto hacer que el plano se.a tange itsen uu paralelo ó meridiano dado. Desde el número 134 al 145.
+29.	1 razar, par délo á ti 11 recta da-la un plano tangente á un elipsoide de revolución, Propiedad de la
+curva de'contacto de un cooo ó cilindro circunscrito á una superficie de segundo grado. Plano tangente al elip-sótdey á una superficie cualquiera da revolución parale-
+los respectivamente á una recta ó plano dados. Parabo. ói-le de revolución ó hiperboló ilede doshoja». Desde «1 número 145 al 156.
+30. Toro ó superficie anular. Piano tangente. jJu.
+0	ficies eavnlventi-By acanalad t*. Dssde el número ls<;
+1	163 inclusive.
+INSTRUCCION
+para los pretendientes á piusas de Calxilleros Cútet e del Colegio de Artillería, redactada de ird-n ilel Exc¡n> Sr- Director general del Cuerpo.
+La enseñ anz a necesaria á los oficiales de artillería t* dá en el Colegio del arma establecido en tíegovia. Kl ingreso en ei Colegio se ver fica por exámemo fin COu. enrso con arreglo al programa que con oportunidad en inserta seinestraluiente en la Guccta de Madrid, ¡<;tl cursan los alumnos tres años de estudios eu olas« de eideres, y después dos en ia Escuela de Aplii tu -on dt| arma con el empleo y sueldo de Subteniente.
+Coiuprcmle la enseñanza del Colegio un curso denia-temáticas puras, mecánica racional, física, química, dibujo natural por el sistema de Charlet, «cemétrico y fotográfico, perspectiva y sombras, ordenanza» del Ejército, ejercicios militares, francés, equitación y gim. uasia. Lo» cursos se dividen en semestres y las clmn.» en primeras, segunda» y tercera», según su importancia.
+Los que sean improbados tres veces consecutiva» en los exámenes de alguno de los dos primeros semestre» ó dos en cualquiera de los siguientes serán despedido», y también lo serán aquello» que pierdan cuatro semestre i fcn intervalo ó cinco si entre ellos se contase uno de los dos primeros. Lo serán igualmente, aunque no so encuentren eu estos casos, los que manifiesten conocido abandono en los c-tudios, en términos que no se eapno
+y lo» que observen una conducta inenr-
+su corrección
+regible y perjudicial para el orden del establecimiento, á juicio y propuc.-it a*do la Junta gubernativa. El atraso on las segundas clases no causa la pérdida del seme».
+tro	’	....'
+sucesivos hasta obtener censura válida, y m esto no so gi-a al ti-rininar el último uño de colegio, se concederá o.
+IxlO DOjj ti zuaca o	----- i'va«.M.. uu OVIUCg.
+pero se deberá repetir el exámen al fin de lo» cunos asivos hasta obtener censura válida, y si esto no so
+i ..
+plazo para vitrificar un exámen definitivo, quedan-do dospe ii los lo» que no resulten aprobados.
+Los cadete» pue leu ser externo* ó internos, y d, estos últimos los hay do número y supernumerarios, ilay cien plaz is de número, que se adjudican por antigüedad cu ¡los list as, formada la una con los hijo* do militares y la otra con los hijos de paisano», dando alternativamente do» plaz is á los de primera y una i lo i de la otra. Lo» externos tienen también dc-rcchoá est is plaz is, pero debiendo pasar á la clase de interno» si las aceptan.
+II iy tamil a i seis plizas da pensión entera y otra» *e¡» de inedia pensión, contada» todas entre las de número. Los que se crean con derecho á ellas, lo solicitarán de S. M. por conducto del Director grneral del Cuerpo, ajyiie.i emitirá el informo que los antecedente» aconsejen. Po Irán considerarse con derecho á pensión entera: 1. 3 Los huérfanos de padre y madre, cuirnlo aquel hubiere muerto en acción de guerra ó por heridas recibidas cu ella; 2.° Los que lo sean únicamente de padre, en el m sino concepto; 3. 3 Los huérfanos cuy»» padre», habiéndose inuriliz ido en acción de guerra 0 en f inclines del servicio hayan tenido que retirarse de él, aunque hay.ni sido después admitidos eu otra carrera del Es a lo; 4. 3 Los que se encuentren en los casos que lo» primeros y cuyo padre hubiese falleoido sirviendo activamente eu el Ejército; 5, 3 Los que áe hallen en la misma situación, viviendo su madre. Lo serán á media pensión: 1. 3 Lishjos do militares cuyos padres hubiesen tcuido qu» retirarse del servicio por inutilidad adquirida en é , acreditando que después de retirado» un pasaron á otra carrera. Igual derecho tendrán todos lo» institutos del Ejército, 2. 3 Los huérfanos de padres paisano», cuya m adre sea h ja le militar y disfrute pena on del Montepío, siempre que ei padre de ésta hubiese muer.o en acc ou de güe ra ó de resultas de herida» reo bid is en el a; 3. ° L >s huérfanos de personas b.-na-¡neritas que hubiesen prestado servicios importantes á la Nación y hayan desempeñado los primeros deslióos de ella, con la condición de acreditar que no pueden costear las asistencias.
+Pagarán asistencias reducidas los hijos de Generales, Jef-s y Oficiales del Ejército, acreditando lo» comprendidos en las dos últimas c'ases que sus padres tienen ó teñí m derecho á estas veniajas, sin haber pasado á oír» carrera del Estaño, continuando cada sei» meses la misan i jusriíicacion.
+Los hijos de Generales, Jefes y Oficiales de la Armada y los de los empleados de otros carreras asimilada» ¿ la militar serán considerados para optar alas veniajas referidas como hijos de individuos del Ejército de análogas categorías.
+Los cadetes satisfarán por trimestres adelantados las aubtjnciis siguientes:
+Es. Mils.
+Supernumerarios................................... 1’350
+De número.......................................   0’900
+H jos de Generales................................ O'SUO
+Idem de Jsf.-s del Ejército...................... O’tiOO
+Hijos de Capitanes y Subalternos.................. 0'400
+P.azas de media pensión..........................  0.150
+Plazas de pensión entera ......................... 0,000
+Cadetes ex eraos.................................. 0’200
+Si hubiese inas de veinte hijo» de Capitauo* y Subalternos, loa 'que excedan de este número pagarán 0’500 de escudo.
+Ademas harán los ea letes internos un depósito de 100 i Beodos á su éntra la y otros dos de igu al cantidad uno al principio del segundo y otro al doi te n er año ale su estancia en el Colegio. Los externos solo satisfarán el pr.mero de diclms depósito».
+Al tiempo del ingreso llevarán los interno.» las prenda» y efaet >s que se expreaan á continuación arregladas á los modelos que se h ill in de manifiesto on el colegio, con noticia de los precio» de contrata, y cuyo total coste asciende á unos 330 escudos.
+Seis cuellos.
+Ocho camisas blancas de hilo.
+Seis pires de calzoncillos de ídem.
+Doce idem de calcetines de idem.
+Seis pañuelos blancos de hilo para el bo'sillo.
+Cuatro toal'a.» de idem.
+Un mantel de hilo ('gusanillo) de cinco vai'as de largo y dos y cuarta de ancho.
+Cuatro servilletas de hilo (gusanillo).
+Do» talego» do 1 enzo de hilo pira ropa sucia.
+Seis sábanas blancas de hilo sin guarnición,
+Sei» fundís (le almohada» de idem.
+Dos elásticas de lana.
+Cu itro pares de guantes blancos da algodón.
+Dos corbatines.
+Un capote ruso de pano azul.
+D i» levita» de idem.
+Dos pares do pantalones de idem.
+Un par de polainas de paño negro.
+Una gorra de cuartel.
+Un ceñidor.
+Un traje de gimnasia con zapatillas.
+Un ros ccin cordones y bombota.
+Uu par de cordones de divisa.
+Uu tahalí de charol negro.
+Uu correaje compuesto de cinturón, cartuchera y vaina de bayonet a.
+Un ípacliete,
+Tres pares de -titos.
+Un juego de peines con escobilla.
+Un espejo.
+Un c-pillo de cabeza.
+Un cepillo de dientes.
+Uno idem de uñas.
+Un par de tijeras de lima
+Un corta-plumas.
+Un cepillo de ropa.
+Uno idein de zapatos.
+Uno idem de dorados.
+Un limpia-botones.
+Un candelero d« latón con d«spabiladera».
+Un tintero de cristal.
+Dos mantas blancas de lana para la cam».
+Dos colchas.
+Dos colchones.
+Un jergón.
+Dos almohadas.
+Un ouaderno para anotar la ropa sucia.
+Un cubierto de plata con cuchillo de mango del mismo metal.
+Los externos solo tienen obligación de presentarse con el uniforme de reglamento.
