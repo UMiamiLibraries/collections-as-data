@@ -1,0 +1,112 @@
+﻿790
+GACETA DE LA HABANA
+¡ ECUACIONES DE PRIMER GRADO COIJ DOS INGÓGNITAS
+Reducción de todos los métodos expuestos de eliminación.—Observaciones.—Discusión.-Ecuaciones homogéneas.—Ej ercicios.
+SISTEMAS GENERALES DE ECUACIONES DE PRIMER GRADO
+Diversas clases de sistemas.—Forma determinada.—Forma indeterminada.—Forma de incompatibilidad. —Ejercicios.
+INTERPRETACÍÓN EN CONCRETO DE LOS VALORES DE LAS INCÓGNITAS
+Consideraciones generales.-Aplicación A algunos ejemplos.—Planteo, resolución y discusión del problema de los móviles.
+ANÁLISIS INDETERMINADO DE PRIMER GRADO
+Objeto del análisis.—Soluciones enteras de la ecuación de primer grado con dos incógnitas.—Soluciones enteras y positivas.—Soluciones enteras de los sistemas generales indeterminados.—Ejercicios.
+ECUACIONES DE SEGUNDO GRADO
+Resolución de la ecuación completa.—Obtención de la fórmula.—Discusión de la misma.—Relaciones entre los coeficientes y las ralees.—Diversas clases de de raíces.—Signos de dichas raíces.—Ejercicios.
+Propiedades del trinomio de segundo grado.—Su descomposición en factores.—Variación de signos.— Resolución de las ecuaciones de segundo grado incompletas.—Objeto especial de esta resolución.—Anulación de un solo término.—Anulación de dos términos.—Anulación de los tres.—Ejercicios.
+ECUACIONES DE SEGUNDO GRADO (CONTINUACIÓN)
+Interpretación de las raíces en la resolución de los problemas.—Caracteres de esta interpretación.—Su aplicación á algunos ejemplos.—Problema de las luces y su discusión.—Problema del pozo y la suya.—Caso en que es muy pequeño el coeficiente del término de segundo grado.—Inconvenientes que presenta la fórmula general.—Cálculo de la menor raíz por aproximaciones sucesivas.—Ejercicios.
+GEOMETRIA—Texto: Ortega.
+GEOMETRIA PLANA.
+Iutrodncción.
+LÍNEA RECTA.
+Propiedades de la línea recta y lj- línea quebrada. —Línea recta.—Línea quebrada.—Ángulos.—Definiciones.—Magnitud de un ángulo.—Propiedades de los ángulos.—Perpendiculares y oblicuas.—Perpendicular.—Propiedades relativas á las oblicuas.—Lugare^ geométricos. — Paralelas. — Propiedades. — Paralelas cortadas por secante’.
+POLÍGONOS Ó FIGURAS FORMADAS POR LÍNEAS RECTAS.
+Definiciones.—Triángulos.—Clasificación. —Propiedades.—Igualdades de triángulos.—Nuevas propiedades.
+Cuadriláteros. — Clasificación. — Propidades. — Igualdad de paralelógramos.
+Polígonos en general.—Propiedades.— Igualdad de polígonos.—Simetría de polígonos.
+CIRCUNFERENCIA.
+Propiedad de la circunferencia.—Definiciones. — Propiedades.—Propiedades-relativas á la recta y á la circunferencia. —Cuerdas. —Tangentes.—Normales. — Secantes y targentes.—Posiciones relativas á dos circunferencias. — Posiciones distintas.—Línea de los centros.
+MEDIDAS DE LAS LÍNEAS Y ÁNGULOS.
+•Preliminares.—De la medida en general.—Medida directa.—Medida indirecta.—Magnitudes proporcionales.
+Medida de la línea recta.—Medida de un arco.— Amplitud de un arco.—División de la circunferencia. —Transportador.—Arcos correspondientes.—Medida de ángulos.—Evaluación de grados.—Angulos en el circulo.
+PROBLEMAS
+Consideraciones preliminares. — Instrumentos.i— Reglas para el dibujo.
+Problemas sobre la linea recta.
+Problemas sobre polígonos.
+. Problemas sobre la circunferencia.
+Observaciones generales sobre los problemas.— Procedimientos generales.—Métodos especiales,
+LINEAS PROPORCIONALES Y SEMEJANZA DE FIGURAS.
+Consideraciones .preliminares.—Proporción harmónica.—Segmentos proporcionales-.—Entre paralelas.—En un triángulo.—En un círculo.—Semejanza de figuras.—Definiciones.—Semejanza de poligónos.
+Semejanza de figuras.—Propiedades de las figuras semejantes.—Homotecia—Definición general de semejanza.
+Propiedades y relaciones métricas en un triángulo.—Problemas sóbfe segmentos.
+Problemas sobre tangentes. —Construcción de figuras semejantes.—Compás dé reducción.—Escalas! '
+■ POLÍGONOS REGULARES.
+Polígonos regulares convexos.—Polígonos regu lares estrellados.—Problemas sobre polígonos regulares.
+MEDIDA DE LA CIRCUNFERENCIA Y RELACIÓN DE ÉSTA’ CON EL DIÁMETRO.
+Consideraciones preliminares.
+Medida de la circunferencia.—Longitud de la circunferencia.’ — Rectificación de la circunferencia!— Longitud de un arco,—Relación de la circunferencia al diámetro.—Método de los perímetros.
+Areas.—Determinación de las áreas en las figuras rectilíneas.—Determinación de las áreas en las filas mixtilíneas.—Determinación délas áreas en el círculo.
+Comparación de áreas.—Areas de figuras cualquiera.—Areas de figuras semejantes,—Comparación de áreas en figuras isoperímetras.
+_ Máximos y mínimos.
+Problemas sobre áreas.—Transformación de figuras.—Construcción de figuras equivalentes. — Construcción de figuras cuya extensión guarda relaciones determinadas con las de otras.—División de superficies.—Areas de polígonos regulares..
+Geometría en el espacio.
+RECTAS Y PLANOS.
+Determinación de un plano.
+Posiciones relativas de dos rectas.
+Idem idem de dos planos.
+Idem de recta y plano. .
+Rectas paralelas. "-Paralelismo de rectas con planos.—Planos paralelos.—Rectas y planos perpendiculares.—Planos perpendiculares.—Horizontales: y verticales.
+Proyecciones.—Angulos de rectas con planos.
+Mínimas distancias.
+PROBLEMAS SOBRE RECTAS Y PLANOS.
+Rectas y planos-paralelos.—Rectas y planos perpendiculares.—Mínimas distancias.—Trazar una recta que corte á otras tres que dos á dos no determinen un plano ni sean las tres paralelas á uno mismo—Trazar una recta que, siéndo parálela á un plano, se apoye en dos rectas que se crucen.
+COMBINACIÓN DE PLANOS.
+Angulos diedros:
+Definiciones.—Angulo rectilíneo correspondiente á un diedro.—Medida de los diedros.*
+Angulos poliedros:
+Pefiniciones.—Nomenclatura y clasificación.
+Angulo triedro:
+Propiedades.—Igualdad de triedros.
+Angulos poliedros .
+Propiedades.—Igualdad de los ángulos poliedros.
+Líneas y superficies curvas:
+Lineas curvas en general.—Superficies curvas en general.—Generación y clasificación.—: Propiedades' generales.—Plano tangente.—Superficies de revolución.—Propiedades.—Superficies regladas.— Superficies alabeadas ó ganchas.—Superficies desarrollabl es.
+Superficie cónica:
+Generación y definiciones.—Propiedades.-^Plano-tangente.—Desarrollo de la superficie lateral de un cono.
+Superficie cilindrica:
+Generación y definiciones.—Propiedades.—Plano tangente.—Desarrollo de la superficie lateral de un cilindro. ■
+Superficie esférica:
+Generación y definiciones.—Propiedades.—Plano tangente.—Posiciones relativas de dos esferas.—Angulos en la superficie esférica.
+Polígonos esféricos:
+Definiciones.—Propiedades. — Triángulos esféricos.—Propiedades.—Igualdad de triángulos esféricos.
+Figuras sobre la superficie esférica.
+Problemas sobre la esfera.
+Radio de una esfera sólida.—Arcos de círculo sobre la esfera en condiciones determinadas.
+Construcción de triángulos esféricos.
+POLIEDROS.
+Definición y clasificación de los poliedros.
+Pirámide.—Definiciones.—Propiedades de los tetraedros.—Propidades de las pirámides en general.
+Prisma.—Definiciones'.—Propiedades del paralelepípedo.—Propiedades de los prismas en general.
+Poliedros en general,—Propiedades.
+Poliedros regulares convexos. — Tetraedros. — Exaedro ó cubo.—Octaedro.—Docaedro.—Icosaedro. —Todo poliedro regular es iriscriptible y circunscrip-tihle.—Poliedro conjugado.
+COMPARACIÓN DE LOS CUERP,OS POR SU MAGNITUD, FORMA Y POSICIÓN.
+Igualdad.—Igualdad de poliedros. — Determinación de un poliedro convexo.
+Simetría.—Definiciones;—‘■Simetría respecto á un eje.—Simetría respecto á un centro ó á un plano.
+Diámiéíros1 y píánbs'diámétFálés.'r- Diámetro.— Plaño' diaVnéfrálés.1•'*—•«' .•tW-tmiioU-‘ SemejahZá. — DéfiníCÍdnés.-L-Prof>íédades;-i-1'Hd‘ níbtéCiá.
+Areas.—Poliedro.—Superficies curvas. 1
+Volúmenes.—Poliedros.
+Volúmenes—Cuerpos terfniñádos por superficies •curvas.—Fórmula de Sitnpsón.
+Comparación dé áféáS y ’ vólúittéiiesCypCónlpara-ición de'áreas.—Idem de volúmenes.—Idem de áreas con volúmenes, >
+TRIGONOMETRIA RECTILINEA —Texto: Pallete.
+Elementos que fijen la posición de un ¡5untó ji de una recta.—Coñveniencia de unir los' principios del Algebra con los de la Geometría para resolver gran núme'ro de cuestiones.—Posición de un punto sobre una línea.—Convenio de los signos.—Ventajas que de él se alcanzan.—Su comprobación, discutiendo como ejemplo el problema de dividir una recta en media y extrema razón,.—Posición de un punto situado en un plano.—Posición de un punto en el espacio.—Posición de una.recta en un plano. !
+Líneas trigonométrica.—Su necesidadL-dDefiniCión de las líneas trigonométricas.—Notación.—Estudio de las variaciones del, valor y signos de las líneas trigonométricas cuando el. ángulo varía desde.cero á cuatro rectos.— Líneas trigonométricas de los ángulos mayores que cuatro rectos.—Fórmulas.de;los ¡ángulos que tienen el mismo seno y de los que tienen ei mismo eoceno.	.... ¡¡! r. :
+Proyecciones de las líneas rectas.—Proyecciones de un punto sobre una recta.—Idem octogonal.—Proyección de una. recta sobre,otra,—Idem de una línea, quebrada sobre .una recta.—Valor de la proyección de una recta sobre otra. — Valor de la distancia entre dos puntos.—Problema 1.1 Dadas las coordenadas de un punto con respecto á tres ejes, determinar su abscisa octogonal con respecto á una recta que, pasando por el origen, forme con los ejes ángulos cónocidós.—Problema 2.1 Determinar el ángulo de, dos rectas, conocidos los que forman con tres ejes coordehados rae-; ¿angulares. .
+Fórmulas trigonométricas.—Relaciones'másusua-íes entre las diferentes líneas trigonométricas del mismo ángulo.—Relaciones entre las líneas trigonométricas de dos ángulos iguales y de signos contrarios. — Relaciones entre las líneas trigonométricas de dos ángulos complementarios.
+Problemas,—Dados los* senos y cosenos de dos ángulos, determinar los senos y cosenos de su suma y de su diferencia.—Senos y Cosenos de 2 a y 3 a.— Tangente de (a rfc b) y de 2 a.—Líneas trigonométricas de (x ± b.) Líneas trigonométricas de un ángulo en función de otro menor que un recto.
+Formas trigonométricas.— Continuación.— Convertir en producto la suma ó diferencia de senos ó cosenos.—Fórmulas de Moiwe. -
+Problemas.—Dados el seno ó el coseno de un ángulo, determinar el seno y el coseno-de su mitad.
+Construcción y uso de las tablas ¡trigonomátricas. t— Principios fundamentales.—Determinación del seno del ángulo menor de las tablas.—Fórmulas para obtener los senos y cosenos de los arcos sucesivos.—Descripción de las tablas de Solvón ó Callet.—Uso de las mismas.—Ejercicios.
+Relación entre los elementos de un triángulo rectilíneo.—Relaciones éntre los tres lados,.y uno de los ángulos.—Relaciones, entre dós lados y los dos ángulos opuestos.—Demostración analítica de que el conocimiento de los tres ángulos no determina el triángulo. —Fórmula para los triángulos rectángulos,—Preparación para el cálculo logarítmico dé las fórmulas a -f-b, a, — b; siendo a > b y A cos, B sen. a.
+, Resolución de triángulos. — Resolución de los triángulos rectángulos en los cuatro casos que se pueden presentar.—Idem de los oblicuángulos.—Fórmula del área de un triángulo en los casos siguientes: l.°. Dados dos lados y el ángulo comprendido.—2.° Idem dos ángulos y un lado.—3.° Idem dos ladosy el ángulo opuesto á uno de, ellos.—4.° Idem de tresnados.
+Madrid, 27 de Febrero de 1897, — Azcárraga.
+Habiendo dispuesto el Excmo. Sr. Capitán general que la Real orden de que se trata tenga cumplido efecto en todas.sus partes, Se publica por este medio, con inclusión de las bases y programas que se citan,’ á fin de que llegue á conocimiento de todas aquellas personas á quienes pudiera convenir. ..	'»
+Habana, 10 de Abril de 1897.—De orden de S. E. —El Coronel Jefe de E. M. interino, Teófilo de Ga-ramendi.
+Como continuación al anterior, fecha 15 del actual, sobre publicación de convocatoria para ingreso en las Academias Militares; Vengo en participar haber resuelto el Eicmo. Sr. General en Jefe, que los exámenes para Infantería y Caballería que estaban anunciados para el 10 de Mayo próximo, empiecen el día 30 del corriente mes, que el reconocimiento lo sufran el día 28 y que las instancias las promuevan con la anticipación necesaria al objeto de que puedan encontrarse en la Academia antes del día 30 citado. —Además ha dispuesto que los aspirantes que por cualquiera circunstancia no estuvieran á tiempo, se examinen y reconozcan después, siempré que acrediten haber presentado las instancias dentro del plazo indicado; por medio de recibo del Comandante Militar del punto en que lo verifiquen ó Jefe de su Cuerpo y
