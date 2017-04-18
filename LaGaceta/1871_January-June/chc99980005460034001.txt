@@ -1,0 +1,283 @@
+﻿1G. Dados los perímetros de dos polígonos regula- i res semejantes, uno inscripto y otro circunscripto a un mismo circulo, calcular los perímetros de los regulares inscripto y circunscripto de duplo número de lados. Inscribir el cuadrado, exágono, pentágono y pentede-cágono regulares en un círculo dado. Cálculo de sus lados en función delrádio.
+17. Relación de la circunferencia al diámetro. Consideraciones sobre el circulo en su comparación con los polígonos regulares. Hacer ver que las circunferencias son proporcionales á sus rádios. Hallar la razón de la circunferencia al diámetro.
+18 Areas de las superficies planas. Qué se entiende por medir ó valorar una área dada. Comparación entre las áreas de dos rectángulos, deduciendo su expre sion formular. Demostrar que dos paralelógramos de la misma base y altura, son equivalentes. Espiesiones formulares de las áreas del paralelégramo, triángulo, trapecio y polígono regular. Aplicaciones.
+19.	Espresiones formulares de las áreas del círculo, sector, segmentos circulares y polígonos irregulares. Encontrar la de una superficie cualquiera. Aplicaciones.
+20.	Comparación de úreas. Iteraciones entre las de los cuadrados construidos sobre los lados de un triángulo rectángulo, y las de los triángulos que tienen un ángulo común. Comparación de áreas de triángulos y polígonos semejantes, circuios, sectores y segmentos oirculares semejantes.
+21.	Problemas de áreas. Trasformar un polígono cualquiera en un cuadrado; y un triángulo en otro que tenga por vértice un punto dado. Dados dos polígonos semejantes construir otro tercero que les sea semejante y su superficie la suma 6 diferencia de las do aquellos-Construir un polígono semejante áotro dado y cuya área guarde con la de este una relación dada. Dado un polígono, construir otros cuatro que les sean semejantes que tengaa sus áreas proporcionales á cuatro magnitudes dadas, y que la suma de ellos sea igual á la área del propuesto. Trasformar un polígono en otro semejante á uno dado. Aplicaciones; problemas numéricos, construyendo gráficamente los valores de las incógnitas.
+[Finalizará.]
+liiientleiicia general de llacientla.
+Lafnlta da costumbre en que el pais so lia encontrado de usar los sellos de libros, timbres de giros y otros documentos, como el abandono con que so entregó á su notable y aplicada actividad, ignorando las leyes de esta materia, mas bien que intentando conculcarlas, necesita de parte de una administración paternal todos los avisos, todos los plazos que la equidad y una recta intención aconsejan; y tanto mas debe ser así, cuanto que lapenalidad en que los morosos incurren es de su» rna cuantía.
+Deseando esta Intendencia librar de tan duro castigo á los que sin aviesa intención han faltado á prescripciones legales y debiendo suponer que se apresurarán á enmendar su falta, advertidos que de ella sean, he dispuesto que se suspendan las visitas hasta nueva disposición, y que se concedan treinta dias contados desde la publicación ile este escrito en la Gaceta, para que los habitantes de la Habana y surádio municipal acudan sin castigo alguno á cumplir las obligaciones que impone el decreto sobro papel sellado y timbre, extendiéndose este plazo ti sesenta dias en el resto de la isla.
+He dispuesto se publique en la Gaceta seguro de que las personas que no hayan hasta ahora cumplido estas obligaciones sabrán comprender cuantas consideraciones les dispensa la Intendencia, cuanto es su deseo de evitarles gastos y perjuicios y no daráu lugar á que después de mis repetidas advertencias me vea en la necesidad, siempre para mí dolorosa, de entregarlas á la acción de la Ley.
+Habana 8 de Mayo de 1871.
+El Intendente general, Joaquín M. de Alba.
+Habiéndose copiado, por equivocación material, de dos minutas diferentes la Instrucción de la Intendencia general de Hacienda de 30 de Abril próximo pasado, se restablece su texto genuino en la siguiente forma:
+instrucción del repartimiento' y cobranza de la contribución extraordinaria de guerra sobre la riqueza urbana al respecto del 5.g de las utilidades líquidas de cada contribuyente.
+CAPITULO 19
+Naturaleza de este arbitrio y bienes á él efecto.
+Artículo 1. ° El impuesto sobre la riqueza urbana de esta Isla consistirá en un 5 p.§ sobre la la renta anual confesada y considerada á cada finca, después de deducida la cuarta parte por razón de huecos y reparos.	*
+Art. 2. ° En consecuencia á lo preceptuado por el artículo anterior, contribuirá en la forma en él expresada, todos los edificios urbanos, ya estén destinados á casa de habitación ó á establecimientos industriales, ya so hallen en el casco de las poblaciones ó en los campos y no formen parto en los predios rústicos.
+CAPITULO 29
+Exenciones absolutas ó temporales que se conceden.
+Art. 3. ° Disfrutarán exención absoluta y permanente mientras subsista el indioado arbitrio.
+1.	° Lós templos y cementerios.
+2.	° Los edificios pertenecientes al Estado y que él mismo utilice para sus dependencias y para establecimientos de Beneficencia, corrección, enseñanza i! otros análogos del servicio público.
+3.	° Los de propiedad común de los pueblos, siempre que no produzcan ó puedan producir renta alguna á favor de la comunidad.
+1,4. ° Los edificios todos que pertenezcan al Estado, á menos que se hallen arrendados á particulares, en cuyo caso satisfarán estos la cantidad que les corresponda, según los beneficios que reporten.
+5.	° Los del dominio municipal, cuando estén destinados á la enseñanza pública ó á otro cualquier objeto por cuonta del Estado ó de los mismos pueblos.
+6.	a Las casas que se hallen habitadas por los párrocos, siempre que pertenezcan á la Iglesia.
+Afit. 4. ° Disfrutarán exención temporal:
+1.	° Los edificios que se reedifiquen por completo ó se construyan de nuevo durante el tiempo que se invierten en las obras y un año despnes de terminadas.
+2.	° Las casas de habitación cuyo alquiler anual no exceda do doce pesos.
+CAPITULO 39
+Investigaciones de la riqueza.
+Art. 5. ° Todos los Ayuntamientes de esta Isla pasarán desde luego á los Administradores y Colectores de Hacienda de jurisdicciones respectivas los padrones y datos que en ellos existan referentes al último repartimiento municipal sobre la riqueza urbana para gastos de interes común local.
+Art. 6.° Las Administraciones locales de Hacienda y las Colecturías en sus respectivas jurisdicciones exigirán á los propietarios, administradores ó encargados délas fincas, relación duplicada de las que poseen ó administren, con arreglo al modelo 1. ° , devolviendo ol duplicado á los inte-* resados con la nota de quedar en Su oficina la relación original.
+Art. 7. ° En estas relaciones se consignarán según el modelo núm. 2.
+El número que lleve la finca y nombre de la calle donde «sté situada.
+La clase y condiciones de su construcción.
+Su valor en renta, ya so encuentre alquilada ó por alquilar, ya esté habitada por el dueño.
+Y el domicilio do la persona á quien pertenezca,
+Art. 8. ° El plazo para presentar las relaciones juradas do que trata los artículos 6. ° y 7. ° -será el de 15 dias en la Habana y 10 fuera de ella, contados desdo el en que so haga la oportuna convocatoria por la Administración Central de Hacienda pública.
+Art¡ 9.® La falta de presentación de las relaciones privará á los.interesados de todo derecho á reclamación de agravio por la cuota que se les fije, quedando ademas responsables á pagar los gastos que ocasione la evaluación do oficio de las fincas.
+Cuando se justifique falta de verdad en las relaciones, quedarán sujetos los que las hubieren presentado ála multa del duplo do la cuota con que deban contribuir, y á pagar los gastos que ocasione la rectificación de oficio.
+Art. 10. Si algún declarante quisiese llamar la atención sobro alguna circunstancia particular que no pueda expresarse on las casillas de las relaciones, podrá hacerlo por nota, á continuación do las mismas, y antes do estampar la fecha y firma.
+Art. 11. El exámen, comprobación y rectifica cion do las rol aciones, se harán por una junta denominada pericial, presidida por el Administrador ó Colector respectivo y compuesta de dos conséjales, dos mayores contribuyentes y dos menores, haciendo de Secretario el empleado que designare el Presidente.
+Art. 12. Los Ayuntamientos tendrán derecho á nombrar la mitad de los peritos y á proponer en terna á las Administraciones y Colecturías respectivas los que hayan de componer la otra mitad de las juntas.
+A,rt. 13. Para los casos de imposibilidad de cualquiera de los nombrados, las municipalidades elegirán al mismo tiempo, con el carácter de suplentes, otros dos individuos que reúnan idénticas circunstancias qúe los vocales propietarios.
+Art. 14. Los cargos de vocales y suplentes de las comisiones do exámen, serán obligatorios y gratuitos, y solo podrán excusarse por los motivos previstos en las disposiciones vigentes para los demás cargos concejiles.
+Art. 15. El importe do los censos, tributos y demás imposiciones temporales y redimibles pertenecientes al Estado, será descontado de las rentas de las fincas que estuvieren gravadas con esta clase de cargas.
+En las rentas de cualquier otro dominio, no se hará ninguna deducion, y los censatarios, para reintegrarse de lo que por cuenta de ellos hubiesen satisfecho á la Hacienda, lo rebajarán á las rentas que ¡ por dichos gravámenes deban abonar á los censúa- j listas.
+Art. 16. Las juntas serán responsables de sus actos, y cuando se justificase que en el desempeño do su cargo hubieren incurrido en parcialidad ú ocultaciones manifiestas respecto á la valuación de la riqueza imponible, satisfarán mancomunadamen-te los individuos que las compongan, una multa igual al duplo del perjuicio que hubiesen causado á los intereses de la Hacienda.
+Art. 17. Para mayor justificación y la consi-| guíente responsabilidad, en cada relación de las que j presenten los contribuyentes, consignarán las co- j misiones su conformidad con los datos que en ella ¡ aparezcan, si los considerase exactos, ó las causas j do su desacuerdo, si no creyesen deberlos aceptar, expresando en este último caso, la suma en j que aprecian las utilidades de las fincas, firman- í do el Presidente y vocales estas anotaciones.
+Art. 18. Las juntas periciales se constituirán j el dia primero do Enero de cada año y terminarán j sus trabajos precisamente para el dia 30 del mes de | Marzo.
+CAPITULO 49
+De la formación de los padrones, de la exposición pú- \ blica de los mismos y de las reclaciones de agravios.
+Art. 19. Con presencia de las reclamaciones individuales y de los datos que los Ayuntamientos hubiesen facilitado á tenor del art. 59 se formará por las Juntas periciales el duplicado de la riqueza urbana ajustado al modelo 29 comprendiendo en él á todos los contribuyentes por orden alfabético do nombres.--------------
+Estos padrones se expondrán al público por espacio de quince dias desde 14 á 28 de Febrero de cada año, en cuyo plazo se oirán y resolverán por I la junta pericial las reclamaciones que se presenten. Trascurrido dicho término proaedorán las juntas á formar el repartimiento con arreglo al modelo 39 colocando á cada contribuyente con el mismo número que tenga en el padrón de la riqueza.
+Art. 20. El subsidio de guerra que perciben en la actualidad los Ayuntamientos queda suprimido desde 19 do Julio del presente año.
+Art. 21. Una vez formados los repartimientos, que ¡ deberán estarlo para el 15 de Marzo precisamente, su j expondrán al público hasta el 30 del mismo mes en j que las juntas periciales los entregarán en la Admi- I nistracion ó Colecturía respectiva con todas las reclamaciones que hubiere habido, debidamente resuel- j tas por la junta, y comunicadas las resoluciones á los I interesados.
+Art. 22. Las Administraciones ó Colecturías ¡ extenderán en los quince primeros dias del mes de ¡ Abril, las matrices de los recibos talonarios y los re- ! mitirán con los padrones y repartimientos á la Administración Central de Hacienda á fin de que antos del treinta del mismo mes so hallen reunidos precisamente en la citada Administración los de toáoslos ; distritos.
+Art. 23. Durante el mes de Mayo la Adminis- j tracion examinará los padrones y repartimientos, comprobará los recibos talonarios, oirá las reclamaciones quo se presenten en alzada contra las resoluciones do las juntas periciales y devolverá aprobado, ó con orden do rectificarlo según corresponda, un ejemplar délos padrones y repartimientos á las oficinas respectivas, con los recibos talonarios debidamente sellados, á fin de que estas puedan abrir las cuentas y preparar los medios de cobranza.
+Art. 24. No se admitirá por la Administración Central reclamación alguna que no acredite que los reclamantes hayan entablado á su debido tiempo la queja de agravio ante la junta pericial del distrito á que pertenecen.
+CAPITULO 5,®
+Disposiciones generales.
+Art. 25. El pago del impuesto se ejecutará por ¡ trimestre, empezando la recaudación el dia primero del segundo mes de cada uno de ellos.
+Art. 26. La imposición de las multas de que I trata esta instrucción correspondo á la Intendencia y se pagarán en el papel sellado correspondiente.
+Art. 27. Aprobadas las multas de que trata el | artículo anterior, serán exigibles por los Adminis- j tradores y Colectores do Hacienda, dentro de tercero dia, con arreglo á las disposiciones dictadas por el Gobierno Superior civil de esta Isla, en 21 de Diciembre do 1854, para el cumplimiento del artículo 9. ° del Real decreto de 26 de Octubre de 1849.
+Art. 28. Las impresiones de recibos talonarios repartimientos y padrones do riquezas so harán con cargo al dos por ciento que se impondrá sobre el importo de las cuotas para gastos de repartimiento y cobranza y las del reglamento se cargarán al capítulo do impresiones generales.
+Art. 29. La cobranza se hará por las Adminis- j traciones y Colecturías de Hacienda.
+Art. 30. INo siendo posible que para la cobranza del impuesto desde primero de Julio de este año sé cumplan todas las disposiciones contenidas en esta instrucción, se observarán las reglas transitorias quo so publican por separado.
+Art. 31. La Administración Central adoptará las disposiciones convenientes al cumplimiento de esta intruccion, que se considerará provisional hasta la aprobación de S. M.
+Habana 30 de Abril de 1871.
+Joaquín M. de Alba.
+[Los modelos á que se hace refereucia se publicaron en la Gaceta del 10 del corriente.]
+Contaduría central de Hacienda.
+Sección 3. *
+Los herederos de D. José María Brochero, Interventor militar que fué de esta, provincia y el apoderado del Excmo. LSr. D. Juan .Gonzalo, Ordenador de
+g uerra durante el mes de Julio de 1870, se presentarán
+en esta Contaduría para hacerse cargo del pliego de reparos firm il.uio en la cuanta de gastos de la [nt-i--vencion mi litar correspondiente al citado mes, presupuesto ontinario de 1869-70, el cual deberá ser contestado en ei ¡mpr •rogadle término de siete dias que empezarán á C intuí-- - á los diez d-'spues de publicado este anuncio el» tres n ¡meros de luGacetu oficial de esta Capital.
+Haban.u 4 i»; Muyo de 1371 -El Contad r Central, Antonio Nutle*.
+Ordenación (¡enera!. Delegada de P
+Ut os.
+Fol-
+ai d> í"*V O O o cq	CCIO<NCOCOO<MC<I iOHHrtC]ObH O Hm	805
+Í á A v °	10 CO riH pH CO	co 04
+V ® 0a a	qiooooh : ; • : CO ^ O H CO • • • • r—i "V1 r-3 »—i	co co co
+g rg P-l	<n : co : co • • : : co : 04 • 0 : : • : — T-t <N	461 1
+z «	nono : : : : : Ol rH <N rH	824
+ia
+Si
+a
+5»
+4»
+S«
+tí
+fl
+N
+tí
++*
+tí
+tí
+ai : .2 : *3 !
+v :
+bC :
+o
+: o •
+: W) : : tí :
+g‘3 a
+^ S o
+liáis !Ís-8
+8 ¡ I ¡-3«
+o tí a g s-2 g tí
+*0qO-
+íwui
+Idem	cSSa <i	ontigua	á la quinta, marcada con		
+'n Mein	letra...»				.. A		SO
+	ídem	idem		B		30
+Id. m	i t!e tu	ifie-111		<	30
+Idem	idem	idem		D		30
+Ifiem	idem	idem		E		30
+Idem	idem	calle de	San	Andrés [Marianao]	
+nú	111. 8..,				17
+I lem	ídem	idem	núm.		17
+acto á ¡os individuos cuyas proposielones no ¡nítidas.	aan »4
+Habana 30 de Abril de 1871. —D. O. D. B u omisario de Guerra Secretario, PrancUtr,
+w,,/,.	*	v
+G
+Perales
+t-ti i do resultado favorable por falt asta intent ida ei dia dos de i^¡
+51
+hiela calzado do los Quemados 76.
+Ídem Velazquez [Cerro] n? 11. 14
+12
+• idea del Exorno. Sr. Intendente general qu«-da abierto «I pago de haberes á las clases pasivas inai-deutss en esta lila, desale el día 12 al 20 inclusives del oorrieute mt-s y para las que tienen su residencia ®u la Península, desde el SI al «(> siguientes, abonándose á las primeras h * meses vencí,h s de Febrero, Marzo y Abril yá las segund»» el trimestre enrrido eu Enero Febrero y Marzo.
+Lo queso publica pura conocimiento de lo» interesados.
+Habana 10 de Mayo de 1871.—El Ordenador general, í'ederi io Villacampm.
+Tesorería general.
+Eu el expediento promovido por Instancia de don Carlos Cabello eu solicitud de un duplicado de carta de pago ascendente á do3 mil setecientos escudos depositados eu 21 de Setiembre de 1888, en concepto »le fianzas por guerra, se ha resuelto su publicación por nueve días consecutivos para que la persona en cuyo poder se hallare dicho documento Jo presente en la Tesorería Ciiitral de Hacienda pública, eu la inteligencia que pasado dicho término será tlecla»-ado nulo y ile ningún valor ni efecto y se procederá á expedir el duplioado que se menciona.
+Habana 29 de Abril de 1871. Ijnieio Banqueri..
+Administración de Hacienda publlcu.
+El día diez y nueve del actual se sacarán á pública subasta en esta Administración, las resmas de papel taladrado que á continuación se expresan:
+64 resmas de á 50o pliegos de papel sellado taladrados por una sola hoja, al precio de dos escudos resma.
+499 resmas t ladradas por ambas hojas, al respecto de un escudo cada resma.
+333 resmillas de documentos de giro taladrados por el sello, al respecto de cien milésimas cada una.
+Lo que se anuncia para conocimiento público, advirtiéndose que el acto de la subasta será de doce á dos del citado día 19 del corriente, y que en cuanto á las553 resmas del papel sellado, la subastase verificará por lotes de á 25 resmas cada uno, pudiendo los interesados examinar anticipadamente las muestras de todos los efectos que estarán de manifiesto desde la fecha de este anuncio en la Administración de mi cajgo.
+Habana 9 de Mayo de 1871.— El Administrador, JosC del Campo.
+A<nnín¡Ntr;icion «esstral de Hacienda pública.
+Habiendo acudido á la Intendencia general por medio de Instancia, D. José del Campo y Salmón, Administrador que l’uóde Hacienda en esta capital; manifestando que se le lia extraviado la carta de pago que le fué expedida por Ja Caja general de Depósitos en Madrid, marcada con los números 71B84 de entrada y 17803 del registro de inscripción, en la cual consta que impuso el interesado la cantidad de 6000 escudos en treinta obli raciones del Estado por ferro-carriles en garantía del destiuo que se deja indicado, é instruyendo el oportuno expediente sobre este asunto por esta Administración central para ver si es posible hallar dicha carta de pago; se ha servido el Excmo. 8r. Intendente disponer con objeto de que no se irroguen perjuicios al empleado de que se trata, se haga saber ai público para que cualquiera persona que la tenga en su poder, se sirva presentarla en esta Administración Central situada eu el edificio conocido por antigua Aduana, Negociado de personal y fianzas: en la inteligencia de que sinó se presentara quedará-nula y de ningún valor según está dispuesto por 8. E. I.
+Y de órden de 8. E. I. se publica en la Gacela oficial por el término de ocho dias, con el fin que se deja ya indicado.
+Habana 27 de Abril de 1871.—José Cánovas del Castillo
+Administración Central de Loterías.
+En telegrama recibido hoy del Excmo. Sr. Alcalde primero Presidente del Ayuntamiento $de Barcelona se comunica á esta Administración, que ha sido prorogado al 31 del corriente el sorteo de los billetes de la rila á favor de la quinta de 1870 que debió celebrarse en dicha Ciudad el 30 del próximo anterior.
+Lo que se publica para general conocimiento
+Habana Mayo 10 de 1871.—Adolfo Glasset.
+Administración especial de Kienes del Estado.
+Dispuesta la venta de los azúcares existentes en esta capital de procedencia embargada, se ha señalado el viérnes doce del corriente á la hora de costumbre y en el local de esta Administración para proceder á su ena-genacion en pública subasta, ante la Comisión nombrada, la cual adjudicará el remate al mejor postor, á reserva de la aprobación del Consejo; guardándose eu dicho acto todas las formalidades de costumbre, y pro-cediéndose con arreglo á las prevenciones generales publicadas anteriormente.
+Idem
+Idem ídem
+Idem ídem Cautarrauas [Puentes-Grandes].
+Un solar al fondo de la casa número 1U7 de la
+calzada de Jesús del Monté.
+Idem casa en i » calle de la Lamparilla 100. 42 50
+Un solar [Cerro] calle 46 Santa Teresa esquina á -
+San Elias..............................;	0 ...
+Loa que deseen hacer proposición, pueden ocurrir por medio de instancia en papel del sello í>?‘ á estas i tiernas, Galiano 102, dentro, de los ciupo dias siguientes ai en que se publique por primera vez este anuncio, en la inteligencia quo se adjudicará fi favor del mejor postor por renta mayor de los que se presenten en el referido plazo y de que aquel á »juien se adjudique, debe dar como garantía un fiador á satisfacción, ó depositar el importe de un trimestre en seguridad de los vencimientos corrientes.
+-—Habana 9 de Mayo de 1871.—El Administrador general, Diego Curda Nogueras.
+Audiencia Pretorial d© i « SI* ana.
+. Secretaria.
+Circular.—El Excmo. 8r. Gobernador Superior Político eu comunicación de 25 de Abril último dice al Excmo. ó linio. Si'. Presidente de esta Audiencia Preto rial lo que sigue:
+“Excmo. Sr. El Excmo. Sr. Ministro de Ultramar coniecha siete de Marzo último me dice io que sigue. Excmo. 8r. El Presidente do la Sección de Hacienda y Ultramar del Consejo de Estado me dice con fecha diez y siete de Febrero último lo siguiente: Excmo. Si : Con Keal ói-den de treinta de Enero último, comunicada por el Ministerio del digno cargo de V. E. se remitió á informe de esta Sección, el expediente sobre la forma y procedimientos »pie deben seguir los particulares, en las informaciones que intenten, para comprobar los daños y perjuicios causados por la insurrección en la Isla. Eu ocho de Noviembre último solicitó D. Ensebio Soler, vecino de la Habana del Gobernador Superior Civil, fine se lijase la forma del procedimiento qu'e debíasdop-tui'se para ei fin expresado, y en su vista aquella autoridad, de acuerdo eoft io informado por el Consejo de Administración, resolvió eu veinte y nueve de Diciembre, que sin prejuzgar el derecho-de loa particulares á la indemnización, asunto que compete únicamente al Go bieruo Supremo, y sea cual fuesp el objeto con que so promueva la justificación de I03 »hales sufridos por los particulares á consecuencia de la insurrección, corresponde el conocimiento ilel asunto á la jurisdicción ordinaria, interviniendo los promotoies fiscales sin que esto lleve consigo la nulidad de las informaciones promovidas ante otros funcionarios, ios cuales so ratificarán y api'obarán eu ei ói'den solemne que reclama la entidad de tales negocios dándoles el Juez con el Ministe-, »•io público, la plenitud de carácter y méritoque no tengan y que en cuanto a la forma del procedimiento no í bastará que los testigos deelai'eu el estado anterior y el j actual de las casas ó haciendas ni que se compruebe la invasión, la devastación ó el incendio, sino que espre-ciso que á las informaciones sa una siempre ia prueba de lo que cada casa ó fundo pagó de contribución municipal en los tres afíos anteriores al sesenta y ocho. La Sección cree, que, no se está todaviaen el caso de adoptar ninguna íesoiucion definitiva sobre el asunto á que se refiere este expediente, y la razen es muy obvia. Auu no se ha declarado ningún derecho: aun no se ha determinado Ja indemnización que en sil caso haya de abonarse á ios perjudicados por la insurrección de la Isla; aun no se ha fijado el modo, la forma, y ios términos en que podrá ó nó acordarse esa indemnización: eu suma, no se ha dictado aun la Ley sustancial; y por consecuencia no cabe dictar tampoco Ja Ley adjetiva ó de mero procedimiento, que es lo que se solicita en el estado actual de este asunto. Cualquiera que ahora su adoptase, no podría ihéuos de ser incompleta é ineficaz, por lo mismo que se ignora el alcánce y objetos á que la indemnización ha de extenderse, y por consecuencia los extremos que deberán abrazar en su dia las justificaciones, fuera de que si aquella ha de abonarse con parte de ios bienes hoy embargados á los insurrectos, es posible que ánt#* de declararlas exíjala Audiencia de estos, obedeciendo al principio consignado en el artículo 1859 de la Ley de Enjuiciamiento Civil. Con estas reservas, la Sección no encuentra inconveniente en que los interesados usen dul derecho de que se crean asistidos ante los jueces y Tribunales competentes, arreglándose en sus informaciones á io que se dispone en el título octavo, parte segunda de la referida Ley de Enjuiciamiento Civil, sin que por esto quede á nada sujeta la Administración, para decidir en su dia la forma y trámites con que han da hacerse las oportunas informaciones á fin no acordar la indemnización, que considere mas equitativa y prudente. La Sección, pues, en vista do las anteriores consideraciones opina, -quo procede denegar por ahora la solicitud ds D. Eusebio Soler, dejándole lo mismo que á los demais interesados eu este asunto, su derecho a salvo para que lo ejerciten del modo y en ia forma que mejor vieren convenirles, sin perjuicio de io que lu Administración pueda disponer eu su dia sobre esta materia. V. E. sin embargo, acordará con 8. M. io mas acertado. Y habiéndose dignado 8. M, él Rey [Q. D. G.Jconformarse con el preinserto dictamen, lo traslado á V. E. como resolución á su carta, número 1257 de veinte y nueve de Diciembre último.” Y lo trasmito á V. E. para »ti conocimiento, consecuente á la comunicación que se le dir.jió por este Gobierno eu veinte y nueve de diciembre último, referente al particular.”
+Dada cuenta al Tribunal Pleno se ha servido 8. E. por acuerdo de este dia proveer lo »pie con lo representado por el Sr. Fiscal dice asi:
+Dictámen Fiscal.—“Excmo. tír. Eu vista de la comunicación que precede en que el Sr. Gobernador Su-perior Civil traslada una Real ói'den de siete de Marzo último relativa á ia forma y ante qué autoridades deben promoverse las informaciones para acreditar los daños y perjuicios ocasionados á los particulares por la insurrección; el Fiscal es de parecer de que V. E. se dé por enterado, circulándose dicha comunicación & iqs Jueces por medio de la Gaceta para su conocimiento y efectos correspondientes. Habana Mayo primero de mil ochocientos setenta y uno.—Vida.
+Aillo. Vistos: Como parece gl Sr. Fiscal. Proveído y rubricado por los Sres. del margenen pleno de que certifico. Habana cuatro de Mayo de mil ochpcientos setenta y uno. Está rubricado ñor los Sres. Presidente de ia Audiencia, Calbeton, Presidente de Sala, Sánchez Puig, Magistrados. Villanueva y Muñiz, Mil', Estrella, Undabeytia, Sánchez Fuentes, Peray, Moreno, Carrasco, Montalvan, Villanueva y Moutoya. Presente el Sr. Fiscal Dr. José Giralt.”
+Y en cumplimiento de io mandado libro la presente para su inserción en ia Gaceta oficial.
+Dios guarde á V. S. muchos años.—Habana 4 da Mayo de 1871.—Dr. José Qiralt. Secretario.
+Sr. Alcalde Mayor de...
+No habiendo t lidiadores la suba próximo pasado, para la
+I efectos del Parque rio Ingenieros de esta plaza* "rioV
+icciou fiel -¿i de <>. ha dispuesto dique una sea»
+subasta bajo las mismas condiciones de la nrimJ;
+I.... /i-,	I.sl_JL_e_4-- £ . ef * pu.
+por excluidos eu la rovist i fie mspecciou del 24 de v viciable del año próximo pasado, ha dispueati Excmo. Sr. Capitán general se verifique una ~ 10 *1
+venta (le lo» materiales
+Jai
+ei ito
+¡Ut
+próximo pasado, ha dispue^ segund,
+olivadas en Ja Gaceta oficial del
+Dicha segunda subasta tendrá lugar el dia 19 de \t • <> próximo a las doce de la mañana en el desusé* fiel Excmo. rtr. General Sub Inspector de Ingeiiie' v bajo de su digna presidencia.	*
+Habana 13 fie Abril fie 1871.—El Comisario de tu ri Secreta rio. francisco Ru.ii, y Perales.
+idaiánisti aciun general de Correos,
+Hasta las fios do la tarde del dia quince del actual
+déucia bautau.
+Habana tí de Mayo de 1871.—El Administra lor noi al, L. Ayala.________________________
+se recibirá en esta Administración la correspondenr pública y de oficio que haya de conducir para Sania' fiel'y Cádiz el vapor correo “España.”
+ge-
+OKXOINA.-
+I A i-.tó-' 1 ¡ i’.: L A ti A ti A ?
+ilobhrno puiUa;« de la Habana.
+L). José María Piñera, iia acudido á este (lubW i en solicitud fie permiso para establecer un tostademj, • afé. avellanas y otros glano» en la Cosa número;;,
+1 calió Auclia del Noi le.
+En cumplimiento de lo resuelto por el JJWh | é limo. Sr. Gobernador Político, se anuncia «¡u,, lición por medio de la Gaceta oficial, a tin de queu personas que se crean perjudicadas con este proyocia I puedan presentar sus reclamaciones en la Secreta^ le este Gobierno, deniro del preciso término de oc|¡(, i nía» á contar desue la fecha de esta convocatoria. '
+Habana i. 3 de Mayo do 1871.—P. 0.-4a|,MÍt kltraud._________________;____
+Clauca linpaikul do lii llalmna.
+Secretarla.
+Solicitando el Sr. D. Jo-ó Baló se le provea de uut. vos títulos con respecto á las accioues fie este eslatle. ci miento números 1703 al 1802 por haber sufrido estr,. vio los qúe antes se le expidieron; ha acordado lab,, lección que por nueve números consecutivos délatij. ceta oficial y demas periódicos de esta ciudad, secm. voque á las.personas que puedan conceptuarse conoe-rjeho para impugnar dicha siUoituJ, eil la iutelig«,, cia de’que se accederá á la misma dentro del término de quinto .día después del último anuncio, sinO seo tabieciese reclamación en contrario.
+Habana 1? de Mayo do 1371. Por el Hecretarin, Eugenio Arias. ______________.________
+Utcuie. Ai iiuiamii uli .
+. \; i	_	•	* .
+Secretaria.
+No habiendo tenido efecto por falta de licitación» los remates anunciados para hoy del suministro ]< efectos de escritorio para las oficinas municipales, dd arbitrio de Corrales del Rastro de ganado mayor, dt| servicio do carruuges para las funciones á que aaiiu la Corporación , del arrendamiento de las mesillas del mercado Cristina, del de Tacón, del arrendamienp del edificio de la Pescadería y del suministro de raucho liara los presos de la cárcel; el Excmo. Sr. Gobernador Presidente se ha servido señalar de nuevo pan sus remates el día 24 del actual á ia uua de la larde, en ia Sala Capitular ante la Comisión ‘ 2? con estricta sujeción á los pliegos de condiciones que se iusertani
+continuación.	...	„
+Habana y Mayo 10 ue 1871.—El Secretario, Jf.
+Castellanos.
+[Los pliegos de condiciones se publicaron cu laGi ceta de los dias 10 y 22 de Abril último.]
+El Excmo. Sr. Gobernador Presidente se lia servia disponerse permita á los estancieros llevar sus frutos rü mercado de Colon descargarlos y expenderlos hasu las diez de la mañaua, haciendo Ja descarga eu lasca-1 tes laterales ai Norte y Sud, siendo do su cuenta dejar barridas dichas- calles.
+Loque do órden do S. JE. se publica para conocimiento fie los interesados.
+Habana 8 de Mayo de 1871.—Ei Secretario, J/. Gw-tellanos.
+D. José Soroa, Jefe honorario de Administración civil y Escribano de Cámara de la Exorna. Audiencia Pretorial. Certifico: que la Sala segunda de Justicia de estaExcma. Audiencia, se ha servido mandarse cite, llame y emplace por primer edicto y pregón á- D. José Martínez, natural de Pontevedra, vecino de esta ■ ciudad, casado, sastre y de treinta y nueve afics de edad ! para que eu el término de nueve dias sepresenté á guar-j dar piision en la cárcel de esta capital, y á hacerse car-| go del traslado que se le ha conferido de la acusación j fiscal producida eu esta Superioridad eu la causa segui-! da en la alcaldía mayor del distrito do la Catedral por hurto de prendas á don José Lodeiro y don José García seguro de que si así lo hiciere se le administrará justicia y de no se le declarará rebelde y contumaz y por bastantes los estrados de este superior Tribunal. Y para *u publicación en tres números consecutivos de ‘ia Gaceta oficial libro la presente. Habana ocho de Mayo de mil ochocientos setenta y uno. José Soroa
+Habana 9 de Mayo de 1871.—El Administrador, Diego García Nogueras.
+Esta Administración ha tenido por convenien ic sacar á pública licitación para su arrendamiento hw oasas siguientes:	"
+Una casa en la calle Ancha del Norte número 197................................tipo $	92 ...
+Idem accesoria, Berual 1...................... 15	...
+Seis Ídem en la calzada de Concha, sin número, todas en.................................. 22	...
+Una casa idem Idem idem núm. 5................ 14	...
+Idem idem idem 7............................   12	...
+Idem accesoria, Marina 3....................... 4	...
+Idem casa en la calle de la Cárcel núm. 5......	51	...
+Idem idem Cármen 27......................... 20	...
+Idem idem Concordia 130....................... 28	...
+Idem idem Campanario 16tí..................... 25	...
+Un solar, Cerro calle de Sta. Teresa esquina á
+la delJJármen.............................. 2	...
+Tres idem en el barrio de San Lázaro entre las
+calles del Príncipe y Carnero, á	3	$	uno.	9	...
+Una casa en la calle de Escobar 88............ 42	50
+Idem accesoria, S. Luis Gonzaga del	núm.	1...	36	...
+Idem ciudadela, Fomento núm. 29, en Jesús
+del Monte.................................. 34	...
+Idem casa, calle del Marqués de la	Torre 29...	14	...
+Idem Idem calzada de Luyanó 15................ 25	50
+Idem casa-quinta en Luyanó, titulada “América”.....................................     61	...
+s 10« O A t>A ■ i < > i.
+OFICINAS UENKKAhKS.
+Intendencia Militar.
+Anuncio.'
+No habiendo tenido resultado por fajta de licita-dores la subasta intentada el dia 11 de Marzo próximo pasado para contratar por el término de dos años* el suministro de todas las drogas y efectos medicinales-y üe curación, que se necesiten en los Hospitalés Militares de la Isla, en los provisionales que §e establecieren, <5 igualmente para surtir los botiquines de los cuerpos, fortalezas y fuerzas expedicionarias, se pone en conocimiento dél público para que los que quieran hacer proposiciones á dicho servicio, presenten las suyas en pliegos, cerrados, ante la junta administrativa, en la licitación pública que tendrá lugar el dia 30 de Mayo próximo, en esta Intendencia Militar sita en ; los Pabellones Militares, calzada-de Belascoain esqui-! na á Estrella, en la inteligencia de que las prop»G-ciones han de presentarse en pliegos Cerrados y ajustarse estrictamente «u su redacción al modelo de proposición, pliegos de condiciones económico administrativo, condiciones facultativas y catálogo con el precio límite, cuyos documentos se hallan insertos en la Gaceta oficial dei dia 9 de Febrero último y se hallan de manifiesto en la Secretarla de esta Intendencia. Para que las proposiciones sean admitidas es preciso que vengan acompañadas de la carta fie pago original que acredite el"depósito prévio en Tesorería de la cantidad de siete mil escudos para responder al buen cumplimiento de este servicio, la cual será devuelta en el
+No habiendo tenido iugar el dia tí do Marzo última ; por falta de lidiadores lu subasta :db Ja casa número Sí i Uo ia calle de Luz en esta capital, propiedad delicio, ü. José Hernández, Mevia, contra quien se sigue elidiente de apremio para el cobro de 3,879 ese luios Mi milésimas que adeuda á los fondos de este Excmo. Ayuntamiento, ei Excmo. Sr. Gobernador Político presidente, se bu sérvidó disponer con fecha de a;er-t ¡ señale de nuevo piara aquel acto el 24 dei actuaUim doce de la mañana eu la sala capitular; bien entendido, q ue la casa de que se traía fué tasada eu 2 de Abril dul año último en cantidad de 22,300 escudos 680 milúsiii» retasada el 27 de Junio dei propio uñó en 20,070 escudos 412 milésimas y vuelta a tasar ei .1. ° del actual tu 18 062 escudos 912 milésimas, así como que sufre de gn-. vátnenes 30« escudos ú favor dei convenio de San Agí» tin que está hipotecada á las resultas dei inauejo úeduii GerÓuimo Manuel Rodríguez de Hévia ooinu colector de las úecimaciones de la parróquia de san Antono de los Baños, que Se encuentra del propio modo embargada por disposición del Sr. alcalde mayor dei distrito de Jesús María á instancia de la Caja up Ahorros eu coloro de 2,400 escudos, y por último, qué no se aumitirau posturas que no excedan de las dos terceras partes ue Ja segunda citada retasacku.
+Habana Mayo 6 de 1871.—El Secretario.—M. 1« tellanos.	.I.
+Los remates celebrados con el Excmo. Ayuuwmitu-t0 dei suministro efectos de uhanUerta y carpintería raei ramo cteoulks y aceite, para ei Cuerpo de strr nos terminan en ei presente uño económico; y debieu-do celebrarse de nuevo para el entrante, ei Excmo. sr Gobernador presidente se tía servido resolver se cien Jas subastas üjaudo para oí acto el dia 21 uel em trun te á la una do la tarde en Ja Sala Capitulante“ Comisión que proceda intervenirlos y con arreglo«1“ respectivos pliegos que se insertan á contiuuaoiou.| Lo que se publica para conocimiento de aquel oí quien s interese.	...
+Habana y Abril 24 de 187'. El Secretario, M W
+telianos.	M
+[Los pliegos de condiciones se publicaron los w
+6 y 7 del corriente.]
+En el presente año económico terminan los reíanlo celebrados con el Excmo. Ayuntamiento del suminis do esquif aciones para los operarios de calles y ol ganado del propio Ramo; y debiendo celebrarse«“ vos remates para el entrante; ei Excmo. Sr. Goberm Presidente se ha servido resolver se anuucieu, uja para el acto el día 24 del entrante á la uua de su tt ; ante la Comisión que corresponde y con arreglo 4«» pectivos pliegos-de condiciones que se insertan a tu
+nuacion.	’“jj	„»noé
+Lo que se publica para conocimiento do aqum
+quienes interese.	'
+Habana 24 de Abril de 1871.—El Secretario, I«'
+telianos.	j
+[Los pliegos de condiciones se publicaron en i» seta del dia 6 del que cursa.]
+Desalojadas las casillas dol mercado de ColoB. meros 9 v 10, 22 y 62, el Eximio. Sr. Gobernador H dente se'lia servido señalar para sus remates el u del corriente á la una fie hi tarde, (TU la sala cap J{ ante la Comisión 21!, con estricta sujecciou al pues condiciones que sé inserta á continuación.	^
+Habaua Mayo 3 de 1871. El Secretario- - i»1-
+telianos..	•	i „nlaO*
+Véase éí pliego de condiciones pubhoado en
+ceta del tí y 7 dei corriente. .
+Aprobado por el Excmo. Sr. Gobernador Sup«^ político ti rebajo del tipo al alquiler de.•Jacwm** ro tíl fie! mercado de Colou, el Excmo. Sr. Gouijj., Presidente, se lia servido señalar para Jtfreinaw c#. i 7 del entrante Mayo á la una de la tarde en J» “	B„1
+pitular ante 1# Comisión 2.» con extricta sujeu pliego de condiciones que se pubhca á CMit11
+Habana Abril 27 do 1S71.-E1 Secretario, 6«"
+T<0Í'[ Véase el pliego de condiciones publicado enl»
+ceta fiel 10 de Noviembre último.
+.¡¡«puesto por ei Excinñ. Gobernad»! 1 re«1 ^ -aquén á pública subasta para el	jegn;
+eci -■'mico de 1871 á 1872. los.urbitrios de iidm» sillas en los paseos, S. E. so ha servido “ dia .7 del‘entrante Mayo á la una de 1	s tus »
+S<je eouii¡cir
+Al. O''
+dispuesto por ei nxemu. or.	nte
+te se-aquén á pública subasta para el entro
+eci ■ ■‘mico de 1871 á 1872. los,urbitrios de1#rti lio» v sillas en los paseos, S. E. se ha servid	Jr »
+dia .7 del‘entrante Mayo á la uua de la t#1«®	g
+la capitular para que tengau efecto las suu la Comisión 2.a con arreglo á los pliegos ne que á continuación s» expresan.
+Cabana Abril 15 de 1871. Ei Secretario,
+danos.	‘	.	.- „ i„ «ace1**
+' [El pliego de coudiciones se pubhcoen j» i 9.H fiel corriente. I
