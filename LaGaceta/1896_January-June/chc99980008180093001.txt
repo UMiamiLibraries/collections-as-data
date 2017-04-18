@@ -1,0 +1,85 @@
+﻿GACETA DE LA HABANA
+509
+—Simetría respecto á un eje.—Simetría respecto á un centro ó á un plano.
+Diámetros y planos diametrales.—Diámetros.— Planos diametrales.—Semej\anza;.-Definidones. —Propiedades .—Homotecia.
+Areas— Poliedro.—Superficies curvas.
+Volúmenes.—Poliedros.
+Volúmenes.—Cuerpos terminados por superficies curvas.—Fórmula de Simpson.
+Comparación de áreas y volúmenes:
+Comparación de áreas.—Idem de volúmenes.— Idem de áreas con volúmenes.
+TRIGONOMETRIA RECTILINEA.-Texto: Pallete.
+Elementos que fijan la posición de un punto y de una recta.—Conveniencia de unir los principios del Algebra con los de la Geometría para resolver gran número de cuestiones,—Posición de un punto sobre una línea.—Convenio de los signos.—Ventajas que de él se alcanzan.—Su comprobación, discutiendo como ejemplo el problema de dividir una recta en media y extrema razón.—Posición de un punto situado en un plano.—Posición de un punto en el espacio.—Posición de una recta en un plano.
+Lineas trigonométricas—Su necesidad.—Definición de las líneas trigonométricas.—Notación.—Estudio de las variaciones de valor y signos de las líneas trigonométricas cuando el ángulo varía desde cero á cuatro rectas.—Líneas trigonométricas de los ángulos mayores que cuatro rectas.—Fórmulas de los ángulos que tienen el mismo seno y de los que tienen el mismo coseno.
+Proyecciones de las lineas rectas.—Proyecciones de un punto sobre una recta.—Idem octogonal.—Proyección de una recta sobre otra.—Idem de una línea quebrada sobre una recta.—Valor de la proyeción de una recta sobre otra.—Valor de la distancia entre dos puntos.—Problema l.° Dadas las coordenadas de un punto con respecto á tres ejes, determinar su obscisa octogonal con respecto á una recta que pasando por el • origen forme con los ejes ángulos conocidos.—Problema 2.° Determinar el ángulo de dos rectas, conocidos los que forman.con tres ejes coordenados rectangulares.
+Fámulas trigonométricas.—Relaciones más usuales entre las diferentes líneas trigonométricas del mismo ángulo.—Relaciones entre las líneas trigonométricas de dos ángulos iguales y de signos contrarios. Relaciones entre las líneas trigonométricas de los ángulos complementarios.—Problema.—Dados los senos y cosenos de dos ángulos, determinar los senos y cosenos de su suma y dé su diferencia.-—Senos y cosenos de 2 ay 3 Tangentes de (a dr b) y de 2 a.—Líneas trigonométricas de (x áz b.)—Líneas trigonométricas de un ángulo en función de otro menor que un recto.
+Fórmulas trigonométricas.—Continuación.-Con-vertir en producto la suma ó diferencia de senos ó cosenos.—Fórmulas de Moivre.—Problemas.—Dados el seno ó el coseno de un ángulo, determinar el seno ó el coseno de su mitad.
+Construcción y uso de las tablas trigonométricas. —Principios fundamentales.—Determinación del seno del ángulo menor de las tablas.—Fórmulas para obtener los senos y cosenos de los arcos sucesivos.—Descripción de las tablas de Selwon ó Callet.—Uso de las mismas.—Ejercicios.
+Relación entre los elementos de un triángulo rec-tilíneo.—Relaciones entre los tres lados y uno de los ángulos.—Relaciones entre dos lados y los dos ángulos opuestos.—Demostración analítica de que el conocimiento de los tres ángulos no determina el triángulo. Fórmulas para los triángulos rectángulos.—Preparación para el cálculo logarítmico de las fórmulas a-\-b, a — b; siendo a > b y A eos. a -j- B sen. z.
+Resolución de triángulos.—Resolución de los triángulos rectángulos en los cuatros casos que se pueden presentar.—Idem de los oblicuángulos.—Fórmula del área de un triángulo en los casos siguientes: l.° Dados dos lados y el ángulo comprendido.—2.° Idem dos ángulos y un lado.-^3.° Idem dos lados y el ángulo opuesto á uno de ellos.—4.° Idem los tres lados.
+Madrid, 15 de Enero de 1896.—Azcárraga.
+Habiendo dispuesto el Excmo. Sr. Capitán general que la Real orden de que se trata, tenga cumplido efecto en todas sus partes, se publica por este medió con inclusión de las bases y programas que se citan, á fin de que llegue á conocimiento de todas aquellas personas á quienes pudiera convenir.
+De orden de S. E., el Teniente General Jefe de E. M. G., P. O., El Coronel 2.° Jefe, Ignacio Castañera.
+SECRETARIA GENERAL
+SECCIÓN CENTRAL DE GOBIERNO Y ARCHIVO GENERAL
+Personal.
+Por el Ministerio de Ultramar se comunica al Excmo. Sr. Gobernador general, con fecha 15 de Febrero último, y bajo el número 431, la Real orden que sigue:
+«Excmo. Sr.:—Parala plaza de oficial tercero del Gobierno civil de la provincia de Santa Clara, en esa Isla, vacante por pase á la isla de Puerto Rico de don Hilario González, y dotada con el sueldo anual de 500 pesos y 750 de sobresueldo; el Rey (q. D. g.)y en su nombre la Reina Regente del Reino, ha tenido á bien nombrar por el turno quinto á don Luis Roque y Martínez.—De Real orden lo digo á V. E. para su conocimiento y demás efectos. »
+Y acordado por S. E. su cumplimiento con fecha 3
+del actual, de su orden se publica en la Gaceta de la Habana para general conocimiento.
+Habana, 10 de Marzo de 1896.
+El Secretario general,
+El Marqués de Palmer ola.
+Por el Ministerio de Ultramar se comunica al Excmo. Sr. Gobernador general, con fecha 15 de Fe brero último, y bajo el número 434, la Real orden siguiente:
+«Excmo. Sr.:—Para la plaza de oficial tercero de la Intendencia general de Hacienda de la isla de Puerto Rico, vacante por pase á la de Cuba de don Angel Gálvez Amor, y dotada con el sueldo anual de 500 pesos y 750 de sobresueldo; el Rey (q. D. g.) y en su nombre la Reina Regente del Reino, ha tenido á bien trasladar á don Hilario González que con igual categoría y clase sirve en esa Isla.—De Real orden lo digo á V. E. para su conocimiento y demás efectos.»
+Y acordado por S. E. su cumplimiento en 3 del actual, de su orden se publica en la Gaceta de la Habana para general conocimiento.
+Habana, 10 de Marzo de 1896.
+El Secretario general,
+El Marqués de Palmerola.
+Gracia y Justicia.
+Por el Ministerio de Ultramar se comunica al Excmo. Sr. Gobernador general, con fecha 24 de Enero último, y bajo el núm. 82, la Real orden siguiente:
+«Excmo. Sr.:—El Rey (q. D. g.) y en su nombre la Reina Regente del Reino, se ha servido expedir el siguiente decreto:—A propuesta del Ministro de Ultramar, en nombre de Mi Augusto Hijo el Rey D. Alfonso XIII, y como Reina Regente del Reino, Vengo en nombrar en el turno primero de los establecidos en el artículo 45 de la ley adicional á la orgánica del Poder judicial, para la plaza de Magistrado de la Audiencia de la Habana, vacante por defunción de don Vicente Pardo Bonanza, que la desempeñaba, á don Agustín Isern y Sacristán, Magistrado, en comisión, de la de Manila, que reúne las circunstancias prevenidas en el artículo y ley mencionados. —Dado en Palacio á 24 de Enero de 1896.—María Cristina. t-E1 Ministro dé Ultramar, Tomás Castellano y Villarroya. —De Real orden lo comunico á V. E, para su conocimiento y demás efectos.»
+Y puesto el cúmplase por S. E. en 26 de Febrero último, de su orden se publica en la Gaceta de la Habana para general conocimiento.
+Habana, 9 de Marzo de 1896.
+El Secretario general,
+EL Marqués de Palmerola.
+Por el Ministerio de Ultramar, con fecha 24 de Enero último, y bajo el número 76, se comunica al Excmo. Sr. Gobernador general, la Real orden siguiente:
+«Excmo. Sr.:—El Rey (q. D. g.) y en su nombre la Reina Regente del Reino, se ha servido expedir el siguiente decreto:—A propuesta del Ministro de Ultramar, en nombre de Mi Augusto Hijo el Rey D. Alfonso XII, y como Reina Regente del Reino, Vengo en dejar sin efecto, de conformidad con lo que dispone el artículo 127 del Real decreto ley de 5 de Enero de 1891, Mi decreto de 8 de Noviembre del año último, por el que se nombraba para la plaza de Juez de primera instancia del distrito de la Catedral de la Habana, á don Paulino Navarro Gauzaraín.—Dado en Palacio á 24 de Enero de 1896.—María Cristina.—El Ministro de Ultramar, Tomás Castellano y Villarroya.—De Real orden lo comunico á V. E. para su conocimiento y demás efectos.»
+Y puesto el cúmplase por S. E. en 26 de Febrero último, de su orden se publica en la Gaceta de la Habana para general conocimiento.
+Habana, 9 de Marzo de 1896.
+El Secretario general,
+El Marqués de Palmerola.
+Por el Ministerio de Ultramar, con fecha 22 de Enero último, y bajo el número 74, se comunica al Excmo. Sr. Gobernador general, la Real orden que sigue:
+«Excmo. Sr.:—Con esta fecha digo al Presidente de la Audiencia de la Habana, lo siguiente:—Illmo. Sr.:—Vista la instancia presentada en este Ministerio por don Faustino Carrero, vecino de Madrid, á nombre y con poder de doña Amalia García Wilian y de don Manuel Fernández de la Reguera, propietaria y Administrador de un oficio de Procurador de los Juzgados de la Habana, que perteneció á don Estanislao Saiz, en solicitud de que se expidan á sus poderdantes las Reales confirmaciones de sus títulos provisionales de propietaria y Administrador del expresado oficio; considerando que se han cumplido las formalidades legales y solicitado en tiempo y forma hábiles; S. M. el Rey (q. D. g.) y en su nombre la Reina Regente del Reino, se ha servido disponer se expida á dichos interesados las Reales cédulas correspondientes, que se remitirán al Gobernador general de esa Isla tan pronto como se hallen requisitados.—Lo que de Real orden traslado á V. E. para su conocimimiento y demás efectos.»
+Y puesto el cúmplase por S. E. en 26 de Febrero último, de su orden se publica en la Gaceta de la Habana para general conocimiento.
+Habana, 11 de Marzo de 1896.
+El Secretario general,
+El Marqués de Palmerola.
+Agricultura, Industria v Comercio.
+Dada cuenta al Excmo. Sr. Gobernador general de la instancia de don Ramón Pérez Moreira, solicitando se le expida certificado de la inscripción de la marca para chocolate denominada «La Mariposa Gallega,» por haber sufrido extravío el expresado título; S. E. por acuerdo de 5 del actual, se ha servido disponer se publique por el término de 10 días, el extravío antes mencionado, á fin de que el que lo tenga en su poder lo entregue al interesado ó en este Gobierno general; en la inteligencia de que pasado ese plazo sin que así se verifique, quedará sin valor ni efecto alguno.
+Lo que de orden de S. E. se publica en la Gaceta de la Habana para general conocimiento.»
+Habana, 7 de Marzo de 1896.
+El Secretario general,
+El Marqués de Palmerola.
+Intendencia general de Hacienda.
+Por el Ministerio de Ultramar se comunica al Ex-I celentísimo Sr. Gobernador general con fecha 15 de Febrero último, y bajo el núm. 399, la Real orden siguiente:
+«Excmo. Sr.:—El Rey (q. D. g.) y en su nombre la Reina Regente del Reino, ha tenido á bien declarar cesante con el haber anual que por clasificación le corresponde á don Manuel Salgado y Rosendo, del destino de oficial segundo Vista de la Aduana de esa capital.—De Real orden lo digo á V. E. para su conocimiento y demás efectos.»
+Y puesto el cúmplase por S. E. con fecha 3 del actual, se publica en la Gaceta de la Habana para general conocimiento.
+Habana, 6 de Marzo de 1896.—Emilio Fagoaga.
+Por el Ministerio de Ultramar se comunica al Excmo. Sr. Gobernador general, con fecha 15 de Febrero último, y bajo el número 400, la Real orden siguiente:
+«Excmo. Sr.:—Para la plaza de oficial 2.° Vista de la Aduana de esa capital, vacante por cesantía de don Manuel Salgado, y dotada con el sueldo anual de 600 pesos y 900 de sobresueldo; el Rey (q. D. g.) y en su nombre la Reina Regente del Reino, ha tenido á bien nombrar por el turno cuarto á don Ramón Galán y Masedo, cesante de igual categoría y clase—De Rea orden lo digo á V. E. para su conocimiento y demás efectos.»
+Y puesto el cúmplase por S. E.‘fcon fecha 3 del actual, se publica en la Gaceta de la Habana para general conocimiento.
+Habana, 6 de Marzo de 1896.— Emilio Fagoaga.
+Por el Ministerio de Ultramar se comunica al Excmo. Sr. Gobernador general, con fecha 15 de Febrero último, y bajo el numero 408, la Real orden siguiente:
+«Excmo. Sr.:—El Rey (q. D. g.) y en su sombre la Reina Regente del Reino, ha tenido á bien declarar cesante con el haber que por clasificación le corresponde, á don Cándido Martínez Aramendia, del destino de oficial cuarto de la Administración de Hacienda de Santiago de Cuba.—De Real orden lo digo á V. E. para su conocimiento y demás efectos.»
+Y puesto el cúmplase por S. E. con fecha 3 del actual, se publica en la Gaceta de la Habana para general conocimiento.
+Habana, 6 de Marzo de 1896.—Emilio Fagoaga.
+Por el Ministerio de Ultramar se comunica al Excelentísimo Sr. Gobernador general, con fecha 15 de Febrero próximo pasado y bajo el número 409, la Real orden siguiente:
+«Excmo. Sr.:—Para la plaza de oficial cuarto de la Administración de Hacienda de Santiago de Cuba, en esa Isla, vacante por cesantía de don Cándido Martínez Aramendia, y dotada con el sueldo anual de 400 pesos y 600 de sobresueldo; el Rey (q. D. g.) y en su nombre la Reina Regente del Reino, ha tenido á bien nombrar por el turno cuarto á don Galo López Estrada, cesante de igual categoría y clase.—De Real orden lo digo á V. E. para su conocimiento y demás efectos.»
+Y puesto el cúmplase por S. E. con fecha 3 del actual, se publica en la Gaceta de la Habana para general conocimiento.
+Habana, 6 de Marzo de 1896.—Emilio Fagoaga.
+Por el Ministerio de Ultramar se comunica al Excmo. Sr. Gobernador general, con fecha 15 de Febrero próximo pasado y bajo el núm. 414, la Real orden siguiente:
+«Excmo. Sr.:—El Rey (q. D. g.) yen su nombre la Reina Regente del Reino, ha tenido á bien declarar cesante con el haber que por clasificación le corresponde á don Luis Martínez Zabalo, del destino de oficial cuarto Vista de la Aduana de esa capital.—De Real orden lo digo á V. E. para su conocimiento y demás efectos.»
+Y puesto el cúmplase por S. E. con fecha 3 del actual, se publica en la Gaceta de la Habana para general conocimiento.
+Habana, 6 de Marzo de 1896.—Emilio Fagoaga.
+Por el Ministerio de Ultramar se comunica al Excelentísimo Sr. Gobernador general con fecha 15 de Febrero último y bajo el número 415, la Real orden siguiente:
+«Excmo. Sr.:—Para la plaza de oficial cuarto Vis-
