@@ -13,6 +13,7 @@ There are a total of 53,903 page images contained in this dataset, and in our ca
 If you have feedback about this dataset and/or the way that it has been made available, please let us know!
 
 **File naming conventions**
+
 Each image has a unique file name, which provides information about its relationship to its collection and to other files in the collection.
 File names consist of five component parts:
 
