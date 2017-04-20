@@ -3,4 +3,4 @@ This repository is a pilot project of the University of Miami Libraries Digital 
 
 Our first dataset is from the newspaper [La Gaceta de la Habana](http://merrick.library.miami.edu/cubanHeritage/cubanlaw/lagaceta.php), the paper of record during the Spanish colonial occupation of Cuba in the nineteenth century.
 
-If you have feedback about this project, or any of the datasets, we welcome it -- either via GitHub issues or via [email](mailto:p.morgan@miami.edu).
+If you have feedback about this project, or any of the datasets, we welcome it -- either via GitHub issues or via [email](mailto:p.morgan@miami.edu;l.capell@miami.edu;edwilliams@miami.edu).
