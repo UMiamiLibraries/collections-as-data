@@ -1,9 +1,16 @@
+**Introduction**
+
 This dataset contains almost 50 years of issues of _La Gaceta de la Habana_, the paper of record during the Spanish colonial occupation of Cuba in the nineteenth century. The University of Miami Libraries [Cuban Heritage Collection](http://library.miami.edu/chc/) [received funding](https://library.miami.edu/blog/2015/04/02/chc-receives-funding-to-digitize-la-gaceta-de-la-habana/) to digitize its holdings of La Gaceta in 2015.
 
 We used optimal character recognition (OCR) to generate plain text to accompany the page scans -- and though the text for each page of the newspaper is available in our digital catalog, we wanted to make it easy for researchers to download the text in bulk for purposes of distant reading. 
 
 The OCR is imperfect -- nineteenth century newspapers were not printed with digital humanists in mind. However, our hope is that even imperfect OCR will allow scholars to explore the newspaper and find relevant information in ways that would not otherwise be possible.
 
+We hope to continue to improve the OCR by identifying patterns for errors that we can use a bulk find-and-replace to correct. If you notice consistent OCR errors, feel free to [let us know]('mailto:p.morgan@miami.edu') via email or GitHub issues.
+
+There are a total of 53,903 page images contained in this dataset, and in our catalog. This means that one complex aspect of working with the data (especially in tools like AntConc) is the filename for each page of text. With this large a dataset, generating separate human-readable names would be a challenge, and could cause confusion because each object (in this case, each page of the newspaper) also has a less intelligible filename in our catalog, consisting of a repository code and a string of numbers. Those filenames, however, are searchable within our Digital Collections. If you paste a filename number (i.e. 'chc99980004460001001') into the search field, either at the [La Gaceta Collection landing page](http://merrick.library.miami.edu/cubanHeritage/cubanlaw/lagaceta.php), you'll be able to retrieve the specific page, so that you can check the OCR against the original page image. We've included a guide to our filenaming conventions below.
+
+If you have feedback about this dataset and/or the way that it has been made available, please let us know!
 
 **File naming conventions**
 Each image has a unique file name, which provides information about its relationship to its collection and to other files in the collection.
