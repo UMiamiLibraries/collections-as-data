@@ -10,7 +10,7 @@ We hope to continue to improve the OCR by identifying patterns for errors that w
 
 There are a total of 53,903 page images contained in this dataset, and in our catalog. This means that one complex aspect of working with the data (especially in tools like AntConc) is the filename for each page of text. With this large a dataset, generating separate human-readable names would be a challenge, and could cause confusion because each object (in this case, each page of the newspaper) also has a less intelligible filename in our catalog, consisting of a repository code and a string of numbers. Those filenames, however, are searchable within our Digital Collections. If you paste a filename number (i.e. 'chc99980004460001001') into the search field, either at the [La Gaceta Collection landing page](http://merrick.library.miami.edu/cubanHeritage/cubanlaw/lagaceta.php), you'll be able to retrieve the specific page, so that you can check the OCR against the original page image. We've included a guide to our filenaming conventions below.
 
-If you have feedback about this dataset and/or the way that it has been made available, please let us know!
+If you have feedback about this dataset and/or the way that it has been made available, please let us know! This is an initial release -- we plan to continue improving this dataset (and to release others) in the future.
 
 **File naming conventions**
 
