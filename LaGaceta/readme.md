@@ -2,7 +2,7 @@
 
 This dataset contains almost 50 years of issues of _La Gaceta de la Habana_, the paper of record during the Spanish colonial occupation of Cuba in the nineteenth century. The University of Miami Libraries [Cuban Heritage Collection](http://library.miami.edu/chc/) [received funding](https://library.miami.edu/blog/2015/04/02/chc-receives-funding-to-digitize-la-gaceta-de-la-habana/) to digitize its holdings of La Gaceta in 2015.
 
-We used optimal character recognition (OCR) to generate plain text to accompany the page scans -- and though the text for each page of the newspaper is available in our digital catalog, we wanted to make it easy for researchers to download the text in bulk for purposes of distant reading. 
+We used optical character recognition (OCR) to generate plain text to accompany the page scans -- and though the text for each page of the newspaper is available in our digital catalog, we wanted to make it easy for researchers to download the text in bulk for purposes of distant reading. 
 
 The OCR is imperfect -- nineteenth century newspapers were not printed with digital humanists in mind. However, our hope is that even imperfect OCR will allow scholars to explore the newspaper and find relevant information in ways that would not otherwise be possible.
 
@@ -23,30 +23,32 @@ File names consist of five component parts:
 4)	Sequence:	chc9998000001**0001**001
 5)	Detail/Format:	chc99980000010001**001**
 
+Each part of the file name provides information about the file:
+
 1) Repository – three-letter code which identifies the unit within UM Libraries where the source material is housed.  The most common codes are:
-asm = Special Collections
-asu = University Archives
+asm = Special Collections,
+asu = University Archives,
 chc = Cuban Heritage Collection
 
 2) Collection – four-digit sequence which identifies the larger collection to which the item belongs, such as a manuscript collection.  The collection number is provided by the custodial unit, and combined with the repository code, uniquely identifies each digital collection. 
 
-For example, **asm0341** is the code for the Pan American World Airways collection in Special Collections, and **chc9998** represents the CHC Periodicals collection in the Cuban Heritage Collection.
+  For example, **asm0341** is the code for the Pan American World Airways collection in Special Collections, and **chc9998** represents the CHC Periodicals collection in the Cuban Heritage Collection.
 
 3) Object – six-digit identifier assigned sequentially to each distinct bibliographic or intellectually discreet item. 
 
-For example, a book has many pages, but it is one object, and therefore has one object number.
+  For example, a book has many pages, but it is one object, and therefore has one object number.
 
-Because none of these collections contains more than 10,000 items, the object number will always begin with at least one zero.
+  Because none of these collections contains more than 10,000 items, the object number will always begin with at least one zero.
 
 4) Sequence – four-digit identifier assigned sequentially to each distinct page, leaf, side, or view of an object.  The order of the sequence number corresponds to the order of the pages in the original object.
 
-For example, object chc9998000301 is a volume of a newspaper, with many pages. The first page would be assigned sequence 1 (chc9998000301**0001**…), the second page would be sequence 2 (chc9998000301**0002**…), and so on.
+  For example, object chc9998000301 is a volume of a newspaper, with many pages. The first page would be assigned sequence 1 (chc9998000301**0001**…), the second page would be sequence 2 (chc9998000301**0002**…), and so on.
 
-Because no item in these collections has more than 1,000 pages, the sequence number will always begin with at least one zero.
+  Because no item in these collections has more than 1,000 pages, the sequence number will always begin with at least one zero.
 
 5) Detail/Format – three-digit sequence indicating a more specific view of an image, or a file format different from the archival standard.
 
-For all items provided here, the detail/format number will be “001”.
+  For all items provided here, the detail/format number will be “001”.
 
 **Example:**
 
@@ -54,7 +56,7 @@ asm03410002100016001
 
 1)	Repository:	**asm**03410002100016001 (Original object housed at UM Special Collections)	
 2)	Collection:	asm**0341**0002100016001 (Part of collection ASM0341, Pan American World Airways Collection)
-3)	Object:	asm0341**0002**100016001 (Object number 210 within this collection)
+3)	Object:	asm0341**000210**0016001 (Object number 210 within this collection)
 4)	Sequence:	asm0341000210**0016**001 (Page 16 within this object) 
 5)	Detail/Format:	asm03410002100016**001** (Detail/format is always 001)
 
