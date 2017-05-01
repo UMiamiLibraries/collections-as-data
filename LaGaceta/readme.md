@@ -1,6 +1,6 @@
 **Introduction**
 
-This dataset contains almost 50 years of issues of _La Gaceta de la Habana_, the paper of record during the Spanish colonial occupation of Cuba in the nineteenth century. The University of Miami Libraries [Cuban Heritage Collection](http://library.miami.edu/chc/) [received funding](https://library.miami.edu/blog/2015/04/02/chc-receives-funding-to-digitize-la-gaceta-de-la-habana/) to digitize its holdings of La Gaceta in 2015.
+This dataset contains almost 50 years of issues of _La Gaceta de la Habana_, the paper of record during the Spanish colonial occupation of Cuba in the nineteenth century. The University of Miami Libraries [Cuban Heritage Collection](http://library.miami.edu/chc/) [received funding](https://library.miami.edu/blog/2015/04/02/chc-receives-funding-to-digitize-la-gaceta-de-la-habana/) from the Latin American Materials Project (LAMP) and the Latin Americanist Research Resources Project (LARRP), both administered by the Center for Research Libraries, to digitize its holdings of La Gaceta in 2015.
 
 We used optical character recognition (OCR) to generate plain text to accompany the page scans -- and though the text for each page of the newspaper is available in our digital catalog, we wanted to make it easy for researchers to download the text in bulk for purposes of distant reading. 
 
