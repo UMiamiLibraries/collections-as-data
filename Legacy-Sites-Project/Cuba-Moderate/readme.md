@@ -10,5 +10,4 @@ This data set could be adapted for courses focused on the Digital Humanities, La
 Users can create projects using TimelineJS, ArcGIS, etc. Geographic locations are included in the dataset. 
 If the dataset is re-used in any form, please credit Holly Ackermann, PhD.
 
-If you have feedback about this dataset and/or the way that it has been made available, please let us know! This is an initial release -- we plan to continue improving this dataset (and to release others) in the future.
-
+Please let us know if you have feedback or suggestions about this dataset and/or the way that it has been made available.
