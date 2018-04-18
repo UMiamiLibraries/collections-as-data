@@ -1,7 +1,6 @@
 
 **Bibliography of Moderate Cuban Politics, 1952-1965 Legacy Site.**
 <br/>
-
 The Bibliography of Moderate Cuban Politics, 1952-1965 legacy site was created by Holly Ackermann, PhD in 2004 at the University of Miami Libraries. The creation of this bibliography was generously supported by the Andrew W. Mellon Foundation Post-doctoral Fellowship in Latin American Research Librarianship at Perkins Library, Duke University during 2000-2001.
 The bibliography includes 271 annotated primary and secondary resources related to events, groups and individuals that advocated the return to democratic process. The data set includes information on archives, magazines/journals, memoirs and bibliographies, microfilm, monographs, newspapers, periodiquitos, pamphlets, and other references on moderate politics in Cuba. Please note that this is not a comprehensive bibliography of moderate Cuban politics. 
 <br/>
