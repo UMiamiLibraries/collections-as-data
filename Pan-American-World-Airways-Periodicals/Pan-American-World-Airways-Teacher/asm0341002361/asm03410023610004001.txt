@@ -1,0 +1,32 @@
+﻿Page 2
+PARIS
+FROBISHER
+BAY
+GANDER
+SEATTLE
+) BOSTON NEW YORK
+SAN FRANCISCO
+PHILADELPHIA
+CHICAGO
+LOS ANGELES
+WORLD AIRWAYS TEACHER
+STUDY UNIT
+long distances involved, especially when it would have to be over such forbidding territory as the ice- and snow-covered Frigid Zone.
+But establishment of service from New York to Europe furnished an example of great circle flying. Originally accomplished with flying boats (Atlantic Clipper, Dixie Clipper, etc.), the route went by way of She-diac, New Brunswick and Shediac, Newfoundland. Lindbergh, ten years earlier, had flown to Paris on a route which took him over St. John’s, Newfoundland.
+When the Atlantic operation was changed over to land planes, after World War II, the aircraft no longer required harbors, but instead needed airports, and the new route was New York to Gander (with an alternate airport at Goose Bay), to Shannon, and on to London and Paris.
+Passengers traveling via Shediac and Bot-wTood, and later via Gander, sometimes expressed surprise that the Clippers “travel so far north” to proceed eastward to London or Paris. They were the victims of misconceptions which arose from looking at maps of the world drawn on the Mercator’s Projection. When they had an opportunity to look for the New York-Gander-Europe route on a globe they found that the Clippers were traveling in a straight line to Shannon, or to London or Paris — actually a curved line since it necessarily followed the contour of the earth’s surface.
+In using this study unit, do the same as the passengers did — look up the route on a globe, and note that whether you are going via St. John’s, like Lindbergh, or via Botwood or Gander, like the Clippers, you will be using a route much shorter than the one that would seem to be the shortest distance on a Mercator map.
+In defense of the Flemish geographer, Gerhard Mercator, who devised Mercator’s Projection in the Sixteenth Century, it must be pointed out that his map, with parallels and meridians crossing at right angles, was of great value to the early navigators, making their task easier and surer. But w'hen it is used to represent the whole world, it does not give a true picture of the land and water areas of the world, and in fact, this can not be done on a flat surface. For a true representation of the entire world, a globe is needed.
+The “Short Cut Route” to Europe flown by Clippers is called the Polar Route, because it goes by way of the Polar Region. No great circle arc connecting cities of the wrorld which it is important to connect by scheduled air line is so located as to pass directly over the North Pole. But this is of minor importance. Since the North Pole is located in the middle of the Arctic Circle and the pack ice covering it is the same as the pack ice for miles around, and since it can’t be located by watching for it, but only by means of navigational techniques, about the only reason for going there is to be able to say that you have been there.
+And that is why the Arctic explorers were determined to reach the North Pole. Their important scientific investigations could have been done with or without actually standing at the “top of the earth”, where every direction is south, but just the same, the thrill of standing there, or flying over it, was the big thrill of each expedition.
+ROUTE
+earth the equator is a great circle, so are all the meridians, and other great circles may be described starting at any point on the earth’s surface. Parallels of latitude, which are less in length than the equator, are not great circles.
+All this was well-known to the business men, engineers and pilots who began the development of world-wide scheduled air line service in the 1920’s. It was not of much consequence when Pan American World Airways began flying its first route, for this one, between Key West, Florida, and Havana, Cuba, was only 90 miles in length. It is still true that the shortest distance between Key West and Havana is the arc of a great circle, but the distance is so short that it is not necessary to plot it on a globe or on a map drawn on the gnomonic projection.
+But when longer routes were to be established, the consideration became increasingly important, and especially when service began across the Pacific to Honolulu — a flight of 2400 miles, and from New York to Paris and London — which are even longer flights when undertaken non-stop.
+It was recognized all along that some major air routes, when plotted as arcs of great circles, would take the aircraft through the Polar Region. But the earlier aircraft did not have sufficient range to enable them to fly the
+POLAR
+The shortest route from the Pacific Coast of the United States to Europe is via the Polar Region.
+This is not apparent on a world map drawn upon Mercator’s Projection, which gives the impression that such a route would consist of a loop to the north. It is better represented by the azimuthal equi-distant project centered upon the north pole, which is the projection used for the route map on this page. Still better for showing this, or ai|y other “great circle” route is the gnomonic projection, chief virtue of which is that it does show great circles as straight lines — it is a strangely distorted map which is of little practical use for other purposes.
+Best of all for laying out the shortest route from Los Angeles, San Francisco and Seattle to London and Paris is a world globe. To locate the arc of the great circle which represents the shortest distance between California and England, stretch a piece of string across the curve of the globe, one end on California, the other on England. That is the most direct route, and it is the arc of a great circle.
+A great circle is demonstrated mathematically by passing a plane through the center of a sphere — where the plane intersects the surface of the sphere there is a great circle.
+It is the largest circle on a sphere — on the
