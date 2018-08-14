@@ -3,7 +3,13 @@ This dataset contains short newsletters created and published by Pan American Wo
 This release includes Vols. 4-15 of Pan American World Airways Teacher (1948-1959), and thirteen of the "By Flying Clipper" series, also published during the 1950s. In total, there are 910 pages of text available for download. We have also included a file roster in CSV format, listing each file ID along with its metatdata.
 
 **Potential Starting Points**
-COMING SOON.
+If you're new to text mining or distant reading, [Heather Froehlich's AntConc tutorial at the Programming Historian](https://programminghistorian.org/en/lessons/corpus-analysis-with-antconc) is an excellent introduction.
+
+This release of periodicals provides opportunities to see what Pan Am writers (and implicitly, their readers) thought of as innovative technological breakthroughs. Try looking for terms like "new" and "modern," or "hours", "miles", or "distance" to find mentions of the faster travel times that Pan Am made possible.
+
+The Pan Am World Airways Teacher series also provides a glimpse into travel and tourism-oriented discourse about culture, with potential to illuminate examples of colonial discourse, and discourse that constructs (white) American and European characteristics. Try looking at the collocates (terms that appear in close proximity to a given word) for "men" and "women", as well as for terms like "culture"/"cultural", and "eastern", "oriental", "western", and "native". Descriptors such as "european" and "south american" may also be illuminating -- though searching for "american" returns results involving "pan american airlines", rather than specifically about American culture. Using "americans" may be a more effective way to examine content that is about American travelers and tourists.
+
+Finally, adjectives that imply value judgments can often be useful starting points to understand how societies and cultures were being constructed for various audiences (in this case, for children). Look for terms like "exciting", "serious", "dignified", "friendly", "happy", "sad", etc. In this regard, the Kwic (keyword in context) sorting available in AntConc's Concordance view may be useful, since it allows users to see who is being portrayed as happy, friendly, etc.
 
 **Data Creation Process**
 
