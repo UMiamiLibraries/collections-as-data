@@ -3,6 +3,7 @@ This dataset contains short newsletters created and published by Pan American Wo
 This release includes Vols. 4-15 of Pan American World Airways Teacher (1948-1959), and thirteen of the "By Flying Clipper" series, also published during the 1950s. In total, there are 910 pages of text available for download. We have also included a file roster in CSV format, listing each file ID along with its metatdata.
 
 **Potential Starting Points**
+
 If you're new to text mining or distant reading, [Heather Froehlich's AntConc tutorial at the Programming Historian](https://programminghistorian.org/en/lessons/corpus-analysis-with-antconc) is an excellent introduction.
 
 This release of periodicals provides opportunities to see what Pan Am writers (and implicitly, their readers) thought of as innovative technological breakthroughs. Try looking for terms like "new" and "modern," or "hours", "miles", or "distance" to find mentions of the faster travel times that Pan Am made possible.
