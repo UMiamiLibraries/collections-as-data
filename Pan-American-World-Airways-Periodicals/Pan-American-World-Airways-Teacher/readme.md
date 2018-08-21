@@ -25,7 +25,7 @@ One complex aspect of working with this data (especially in tools like [AntConc]
 
 If you have feedback about this dataset and/or the way that it has been made available, please let us know! This is our second release in our Collections as Data project -- we plan to continue improving this dataset (and to release others) in the future, and we are happy to have feedback that might shape our practices and workflows.
 
-**File naming conventions**
+**File Naming Conventions**
 
 Each image has a unique file name, which provides information about its relationship to its collection and to other files in the collection. File names consist of five component parts:
 
