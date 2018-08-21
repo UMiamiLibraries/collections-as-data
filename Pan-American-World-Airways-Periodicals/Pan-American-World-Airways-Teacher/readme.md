@@ -1,3 +1,6 @@
+
+**Introduction**
+
 This dataset contains short newsletters created and published by Pan American World Airways for use in classroom settings. There are two main series. "Pan American World Airways Teacher" was published quarterly, and contained collections of stories about various locations that the airline included in its itineraries. "By Flying Clipper..." collected stories related to a particular location (featured locations include Alaska, Germany, Japan, and Peru.)
 
 This release includes Vols. 4-15 of Pan American World Airways Teacher (1948-1959), and thirteen of the "By Flying Clipper" series, also published during the 1950s. In total, there are 910 pages of text available for download. We have also included a file roster in CSV format, listing each file ID along with its metatdata.
