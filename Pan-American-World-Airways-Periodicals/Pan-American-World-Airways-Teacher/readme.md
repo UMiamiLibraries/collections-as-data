@@ -29,11 +29,16 @@ If you have feedback about this dataset and/or the way that it has been made ava
 
 Each image has a unique file name, which provides information about its relationship to its collection and to other files in the collection. File names consist of five component parts:
 
-Repository:	chc99980000010001001
-Collection:	chc99980000010001001
-Object:	chc99980000010001001
-Sequence:	chc99980000010001001
-Detail/Format:	chc99980000010001001
+Repository:	**chc**99980000010001001
+
+Collection:	chc**9998**0000010001001
+
+Object:	chc9998**000001**0001001
+
+Sequence:	chc9998000001**0001**001
+
+Detail/Format:	chc99980000010001**001**
+
 Each part of the file name provides information about the file:
 
 Repository – three-letter code which identifies the unit within UM Libraries where the source material is housed. The most common codes are: asm = Special Collections, asu = University Archives, chc = Cuban Heritage Collection
